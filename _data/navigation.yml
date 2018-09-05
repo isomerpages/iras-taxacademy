@@ -1,0 +1,37 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/overview/
+  sub-links:
+  - title: Overview
+    url: /who-we-are/overview/
+  - title: Board of Directors
+    url: /who-we-are/board-of-directors/
+  - title: Curriculum and Exam Development Committee
+    url: /who-we-are/curriculum-and-exam-development-committee/
+  - title: Partners
+    url: /who-we-are/partners/
+  - title: Trainers
+    url: /who-we-are/trainers/
+- title: Programmes
+  url: /executive-tax-programmes/tax-training-roadmap/
+  sub-links:
+  - title: Tax Training Roadmap
+    url: /executive-tax-programmes/tax-training-roadmap/
+  - title: Income Tax
+    url: /executive-tax-programmes/income-tax/
+  - title: Customised Programmes
+    url: /executive-tax-programmes/customised-programmes/
+- title: Seminars/Conferences
+  url: /seminars-and-conferences/upcoming/
+  sub-links:
+  - title: Upcoming
+    url: /seminars-and-conferences/upcoming/
+  - title: Past
+    url: /seminars-and-conferences/past/
+- title: Contact Us
+  url: /contact-us/
