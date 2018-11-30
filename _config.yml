@@ -18,8 +18,8 @@ title-abbreviated: Tax Academy Singapore
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tax Academy of Singapore is a not-for-profit institution set up by the Inland Revenue Authority of Singapore in collaboration with the international accounting firms - Deloitte & Touche, Ernst & Young, KPMG and PricewaterhouseCoopers, the Institute of Singapore Chartered Accountants and the Law Society of Singapore
-baseurl: "/isomerpages-taxacademy" # the subpath of your site, e.g. /blog
-url: "https://isomerpages.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
