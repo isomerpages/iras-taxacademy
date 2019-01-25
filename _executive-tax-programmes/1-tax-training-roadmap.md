@@ -12,7 +12,7 @@ Expected outcomes after completing the programmes:
 
 ### **Level 1**
 
-Students will achieve a good appreciation of basic tax principles and tax laws, and be able to apply these principles in daily tax work.
+*Students will achieve a good appreciation of basic tax principles and tax laws, and be able to apply these principles in daily tax work.*
 
 ##### **Income Tax**
 
