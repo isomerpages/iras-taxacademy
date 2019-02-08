@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: 2018
+title: "2018"
 permalink: /seminars-and-conferences/past/
 breadcrumb: Past Seminars and Conferences - 2018
 collection_name: seminars-and-conferences
