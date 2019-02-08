@@ -33,4 +33,4 @@ The workshop will feature practical examples illustrating the use of ASK to main
 
 Closing date for registration is **14 Sep**, or when seminar is fully subscribed.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScccIX23UDQywGyRXzJOZO5G4lnaUAyiO8-dVasrionHHanKg/closedform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP-L1-Income-Tax-2-2018_programme.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScccIX23UDQywGyRXzJOZO5G4lnaUAyiO8-dVasrionHHanKg/closedform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP-L1-Income-Tax-2-2018_programme.pdf" | absolute_url }}){:target="_blank"}Contact Us [website link](https://www.taxacademy.sg/contact-us.html)
