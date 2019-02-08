@@ -4,9 +4,10 @@ title: "2018"
 permalink: /seminars-and-conferences/past/
 breadcrumb: Past Seminars and Conferences - 2018
 collection_name: seminars-and-conferences
+second_nav_title: "Past Seminars and Conferences"
 ---
 
-### **Past Seminars/Conferences - Testing**
+### **Past Seminars/Conferences**
 
 ##### **FasTax Series: Fundamentals of GST Filing**
 
