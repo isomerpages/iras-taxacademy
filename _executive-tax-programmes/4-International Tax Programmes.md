@@ -1,11 +1,3 @@
-
-layout: leftnav-page-content
-title: International Tax Programmes
-permalink: /executive-tax-programmes/4-International Tax Programmes
-breadcrumb: International Tax Programmes
-collection_name: executive-tax-programmes
----
-
 Tax Academy collaborates with leaders in the industry, academia and the government to develop and deliver structured tax training programmes that effectively raise the professional competency, knowledge and capabilities of the tax community.
 
 ### **Executive Tax Programme Level I (International Tax)**
