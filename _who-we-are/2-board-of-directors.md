@@ -20,7 +20,9 @@ Mr Ong was appointed to the boards of United Overseas Bank in Singapore and Mala
 
 **Mr Chiu Wu Hong** <br>
 Head of Tax <br>
-KPMG Singapore
+KPMG Singapore <br>
+
+Wu Hong has over 20 years of Singapore and regional tax experience in the areas of tax incentive applications, cross-border transactions, merger and acquisitions, tax compliance, consulting and planning for local and multinational companies, as well as consulting for the public sector. In his role as Head of Enterprise, Wu Hong focuses on advising innovative start-ups, large local businesses and helping family businesses to grow. He has contributed articles in academic journals and leading business publications. He is also a regular speaker at seminars and has provided comments and articles on Tax and Enterprise related issues to the media. <br>
 
 **Mrs Eng-Tay Geok Lee** <br>
 Chief Executive Officer <br>
