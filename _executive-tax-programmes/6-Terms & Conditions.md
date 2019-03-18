@@ -1,1 +1,104 @@
 
+---
+layout: leftnav-page-content
+title: Terms and Conditions
+permalink: /executive-tax-programmes/Terms-and-Conditions/
+breadcrumb: Terms and Conditions
+collection_name: executive-tax-programmes
+---
+
+# **Terms and Conditions**
+
+**1. Registration**
+
+1.1 Participants may apply for the course online or via email.
+
+1.2 All applications for Level I and II courses are subject to confirmation. Successful applicants will receive an email at least 1 week before the commencement of the course.
+
+1.3 All applications for Level III courses are subject to shortlisting. For full programme registration, participants will be notified of their application outcome 1 month before the commencement of the course. For modular registration, participants will be notified
+approximately 3 weeks before the commencement of the module.
+
+**2. Attendance**
+
+2.1 Participants have to register their attendance for every lesson they attend.
+
+2.2 Participants need to achieve a per unit module attendance of at least 60% (rounded up to the nearest session) in order to sit for the written assessment (i.e. assignment/exam).
+
+2.3 For the Advanced Tax Programme, modules 1, 3 and 9 consist of 2 units each. The minimum attendance requirement will apply to each unit (i.e. ATP101, ATP102, ATP104, ATP105, ATP111 and ATP112).
+E.g. If the unit consists of 6 lessons, participants have to attend at least 4 lessons (60% of 6 sessions rounded up to nearest session) to fulfill the minimum attendance requirement to attempt the written assessment.
+
+2.4 There is no exemption for attendance.
+
+**3. Replacement of missed classes**
+
+3.1 There will be no replacement lessons.
+
+**4. Recording**
+
+4.1 No audio or video recording is allowed during class.
+
+**5. Course cancellation/changes**
+
+5.1 Tax Academy’s course schedules, course trainer, course fees and course availability are subject to change.
+
+5.2 Tax Academy reserves the right to cancel or postpone any course at short notice. In the event that the participant’s chosen course is cancelled prior to its commencement, Tax Academy will make a full refund of course fees paid by the participant.
+
+**6. Reschedule of exams**
+
+6.1 Rescheduling of exam is subject to approval on a case-by-case basis. Participants should inform the Programme Executive via email and attach the supporting documents (e.g.medical certificate, letter from supervisor or e-ticket for business travel).
+
+6.2 For Level I and II courses, participants will sit for the exam with the next intake, if the application to reschedule exam is approved.
+
+6.3 For Level III courses, the new exam date will be determined by Tax Academy, after the original exam has taken place, if the application is approved.
+
+**7. Re-sit of exams**
+
+7.1 Participants who fail the exam can apply to re-sit for the exam by completing the exam registration form.
+
+7.2 A maximum of two re-sits will be allowed for each course (Level I and II) /module (Level III).
+
+**8. Deferment of module**
+
+8.1 Deferment of module to the next intake (applicable to Level III courses only) is subject to approval on a case-by-case basis. Participants should write to the Programme Executive at least 2 weeks before the course commencement date.
+
+**9. Course fees**
+
+9.1 Acceptable modes of payment are as follows:
+- Internet banking/Bank transfers/GIRO/Paynow
+- Telegraphic Transfer (Participant to bear all bank charges)
+
+9.2 Payment is to be made within 14 days from date of invoice or before the commencement of the course, whichever is earlier.
+
+9.3 Course fees are non-refundable upon issuance of invoice.
+
+9.4 Receipt will be issued upon request.
+
+**10. Certificates/Letter of Completion/Transcript**
+
+10.1 For tax courses with examinations, hardcopy certificates of achievement/transcript will be
+issued to participants.
+
+10.2 For tax courses without examinations, hardcopy certificate of completion will be issued.
+
+**11. Administrative fee**
+
+11.1 The following items are subject to an administrative fee of $53.50 (GST inclusive) each:
+- Course materials
+- Rescheduling of exam
+- Re-sit of exam
+- Duplicate hardcopy of Certificate of Achievement (with grading)
+- Deferment of course/module
+
+**12. Withdrawal from course**
+
+12.1 Withdrawal from course is not allowed upon receipt of payment. Instead, participants may either:
+- Defer enrolment to the next intake, subject to approval or;
+- Nominate a replacement prior to course commencement.
+
+12.2 For Level III courses, participants who withdrew will bear a cancellation fee of:
+- $53.50, if cancellation notice is given more than 14 days before course starts; or
+- 20% of course fees, for cancellation notice given within 14 days of course commencement
+
+**13. Continuing Professional Education (CPE)**
+
+13.1 CPE letter will be issued upon request at the end of each module or programme.
