@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Goods and Services Tax
-permalink: /executive-tax-programmes/goods-and-services-tax/
-breadcrumb: Goods and Services Tax
+title: International Tax
+permalink: /executive-tax-programmes/international-tax/
+breadcrumb: International Tax
 collection_name: executive-tax-programmes
 ---
 
