@@ -10,7 +10,6 @@ locations:
   # HQ Address [REQUIRED]
   - title: Tax Academy of Singapore 
     address: 55 Newton Road <br>#B1-01 <br>Singapore 307987
-    find-directions: https://www.google.com.sg/maps/place/Professional+Engineers/@1.3334493,103.7411252,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1912b8f886bf:0xe63d92beb4a91396!8m2!3d1.3334493!4d103.7433193
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
@@ -23,15 +22,10 @@ locations:
 
 # Contact Us
 column:
-  - title: General Enquiries & Feedback
+  - title: General Enquiries
     content:
-    - line: +65 6334 2310
-    - line: registrar@peb.gov.sg (email)
+    - line: tax_academy@iras.gov.sg (email)
     # If you have an email, put (email) after the actual email
-
-  - title: FEmail
-    content:
-    - line: +65 6334 2347
 
 # Image
 image-url:
