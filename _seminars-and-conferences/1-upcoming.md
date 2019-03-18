@@ -22,15 +22,13 @@ Terms and Conditions:
 ---
 
 ### **Upcoming Seminars/Conferences**
-##### **FASTAX SERIES: GST ASK - A SELF-HELP TOOL FOR GST COMPLIANCE**
-**28 Sep 2018 14:00 to 17:00 Revenue House Discovery Room**
+##### **BUDGET SEMINAR 2019**
+**5 Apr 2019 14:00 to 16:30 NTUC Business Center Auditorium**
 
-Do you wish to manage your GST-registered business' GST risks and avoid common GST errors?
+Budget 2019 continues Singapore’s push in research, innovation and enterprise to transform and build a vibrant economy and global city. Join us at this Budget Seminar to hear from experts from MOF, IRAS and the industry, as they share insights on how Budget 2019 builds on tax policy changes made in the past Budgets, readies businesses for the impact of technologies and digitalisation and strengthens Singapore’s position as a Global-Asia node.
 
-Then join us for this half day workshop where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner.
+Seminar fees: $139.10 (incl. GST)
 
-The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
+Closing date: 29 Mar 19. Seats on a first-come-first-served basis, upon full payment.
 
-Closing date for registration is **14 Sep**, or when seminar is fully subscribed.
-
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScccIX23UDQywGyRXzJOZO5G4lnaUAyiO8-dVasrionHHanKg/closedform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP-L1-Income-Tax-2-2018_programme.pdf" | absolute_url }}){:target="_blank"}Contact Us [website link](https://www.taxacademy.sg/contact-us.html)
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdpoeCKiTnRLpRKESVLwqx_V1hE-NoRg_5wMtn9xPsHOSLgrg/viewform){:target="_blank"} - [Details]({{"/files/Seminars Brochures/BudgetSeminar_Agenda_Website.pdf" | absolute_url }}){:target="_blank"}
