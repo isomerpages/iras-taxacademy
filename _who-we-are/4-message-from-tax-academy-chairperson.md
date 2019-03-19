@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Message from Tax Academy Board Chairperson
-permalink: /who-we-are/message from Tax Academy Board Chairperson/
+permalink: /who-we-are/message-from-tax-academy-board-chairperson/
 breadcrumb: Message from Tax Academy Board Chairperson
 collection_name: who-we-are
 ---
