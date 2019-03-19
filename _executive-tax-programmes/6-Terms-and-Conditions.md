@@ -1,4 +1,3 @@
-
 ---
 layout: leftnav-page-content
 title: Terms and Conditions
