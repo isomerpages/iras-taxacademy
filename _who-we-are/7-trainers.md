@@ -12,6 +12,7 @@ Our team of trainers include experts from IRAS, MOF, the international accountin
 
 
 
+
 >**Going Places in Tax**<br>
 CPA Australia and Tax Academy of Singapore are proud to present you a series of video interviews showcasing tax professionals who represent a spectrum of career stages and in various public and private sectors of the tax community. Get the inside track of the tax profession and the career opportunities.
 
@@ -20,7 +21,7 @@ In the tax world, laws continue to evolve with demographic changes, politics and
 
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/QpO_yCXvtR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      </div><br>
 
 
 **Going places in tax: Yong Sing Yuan - Make a positive impact in your career**<br>
