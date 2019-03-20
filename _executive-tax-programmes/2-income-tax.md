@@ -45,3 +45,5 @@ Registration is OPEN for Intake 14 Modules 2, 4, 5, 6, 7, 8 and 9.
 Registration for individual modules will close 1 month before the commencement of the module.
 
 The next intake for this course will be in Nov 2019.
+
+**Please read [Terms and Conditions](https://staging-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"}**
