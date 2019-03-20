@@ -11,12 +11,10 @@ Our team of trainers include experts from IRAS, MOF, the international accountin
 ![Image of Tax Academy trainers]({{"/images/trainers.png" | absolute_url}})
 
 
-
-**Going Places in Tax**
+**Going Places in Tax** <br>
 CPA Australia and Tax Academy of Singapore are proud to present you a series of video interviews showcasing tax professionals who represent a spectrum of career stages and in various public and private sectors of the tax community. Get the inside track of the tax profession and the career opportunities.
 
-
-**Going places in tax: Sharon Tan - Unlock your potential for a global career in tax**
+**Going places in tax: Sharon Tan - Unlock your potential for a global career in tax** <br>
 In the tax world, laws continue to evolve with demographic changes, politics and economics. Tax professionals embrace change, evolve with it and enjoy the experience. Hear the real life experience of Sharon Tan, Curriculum & Examination Development Committee Member with the Tax Academy of Singapore.
 
 <div class="bp-youtube">
@@ -25,8 +23,7 @@ In the tax world, laws continue to evolve with demographic changes, politics and
       <br>
 
 
-**Going places in tax: Yong Sing Yuan - Make a positive impact in your career**
-
+**Going places in tax: Yong Sing Yuan - Make a positive impact in your career** <br>
 Changes and developments in tax laws or policies can impact enterprises, individuals and the country’s economic competiveness. Hear real life experiences from Yong Sing Yuan, Group Tax Specialist (International Tax Branch) at the Inland Revenue Authority of Singapore (IRAS) as she shares her career journey in the government sector and her exciting role in helping to shape tax policy changes.
 
 <div class="bp-youtube">
