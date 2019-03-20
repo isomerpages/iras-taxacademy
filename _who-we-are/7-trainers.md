@@ -24,6 +24,7 @@ In the tax world, laws continue to evolve with demographic changes, politics and
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/QpO_yCXvtR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
+      <br>
 
 
 **Going places in tax: Yong Sing Yuan - Make a positive impact in your career**
