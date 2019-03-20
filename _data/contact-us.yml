@@ -16,8 +16,6 @@ locations:
         time: 8.30am - 12:30pm, 1:30pm to 6.00pm 
       - days: Fri
         time: 8.30am - 12:30pm, 1:30pm to 5.30pm 
-      - days: Sat
-        time: 8.30am - 12:30pm, 1:30pm to 5.30pm 
         description: Closed on Weekends and Public Holidays
 
 # Contact Us
@@ -26,6 +24,10 @@ column:
     content:
     - line: tax_academy@iras.gov.sg (email)
     # If you have an email, put (email) after the actual email
+
+- title: Join Mailing List
+By submitting your email address, you hereby agree that the Tax Academy of Singapore (TA) may collect, use and disclose your personal data that you provide in this Form for the purpose of sending you updates about the various events, programmes and related activities organised or co-organised by TA.
+Please [Click Here]( https://docs.google.com/forms/d/e/1FAIpQLScJNWH-DKKMJUnFC4Ws8Q6VM1Kei27PxeptOEhG8Ht0tTuIdA/viewform){:target="_blank"} to join Mailing List.
 
 # Image
 image-url:
