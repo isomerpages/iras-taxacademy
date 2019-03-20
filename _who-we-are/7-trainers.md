@@ -8,7 +8,7 @@ collection_name: who-we-are
 
 Our team of trainers include experts from IRAS, MOF, the international accounting firms, overseas and local universities and the industry
 
-![Image of Tax Academy trainers]({{"/images/trainers.png" | absolute_url}})
+![Image of Tax Academy trainers]({{"/images/trainers.png" | absolute_url}})<br>
 
 
 
@@ -29,7 +29,7 @@ Changes and developments in tax laws or policies can impact enterprises, individ
 
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/9gzxBNC3U8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      </div><br>
 
 
 **Going places in tax: Daniel Ho - Tax career opens door to a wealth of opportunities**<br>
@@ -37,7 +37,7 @@ As a tax professional, you get to work closely with a range of clients, develop 
 
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/QSfY13ArG1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      </div><br>
 
 
 **Going places in tax: Brendan Egan - How do you build a career in tax?**<br>
@@ -45,7 +45,7 @@ Give it a go, be prepared to invest because it is your career and your future,â€
 
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/NeoiQmAx9LE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      </div><br>
 
 
 **Going Places in Tax: Sim Siew Moon â€“ Be passionate about tax**<br>
@@ -53,4 +53,4 @@ Give it a go, be prepared to invest because it is your career and your future,â€
 
 <div class="bp-youtube">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/9o5CsFuKUzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      </div><br>
