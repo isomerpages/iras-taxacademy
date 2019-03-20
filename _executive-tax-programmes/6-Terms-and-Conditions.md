@@ -6,8 +6,6 @@ breadcrumb: Terms and Conditions
 collection_name: executive-tax-programmes
 ---
 
-# **Terms and Conditions**
-
 **1. Registration**
 
 1.1 Participants may apply for the course online or via email.
