@@ -29,9 +29,12 @@ key-highlights:
 button:
   - text: Learn More
     url: /who-we-are/overview/
-
-# Resources Section
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resources/
+    
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: SMU-TA Centre for Excellence in Taxation
+    section-description: SMU-TA CET is the first tax research centre in Singapore. The centre undertakes multidisciplinary research on international taxation, from legal, economic and public policy perspectives, with focus on Asian economies and tax systems.
+    section-more-button: Find Out More
+    section-more-button-url: https://accountancy.smu.edu.sg/cet
+    section-image-path: /images/SMU-TA Centre for Excellence in Taxation logo-V.png
