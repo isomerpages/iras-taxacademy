@@ -32,4 +32,4 @@ Seminar fees: $139.10 (incl. GST)
 
 Closing date: 29 Mar 19. Seats on a first-come-first-served basis, upon full payment.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdpoeCKiTnRLpRKESVLwqx_V1hE-NoRg_5wMtn9xPsHOSLgrg/viewform){:target="_blank"} - [Details]({{"/files/Seminars Brochures/BudgetSeminar_Agenda_Website.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdpoeCKiTnRLpRKESVLwqx_V1hE-NoRg_5wMtn9xPsHOSLgrg/viewform){:target="_blank"} - [Details]({{"/files/seminars-brochures/BudgetSeminar_Agenda.pdf" | absolute_url }}){:target="_blank"}
