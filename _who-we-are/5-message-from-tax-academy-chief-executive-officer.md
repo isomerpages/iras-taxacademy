@@ -6,13 +6,10 @@ breadcrumb: Message from Tax Academy Chief Executive Officer
 collection_name: who-we-are
 ---
 
-# **Mrs Eng-Tay Geok Lee**
-### Chief Executive Officer
-#### Tax Academy of Singapore
-
+###**Mrs Eng-Tay Geok Lee**
+**Chief Executive Officer**
 
 Tax has grabbed the global headlines and agenda in the recent times. The global tax environment will become increasingly complex. It is imperative for tax professionals and tax practitioners to continue to grow and enhance their competency to meet these growing challenges. Business leaders, too, will find a need to apprise themselves of tax and the impact on their businesses.
-
 
 > *Tax Academy offers a comprehensive tax education program on Singapore Tax, one that builds tax competency from foundational to the advanced level.*
 
