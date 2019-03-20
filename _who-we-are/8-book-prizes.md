@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Book Prizes
-permalink: /who-we-are/Book Prizes/
+permalink: /who-we-are/book-prizes/
 breadcrumb: Book Prizes
 collection_name: who-we-are
 ---
