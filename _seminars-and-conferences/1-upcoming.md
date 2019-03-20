@@ -6,7 +6,6 @@ breadcrumb: Upcoming Seminars and Conferences
 collection_name: seminars-and-conferences
 ---
 
-[Budget Seminar](/seminars-brochures/BudgetSeminar_Agenda.pdf)
 
 > Tax Academy creates opportunities for tax professionals to be updated on global tax developments through seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
 
@@ -32,4 +31,5 @@ Seminar fees: $139.10 (incl. GST)
 
 Closing date: 29 Mar 19. Seats on a first-come-first-served basis, upon full payment.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdpoeCKiTnRLpRKESVLwqx_V1hE-NoRg_5wMtn9xPsHOSLgrg/viewform){:target="_blank"} - [Details]({{"/seminars-brochures/BudgetSeminar_Agenda.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdpoeCKiTnRLpRKESVLwqx_V1hE-NoRg_5wMtn9xPsHOSLgrg/viewform){:target="_blank"} - [Brochure](/seminars-brochures/BudgetSeminar_Agenda.pdf)
+
