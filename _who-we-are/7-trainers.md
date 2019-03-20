@@ -12,7 +12,7 @@ Our team of trainers include experts from IRAS, MOF, the international accountin
 
 
 
-**Going Places in Tax**<br>
+###**Going Places in Tax**<br>
 CPA Australia and Tax Academy of Singapore are proud to present you a series of video interviews showcasing tax professionals who represent a spectrum of career stages and in various public and private sectors of the tax community. Get the inside track of the tax profession and the career opportunities.
 
 **Going places in tax: Sharon Tan - Unlock your potential for a global career in tax**<br>
