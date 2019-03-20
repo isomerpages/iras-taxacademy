@@ -46,4 +46,4 @@ Registration for individual modules will close 1 month before the commencement o
 
 The next intake for this course will be in Nov 2019.
 
-**Please read [Terms and Conditions](https://staging-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"}** applicable for all courses and seminars.
+**Please read [Terms and Conditions](https://staging-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} applicable for all courses and seminars.**
