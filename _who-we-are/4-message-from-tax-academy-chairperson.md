@@ -6,7 +6,7 @@ breadcrumb: Message from Tax Academy Board Chairperson
 collection_name: who-we-are
 ---
 
-##### **Mr Ong Yew Huat**
+### **Mr Ong Yew Huat**
  **Board Chairperson**
 
 The Tax Academy is a premier tax centre and a strategic pillar of Singapore’s tax training infrastructure. Since its establishment in 2006,
