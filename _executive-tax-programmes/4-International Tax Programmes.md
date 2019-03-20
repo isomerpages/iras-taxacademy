@@ -17,6 +17,7 @@ This course will enable participants to acquire basic knowledge in tax treaties 
 [Registration Form](https://docs.google.com/forms/d/1TIyChQIw2jL8HX_JmnF9YwXwyhT6iN-RkOv4r1deYp0/edit){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/L1_ITP_1_2019_programme.pdf" | absolute_url }}){:target="_blank"}
 
 **Registration is OPEN for intake 1/2019**
+
 The next intake for this course will be in Nov 2019. Registration will open one month before the course commencement date.
 
 ### **Executive Tax Programme Level II (International Tax)**
@@ -26,6 +27,7 @@ This course provides in-depth knowledge in international tax principles and conc
 [Registration Form](https://docs.google.com/forms/d/1VNrPSkzxwHyq0a_ylg-QBb65tC-JHc77P4z6PGgIYc8/edit){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP-L1-Income-Tax-2-2018_programme.pdf" | absolute_url }}){:target="_blank"}
 
 **Registration is CLOSED for Intake 1/2018**
+
 The next intake for the course will be held in Oct 2019.
 
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
