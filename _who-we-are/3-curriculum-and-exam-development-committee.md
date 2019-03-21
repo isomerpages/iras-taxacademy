@@ -13,22 +13,22 @@ Professor of Accounting (Practice) <br>
 Singapore Management University
 
 #### **Members**
-Ms Chiam Yah Fang <br>
+**Ms Chow Wai Yee** <br>
 Assistant Commissioner <br>
 Inland Revenue Authority of Singapore
 
-**Mr Daniel Ho** <br>
-Director of Taxes <br>
-Deloitte & Touche LLP
+**Mr Eugene Gay** <br>
+Head of Tax, Asia Pacific <br>
+Marsh & McLennan Companies
+
+**Ms Mak Oi Leng** <br>
+Partner <br>
+KPMG Singapore
 
 **Associate Professor Poh Eng Hin** <br>
 Assistant Dean <br>
 Nanyang Technological University
 
-**Ms Sharon Tan** <br>
-Senior Director <br>
-Geography Tax Operations, Nike
-
-**Mr Tan Tay Lek** <br>
-Tax Partner <br>
-PricewaterhouseCoopers
+**Ms Sim Siew Moon** <br>
+Partner <br>
+Ernst & Young Solutions LLP
