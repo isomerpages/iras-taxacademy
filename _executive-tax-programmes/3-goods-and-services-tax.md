@@ -41,3 +41,5 @@ Registration may be for the full course or for specific modules. For the full co
 Registration is CLOSED for Intake 2018/19.
 
 The next intake for this course will be in Nov 2019.
+
+**Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
