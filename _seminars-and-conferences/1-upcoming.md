@@ -52,3 +52,4 @@ Closing date: 10 April 2019
 
 [Registration Form](https://docs.google.com/forms/d/1dF0atfMNehuiPShKu4AOY4HwKvn4KiAU4zRcCENkTRo/edit){:target="_blank"} - [Brochure](/seminars-brochures/TEI_US_TaxSeminar_2019.pdf)
 
+**Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
