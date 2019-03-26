@@ -38,7 +38,7 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd-tMEO_Sg1jWNLojF8Advggb7nn1pqMgTok-70Aa0gfSOuoQ/viewform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP(Intake 14) Info Package_v2.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP(Intake 14) schedule_v1.0.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd-tMEO_Sg1jWNLojF8Advggb7nn1pqMgTok-70Aa0gfSOuoQ/viewform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 14) Info Package_v2.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 14) schedule_v1.0.pdf" | absolute_url }}){:target="_blank"}
 
 Registration is OPEN for Intake 14 Modules 2, 4, 5, 6, 7, 8 and 9.
 
@@ -46,4 +46,4 @@ Registration for individual modules will close 1 month before the commencement o
 
 The next intake for this course will be in Nov 2019.
 
-**Please read [Terms and Conditions](https://staging-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} applicable for all courses and seminars.**
+**Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**

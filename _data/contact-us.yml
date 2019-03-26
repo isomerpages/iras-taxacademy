@@ -10,6 +10,7 @@ locations:
   
   - title: Tax Academy of Singapore 
     address: Revenue House, 55 Newton Road <br>#B1-01 <br>Singapore 307987
+    find-directions: https://www.google.com/maps/place/Revenue+House/@1.3195189,103.8399519,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19e7aa79e175:0x1423374becf8890f!8m2!3d1.3195135!4d103.8421406
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
