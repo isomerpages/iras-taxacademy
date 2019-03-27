@@ -10,6 +10,8 @@ collection_name: who-we-are
 
 ![Image of Tax Academy trainers]({{"/images/trainers.png" | absolute_url}})<br>
 
+![Image of Tax Academy trainers]({{"/images/trainer1.jpg" | absolute_url}})<br>
+
 
 
 
