@@ -39,5 +39,4 @@ Participant of the Singapore Tax Experience Programme for Government Officials
 <<<<<<< HEAD:_executive-tax-programmes/5-customised-programmes.md
 =======
 
-<div> <iframe width="560" height="315" src="https://www.youtube.com/embed/D3DuN8RdTkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <div>
 >>>>>>> master:_executive-tax-programmes/3-customised-programmes.md
