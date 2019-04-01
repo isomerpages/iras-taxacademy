@@ -24,18 +24,22 @@ collection_name: executive-tax-programmes
     <td>Sep: 27 (AM)<br>
     	  Oct: 07, 08, 14, 15, 16 (AM)<br>
         Exam - 15 Nov
+    </td> 
   </tr>
+  <tr>
      <td>Goods and Services Tax 1/2019</td>
     <td>May: 07, 13, 14 (AM), 21<br>
     	  Sep: 27 (AM)<br>
         Exam - 12 Jun 
-    </td> 
+     </td> 
   </tr>
   <tr>
     <td>Goods and Services Tax 2/2019</td>
     <td>Sep: 05, 12, 13 (AM), 18, 27 (AM)<br>
         Exam - 07 Oct
+    </td> 
   </tr>
+  <tr>
    <td>International Tax 1/2019</td>
     <td>May: 02 (AM), 03, 09, 10<br>
     </td> 
@@ -60,7 +64,9 @@ collection_name: executive-tax-programmes
     <td>Income Tax - Business and Corporate 2/2019</td>
     <td>Sep: 02, 03 (AM), 04, 09, 10, 11, 16, 17 (AM), 23, 24<br>
         Exam - 31 Oct
+    </td> 
   </tr>
+  <tr>
      <td>Goods and Services Tax 1/2019</td>
     <td>May: 08, 09, 10, 15, 16, 17, 23, 24, 27 (PM)<br>
         Exam - 13 Jun 
@@ -70,7 +76,9 @@ collection_name: executive-tax-programmes
     <td>Goods and Services Tax 2/2019</td>
     <td>Sep: 11, 12, 13, 18, 19, 20, 25, 26, 27 (PM)<br>
         Exam - 17 Oct
+    </td> 
   </tr>
+  <tr>
    <td>International Tax 1/2019</td>
     <td>Oct: 08, 09, 15 (AM), 16, 22 (AM), 23</td>
   </tr>
@@ -88,7 +96,9 @@ collection_name: executive-tax-programmes
   <tr>
     <td>Advanced Tax Programme Intake 15</td>
     <td>Nov 2019 to Nov 2020 - Registration will open in Aug 2019.<br>
+     </td> 
   </tr>
+  <tr>
      <td>Advanced Goods and Services Tax 2019/20</td>
     <td>Nov 2019 to Aug 2020 - Registration will open in Aug 2019.<br>
     </td> 
