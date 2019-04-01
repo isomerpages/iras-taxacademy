@@ -42,12 +42,11 @@ collection_name: executive-tax-programmes
   </tr>
   <tr>
     <td>International Tax 2/2019</td>
-    <td>Nov: 06 (AM), 07, 13, 14 (AM)<br>
+    <td>Nov: 06 (AM), 07, 13, 14 (AM)</td>
   <tr>
  </table>
   
-###
-
+  
 ##### **Executive Tax Programme Level II**
 
 <table class="table-v">
@@ -73,12 +72,10 @@ collection_name: executive-tax-programmes
         Exam - 17 Oct
   </tr>
    <td>International Tax 1/2019</td>
-    <td>Oct: 08, 09, 15 (AM), 16, 22 (AM), 23<br>
-    </td> 
+    <td>Oct: 08, 09, 15 (AM), 16, 22 (AM), 23</td>
   </tr>
  </table>
  
- ###
  
  ##### **Executive Tax Programme Level III**
 
@@ -98,6 +95,6 @@ collection_name: executive-tax-programmes
   </tr>
   <tr>
     <td>WU-TA Advanced Transfer Pricing Programme</td>
-    <td>30 Sep - 03 Oct<br>
+    <td>30 Sep - 03 Oct</td>
   </tr>
  </table>
