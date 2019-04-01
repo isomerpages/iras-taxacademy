@@ -85,7 +85,7 @@ collection_name: executive-tax-programmes
  </table>
  
  
- ##### **Executive Tax Programme Level III**
+##### **Executive Tax Programme Level III**
 
 <table class="table-v">
   <tr>
