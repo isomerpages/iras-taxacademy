@@ -209,7 +209,6 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Accreditation by Singapore Institute of Accredited Tax Professionals</td>
     <td>• Accredited Tax Advisor</td>
   </tr>
-  </tr>
  </table>
 
 ##### **International Tax**
