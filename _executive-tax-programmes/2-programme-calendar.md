@@ -47,7 +47,7 @@ collection_name: executive-tax-programmes
   <tr>
     <td>International Tax 2/2019</td>
     <td>Nov: 06 (AM), 07, 13, 14 (AM)</td>
-  <tr>
+  </tr>
  </table>
   
   
