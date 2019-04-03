@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Book Prizes
-permalink: /tomorrow-tax-professional/book-prizes/
-breadcrumb: Book Prizes
+title: TAKE Scheme
+permalink: /tomorrow-tax-professional/take-scheme/
+breadcrumb: TAKE Scheme
 collection_name: tomorrow-tax-professional
 ---
 
-#### Book Prizes
+#### TAKE Scheme
