@@ -30,7 +30,7 @@ Wu Hong has over 20 years of Singapore and regional tax experience in the areas 
 Chief Executive Officer <br>
 Tax Academy of Singapore <br>
 
-Mrs Eng is appointed as the Chief Executive Officer of Tax Academy in November 2013. She is concurrently the Deputy Commissioner (Business) and Chief Compliance Officer of the Inland Revenue Authority of Singapore. She has experiences in the administration of taxes and formulation of tax policy. <br>
+Mrs Eng-Tay Geok Lee is presently the Senior Advisor, Commissioner’s Office of the Inland Revenue Authority of Singapore, and the Chief Executive Officer of the Tax Academy of Singapore. She has more than thirty years in tax administration and tax policy formulation, and her roles include the Deputy Commissioner (Business) of the Inland Revenue Authority of Singapore and Chief Tax Policy Officer of Ministry of Finance Singapore. <br>
 
 **Associate Professor Poh Eng Hin** <br>
 Assistant Dean, Division of Business Law <br>
