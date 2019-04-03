@@ -7,7 +7,7 @@ breadcrumb: Privacy
 
 ### **Privacy Policy**
 
-1. This is the Professional Engineers Board (PEB) Website. Thank you for examining our privacy statement.
+1. This is the Tax Academy of Singapore (TA) Website. Thank you for examining our privacy statement.
 
 2. If you are only browsing this website, we do not capture data that allows us to identify you individually.
 
@@ -19,4 +19,4 @@ breadcrumb: Privacy
 
 6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-7. If you demur to our Policies or have any questions on your personal data access, you can email to the Professional Engineers Board at registrar@peb.gov.sg. You can also reach us at this email address if you have any queries or feedback regarding the e-services.
+7. If you demur to our Policies or have any questions on your personal data access, you can email to TA at tax_academy@iras.gov.sg. You can also reach us at this email address if you have any queries or feedback regarding the e-services.
