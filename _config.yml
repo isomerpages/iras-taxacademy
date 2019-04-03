@@ -49,6 +49,8 @@ collections:
     output: true
   who-we-are:
     output: true
+  tomorrow-tax-professional:
+    output: true
 
 # Resource Room and Pagination
 resources_name: "resources"
