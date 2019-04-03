@@ -21,8 +21,6 @@
     url: /who-we-are/partners/
   - title: Trainers
     url: /who-we-are/trainers/
-  - title: Book Prizes
-    url: /who-we-are/book-prizes/
 - title: Structured Training
   url: /executive-tax-programmes/tax-training-roadmap/
   sub-links:
@@ -45,5 +43,14 @@
   sub-links:
   - title: Upcoming
     url: /seminars-and-conferences/upcoming/
+- title: Support Resources
+  url: /who-we-are/overview/
+  sub-links:
+  - title: Book Prizes
+    url: /Support Resources/book-prizes/
+  - title: TAKE Scheme
+    url: /Support Resources/take-scheme/
+  - title: Going Places in Tax
+    url: /Support Resources/going-places-in-tax/
 - title: Contact Us
   url: /contact-us/
