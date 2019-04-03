@@ -121,8 +121,9 @@ Students will achieve in-depth appreciation of tax principles and tax laws, and 
 <table class="table-v">
   <tr>
     <td>Programme Overview</td>
-    <td>(i) Provide in-depth treatment of the general GST rules and application <br>
-		(ii)Provide study of GST rules for five industry-specific modules of Finance, Real Estate and Construction, Manufacturing, Imports and Exports, Logistics and Various Service Sectors
+    <td>
+	(i) Provide in-depth treatment of the general GST rules and application <br>
+	(ii)Provide study of GST rules for five industry-specific modules of Finance, Real Estate and Construction, Manufacturing, Imports and Exports, Logistics and Various Service Sectors
     </td> 
   </tr>
   <tr>
@@ -207,7 +208,6 @@ Students will achieve a high level of understanding in tax and be able to work i
   <tr>
     <td>Accreditation by Singapore Institute of Accredited Tax Professionals</td>
     <td>• Accredited Tax Advisor</td>
-  </tr>
   </tr>
  </table>
 
