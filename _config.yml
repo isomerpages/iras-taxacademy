@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Tax Academy Singapore
 title-abbreviated: Tax Academy Singapore
-email: your-email@example.com
+email: admin@isomer.gov.sg
 description: >- # this means to ignore newlines until "baseurl:"
   Tax Academy of Singapore is a not-for-profit institution set up by the Inland Revenue Authority of Singapore in collaboration with the international accounting firms - Deloitte & Touche, Ernst & Young, KPMG and PricewaterhouseCoopers, the Institute of Singapore Chartered Accountants and the Law Society of Singapore
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.taxacademy.sg" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -66,3 +66,5 @@ feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
+
+exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]

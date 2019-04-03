@@ -5,7 +5,8 @@
 ##################################
 
 # Agency logo
-agency-logo: /images/isomer-pages-logo.jpg
+agency-logo: /images/tax-academy-logo.jpg
+favicon: /images/favicon.ico # WARNING: Broken link!
 
 # Hero Banner
 hero-title: Tax Academy Singapore
