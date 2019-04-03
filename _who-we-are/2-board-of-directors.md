@@ -9,17 +9,19 @@ collection_name: who-we-are
 #### **Chairman**
 
 **Mr Ong Yew Huat** <br>
-Chairman, National Heritage Board <br>
-Chairman, Singapore Tyler Print Institute
+Director <br>
+United Overseas Bank Limited
 
-Mr Ong was appointed the Chairman of Tax Academy on 2 August 2014. He is the Chairman of National Heritage Board and Chairman of Singapore Tyler Print Institute.
+Mr Ong was appointed the Chairman of Tax Academy on 2 August 2014. 
 
-Mr Ong was appointed to the boards of United Overseas Bank in Singapore and Malaysia in 2013. At UOB Singapore, he is on the Audit and Board Risk Management Committees. He is Chairman of UOB Malaysia. Mr Ong is also a director of Singapore Power Ltd, where he is chairman of the Audit Committee. In the field of education, he serves on the NUS Business School BBA (Accounting) Advisory Board and is the Chairman of Andersen Primary School Advisory Committee. In 2011, he was awarded the Public Service Medal for his contribution to the arts.
+Mr Ong was appointed a Director of United Overseas Bank Limited where he is Chairman of the Board Risk Management and Board Credit Committees and a member of the Audit Committee. He is also Chairman of UOB Malaysia. Mr Ong is also a Director of Singapore Power Ltd and Ascendas-Singbridge Ltd where he serves as Chairman of their respective Audit Committees.
+
+In the field of education and the arts, he is member of the NUS Business School BBA (Accounting) Advisory Board and the Andersen Primary School Advisory Committee.  He is Chairman of the Singapore Tyler Print Institute. In 2017, he was awarded the Public Service Star for his contribution to the arts.
 
 #### **Members**
 
 **Mr Chiu Wu Hong** <br>
-Head of Tax <br>
+Head of Tax Market & Solutions <br>
 KPMG Singapore <br>
 
 Wu Hong has over 20 years of Singapore and regional tax experience in the areas of tax incentive applications, cross-border transactions, merger and acquisitions, tax compliance, consulting and planning for local and multinational companies, as well as consulting for the public sector. In his role as Head of Enterprise, Wu Hong focuses on advising innovative start-ups, large local businesses and helping family businesses to grow. He has contributed articles in academic journals and leading business publications. He is also a regular speaker at seminars and has provided comments and articles on Tax and Enterprise related issues to the media. <br>
