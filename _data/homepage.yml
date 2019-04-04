@@ -16,15 +16,13 @@ hero-banner: /images/banner_GardenBay.png
 key-highlights:
   - title: INCOME TAX
     description: Executive Tax Programme Levels I to III
-    url: https://production-iras-tax-academy.netlify.com/executive-tax-programmes/income-tax/
-    external: true
+    url: /executive-tax-programmes/income-tax/
   - title: GOODS & SERVICES TAX
     description: Executive Tax Programme Levels I to III
-    url: https://staging-iras-tax-academy.netlify.com/executive-tax-programmes/goods-and-services-tax/
-    external: true
+    url: /executive-tax-programmes/goods-and-services-tax/
   - title: INTERNATIONAL TAX
     description: Executive Tax Programme Levels I to III
-    url: https://staging-iras-tax-academy.netlify.com/executive-tax-programmes/international-tax/
+    url: /executive-tax-programmes/international-tax/
 
 #Call to Action Button
 button:
