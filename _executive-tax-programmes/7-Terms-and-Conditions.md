@@ -75,27 +75,26 @@ E.g. If the unit consists of 6 lessons, participants have to attend at least 4 l
 10.1 For tax courses with examinations, hardcopy certificates of achievement/transcript will be
 issued to participants.
 
-10.2 For tax courses without examinations, hardcopy certificate of completion will be issued.
+10.2 For tax courses without examinations, a hardcopy certificate of completion will be issued.
 
 **11. Administrative fee**
 
-11.1 The following items are subject to an administrative fee of $53.50 (GST inclusive) each:
-- Course materials
-- Rescheduling of exam
-- Re-sit of exam
+11.1 The following requests are subject to an administrative fee of $53.50 (GST inclusive) each:
+- Updated set of course materials
+- Re-sitting of exam
 - Duplicate hardcopy of Certificate of Achievement (with grading)
-- Deferment of course/module
+- Deferment of course/module/exams
 
 **12. Withdrawal from course**
 
 12.1 Withdrawal from course is not allowed upon receipt of payment. Instead, participants may either:
-- Defer enrolment to the next intake, subject to approval or;
+- Defer enrolment to the next intake, subject to approval; or
 - Nominate a replacement prior to course commencement.
 
-12.2 For Level III courses, participants who withdrew will bear a cancellation fee of:
+12.2 For Level III courses, participants who withdraw will bear a cancellation fee of:
 - $53.50, if cancellation notice is given more than 14 days before course starts; or
 - 20% of course fees, for cancellation notice given within 14 days of course commencement
 
 **13. Continuing Professional Education (CPE)**
 
-13.1 CPE letter will be issued upon request at the end of each module or programme.
+13.1 A CPE letter will be issued upon request at the end of each module or programme.
