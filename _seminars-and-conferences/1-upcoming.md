@@ -34,7 +34,7 @@ Closing date: 29 Mar 19. Seats on a first-come-first-served basis, upon full pay
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdpoeCKiTnRLpRKESVLwqx_V1hE-NoRg_5wMtn9xPsHOSLgrg/viewform){:target="_blank"} - [Brochure](/seminars-brochures/BudgetSeminar_Agenda.pdf)
 
 ##### **TEI US TAX SEMINAR 2019**
-**15 TO 17 Apr 2019 | 9:00 to 17:00 | Revenue House Discovery Training Room**
+**Dates to be advised | 9:00 to 17:00 | Revenue House Discovery Training Room**
 
 The Tax Executives Institute (TEI) and the Tax Academy of Singapore (TAS) are pleased to jointly present the TEI US Tax Conference in Singapore on 15 to 17 April 2019.  This 3-day event will feature leading US tax experts from PricewaterhouseCoopers, Ernst & Young, Baker & McKenzie who will provide participants with an overview of the US taxation system and discuss key features and recent developments.
 
@@ -48,8 +48,8 @@ Non-TEI members (per day): SGD380 / USD300
 
 Above fees exclude 7% GST.  Local participants need to pay above fees plus 7% GST.
 
-Closing date: 10 April 2019
+Closing date: To be advised.
 
-[Registration Form](https://docs.google.com/forms/d/1dF0atfMNehuiPShKu4AOY4HwKvn4KiAU4zRcCENkTRo/edit){:target="_blank"} - [Brochure](/seminars-brochures/TEI_US_TaxSeminar_2019.pdf)
+[Registration Form]{:target="_blank"} - [Brochure]
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
