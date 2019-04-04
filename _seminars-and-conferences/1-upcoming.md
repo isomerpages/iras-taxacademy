@@ -50,6 +50,6 @@ Above fees exclude 7% GST.  Local participants need to pay above fees plus 7% GS
 
 Closing date: To be advised.
 
-[Registration Form]{:target="_blank"} - [Brochure]
+[Registration Form] - [Brochure]
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
