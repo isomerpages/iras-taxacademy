@@ -6,4 +6,5 @@ breadcrumb: Overview
 collection_name: tomorrow-tax-professional
 ---
 
-Tax Academy has put in place some support resources to help you deepen your knowledge in tax.
+Tax Academy supports the development of aspiring tax professionals through the sponsorship of book prizes for tertiary students taking tax modules, and offering them complimentary seats to our seminars and conferences.
+
