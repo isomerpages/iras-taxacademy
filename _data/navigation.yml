@@ -44,8 +44,10 @@
   - title: Upcoming
     url: /seminars-and-conferences/upcoming/
 - title: Support Resources
-  url: /Support Resources/book-prizes/
+  url: /Support Resources/Overview/
   sub-links:
+  - title: Overview
+    url: /Support Resources/Overview/
   - title: Book Prizes
     url: /Support Resources/book-prizes/
   - title: TAKE Scheme
