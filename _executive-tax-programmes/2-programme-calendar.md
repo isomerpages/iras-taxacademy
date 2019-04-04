@@ -10,7 +10,7 @@ collection_name: executive-tax-programmes
 
 ##### **Executive Tax Programme Level I**
 
-<table class="table-v"width="40%">
+<table class="table-v"/width="40%">
   <tr>
     <td>Income Tax - Individual 1/2019</td>
     <td>Apr: 29, 30<br>
