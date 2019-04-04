@@ -8,7 +8,7 @@ collection_name: executive-tax-programmes
 
 > Tax Academy leverages on its strong network of partners (e.g. IRAS, Big 4 accounting firms, ISCA and Law Society) to provide customised training programmes to suit your organisation’s training needs.
 
-We have tailored programmes for both public and private sector organisations. You can refer to a [sample] (/new-folder/Course Outline for Customised Courses.pdf) of some of our past programmes tailored for our customers.
+We have tailored programmes for both public and private sector organisations. You can refer to a [sample](/new-folder/Course Outline for Customised Courses.pdf) of some of our past programmes tailored for our customers.
 
 ##### **Benefits of a customised programme**
 
@@ -30,7 +30,7 @@ Here’s what our past programme participants have to say…
 Finance Manager <br>
 Sim Lian Group Limited <br>
 Participant of the Customised Programme on GST for Sim Lian Group Limited <br>
-
+<br>
 
 *"The sharing of experiences on tax administration by the presenters were extremely useful and valuable."*
 
