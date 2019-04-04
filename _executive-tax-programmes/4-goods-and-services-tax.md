@@ -12,7 +12,7 @@ Tax Academy collaborates with leaders in the industry, academia and the governme
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScccIX23UDQywGyRXzJOZO5G4lnaUAyiO8-dVasrionHHanKg/closedform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 1-2019.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://forms.gle/VMwMSaxkqtje54qk6/closedform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 1-2019.pdf" | absolute_url }}){:target="_blank"}
 
 Registration is OPEN for intake 1/2019.
 
@@ -22,7 +22,7 @@ The next intake for this course will be in May 2019. Registration will be availa
 
 This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScccIX23UDQywGyRXzJOZO5G4lnaUAyiO8-dVasrionHHanKg/closedform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L2 GST 1 2019.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://forms.gle/zyDxccmEmZyUtXRZA/closedform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L2 GST 1 2019.pdf" | absolute_url }}){:target="_blank"}
 
 Registration is OPEN for intake 1/2019.
 
