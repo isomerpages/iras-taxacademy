@@ -25,7 +25,6 @@ We have tailored programmes for both public and private sector organisations. Yo
 Here’s what our past programme participants have to say… 
 
 *"The customised programme is effective and relevant to property development and construction industries. The course materials are well organised with relevant case studies. Trainers are very professional and engaging too."* 
-
 **Kuik Sin Hua** <br>
 Finance Manager <br>
 Sim Lian Group Limited <br>
@@ -33,6 +32,5 @@ Participant of the Customised Programme on GST for Sim Lian Group Limited <br>
 <br>
 
 *"The sharing of experiences on tax administration by the presenters were extremely useful and valuable."*
-
 **Fiji Islands Revenue & Customs Authority** <br>
 Participant of the Singapore Tax Experience Programme for Government Officials
