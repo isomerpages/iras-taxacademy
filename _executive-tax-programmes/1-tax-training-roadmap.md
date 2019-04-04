@@ -16,7 +16,7 @@ Students will achieve a good appreciation of basic tax principles and tax laws, 
 
 ##### **Income Tax**
 
-<table class="table-v">
+<table class="table-v"><width="30%">
   <tr>
     <td>Programme Overview</td>
     <td>(i) Individual Income Tax<br>
@@ -41,7 +41,7 @@ Students will achieve a good appreciation of basic tax principles and tax laws, 
 
 ##### **Goods & Service Tax**
 
-<table class="table-v">
+<table class="table-v"><width="30%">
   <tr>
     <td>Programme Overview</td>
     <td>(i) Provide a firm foundation in GST concepts, and Singapore Goods and Services Act and case laws <br>
@@ -64,7 +64,7 @@ Students will achieve a good appreciation of basic tax principles and tax laws, 
 
 ##### **International Tax**
 
-<table class="table-v">
+<table class="table-v"><width="30%">
   <tr>
     <td>Programme Overview</td>
     <td>(i) Provide foundation on general concepts of tax treaty and introduction to the OECD and Singapore treaty models <br>
@@ -91,7 +91,7 @@ Students will achieve in-depth appreciation of tax principles and tax laws, and 
 
 ##### **Income Tax**
 
-<table class="table-v">
+<table class="table-v"><width="30%">
   <tr>
     <td>Programme Overview</td>
     <td>(i) Business and Corporate Tax<br>
@@ -118,7 +118,7 @@ Students will achieve in-depth appreciation of tax principles and tax laws, and 
 
 ##### **Goods & Service Tax**
 
-<table class="table-v">
+<table class="table-v"><width="30%">
   <tr>
     <td>Programme Overview</td>
     <td>
@@ -143,7 +143,7 @@ Students will achieve in-depth appreciation of tax principles and tax laws, and 
 
 ##### **International Tax**
 
-<table class="table-v">
+<table class="table-v"><width="30%">
   <tr>
     <td>Programme Overview</td>
     <td>(i) Provide in-depth treatment of the key treaty Articles, application of the Articles to case studies and specific current issues<br>
@@ -166,7 +166,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 ##### **Income Tax**
 
-<table class="table-v">
+<table class="table-v"><width="30%">
   <tr>
     <td>Programme Overview</td>
     <td>(i) Advanced Tax Programmme<br>
@@ -192,7 +192,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 ##### **Goods & Service Tax**
 
-<table class="table-v">
+<table class="table-v"><width="30%">
   <tr>
     <td>Programme Overview</td>
     <td>(i) Advanced Goods and Services Tax<br>
@@ -213,7 +213,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 ##### **International Tax**
 
-<table class="table-v">
+<table class="table-v"><width="30%">
   <tr>
     <td>Programme Overview</td>
     <td>(i) Leiden – TA Advanced Tax Treaties Programme <br>
