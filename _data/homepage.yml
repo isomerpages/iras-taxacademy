@@ -34,6 +34,8 @@ button:
 info-sections:
   - section-title: 
     section-subtitle: Advanced Level International Tax Programmes
+    section-more-button: Details
+    section-more-button-url: https://www.taxacademy.sg/executive-tax-programmes/international-tax/
     section-image-path: /images/bannerH (3).png
   
   - section-title: 
