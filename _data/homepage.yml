@@ -36,13 +36,13 @@ info-sections:
     section-subtitle: Leiden-TA Advanced Tax Treaties Programme
     section-more-button: Find Out More
     section-more-button-url: https://www.taxacademy.sg/executive-tax-programmes/international-tax/
-    section-image-path: 
+    section-image-path: /images/TT prog.jpg
     
   - section-title: 
     section-subtitle: WU-TA Advanced Transfer Pricing Programme
     section-more-button: Find Out More
     section-more-button-url: https://www.taxacademy.sg/executive-tax-programmes/international-tax/
-    section-image-path: 
+    section-image-path: /images/TP prog.jpg
   
   - section-title: 
     section-subtitle: SMU-TA Centre for Excellence in Taxation
