@@ -15,7 +15,7 @@ For more information on SkillsFuture Credit claims, please visit https://www.ski
 
 You can use your SkillsFuture Credit to pay or offset course fees by applying for claims starting January 2016. Eligible Singaporeans may access their SFC account via: www.skillsfuture.sg/credit. 
 
-**The following courses offered by Tax Academy are eligible for the SkillsFuture claims:**<br>
+**The following courses offered by Tax Academy are eligible for the SkillsFuture Credit claims:**<br>
 
 - Executive Tax Programme Level 1 (Income Tax)
 - Executive Tax Programme Level 2 (Business & Corporate Tax)
@@ -28,5 +28,5 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 -	Leiden – TA Advanced Tax Treaties Programme
 -	WU – TA Advanced Transfer Pricing Programme
 
-*Sign up for our programmes now, log in to your SkillsFuture Credit portal and email us the print out from the portal showing your remaining SkillsFuture credit. 
-It’s that easy and you can offset the course fees using the credits.*
+*Sign up for our programmes now, log in to your SkillsFuture Credit portal and email us the print out from the portal showing your remaining SkillsFuture credit within one week from date of registration. 
+It is that easy and you can offset the course fees using the credits.*
