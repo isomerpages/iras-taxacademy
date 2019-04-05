@@ -9,11 +9,11 @@ collection_name: tomorrow-tax-professional
 >**SkillsFuture Credit**<br>
 
 SkillsFuture Credit aims to encourage individuals to take ownership of their skills development and lifelong learning. All Singaporeans aged 25 and above will receive an opening credit of S$500 from January 2016. Your credit will not expire and the government will provide periodic top-ups, so you may accumulate your credit.
-For more information on SkillsFuture Credit claims, please visit https://www.skillsfuture.sg/credit
+For more information on SkillsFuture Credit claims, please visit [https://www.skillsfuture.sg/credit]{:target="_blank"}
 
 **Claiming Your SkillsFuture Credit**<br>
 
-You can use your SkillsFuture Credit to pay or offset course fees by applying for claims starting January 2016. Eligible Singaporeans may access their SFC account via: www.skillsfuture.sg/credit. 
+You can use your SkillsFuture Credit to pay or offset course fees by applying for claims starting January 2016. Eligible Singaporeans may access their SFC account via: [www.skillsfuture.sg/credit]{:target="_blank"}
 
 **The following courses offered by Tax Academy are eligible for the SkillsFuture Credit claims:**<br>
 
