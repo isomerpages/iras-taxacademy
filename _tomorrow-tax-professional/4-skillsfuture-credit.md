@@ -13,7 +13,7 @@ For more information on SkillsFuture Credit claims, please visit [SkillsFuture S
 
 **Claiming Your SkillsFuture Credit**<br>
 
-You can use your SkillsFuture Credit to pay or offset course fees by applying for claims starting January 2016. Eligible Singaporeans may access their SFC account via [SkillsFuture Singapore Portal](www.skillsfuture.sg/credit){:target="_blank"}
+You can use your SkillsFuture Credit to pay or offset course fees by applying for claims starting January 2016. Eligible Singaporeans may access their SFC account via [SkillsFuture Singapore Portal](https://www.skillsfuture.sg/credit){:target="_blank"}
 
 **The following courses offered by Tax Academy are eligible for the SkillsFuture Credit claims:**<br>
 
