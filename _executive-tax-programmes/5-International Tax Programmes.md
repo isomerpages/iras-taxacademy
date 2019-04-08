@@ -12,7 +12,7 @@ Tax Academy collaborates with leaders in the industry, academia and the governme
 
 This course will enable participants to acquire basic knowledge in tax treaties and transfer pricing.
 
-[Registration Form](https://docs.google.com/forms/d/1TIyChQIw2jL8HX_JmnF9YwXwyhT6iN-RkOv4r1deYp0/edit){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/L1_ITP_1_2019_programme.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1TIyChQIw2jL8HX_JmnF9YwXwyhT6iN-RkOv4r1deYp0/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L1_ITP_1_2019_programme.pdf){:target="_blank"}
 
 **Registration is OPEN for intake 1/2019**
 
@@ -22,7 +22,7 @@ The next intake for this course will be in Nov 2019. Registration will open one 
 
 This course provides in-depth knowledge in international tax principles and concepts, with focus on specific issues on tax treaty and transfer pricing.
 
-[Registration Form](https://docs.google.com/forms/d/1VNrPSkzxwHyq0a_ylg-QBb65tC-JHc77P4z6PGgIYc8/edit){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP-L1-Income-Tax-2-2018_programme.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1VNrPSkzxwHyq0a_ylg-QBb65tC-JHc77P4z6PGgIYc8/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP-L1-Income-Tax-2-2018_programme.pdf){:target="_blank"}
 
 **Registration is CLOSED for Intake 1/2018**
 
@@ -36,7 +36,7 @@ Participants will learn thorough knowledge of the complex rules that govern tax 
 
 Dates of programme: 27 to 31 May 2019
 
-[Registration Form](https://docs.google.com/forms/u/1/d/199A8YqpruxuKS7E6Ww4KtqisWpthBqy3jB0-7LIeAZw/edit){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/Brochure_Leiden-TA_Advanced_Tax_Treaties.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/u/1/d/199A8YqpruxuKS7E6Ww4KtqisWpthBqy3jB0-7LIeAZw/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Brochure_Leiden-TA_Advanced_Tax_Treaties.pdf){:target="_blank"}
 
 **Registration is OPEN for Intake 2019**
 
@@ -60,6 +60,6 @@ The programme provides participants with the latest update on international tran
 
 **Registration is OPEN for 2019 intake**
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd3xXcKQ3CSqb7TFWkKVXlgN75d0XawogOyBPQk_KbggoVbRw/viewform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/WU_Brochure 2019.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd3xXcKQ3CSqb7TFWkKVXlgN75d0XawogOyBPQk_KbggoVbRw/viewform){:target="_blank"} - [Details](/files/executive-tax-programmes/WU%20Prog.pdf){:target="_blank"}
 
-**Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
+**Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
