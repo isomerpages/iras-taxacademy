@@ -36,15 +36,15 @@ info-sections:
     section-subtitle: Leiden-TA Advanced Tax Treaties Programme
     section-description: 27 to 31 May 2019
     section-more-button: Find Out More
-    section-more-button-url: https://www.taxacademy.sg/executive-tax-programmes/international-tax/
+    section-more-button-url: /executive-tax-programmes/international-tax/
     section-image-path: /images/TT prog.jpg
     
   - section-title: 
     section-subtitle: WU-TA Advanced Transfer Pricing Programme
     section-description: 30 Sep to 3 Oct 2019
     section-more-button: Find Out More
-    section-more-button-url: https://www.taxacademy.sg/executive-tax-programmes/international-tax/
-    section-image-path: /images/TP prog.jpg
+    section-more-button-url: /executive-tax-programmes/international-tax/
+    section-image-path: /images/TP Prog.jpg
   
   - section-title: 
     section-subtitle: SMU-TA Centre for Excellence in Taxation
