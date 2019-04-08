@@ -26,7 +26,7 @@ column:
     - line: tax_academy@iras.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
-  - title: Join Mailing List
+  - title: <a href="https://docs.google.com/forms/d/e/1FAIpQLScJNWH-DKKMJUnFC4Ws8Q6VM1Kei27PxeptOEhG8Ht0tTuIdA/viewform">Join Mailing List</a>
     content:
     - line: By submitting your email address, you hereby agree that the Tax Academy of Singapore (TA) may collect, use and disclose your personal data that you provide in this Form for the purpose of sending you updates about the various events, programmes and related activities organised or co-organised by TA.
     - line: <br>
