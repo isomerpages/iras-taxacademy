@@ -60,6 +60,6 @@ The programme provides participants with the latest update on international tran
 
 **Registration is OPEN for 2019 intake**
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd3xXcKQ3CSqb7TFWkKVXlgN75d0XawogOyBPQk_KbggoVbRw/viewform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/WU_Prog.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd3xXcKQ3CSqb7TFWkKVXlgN75d0XawogOyBPQk_KbggoVbRw/viewform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/WU Prog.pdf" | absolute_url }}){:target="_blank"}
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
