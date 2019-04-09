@@ -6,7 +6,7 @@ breadcrumb: SkillsFuture Credit
 collection_name: tomorrow-tax-professional
 ---
 
-###**SkillsFuture Credit**
+### **SkillsFuture Credit**
 
 SkillsFuture Credit aims to encourage individuals to take ownership of their skills development and lifelong learning. All Singaporeans aged 25 and above will receive an opening credit of S$500 from January 2016. Your credit will not expire and the government will provide periodic top-ups, so you may accumulate your credit.
 For more information on SkillsFuture Credit claims, please visit [SkillsFuture Singapore](https://www.skillsfuture.sg/credit){:target="_blank"}
