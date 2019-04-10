@@ -40,7 +40,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd-tMEO_Sg1jWNLojF8Advggb7nn1pqMgTok-70Aa0gfSOuoQ/viewform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 14) Info Package_v2.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 14) schedule_v1.0.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is OPEN for Intake 14 Modules 2, 4, 5, 6, 7, 8 and 9.
+Registration is OPEN for Intake 14 Modules 2, 5, 6, 7, 8 and 9.
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
