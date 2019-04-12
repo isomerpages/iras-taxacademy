@@ -8,7 +8,7 @@ collection_name: seminars-and-conferences
 
 > Tax Academy creates opportunities for tax professionals to be updated on global tax developments through seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
 
-### **Upcoming Seminars/Conferences**
+### **Upcoming Seminars - Conferences**
 
 ##### ** FasTax Series: Fundamentals of Withholding Tax**
 **16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
