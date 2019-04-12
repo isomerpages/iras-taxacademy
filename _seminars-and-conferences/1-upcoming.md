@@ -6,9 +6,7 @@ breadcrumb: Upcoming Seminars and Conferences
 collection_name: seminars-and-conferences
 ---
 
-
 > Tax Academy creates opportunities for tax professionals to be updated on global tax developments through seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
-
 
 ### **Upcoming Seminars/Conferences**
 
