@@ -11,6 +11,20 @@ collection_name: seminars-and-conferences
 
 ---
 ### **Upcoming Seminars/Conferences**
-Stay Tuned for more updates !
+
+##### ** FasTax Series: Fundamentals of Withholding Tax**
+**16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
+
+In light of the rapidly growing volume of cross border business transactions, managing withholding tax obligations becomes all the more important. Businesses are encouraged to gain a good understanding on the basics of withholding tax in Singapore as non-compliance with withholding tax requirements may result in hefty penalties of up to 20%.
+The Tax Academy of Singapore is pleased to invite you to attend this half-day seminar on the Fundamentals of Withholding Tax. Speakers from IRAS will share with you on the fundamental concepts of withholding tax, explain the types of payments that attract withholding tax and provide some examples to illustrate the computation of withholding tax. This seminar will also cover on the various aspects of withholding tax filing and payment obligations.
+Programme Outline:
+Scope of tax | What is withholding tax |	Payments subject to withholding tax |Details of payments under Sections 12(6) and 12(7) | Withholding tax rates | Computation of withholding tax | When to file and pay | Date of payment and deemed payment | Penalties for late payment and recovery | e-Services at myTax Portal
+Who Should Attend:
+Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+Seminar fees: $107 (incl. GST)
+Closing date: 9 May 19. Seats on a first-come-first-served basis, upon full payment.
+
+[Registration Form](https://forms.gle/c81ZHTTPqyoK24eH9){:target="_blank"}
+
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
