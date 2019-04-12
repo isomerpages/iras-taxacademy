@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Upcoming Seminars and Conferences
+title: Overview
 permalink: /seminars-and-conferences/upcoming/
 breadcrumb: Overview
 collection_name: seminars-and-conferences
