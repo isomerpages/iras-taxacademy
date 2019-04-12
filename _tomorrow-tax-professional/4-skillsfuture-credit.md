@@ -31,7 +31,7 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 **Claim Process**<br>
 
 - Please indicate in the registration form that you would like to use the SkillsFuture Credit
-- Log in to the SkillsFuture Credit portal and email Tax Academy your NRIC number and the printscreen showing your reamining SkillsFuture credit within one week from the date of registration
+- Log in to the SkillsFuture Credit portal and email Tax Academy a scanned copy of your NRIC (front) and the printscreen showing your reamining SkillsFuture credit within one week from the date of registration
 - Tax Academy will issue an invoice reflecting the nett programme fee payable after deducting the SkillsFuture Credit claimable
 - Please make payment within 7 days upon receiving the invoice so that Tax Academy can issue a programme confirmation
 - Upon receiving the programme confirmation, please log in to the SkillsFuture Credit portal and upload the confirmation to submit your claim
@@ -39,4 +39,4 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 
 
 
-*Sign up for our programmes now, just a few simple steps and you can offset the course fees using the SkillsFuture Credits.*
+*Sign up for our programmes now, just a few simple steps and you can offset the programme fees using your SkillsFuture Credits.*
