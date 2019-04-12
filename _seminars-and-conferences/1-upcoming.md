@@ -21,7 +21,7 @@ Programme Outline:
 Scope of tax | What is withholding tax |	Payments subject to withholding tax |Details of payments under Sections 12(6) and 12(7) | Withholding tax rates | Computation of withholding tax | When to file and pay | Date of payment and deemed payment | Penalties for late payment and recovery | e-Services at myTax Portal
 
 Who Should Attend:
-Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
 
 Seminar fees: $107 (incl. GST)
 Closing date: 9 May 19. Seats on a first-come-first-served basis, upon full payment.
@@ -37,7 +37,7 @@ Programme Outline:
 Fundamentals of treaty interpretation | Introduction to common DTA provisions | Impact of measures to prevent granting of treaty benefits in inappropriate circumstances | Worked examples and case studies | Q&A
 
 Who Should Attend:
-Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
 
 Seminar fees: $107 (incl. GST)
 Closing date: 15 May 19. Seats on a first-come-first-served basis, upon full payment.
