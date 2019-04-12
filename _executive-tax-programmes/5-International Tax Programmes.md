@@ -22,7 +22,7 @@ The next intake for this course will be in Nov 2019. Registration will open one 
 
 This course provides in-depth knowledge in international tax principles and concepts, with focus on specific issues on tax treaty and transfer pricing.
 
-[Registration Form](https://docs.google.com/forms/d/1VNrPSkzxwHyq0a_ylg-QBb65tC-JHc77P4z6PGgIYc8/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L1_ITP_2_2018_programme.pdf){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1VNrPSkzxwHyq0a_ylg-QBb65tC-JHc77P4z6PGgIYc8/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2_ITP_2_2018_programme.pdf){:target="_blank"}
 
 **Registration is CLOSED for Intake 1/2018**
 
