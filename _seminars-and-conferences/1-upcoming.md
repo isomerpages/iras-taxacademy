@@ -28,7 +28,24 @@ Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
 Seminar fees: $107 (incl. GST)
 Closing date: 9 May 19. Seats on a first-come-first-served basis, upon full payment.
 
-[Registration Form](https://forms.gle/c81ZHTTPqyoK24eH9){:target="_blank"}
+[Registration Form](https://forms.gle/c81ZHTTPqyoK24eH9)
+
+
+##### **FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
+**22 May 2019 | 14:00 to 17:00 | Revenue House Aspiration Room**
+As a highly market-oriented and open economy, Singapore has established an extensive network of double tax agreements (DTA) with her trading partners to promote international trade and investment by improving transparency of information and certainty of tax positions.  This workshop will be facilitated by speakers from Deloitte -  Mr Tom Toryanik (Tax Director), and Mr Chua Kong Ping (Tax Senior Manager).  The speakers will share with you practical approaches to help businesses understand the application of tax treaties to common cross-border payments through various worked examples and case studies.
+
+Programme Outline:
+Fundamentals of treaty interpretation | Introduction to common DTA provisions | Impact of measures to prevent granting of treaty benefits in inappropriate circumstances | Worked examples and case studies | Q&A
+
+Who Should Attend:
+Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+
+Seminar fees: $107 (incl. GST)
+Closing date: 15 May 19. Seats on a first-come-first-served basis, upon full payment.
+
+[Registration Form](https://forms.gle/DXXNnfR5rupeBca17)
+
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
