@@ -17,16 +17,21 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 
 **The following courses offered by Tax Academy are eligible for the SkillsFuture Credit claims:**<br>
 
-- Executive Tax Programme Level 1 (Income Tax)
-- Executive Tax Programme Level 2 (Business & Corporate Tax)
--	Executive Tax Programme Level 3 (Advanced Tax Programme)
--	Executive Tax Programme Level 1 (GST)
--	Executive Tax Programme Level 2 (GST)
--	Executive Tax Programme Level 3 (Advanced GST)
--	Executive Tax Programme Level 1 (International Tax)
--	Executive Tax Programme Level 2 (International Tax)
--	Leiden – TA Advanced Tax Treaties Programme
--	WU – TA Advanced Transfer Pricing Programme
+- Executive Tax Programme Level 1 (Income Tax) - ETP1IIT
+- Executive Tax Programme Level 2 (Business & Corporate Tax) - ETP2BCT
+-	Executive Tax Programme Level 3 (Advanced Tax Programme) - ETP3ATP
+-	Executive Tax Programme Level 1 (GST) - ETP1GST
+-	Executive Tax Programme Level 2 (GST) - ETP2GST
+-	Executive Tax Programme Level 3 (Advanced GST) - ETP3AGST
+-	Executive Tax Programme Level 1 (International Tax) - ETP1IT
+-	Executive Tax Programme Level 2 (International Tax) - ETP2IT
+-	Leiden – TA Advanced Tax Treaties Programme - ETP3TTP
+-	WU – TA Advanced Transfer Pricing Programme - ETP3TPP
+
+**Claim Proccess**<br>
+
+
+
 
 *Sign up for our programmes now, log in to your SkillsFuture Credit portal and email us the print out from the portal showing your remaining SkillsFuture credit within one week from date of registration. 
 It is that easy and you can offset the course fees using the credits.*
