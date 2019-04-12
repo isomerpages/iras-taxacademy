@@ -30,8 +30,13 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 
 **Claim Proccess**<br>
 
+- Please indicate in the registration form that you would like to use the SkillsFuture Credit
+- Log in to the SkillsFuture Credit portal and email Tax Academy your NRIC number and the printscreen showing your reamining SkillsFuture credit within one week from the date of registration
+- Tax Academy will issue an invoice reflecting the nett programme fee payable after deducting the SkillsFuture Credit claimable
+- Please make payment within 7 days upon receiving the invoice so that Tax Academy can issue a programme confirmation
+- Upon receiving the programme confirmation, please log in to the SkillsFuture Credit portal and upload the confirmation to submit your claim
+- Participants are required to submit their claims to SkillsFuture Singapore at least 4 weeks before class commencement
 
 
 
-*Sign up for our programmes now, log in to your SkillsFuture Credit portal and email us the print out from the portal showing your remaining SkillsFuture credit within one week from date of registration. 
-It is that easy and you can offset the course fees using the credits.*
+*Sign up for our programmes now, just a few simple steps and you can offset the course fees using the SkillsFuture Credits.*
