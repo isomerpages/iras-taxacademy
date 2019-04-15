@@ -19,7 +19,7 @@ The Tax Academy of Singapore is pleased to invite you to attend this half-day se
 
 Programme Outline:
 
-Scope of tax - What is withholding tax 	Payments subject to withholding tax  Details of payments under Sections 12(6) and 12(7)  Withholding tax rates  Computation of withholding tax  When to file and pay  Date of payment and deemed payment  Penalties for late payment and recovery  e-Services at myTax Portal
+Scope of tax    What is withholding tax  	 Payments subject to withholding tax    Details of payments under Sections 12(6) and 12(7)    Withholding tax rates    Computation of withholding tax    When to file and pay    Date of payment and deemed payment    Penalties for late payment and recovery    e-Services at myTax Portal
 
 Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
 
@@ -37,7 +37,7 @@ As a highly market-oriented and open economy, Singapore has established an exten
 
 Programme Outline:
 
-Fundamentals of treaty interpretation  Introduction to common DTA provisions  Impact of measures to prevent granting of treaty benefits in inappropriate circumstances  Worked examples and case studies  Q&A
+Fundamentals of treaty interpretation    Introduction to common DTA provisions    Impact of measures to prevent granting of treaty benefits in inappropriate circumstances    Worked examples and case studies    Q&A
 
 Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
 
@@ -56,11 +56,11 @@ Then join us for this half day workshop where Senior Tax Auditors from IRAS will
 
 By adopting ASK, you will enjoy the following benefits:
 
-Understand GST requirements on filing and record-keeping  Review accuracy of GST submissions  Reduce risk of incurring penalties on common errors made by GST-registered businesses  Discover past GST errors early for timely disclosure to IRAS to enjoy zero or reduced penalties under IRAS' Voluntary Disclosure Programme  Enjoy administrative concessions for common errors disclosed through the course of ASK Annual Review  Fulfil requirement for application or renewal of selected GST schemes
+Understand GST requirements on filing and record-keeping    Review accuracy of GST submissions    Reduce risk of incurring penalties on common errors made by GST-registered businesses    Discover past GST errors early for timely disclosure to IRAS to enjoy zero or reduced penalties under IRAS' Voluntary Disclosure Programme    Enjoy administrative concessions for common errors disclosed through the course of ASK Annual Review    Fulfil requirement for application or renewal of selected GST schemes
 
 Programme Outline:
 
-Introduction to GST Assisted Self-Help Kit (ASK)  Inculcating Good GST Practices  Performing Quality Checks and Highlights on Common GST Errors 	Effective Annual Review
+Introduction to GST Assisted Self-Help Kit (ASK)    Inculcating Good GST Practices    Performing Quality Checks and Highlights on Common GST Errors  	 Effective Annual Review
 
 Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
 
