@@ -31,6 +31,7 @@ Closing date: 9 May 19. Seats on a first-come-first-served basis, upon full paym
 
 ##### **FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
 **22 May 2019 | 14:00 to 17:00 | Revenue House Aspiration Room**
+
 As a highly market-oriented and open economy, Singapore has established an extensive network of double tax agreements (DTA) with her trading partners to promote international trade and investment by improving transparency of information and certainty of tax positions.  This workshop will be facilitated by speakers from Deloitte -  Mr Tom Toryanik (Tax Director), and Mr Chua Kong Ping (Tax Senior Manager).  The speakers will share with you practical approaches to help businesses understand the application of tax treaties to common cross-border payments through various worked examples and case studies.
 
 Programme Outline:
