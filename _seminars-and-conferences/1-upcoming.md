@@ -10,7 +10,7 @@ collection_name: seminars-and-conferences
 
 ### **Upcoming Seminars - Conferences**
 
-##### ** FasTax Series: Fundamentals of Withholding Tax**
+##### **FasTax Series: Fundamentals of Withholding Tax**
 **16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
 
 In light of the rapidly growing volume of cross border business transactions, managing withholding tax obligations becomes all the more important. Businesses are encouraged to gain a good understanding on the basics of withholding tax in Singapore as non-compliance with withholding tax requirements may result in hefty penalties of up to 20%.
@@ -19,7 +19,7 @@ The Tax Academy of Singapore is pleased to invite you to attend this half-day se
 
 Programme Outline:
 
-Scope of tax | What is withholding tax |	Payments subject to withholding tax |Details of payments under Sections 12(6) and 12(7) | Withholding tax rates | Computation of withholding tax | When to file and pay | Date of payment and deemed payment | Penalties for late payment and recovery | e-Services at myTax Portal
+Scope of tax - What is withholding tax -	Payments subject to withholding tax - Details of payments under Sections 12(6) and 12(7) - Withholding tax rates - Computation of withholding tax - When to file and pay - Date of payment and deemed payment - Penalties for late payment and recovery - e-Services at myTax Portal
 
 Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
 
@@ -36,7 +36,7 @@ As a highly market-oriented and open economy, Singapore has established an exten
 
 Programme Outline:
 
-Fundamentals of treaty interpretation | Introduction to common DTA provisions | Impact of measures to prevent granting of treaty benefits in inappropriate circumstances | Worked examples and case studies | Q&A
+Fundamentals of treaty interpretation - Introduction to common DTA provisions - Impact of measures to prevent granting of treaty benefits in inappropriate circumstances - Worked examples and case studies - Q&A
 
 Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
 
@@ -46,7 +46,7 @@ Closing date: 15 May 19. Seats on a first-come-first-served basis, upon full pay
 [Registration Form](https://forms.gle/DXXNnfR5rupeBca17)
 
 
-##### ** FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
+##### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
 **27 May 2019 | 14:00 to 17:00 | Revenue House Courage Room**
 
 Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors? 
@@ -54,7 +54,7 @@ Then join us for this half day workshop where Senior Tax Auditors from IRAS will
 
 By adopting ASK, you will enjoy the following benefits:
 
-Understand GST requirements on filing and record-keeping | Review accuracy of GST submissions | Reduce risk of incurring penalties on common errors made by GST-registered businesses | Discover past GST errors early for timely disclosure to IRAS to enjoy zero or reduced penalties under IRAS' Voluntary Disclosure Programme | Enjoy administrative concessions for common errors disclosed through the course of ASK Annual Review | Fulfil requirement for application or renewal of selected GST schemes
+Understand GST requirements on filing and record-keeping - Review accuracy of GST submissions - Reduce risk of incurring penalties on common errors made by GST-registered businesses - Discover past GST errors early for timely disclosure to IRAS to enjoy zero or reduced penalties under IRAS' Voluntary Disclosure Programme - Enjoy administrative concessions for common errors disclosed through the course of ASK Annual Review - Fulfil requirement for application or renewal of selected GST schemes
 
 Programme Outline:
 
@@ -66,6 +66,7 @@ Seminar fees: $107 (incl. GST)
 Closing date: 21 May 19. Seats on a first-come-first-served basis, upon full payment.
 
 [Registration Form]( https://forms.gle/y9owUYNAnAq3Q7QeA)
+
 
 
 
