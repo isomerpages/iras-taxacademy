@@ -28,11 +28,12 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 Intake 1/2019 (July 2019 class):
 
-[Registration Form](https://docs.google.com/forms/d/1zT8Smm-AiTexXgN1C9pwdLdBMN-QXnPpt_vUc2qDE8U/edit){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/L2IT12019.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1zT8Smm-AiTexXgN1C9pwdLdBMN-QXnPpt_vUc2qDE8U/edit){:target="_blank"} - income-tax/L2IT12019.pdf
+
 
 Intake 2/2019 (Sep 2019 class):
 
-[Registration Form](https://docs.google.com/forms/d/1gdl5pmB2STT7BJc-WkEHhm1cgu-NMF4Sqv3Pf6B8lZg/edit){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/L2IT22019.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1gdl5pmB2STT7BJc-WkEHhm1cgu-NMF4Sqv3Pf6B8lZg/edit){:target="_blank"} - income-tax/L2IT22019.pdf
 
 Registration is OPEN for intake 1/2019 and Intake 2/2019.
 
