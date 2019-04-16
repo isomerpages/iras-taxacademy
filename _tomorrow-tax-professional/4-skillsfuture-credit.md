@@ -17,16 +17,26 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 
 **The following courses offered by Tax Academy are eligible for the SkillsFuture Credit claims:**<br>
 
-- Executive Tax Programme Level 1 (Income Tax)
-- Executive Tax Programme Level 2 (Business & Corporate Tax)
--	Executive Tax Programme Level 3 (Advanced Tax Programme)
--	Executive Tax Programme Level 1 (GST)
--	Executive Tax Programme Level 2 (GST)
--	Executive Tax Programme Level 3 (Advanced GST)
--	Executive Tax Programme Level 1 (International Tax)
--	Executive Tax Programme Level 2 (International Tax)
--	Leiden – TA Advanced Tax Treaties Programme
--	WU – TA Advanced Transfer Pricing Programme
+- Executive Tax Programme Level 1 (Income Tax) - ETP1IIT
+- Executive Tax Programme Level 2 (Business & Corporate Tax) - ETP2BCT
+-	Executive Tax Programme Level 3 (Advanced Tax Programme) - ETP3ATP
+-	Executive Tax Programme Level 1 (GST) - ETP1GST
+-	Executive Tax Programme Level 2 (GST) - ETP2GST
+-	Executive Tax Programme Level 3 (Advanced GST) - ETP3AGST
+-	Executive Tax Programme Level 1 (International Tax) - ETP1IT
+-	Executive Tax Programme Level 2 (International Tax) - ETP2IT
+-	Leiden – TA Advanced Tax Treaties Programme - ETP3TTP
+-	WU – TA Advanced Transfer Pricing Programme - ETP3TPP
 
-*Sign up for our programmes now, log in to your SkillsFuture Credit portal and email us the print out from the portal showing your remaining SkillsFuture credit within one week from date of registration. 
-It is that easy and you can offset the course fees using the credits.*
+**Claim Process**<br>
+
+- Please indicate in the registration form that you would like to use the SkillsFuture Credit
+- Log in to the SkillsFuture Credit portal and email Tax Academy a scanned copy of your NRIC (front) and the printscreen showing your reamining SkillsFuture credit within one week from the date of registration
+- Tax Academy will issue an invoice reflecting the nett programme fee payable after deducting the SkillsFuture Credit claimable
+- Please make payment within 7 days upon receiving the invoice so that Tax Academy can issue a programme confirmation
+- Upon receiving the programme confirmation, please log in to the SkillsFuture Credit portal and upload the confirmation to submit your claim
+- Participants are required to submit their claims to SkillsFuture Singapore at least 4 weeks before class commencement
+
+
+
+*Sign up for our programmes now, just a few simple steps and you can offset the programme fees using your SkillsFuture Credits.*
