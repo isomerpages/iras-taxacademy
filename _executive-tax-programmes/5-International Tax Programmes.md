@@ -28,6 +28,7 @@ This course provides in-depth knowledge in international tax principles and conc
 
 The next intake for the course will be held in Oct 2019.
 
+<a id="leiden-ta-id"></a>
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
 
 The Advanced Tax Treaties Programme is a collaborative effort between Tax Academy of Singapore and International Tax Center Leiden, Netherlands. The programme is aimed at tax professionals who have at least five years' tax experience and who are seeking to deepen their insight and expertise in tax treaties.
