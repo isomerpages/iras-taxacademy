@@ -41,6 +41,7 @@ Dates of programme: 27 to 31 May 2019
 
 **Registration is OPEN for Intake 2019**
 
+<a id="wu-ta-id"></a>
 ### **WU – TA Advanced Transfer Pricing Programme**
 
 The WU – TA Advanced Transfer Pricing Programme is offered by the WU Transfer Pricing Centre at the Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business) and the Tax Academy of Singapore. The four-day programme is facilitated by a team of professors from the WU Transfer Pricing Centre and regional tax experts.
