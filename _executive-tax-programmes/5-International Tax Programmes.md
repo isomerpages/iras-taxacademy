@@ -28,6 +28,7 @@ This course provides in-depth knowledge in international tax principles and conc
 
 The next intake for the course will be held in Oct 2019.
 
+<a id="leiden-ta-id"></a>
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
 
 The Advanced Tax Treaties Programme is a collaborative effort between Tax Academy of Singapore and International Tax Center Leiden, Netherlands. The programme is aimed at tax professionals who have at least five years' tax experience and who are seeking to deepen their insight and expertise in tax treaties.
@@ -40,6 +41,7 @@ Dates of programme: 27 to 31 May 2019
 
 **Registration is OPEN for Intake 2019**
 
+<a id="wu-ta-id"></a>
 ### **WU – TA Advanced Transfer Pricing Programme**
 
 The WU – TA Advanced Transfer Pricing Programme is offered by the WU Transfer Pricing Centre at the Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business) and the Tax Academy of Singapore. The four-day programme is facilitated by a team of professors from the WU Transfer Pricing Centre and regional tax experts.
