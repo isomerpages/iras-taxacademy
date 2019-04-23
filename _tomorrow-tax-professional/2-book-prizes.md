@@ -13,6 +13,17 @@ collection_name: tomorrow-tax-professional
 
 To encourage students to achieve their academic goals and pursue a career in tax
 
-### **Our Book Prizes Recipients for 2019**
+### **SMU Book Prizes Recipients for 2018**
 
-Stay tuned for more information
+
+Tan Jun-Yang Daryl
+Top Student in Advanced Taxation Module
+
+Luo Xindi
+Top Student in Advanced Taxation Module
+
+Nicole Tan
+Top Student in Advanced Taxation Module
+
+
+Stay tuned for more updates on our book prizes recipients from NTU, NUS, Nanyang Polytechnic, Singapore Polytechnic and Temasek Polytechnic 
