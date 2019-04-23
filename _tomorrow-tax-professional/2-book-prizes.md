@@ -15,7 +15,7 @@ To encourage students to achieve their academic goals and pursue a career in tax
 
 ### **SMU Book Prizes Recipients for 2018**
 
-![Image of Tax Academy Book Prize](/images/Daryl Tan 1.jpg)<br>
+![Image of Tax Academy Book Prize](/images/Daryl Tan 1.jpg)
 Tan Jun-Yang Daryl<br>
 Top Student in Advanced Taxation Module<br>
 
@@ -30,4 +30,4 @@ Nicole Tan<br>
 Top Student in Advanced Taxation Module<br>
 
 
-Stay tuned for more updates on our book prizes recipients from NTU, NUS, Nanyang Polytechnic, Singapore Polytechnic and Temasek Polytechnic 
+**Stay tuned for more updates on our book prizes recipients from NTU, NUS, Nanyang Polytechnic, Singapore Polytechnic and Temasek Polytechnic** 
