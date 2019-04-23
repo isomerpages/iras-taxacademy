@@ -20,12 +20,12 @@ Tan Jun-Yang Daryl<br>
 Top Student in Advanced Taxation Module<br>
 
 
-![Image of Tax Academy Book Prize](/images/Luo Xindi 1.jpg)<br>
+![Image of Tax Academy Book Prize](/images/Luo Xindi 1.jpg)
 Luo Xindi<br>
 Top Student in Advanced Taxation Module<br>
 
 
-![Image of Tax Academy Book Prize](/images/Nicole Tan 1.jpg)<br>
+![Image of Tax Academy Book Prize](/images/Nicole Tan 1.jpg)
 Nicole Tan<br>
 Top Student in Advanced Taxation Module<br>
 
