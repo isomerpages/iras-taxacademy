@@ -16,7 +16,7 @@ Participants will learn to compute income tax liability for individuals accurate
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScccIX23UDQywGyRXzJOZO5G4lnaUAyiO8-dVasrionHHanKg/closedform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 (Income Tax) 1-2019_programme.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is OPEN for intake 1/2019.
+Registration is CLOSED for intake 1/2019.
 
 The next intake for this course will be in Oct 2019. Registration will be available one month prior to the course commencement date.
 
