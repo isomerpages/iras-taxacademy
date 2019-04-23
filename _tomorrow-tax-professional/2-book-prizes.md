@@ -19,11 +19,13 @@ To encourage students to achieve their academic goals and pursue a career in tax
 Tan Jun-Yang Daryl<br>
 Top Student in Advanced Taxation Module<br>
 
-![Image of Tax Academy Book Prize]({{"/images/Luo Xindi 1.jpg" | absolute_url}})<br>
+
+![Image of Tax Academy Book Prize](/images/Luo Xindi 1.jpg)<br>
 Luo Xindi<br>
 Top Student in Advanced Taxation Module<br>
 
-![Image of Tax Academy Book Prize]({{"/images/Nicole Tan 1.jpg" | absolute_url}})<br>
+
+![Image of Tax Academy Book Prize](/images/Nicole Tan 1.jpg)<br>
 Nicole Tan<br>
 Top Student in Advanced Taxation Module<br>
 
