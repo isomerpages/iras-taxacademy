@@ -15,15 +15,15 @@ To encourage students to achieve their academic goals and pursue a career in tax
 
 ### **SMU Book Prizes Recipients for 2018**
 
-![Image of Tax Academy Book Prize]({{"/images/Daryl Tan 1.jpg" | absolute_url}})<br>
+![Image of Tax Academy Book Prize]({{"/images/DarylTan1.jpg" | absolute_url}})<br>
 Tan Jun-Yang Daryl<br>
 Top Student in Advanced Taxation Module<br>
 
-![Image of Tax Academy Book Prize]({{"/images/Luo Xindi 1.jpg" | absolute_url}})<br>
+![Image of Tax Academy Book Prize]({{"/images/LuoXindi1.jpg" | absolute_url}})<br>
 Luo Xindi<br>
 Top Student in Advanced Taxation Module<br>
 
-![Image of Tax Academy Book Prize]({{"/images/Nicole Tan 1.jpg" | absolute_url}})<br>
+![Image of Tax Academy Book Prize]({{"/images/NicoleTan1.jpg" | absolute_url}})<br>
 Nicole Tan<br>
 Top Student in Advanced Taxation Module<br>
 
