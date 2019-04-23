@@ -13,7 +13,7 @@ collection_name: tomorrow-tax-professional
 
 To encourage students to achieve their academic goals and pursue a career in tax
 
-### **SMU Book Prizes Recipients for 2018**
+### **2018 Tax Academy Book Prize Recipients from SMU**
 
 ![Image of Tax Academy Book Prize](/images/Daryl Tan 1.jpg)
 Tan Jun-Yang Daryl<br>
