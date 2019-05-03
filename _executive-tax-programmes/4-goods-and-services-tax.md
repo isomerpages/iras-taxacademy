@@ -14,9 +14,9 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSc03JanqcD_OuydBYXcJDsXO3MwxpQdLCz2EK07aWFVhNgN1Q/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 1-2019.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is OPEN for intake 1/2019.
+Registration is CLOSED for intake 1/2019.
 
-The next intake for this course will be in May 2019. Registration will be available one month prior to the course commencement date.
+The next intake for this course will be in Sep 2019. Registration will be available one month prior to the course commencement date.
 
 ### **Executive Tax Programme Level II (Goods and Services Tax)**
 
@@ -24,9 +24,9 @@ This course comprises one module on overall GST concepts and applications, and f
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdQdYefMyQ2RFOv8FQPFrfL5uL1evLs1d1xm5uHMECuscJ9Ow/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L2  GST 1-2019.pdf" | absolute_url}}){:target="_blank"}
 
-Registration is OPEN for intake 1/2019.
+Registration is CLOSED for intake 1/2019.
 
-The next intake for this course will be in May 2019. Registration will be available one month prior to the course commencement date.
+The next intake for this course will be in Sep 2019. Registration will be available one month prior to the course commencement date.
 
 ### **Executive Tax Programme Level III (Goods and Services Tax): Advanced GST**
 
