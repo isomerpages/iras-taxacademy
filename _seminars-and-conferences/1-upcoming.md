@@ -10,66 +10,37 @@ collection_name: seminars-and-conferences
 
 ### **Upcoming Seminars - Conferences**
 
-##### **FasTax Series: Fundamentals of Withholding Tax**
-**16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
+##### **TaxEdge Series: Current International Tax Developments**
+**30 May 2019 | 18:30 to 20:30 | Revenue House Aspiration Room**
 
-In light of the rapidly growing volume of cross border business transactions, managing withholding tax obligations becomes all the more important. Businesses are encouraged to gain a good understanding on the basics of withholding tax in Singapore as non-compliance with withholding tax requirements may result in hefty penalties of up to 20%.
+This 2-hour workshop will feature Prof Kee van Raad and Mr Siddharth Parekh, from International Tax Center Leiden.  The speakers will provide participants with an overview of the latest developments in international tax. Discussion topics include:
 
-The Tax Academy of Singapore is pleased to invite you to attend this half-day seminar on the Fundamentals of Withholding Tax. Speakers from IRAS will share with you on the fundamental concepts of withholding tax, explain the types of payments that attract withholding tax and provide some examples to illustrate the computation of withholding tax. This seminar will also cover on the various aspects of withholding tax filing and payment obligations.
+A.  The Belt & Road Initiative – Tax Administration Cooperation Forum
+B.  OECD February 2019 proposals regarding the Tax Challenges of the Digitalization of the Economy
+C.  Beneficial Ownership – new developments
+D.  Multilateral Instrument (MLI) update
 
-Programme Outline:
+About the Speakers:
 
-Scope of tax    What is withholding tax  	 Payments subject to withholding tax    Details of payments under Sections 12(6) and 12(7)    Withholding tax rates    Computation of withholding tax    When to file and pay    Date of payment and deemed payment    Penalties for late payment and recovery    e-Services at myTax Portal
+Kees van Raad
+Chairman, International Tax Center Leiden
 
-Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
+Kees van Raad is Professor of International Tax Law at the University of Leiden (The Netherlands), Chairman of the International Tax Center Leiden and Director of its Adv LLM Program in International Tax Law. He is of counsel to Loyens & Loeff, a Netherlands-based internationally active (tax) law firm. He has published comprehensively on issues of international tax law, and in particular on tax treaties. He has lectured in more
+than 30 countries, has held visiting professorships at many universities abroad and is a frequent speaker at foreign conferences, congresses and seminars.
 
-Seminar fees: $107 (incl. GST)
+Siddharth Parekh
+Teaching Associate, International Tax Center Leiden
 
-Closing date: 9 May 19. Seats on a first-come-first-served basis, upon full payment.
-
-[Registration Form](https://forms.gle/c81ZHTTPqyoK24eH9)
-
-
-##### **FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
-**22 May 2019 | 14:00 to 17:00 | Revenue House Aspiration Room**
-
-As a highly market-oriented and open economy, Singapore has established an extensive network of double tax agreements (DTA) with her trading partners to promote international trade and investment by improving transparency of information and certainty of tax positions.  This workshop will be facilitated by speakers from Deloitte -  Mr Tom Toryanik (Tax Director), and Mr Chua Kong Ping (Tax Senior Manager).  The speakers will share with you practical approaches to help businesses understand the application of tax treaties to common cross-border payments through various worked examples and case studies.
-
-Programme Outline:
-
-Fundamentals of treaty interpretation    Introduction to common DTA provisions    Impact of measures to prevent granting of treaty benefits in inappropriate circumstances    Worked examples and case studies    Q&A
+Siddharth is a partner at Sunil G Parekh & Co, Chartered Accountants, a Mumbai based tax and accounting firm and focuses on advising clients on international tax and transfer pricing issues. He has previously worked in the international tax team of EY in their London and Mumbai offices. A chartered accountant from the
+Institute of Chartered Accountants of India, he obtained his Adv LLM in International Tax Law from Leiden University, where he worked as a teaching assistant and continues to lecture on international tax law.
 
 Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
 
-Seminar fees: $107 (incl. GST)
+Seminar fees: $85.60 (incl. GST)
 
-Closing date: 15 May 19. Seats on a first-come-first-served basis, upon full payment.
+Closing date: 23 May 19. Seats on a first-come-first-served basis, upon full payment.
 
-[Registration Form](https://forms.gle/DXXNnfR5rupeBca17)
-
-
-##### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
-**27 May 2019 | 14:00 to 17:00 | Revenue House Courage Room**
-
-Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors? 
-Then join us for this half day workshop where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner.  The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
-
-By adopting ASK, you will enjoy the following benefits:
-
-Understand GST requirements on filing and record-keeping    Review accuracy of GST submissions    Reduce risk of incurring penalties on common errors made by GST-registered businesses    Discover past GST errors early for timely disclosure to IRAS to enjoy zero or reduced penalties under IRAS' Voluntary Disclosure Programme    Enjoy administrative concessions for common errors disclosed through the course of ASK Annual Review    Fulfil requirement for application or renewal of selected GST schemes
-
-Programme Outline:
-
-Introduction to GST Assisted Self-Help Kit (ASK)    Inculcating Good GST Practices    Performing Quality Checks and Highlights on Common GST Errors  	 Effective Annual Review
-
-Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
-Seminar fees: $107 (incl. GST)
-
-Closing date: 21 May 19. Seats on a first-come-first-served basis, upon full payment.
-
-[Registration Form]( https://forms.gle/y9owUYNAnAq3Q7QeA)
-
+[Registration Form](https://forms.gle/3Zh9r5Cbzb2asCVC7)
 
 
 
