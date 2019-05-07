@@ -16,7 +16,7 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 Registration is CLOSED for intake 1/2019.
 
-The next intake for this course will be in Sep 2019. Registration will be available one month prior to the course commencement date.
+The next intake for this course will be in Sep 2019. Registration will be available six weeks prior to the course commencement date.
 
 ### **Executive Tax Programme Level II (Goods and Services Tax)**
 
@@ -26,7 +26,7 @@ This course comprises one module on overall GST concepts and applications, and f
 
 Registration is CLOSED for intake 1/2019.
 
-The next intake for this course will be in Sep 2019. Registration will be available one month prior to the course commencement date.
+The next intake for this course will be in Sep 2019. Registration will be available six weeks prior to the course commencement date.
 
 ### **Executive Tax Programme Level III (Goods and Services Tax): Advanced GST**
 

@@ -18,7 +18,7 @@ Participants will learn to compute income tax liability for individuals accurate
 
 Registration is CLOSED for intake 1/2019.
 
-The next intake for this course will be in Oct 2019. Registration will be available one month prior to the course commencement date.
+The next intake for this course will be in Oct 2019. Registration will be available six weeks prior to the course commencement date.
 
 ### **Executive Tax Programme Level II (Income Tax – Corporate & Business)**
 
@@ -37,7 +37,7 @@ Intake 2/2019 (Sep 2019 class):
 
 Registration is OPEN for intake 1/2019 and Intake 2/2019.
 
-The next intake for this course will be in Jan 2020. Registration will be available one month prior to the course commencement date.
+The next intake for this course will be in Jan 2020. Registration will be available six weeks prior to the course commencement date.
 
 ### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme**
 
