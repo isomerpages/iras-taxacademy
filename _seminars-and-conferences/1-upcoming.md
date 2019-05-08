@@ -106,9 +106,8 @@ Closing date: 23 May 19. Seats on a first-come-first-served basis, upon full pay
 
 
 
-##### **FULLY SUBSCRIBED.
-
-FasTax Series: Fundamentals of Withholding Tax**
+####**FULLY SUBSCRIBED**
+##### **FasTax Series: Fundamentals of Withholding Tax**
 **16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
 
 
