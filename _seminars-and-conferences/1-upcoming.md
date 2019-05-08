@@ -37,6 +37,7 @@ Who should attend:
 GST tax practitioners, including tax, finance, accounting and legal professionals
  
 Closing date: 12 June 19. Seats on a first-come-first-served basis.
+
 Seminar fees: $160.50 (incl. GST). Includes 2 tea breaks and 1 lunch
 
 
@@ -105,8 +106,9 @@ Closing date: 23 May 19. Seats on a first-come-first-served basis, upon full pay
 
 
 
-**FULLY SUBSCRIBED**
-##### **FasTax Series: Fundamentals of Withholding Tax**
+##### **FULLY SUBSCRIBED.
+
+FasTax Series: Fundamentals of Withholding Tax**
 **16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
 
 
