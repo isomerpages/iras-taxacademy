@@ -10,9 +10,41 @@ collection_name: seminars-and-conferences
 
 ### **Upcoming Seminars - Conferences**
 
+##### **FasTax Series: Fundamentals of GST Filing**
+**17 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
+
+[Registration Form](https://forms.gle/KLgKSfB7grRNjFwp6)
+
+Join us in this workshop to gain tips and knowledge in the following areas:
+A)Fundamentals of GST rules
+
+B)Main tax obligations of a company and a tax agent
+
+C)Practical tips for preparation of GST returns
+
+D)Common filing mistakes that could be avoided
+
+E)Risks and recovery actions taken for non-compliance
+ 
+Opportunity not to be missed!
+IRAS’ Senior Tax Officers will be on hand to clarify any GST issues you may have encountered.
+ 
+Programme Outline:
+GST Compliance and You  Responsibilities of a GST-Registered Person  Key Concepts and Common GST Errors  Import & Export International Services  Reimbursement vs Disbursement  Fringe Benefits    Panel Discussion
+ 
+Who should attend:
+GST tax practitioners, including tax, finance, accounting and legal professionals
+ 
+Registration:
+Closing date: 12 June 19. Seats on a first-come-first-served basis.
+Seminar fees: $160.50 (incl. GST). Includes 2 tea breaks and 1 lunch
+
+
 
 ##### **Understanding how Annual Values are assessed for Property Tax**
 **11 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
+
+[Registration Form](https://forms.gle/wxfz2J7Lb8ym9tpj7)
  
 The Annual Values of all properties are assessed by the Chief Assessor for property tax purposes.  This 1-day workshop allows the participants to learn from the former Chief Assessor how Annual Values are assessed for the different types of properties.  By the end of the workshop, the participants should be able to:
 
@@ -36,12 +68,12 @@ Seminar fees: $160.50 (incl. GST)
 
 Closing date: 31 May 19. Seats on a first-come-first-served basis, upon full payment.
 
-[Registration Form]( https://forms.gle/wxfz2J7Lb8ym9tpj7)
-
 
 
 ##### **TaxEdge Series: Current International Tax Developments**
 **30 May 2019 | 18:30 to 20:30 | Revenue House Aspiration Room**
+
+[Registration Form](https://forms.gle/3Zh9r5Cbzb2asCVC7)
 
 This 2-hour workshop will feature Prof Kees van Raad and Mr Siddharth Parekh, from International Tax Center Leiden.  The speakers will provide participants with an overview of the latest developments in international tax. Discussion topics include:
 
@@ -70,8 +102,6 @@ Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and
 Seminar fees: $85.60 (incl. GST)
 
 Closing date: 23 May 19. Seats on a first-come-first-served basis, upon full payment.
-
-[Registration Form](https://forms.gle/3Zh9r5Cbzb2asCVC7)
 
 
 
