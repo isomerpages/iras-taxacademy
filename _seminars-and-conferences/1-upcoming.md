@@ -32,7 +32,7 @@ Ms Ang Sock Tiang has more than 35 years of work experience on statutory valuati
 
 Who Should Attend: Finance and Valuation professionals  Tax professionals and Business owners  Legal professionals
 
-Seminar fees: $107 (incl. GST)
+Seminar fees: $160.50 (incl. GST)
 
 Closing date: 31 May 19. Seats on a first-come-first-served basis, upon full payment.
 
