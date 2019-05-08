@@ -148,7 +148,7 @@ Registration Closed.
 
 
 
-##### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance [FULLY SUBSCRIBED]**
+##### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance      [FULLY SUBSCRIBED]**
 **27 May 2019 | 14:00 to 17:00 | Revenue House Courage Room**
 
 
