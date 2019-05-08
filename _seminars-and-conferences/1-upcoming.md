@@ -16,21 +16,21 @@ collection_name: seminars-and-conferences
 [Registration Form](https://forms.gle/KLgKSfB7grRNjFwp6)
 
 Join us in this workshop to gain tips and knowledge in the following areas:
-A)Fundamentals of GST rules
+A)  Fundamentals of GST rules
 
-B)Main tax obligations of a company and a tax agent
+B)  Main tax obligations of a company and a tax agent
 
-C)Practical tips for preparation of GST returns
+C)  Practical tips for preparation of GST returns
 
-D)Common filing mistakes that could be avoided
+D)  Common filing mistakes that could be avoided
 
-E)Risks and recovery actions taken for non-compliance
+E)  Risks and recovery actions taken for non-compliance
  
 Opportunity not to be missed!
 IRAS’ Senior Tax Officers will be on hand to clarify any GST issues you may have encountered.
  
 Programme Outline:
-GST Compliance and You  Responsibilities of a GST-Registered Person  Key Concepts and Common GST Errors  Import & Export International Services  Reimbursement vs Disbursement  Fringe Benefits    Panel Discussion
+GST Compliance and You  Responsibilities of a GST-Registered Person  Key Concepts and Common GST Errors  Import & Export International Services  Reimbursement vs Disbursement  Fringe Benefits    Panel Discussion
  
 Who should attend:
 GST tax practitioners, including tax, finance, accounting and legal professionals
