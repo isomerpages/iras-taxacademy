@@ -11,7 +11,9 @@ collection_name: seminars-and-conferences
 ##### **Events Schedule**
 
 [17 June - FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#gstfiling-ta-id)
+
 [11 June - Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#annualvalue-ta-id)
+
 [30 May - TaxEdge Series: Current International Tax Developments](/seminars-and-conferences/upcoming/#currentitldev-ta-id)
 
 
