@@ -198,9 +198,11 @@ Closing date: 15 May 19. Seats on a first-come-first-served basis, upon full pay
 Registration Closed.
 >
 >
->br
->**FasTax Series: GST ASK – A Self-help Tool for GST Compliance [FULLY SUBSCRIBED]**
 >
+>**FasTax Series: GST ASK – A Self-help Tool for GST Compliance** 
+
+>**[FULLY SUBSCRIBED]**
+
 >**27 May 2019 | 14:00 to 17:00 | Revenue House Courage Room**
 
 Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors? 
