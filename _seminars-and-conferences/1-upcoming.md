@@ -19,7 +19,11 @@ collection_name: seminars-and-conferences
 ##### **May 2019**
 
 [30 May - TaxEdge Series: Current International Tax Developments](/seminars-and-conferences/upcoming/#currentitldev-ta-id)
-###
+
+
+
+
+
 
 
 <a id="gstfiling-ta-id"></a>
