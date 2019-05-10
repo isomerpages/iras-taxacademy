@@ -8,8 +8,10 @@ collection_name: seminars-and-conferences
 
 > Tax Academy creates opportunities for tax professionals to be updated on global tax developments through seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
 
-### **Upcoming Seminars - Conferences**
+[FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#gstfiling-ta-id)
 
+
+<a id="gstfiling-ta-id"></a>
 ##### **FasTax Series: Fundamentals of GST Filing**
 **17 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
 
@@ -42,7 +44,8 @@ Seminar fees: $160.50 (incl. GST). Includes 2 tea breaks and 1 lunch
 
 
 
-##### **Understanding how Annual Values are assessed for Property Tax**
+<a id="annualvalue-ta-id"></a>
+##### **Understanding How Annual Values are assessed for Property Tax**
 **11 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
 
 [Registration Form](https://forms.gle/wxfz2J7Lb8ym9tpj7)
@@ -71,6 +74,7 @@ Closing date: 31 May 19. Seats on a first-come-first-served basis, upon full pay
 
 
 
+<a id="currentitldev-ta-id"></a>
 ##### **TaxEdge Series: Current International Tax Developments**
 **30 May 2019 | 18:30 to 20:30 | Revenue House Aspiration Room**
 
