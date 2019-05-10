@@ -196,14 +196,13 @@ Seminar fees: $107 (incl. GST)
 Closing date: 15 May 19. Seats on a first-come-first-served basis, upon full payment.
 
 Registration Closed.
->
->
->
+
+##
 >**FasTax Series: GST ASK – A Self-help Tool for GST Compliance** 
 
->**[FULLY SUBSCRIBED]**
+**[FULLY SUBSCRIBED]**
 
->**27 May 2019 | 14:00 to 17:00 | Revenue House Courage Room**
+**27 May 2019 | 14:00 to 17:00 | Revenue House Courage Room**
 
 Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors? 
 Then join us for this half day workshop where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner.  The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
