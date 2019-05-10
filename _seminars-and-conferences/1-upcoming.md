@@ -8,11 +8,13 @@ collection_name: seminars-and-conferences
 
 > Tax Academy creates opportunities for tax professionals to be updated on global tax developments through seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
 
-[FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#gstfiling-ta-id)
+##### **Events Schedule**
+
+[17 June - FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#gstfiling-ta-id)
 
 
 <a id="gstfiling-ta-id"></a>
-##### **FasTax Series: Fundamentals of GST Filing**
+>##### **FasTax Series: Fundamentals of GST Filing**
 **17 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
 
 [Registration Form](https://forms.gle/KLgKSfB7grRNjFwp6)
