@@ -40,7 +40,20 @@ Opportunity not to be missed!
 IRAS’ Senior Tax Officers will be on hand to clarify any GST issues you may have encountered.
  
 Programme Outline:
-GST Compliance and You  Responsibilities of a GST-Registered Person  Key Concepts and Common GST Errors  Import & Export International Services  Reimbursement vs Disbursement  Fringe Benefits    Panel Discussion
+
+* GST Compliance and You
+
+* Responsibilities of a GST-Registered Person
+
+* Key Concepts and Common GST Errors
+
+* Import & Export International Services
+
+* Reimbursement vs Disbursement
+
+* Fringe Benefits
+
+* Panel Discussion
  
 Who should attend:
 GST tax practitioners, including tax, finance, accounting and legal professionals
