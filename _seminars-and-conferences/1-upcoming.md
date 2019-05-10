@@ -67,8 +67,8 @@ Closing date: 12 June 19. Seats on a first-come-first-served basis.
 
 Seminar fees: $160.50 (incl. GST). Includes 2 tea breaks and 1 lunch
 
-
-
+>
+>
 <a id="annualvalue-ta-id"></a>
 >##### **Understanding How Annual Values are assessed for Property Tax**
 ##### **11 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
@@ -97,8 +97,8 @@ Seminar fees: $160.50 (incl. GST)
 
 Closing date: 31 May 19. Seats on a first-come-first-served basis, upon full payment.
 
-
-
+>
+>
 <a id="currentitldev-ta-id"></a>
 >##### **TaxEdge Series: Current International Tax Developments**
 ##### **30 May 2019 | 18:30 to 20:30 | Revenue House Aspiration Room**
@@ -133,8 +133,8 @@ Seminar fees: $85.60 (incl. GST)
 
 Closing date: 23 May 19. Seats on a first-come-first-served basis, upon full payment.
 
-
-
+>
+>
 >##### **FasTax Series: Fundamentals of Withholding Tax [FULLY SUBSCRIBED]**
 ##### **16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
 
@@ -155,8 +155,8 @@ Closing date: 9 May 19. Seats on a first-come-first-served basis, upon full paym
 
 Registration Closed.
 
-
-
+>
+>
 >##### **FasTax Series: Fundamentals of Withholding Tax–Implications of Tax Treaties [FULLY SUBSCRIBED]**
 ##### **22 May 2019 | 14:00 to 17:00 | Revenue House Aspiration Room**
 
@@ -175,8 +175,8 @@ Closing date: 15 May 19. Seats on a first-come-first-served basis, upon full pay
 
 Registration Closed.
 
-
-
+>
+>
 >##### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance [FULLY SUBSCRIBED]**
 ##### **27 May 2019 | 14:00 to 17:00 | Revenue House Courage Room**
 
@@ -200,6 +200,6 @@ Closing date: 21 May 19. Seats on a first-come-first-served basis, upon full pay
 
 Registration Closed.
 
-
-
+>
+>
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
