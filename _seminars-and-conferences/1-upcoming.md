@@ -20,12 +20,13 @@ collection_name: seminars-and-conferences
 ##### **May 2019**
 
 [30 May - TaxEdge Series: Current International Tax Developments](/seminars-and-conferences/upcoming/#currentitldev-ta-id)
->
->
->
+
+
+
 <a id="gstfiling-ta-id"></a>
 >**FasTax Series: Fundamentals of GST Filing**
->**17 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
+
+**17 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
 
 [Registration Form](https://forms.gle/KLgKSfB7grRNjFwp6)
 
@@ -65,12 +66,13 @@ Who should attend: GST tax practitioners, including tax, finance, accounting and
 Closing date: 12 June 19. Seats on a first-come-first-served basis.
 
 Seminar fees: $160.50 (incl. GST). Includes 2 tea breaks and 1 lunch
->
->
->
+
+
+
 <a id="annualvalue-ta-id"></a>
 >**Understanding How Annual Values are assessed for Property Tax**
->**11 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
+
+**11 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
 
 [Registration Form](https://forms.gle/wxfz2J7Lb8ym9tpj7)
  
@@ -95,12 +97,13 @@ Who Should Attend: Finance and Valuation professionals, Tax professionals and Bu
 Seminar fees: $160.50 (incl. GST)
 
 Closing date: 31 May 19. Seats on a first-come-first-served basis, upon full payment.
->
->
->
+
+
+
 <a id="currentitldev-ta-id"></a>
 >**TaxEdge Series: Current International Tax Developments**
->**30 May 2019 | 18:30 to 20:30 | Revenue House Aspiration Room**
+
+**30 May 2019 | 18:30 to 20:30 | Revenue House Aspiration Room**
 
 [Registration Form](https://forms.gle/3Zh9r5Cbzb2asCVC7)
 
@@ -131,11 +134,12 @@ Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and
 Seminar fees: $85.60 (incl. GST)
 
 Closing date: 23 May 19. Seats on a first-come-first-served basis, upon full payment.
->
->
->
+
+
+
 >**FasTax Series: Fundamentals of Withholding Tax [FULLY SUBSCRIBED]**
->**16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
+
+**16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
 
 In light of the rapidly growing volume of cross border business transactions, managing withholding tax obligations becomes all the more important. Businesses are encouraged to gain a good understanding on the basics of withholding tax in Singapore as non-compliance with withholding tax requirements may result in hefty penalties of up to 20%.
 
@@ -170,12 +174,14 @@ Seminar fees: $107 (incl. GST)
 Closing date: 9 May 19. Seats on a first-come-first-served basis, upon full payment.
 
 Registration Closed.
->
->
->br
+
+
+
 >**FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
->**[FULLY SUBSCRIBED]**
->**22 May 2019 | 14:00 to 17:00 | Revenue House Aspiration Room**
+
+**[FULLY SUBSCRIBED]**
+
+**22 May 2019 | 14:00 to 17:00 | Revenue House Aspiration Room**
 
 As a highly market-oriented and open economy, Singapore has established an extensive network of double tax agreements (DTA) with her trading partners to promote international trade and investment by improving transparency of information and certainty of tax positions.  This workshop will be facilitated by speakers from Deloitte -  Mr Tom Toryanik (Tax Director), and Mr Chua Kong Ping (Tax Senior Manager).  The speakers will share with you practical approaches to help businesses understand the application of tax treaties to common cross-border payments through various worked examples and case studies.
 
@@ -197,7 +203,7 @@ Closing date: 15 May 19. Seats on a first-come-first-served basis, upon full pay
 
 Registration Closed.
 
-##
+
 >**FasTax Series: GST ASK – A Self-help Tool for GST Compliance** 
 
 **[FULLY SUBSCRIBED]**
