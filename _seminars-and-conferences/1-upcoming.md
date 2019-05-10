@@ -25,8 +25,8 @@ collection_name: seminars-and-conferences
 
 <a id="gstfiling-ta-id"></a>
 >**FasTax Series: Fundamentals of GST Filing**
-
-**17 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
+>
+>**17 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
 
 [Registration Form](https://forms.gle/KLgKSfB7grRNjFwp6)
 
@@ -71,8 +71,8 @@ Seminar fees: $160.50 (incl. GST). Includes 2 tea breaks and 1 lunch
 
 <a id="annualvalue-ta-id"></a>
 >**Understanding How Annual Values are assessed for Property Tax**
-
-**11 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
+>
+>**11 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
 
 [Registration Form](https://forms.gle/wxfz2J7Lb8ym9tpj7)
  
@@ -102,8 +102,8 @@ Closing date: 31 May 19. Seats on a first-come-first-served basis, upon full pay
 
 <a id="currentitldev-ta-id"></a>
 >**TaxEdge Series: Current International Tax Developments**
-
-**30 May 2019 | 18:30 to 20:30 | Revenue House Aspiration Room**
+>
+>**30 May 2019 | 18:30 to 20:30 | Revenue House Aspiration Room**
 
 [Registration Form](https://forms.gle/3Zh9r5Cbzb2asCVC7)
 
@@ -138,8 +138,8 @@ Closing date: 23 May 19. Seats on a first-come-first-served basis, upon full pay
 
 
 >**FasTax Series: Fundamentals of Withholding Tax [FULLY SUBSCRIBED]**
-
-**16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
+>
+>**16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
 
 In light of the rapidly growing volume of cross border business transactions, managing withholding tax obligations becomes all the more important. Businesses are encouraged to gain a good understanding on the basics of withholding tax in Singapore as non-compliance with withholding tax requirements may result in hefty penalties of up to 20%.
 
@@ -179,9 +179,9 @@ Registration Closed.
 
 >**FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
 
-**[FULLY SUBSCRIBED]**
+>**[FULLY SUBSCRIBED]**
 
-**22 May 2019 | 14:00 to 17:00 | Revenue House Aspiration Room**
+>**22 May 2019 | 14:00 to 17:00 | Revenue House Aspiration Room**
 
 As a highly market-oriented and open economy, Singapore has established an extensive network of double tax agreements (DTA) with her trading partners to promote international trade and investment by improving transparency of information and certainty of tax positions.  This workshop will be facilitated by speakers from Deloitte -  Mr Tom Toryanik (Tax Director), and Mr Chua Kong Ping (Tax Senior Manager).  The speakers will share with you practical approaches to help businesses understand the application of tax treaties to common cross-border payments through various worked examples and case studies.
 
@@ -206,9 +206,9 @@ Registration Closed.
 
 >**FasTax Series: GST ASK – A Self-help Tool for GST Compliance** 
 
-**[FULLY SUBSCRIBED]**
+>**[FULLY SUBSCRIBED]**
 
-**27 May 2019 | 14:00 to 17:00 | Revenue House Courage Room**
+>**27 May 2019 | 14:00 to 17:00 | Revenue House Courage Room**
 
 Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors? 
 Then join us for this half day workshop where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner.  The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
