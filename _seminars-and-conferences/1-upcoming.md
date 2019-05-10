@@ -7,17 +7,22 @@ collection_name: seminars-and-conferences
 ---
 
 > Tax Academy creates opportunities for tax professionals to be updated on global tax developments through seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
+>
+##### **EVENTS OPEN FOR REGISTRATION**
 
-##### **Events Schedule**
+
+##### **June 2019**
 
 [17 June - FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#gstfiling-ta-id)
 
 [11 June - Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#annualvalue-ta-id)
 
+##### **May 2019**
+
 [30 May - TaxEdge Series: Current International Tax Developments](/seminars-and-conferences/upcoming/#currentitldev-ta-id)
 
-
-
+>
+>
 <a id="gstfiling-ta-id"></a>
 >##### **FasTax Series: Fundamentals of GST Filing**
 ##### **17 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
