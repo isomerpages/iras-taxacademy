@@ -21,13 +21,8 @@ collection_name: seminars-and-conferences
 [30 May - TaxEdge Series: Current International Tax Developments](/seminars-and-conferences/upcoming/#currentitldev-ta-id)
 
 
-
-
-
-
-
 <a id="gstfiling-ta-id"></a>
->### **FasTax Series: Fundamentals of GST Filing**
+### **FasTax Series: Fundamentals of GST Filing**
 **17 June 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
 
 [Registration Form](https://forms.gle/KLgKSfB7grRNjFwp6)
