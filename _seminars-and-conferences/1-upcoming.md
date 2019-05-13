@@ -19,11 +19,11 @@ collection_name: seminars-and-conferences
 
 30 May: [TaxEdge Series: Current International Tax Developments](/seminars-and-conferences/upcoming/#currentitldev-ta-id)
 
-27 May: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance **FULLY SUBSCRIBED**](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)
+27 May: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)**FULLY SUBSCRIBED**
 
-22 May: [FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties **FULLY SUBSCRIBED**](/seminars-and-conferences/upcoming/#WHT-TREATIES-ta-id)
+22 May: [FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#WHT-TREATIES-ta-id)**FULLY SUBSCRIBED**
 
-16 May: [FasTax Series: Fundamentals of Withholding Tax **FULLY SUBSCRIBED**](/seminars-and-conferences/upcoming/#WHT-ta-id)
+16 May: [FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#WHT-ta-id)**FULLY SUBSCRIBED**
 
 
 <a id="gstfiling-ta-id"></a>
