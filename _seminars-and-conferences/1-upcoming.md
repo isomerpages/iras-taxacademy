@@ -6,19 +6,24 @@ breadcrumb: Upcoming Seminars and Conferences
 collection_name: seminars-and-conferences
 ---
 
-> Tax Academy creates opportunities for tax professionals to be updated on global tax developments through seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
 
-##### **EVENTS OPEN FOR REGISTRATION**
+##### **UPCOMING EVENTS**
 
 
 ##### **June 2019**
 
-[17 June - FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#gstfiling-ta-id)
+17 June: [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#gstfiling-ta-id)
 
-[11 June - Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#annualvalue-ta-id)
+11 June: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#annualvalue-ta-id)
 ##### **May 2019**
 
-[30 May - TaxEdge Series: Current International Tax Developments](/seminars-and-conferences/upcoming/#currentitldev-ta-id)
+30 May: [TaxEdge Series: Current International Tax Developments](/seminars-and-conferences/upcoming/#currentitldev-ta-id)
+
+27 May: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance **FULLY SUBSCRIBED**](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)
+
+22 May: [FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties **FULLY SUBSCRIBED**](/seminars-and-conferences/upcoming/#WHT-TREATIES-ta-id)
+
+16 May: [FasTax Series: Fundamentals of Withholding Tax **FULLY SUBSCRIBED**](/seminars-and-conferences/upcoming/#WHT-ta-id)
 
 
 <a id="gstfiling-ta-id"></a>
@@ -128,7 +133,7 @@ Seminar fees: $85.60 (incl. GST)
 
 Closing date: 23 May 19. Seats on a first-come-first-served basis, upon full payment.
 
-
+<a id="WHT-ta-id"></a>
 ### **FasTax Series: Fundamentals of Withholding Tax [FULLY SUBSCRIBED]**
 **16 May 2019 | 9:00 to 12:00 | Revenue House Aspiration Room**
 
@@ -166,7 +171,7 @@ Closing date: 9 May 19. Seats on a first-come-first-served basis, upon full paym
 
 Registration Closed.
 
-
+<a id="WHT-TREATIES-ta-id"></a>
 ### **FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties [FULLY SUBSCRIBED]**
 **22 May 2019 | 14:00 to 17:00 | Revenue House Aspiration Room**
 
@@ -190,7 +195,7 @@ Closing date: 15 May 19. Seats on a first-come-first-served basis, upon full pay
 
 Registration Closed.
 
-
+<a id="GST-ASK-ta-id"></a>
 ### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance [FULLY SUBSCRIBED]**
 **27 May 2019 | 14:00 to 17:00 | Revenue House Courage Room**
 
