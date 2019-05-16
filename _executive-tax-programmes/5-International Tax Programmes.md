@@ -6,7 +6,11 @@ breadcrumb: International Tax
 collection_name: executive-tax-programmes
 ---
 
-Tax Academy collaborates with leaders in the industry, academia and the government to develop and deliver structured tax training programmes that effectively raise the professional competency, knowledge and capabilities of the tax community.
+##### **UPCOMING PROGRAMMES OPEN FOR REGISTRATION**
+##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
+* 2019 intake: [ETP Level III - WU TA Advanced TP Prog](/executive-tax-programmes/international-tax-programmes/#etp3wutatp-ta-id)
+
+
 
 ### **Executive Tax Programme Level I (International Tax)**
 
@@ -14,7 +18,7 @@ This course will enable participants to acquire basic knowledge in tax treaties 
 
 [Registration Form](https://docs.google.com/forms/d/1TIyChQIw2jL8HX_JmnF9YwXwyhT6iN-RkOv4r1deYp0/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L1_ITP_1_2019_programme.pdf){:target="_blank"}
 
-**Registration is OPEN for intake 1/2019**
+**Registration is CLOSED for intake 1/2019**
 
 The next intake for this course will be in Nov 2019. Registration will open six weeks before the course commencement date.
 
