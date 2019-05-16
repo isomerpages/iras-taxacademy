@@ -8,16 +8,16 @@ collection_name: executive-tax-programmes
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (International Tax)**
-* Nov 2019 intake: [Stay tuned for more information in September](/executive-tax-programmes/international-tax-programmes/#etp1IT-ta-id)
+* Nov 2019 intake: [Stay tuned for more information in September](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **Executive Tax Programme Level II (International Tax)**
-* Oct 2019 intake: [Stay tuned for more information in August](/executive-tax-programmes/international-tax-programmes/#etp2IT-ta-id)
+* Oct 2019 intake: [Stay tuned for more information in August](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
-* 2019 intake: [Leiden-TA Advanced Tax Treaties Programme](/executive-tax-programmes/international-tax-programmes/#leiden-ta-id)
+* 2019 intake: [Leiden-TA Advanced Tax Treaties Programme](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
-* 2019 intake: [WU-TA Advanced Transfer Pricing Programme](/executive-tax-programmes/international-tax-programmes/#wu-ta-id)
+* 2019 intake: [WU-TA Advanced Transfer Pricing Programme](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 
 <a id="etp1IT-ta-id"></a>
