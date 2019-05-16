@@ -25,13 +25,13 @@ Registration is CLOSED for intake 1/2019.
 
 The next intake for this course will be in Oct 2019. Registration will be available six weeks prior to the course commencement date.
 
+<a id="etp2jul-ta-id"></a>
 ### **Executive Tax Programme Level II (Income Tax – Corporate & Business)**
 
 This course provides in-depth knowledge in income tax principles and covers concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies.
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-<a id="etp2jul-ta-id"></a>
 Intake 1/2019 (July 2019 class):
 
 [Registration Form](https://docs.google.com/forms/d/1zT8Smm-AiTexXgN1C9pwdLdBMN-QXnPpt_vUc2qDE8U/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT12019.pdf){:target="_blank"}
