@@ -6,6 +6,13 @@ breadcrumb: Income Tax
 collection_name: executive-tax-programmes
 ---
 
+##### **UPCOMING PROGRAMMES**
+
+#### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
+Jul 2019 intake:[ETP Level II - Income Tax](/executive-tax-programmes/income-tax/#etp2jul-ta-id)
+Sep 2019 intake:[ETP Level II - Income Tax](/executive-tax-programmes/income-tax/#etp2jul-ta-id)
+
+
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
 
 This course covers interpretation of the primary provisions in the Income Tax Act, distinction between income and capital receipts, principles governing the deduction of expenses and conditions for claim of reliefs.
