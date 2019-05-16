@@ -5,8 +5,9 @@ permalink: /executive-tax-programmes/goods-and-services-tax/
 breadcrumb: Goods and Services Tax
 collection_name: executive-tax-programmes
 ---
+##### **UPCOMING PROGRAMMES OPEN FOR REGISTRATION**
+##### **Stay tuned for more information in July**
 
-Tax Academy collaborates with leaders in the industry, academia and the government to develop and deliver structured tax training programmes that effectively raise the professional competency, knowledge and capabilities of the tax community.
 
 ### **Executive Tax Programme Level I (Goods and Services Tax)**
 
