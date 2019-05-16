@@ -6,7 +6,7 @@ breadcrumb: Income Tax
 collection_name: executive-tax-programmes
 ---
 
-##### **UPCOMING PROGRAMMES**
+##### **UPCOMING PROGRAMMES OPEN FOR REGISTRATION**
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 Jul 2019 intake:[ETP Level II - Corporate & Business Jul class](/executive-tax-programmes/income-tax/#etp2jul-ta-id)
 
