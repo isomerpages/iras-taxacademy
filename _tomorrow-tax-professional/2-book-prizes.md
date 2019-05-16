@@ -6,7 +6,7 @@ breadcrumb: Book Prizes
 collection_name: tomorrow-tax-professional
 ---
 
-> Tax Academy of Singapore sponsors book prizes to students taking the taxation modules in the local universities and polytechnics. 
+Tax Academy of Singapore sponsors book prizes to students taking the taxation modules in the local universities and polytechnics. 
 
 
 ### **Our Objective**

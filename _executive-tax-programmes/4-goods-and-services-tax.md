@@ -5,9 +5,18 @@ permalink: /executive-tax-programmes/goods-and-services-tax/
 breadcrumb: Goods and Services Tax
 collection_name: executive-tax-programmes
 ---
+##### **UPCOMING PROGRAMMES**
+##### **Executive Tax Programme Level I (GST)**
+* Sep 2019 intake: [Stay tuned for more information in July](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
-Tax Academy collaborates with leaders in the industry, academia and the government to develop and deliver structured tax training programmes that effectively raise the professional competency, knowledge and capabilities of the tax community.
+##### **Executive Tax Programme Level II (GST)**
+* Sep 2019 intake: [Stay tuned for more information in July](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
+##### **Executive Tax Programme Level III (Advanced GST)**
+* Intake 2020/2011: [Stay tuned for more information in August](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
+
+
+<a id="etp1gst-ta-id"></a>
 ### **Executive Tax Programme Level I (Goods and Services Tax)**
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
@@ -18,6 +27,7 @@ Registration is CLOSED for intake 1/2019.
 
 The next intake for this course will be in Sep 2019. Registration will be available six weeks prior to the course commencement date.
 
+<a id="etp2gst-ta-id"></a>
 ### **Executive Tax Programme Level II (Goods and Services Tax)**
 
 This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services.
@@ -28,6 +38,7 @@ Registration is CLOSED for intake 1/2019.
 
 The next intake for this course will be in Sep 2019. Registration will be available six weeks prior to the course commencement date.
 
+<a id="etp3gst-ta-id"></a>
 ### **Executive Tax Programme Level III (Goods and Services Tax): Advanced GST**
 
 This is the foremost training programme in Goods and Services Tax for the tax professionals in Singapore. The curriculum offers rigorous training in advanced GST concepts and relevant case laws. There are two components to this programme: the coursework component and the research component.

@@ -6,8 +6,20 @@ breadcrumb: Income Tax
 collection_name: executive-tax-programmes
 ---
 
-Tax Academy collaborates with leaders in the industry, academia and the government to develop and deliver structured tax training programmes that effectively raise the professional competency, knowledge and capabilities of the tax community.
+##### **UPCOMING PROGRAMMES**
+##### **Executive Tax Programme Level I (Income Tax - Individual)**
+* Oct 2019 intake: [Stay tuned for more information in August](/executive-tax-programmes/income-tax/#etp1oct-ta-id)
 
+##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
+* Jul 2019 intake: [ETP Level II - Corporate & Business Jul class](/executive-tax-programmes/income-tax/#etp2jul-ta-id)
+
+* Sep 2019 intake: [ETP Level II - Corporate & Business Sep class](/executive-tax-programmes/income-tax/#etp2sep-ta-id)
+
+##### **Executive Tax Programme Level III (Advanced Tax Programme)**
+* Intake 15: [Stay tuned for more information in August](/executive-tax-programmes/income-tax/#atp-ta-id)
+
+
+<a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
 
 This course covers interpretation of the primary provisions in the Income Tax Act, distinction between income and capital receipts, principles governing the deduction of expenses and conditions for claim of reliefs.
@@ -20,6 +32,7 @@ Registration is CLOSED for intake 1/2019.
 
 The next intake for this course will be in Oct 2019. Registration will be available six weeks prior to the course commencement date.
 
+<a id="etp2jul-ta-id"></a>
 ### **Executive Tax Programme Level II (Income Tax – Corporate & Business)**
 
 This course provides in-depth knowledge in income tax principles and covers concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies.
@@ -30,7 +43,7 @@ Intake 1/2019 (July 2019 class):
 
 [Registration Form](https://docs.google.com/forms/d/1zT8Smm-AiTexXgN1C9pwdLdBMN-QXnPpt_vUc2qDE8U/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT12019.pdf){:target="_blank"}
 
-
+<a id="etp2sep-ta-id"></a>
 Intake 2/2019 (Sep 2019 class):
 
 [Registration Form](https://docs.google.com/forms/d/1gdl5pmB2STT7BJc-WkEHhm1cgu-NMF4Sqv3Pf6B8lZg/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT22019.pdf){:target="_blank"}
@@ -39,6 +52,7 @@ Registration is OPEN for intake 1/2019 and Intake 2/2019.
 
 The next intake for this course will be in Jan 2020. Registration will be available six weeks prior to the course commencement date.
 
+<a id="atp-ta-id"></a>
 ### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme**
 
 This course provides in-depth knowledge in income tax principles and covers concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies.

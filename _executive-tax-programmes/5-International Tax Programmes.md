@@ -6,18 +6,32 @@ breadcrumb: International Tax
 collection_name: executive-tax-programmes
 ---
 
-Tax Academy collaborates with leaders in the industry, academia and the government to develop and deliver structured tax training programmes that effectively raise the professional competency, knowledge and capabilities of the tax community.
+##### **UPCOMING PROGRAMMES**
+##### **Executive Tax Programme Level I (International Tax)**
+* Nov 2019 intake: [Stay tuned for more information in September](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
+##### **Executive Tax Programme Level II (International Tax)**
+* Oct 2019 intake: [Stay tuned for more information in August](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
+
+##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
+* 2019 intake: [Leiden-TA Advanced Tax Treaties Programme](/executive-tax-programmes/international-tax/#leiden-ta-id)
+
+##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
+* 2019 intake: [WU-TA Advanced Transfer Pricing Programme](/executive-tax-programmes/international-tax/#wu-ta-id)
+
+
+<a id="etp1IT-ta-id"></a>
 ### **Executive Tax Programme Level I (International Tax)**
 
 This course will enable participants to acquire basic knowledge in tax treaties and transfer pricing.
 
 [Registration Form](https://docs.google.com/forms/d/1TIyChQIw2jL8HX_JmnF9YwXwyhT6iN-RkOv4r1deYp0/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L1_ITP_1_2019_programme.pdf){:target="_blank"}
 
-**Registration is OPEN for intake 1/2019**
+**Registration is CLOSED for intake 1/2019**
 
 The next intake for this course will be in Nov 2019. Registration will open six weeks before the course commencement date.
 
+<a id="etp2IT-ta-id"></a>
 ### **Executive Tax Programme Level II (International Tax)**
 
 This course provides in-depth knowledge in international tax principles and concepts, with focus on specific issues on tax treaty and transfer pricing.

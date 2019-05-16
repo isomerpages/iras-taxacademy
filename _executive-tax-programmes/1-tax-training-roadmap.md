@@ -6,7 +6,8 @@ breadcrumb: Tax Training Roadmap
 collection_name: executive-tax-programmes
 ---
 
-Tax Academy offers a structured Tax Training Roadmap for tax professionals to attain a high level of competency in local and international tax.
+Tax Academy offers a structured Tax Training Roadmap for tax professionals to attain a high level of competency in local and international tax. We collaborate with leaders in the industry, academia and the government to develop and deliver structured tax training programmes that effectively raise the professional competency, knowledge and capabilities of the tax community.
+
 
 Expected outcomes after completing the programmes:
 
