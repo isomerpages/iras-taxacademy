@@ -8,7 +8,7 @@ collection_name: executive-tax-programmes
 
 ##### **UPCOMING PROGRAMMES OPEN FOR REGISTRATION**
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
-* 2019 intake: [ETP Level III - WU TA Advanced TP Prog](/executive-tax-programmes/international-tax-programmes/#etp3wutatp-ta-id)
+* 2019 intake: [WU TA Advanced TP Prog](/executive-tax-programmes/international-tax-programmes/#wu-ta-id)
 
 
 
