@@ -9,8 +9,10 @@ collection_name: executive-tax-programmes
 ##### **UPCOMING PROGRAMMES**
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
-Jul 2019 intake:[ETP Level II - Income Tax](/executive-tax-programmes/income-tax/#etp2jul-ta-id)
-Sep 2019 intake:[ETP Level II - Income Tax](/executive-tax-programmes/income-tax/#etp2jul-ta-id)
+
+Jul 2019 intake:[ETP Level II - Income Tax Jul class](/executive-tax-programmes/income-tax/#etp2jul-ta-id)
+
+Sep 2019 intake:[ETP Level II - Income Tax Sep class](/executive-tax-programmes/income-tax/#etp2sep-ta-id)
 
 
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
@@ -31,11 +33,12 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
+<a id="etp2jul-ta-id"></a>
 Intake 1/2019 (July 2019 class):
 
 [Registration Form](https://docs.google.com/forms/d/1zT8Smm-AiTexXgN1C9pwdLdBMN-QXnPpt_vUc2qDE8U/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT12019.pdf){:target="_blank"}
 
-
+<a id="etp2sep-ta-id"></a>
 Intake 2/2019 (Sep 2019 class):
 
 [Registration Form](https://docs.google.com/forms/d/1gdl5pmB2STT7BJc-WkEHhm1cgu-NMF4Sqv3Pf6B8lZg/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT22019.pdf){:target="_blank"}
