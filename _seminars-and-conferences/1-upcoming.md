@@ -12,18 +12,18 @@ collection_name: seminars-and-conferences
 
 ##### **June 2019**
 
-17 June: [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#gstfiling-ta-id)
+* 17 June: [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#gstfiling-ta-id)
 
-11 June: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#annualvalue-ta-id)
+* 11 June: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#annualvalue-ta-id)
 ##### **May 2019**
 
-30 May: [TaxEdge Series: Current International Tax Developments](/seminars-and-conferences/upcoming/#currentitldev-ta-id)
+* 30 May: [TaxEdge Series: Current International Tax Developments](/seminars-and-conferences/upcoming/#currentitldev-ta-id)
 
-27 May: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)  **FULLY SUBSCRIBED**
+* 27 May: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)  **FULLY SUBSCRIBED**
 
-22 May: [FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#WHT-TREATIES-ta-id)  **FULLY SUBSCRIBED**
+* 22 May: [FasTax Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#WHT-TREATIES-ta-id)  **FULLY SUBSCRIBED**
 
-16 May: [FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#WHT-ta-id)  **FULLY SUBSCRIBED**
+* 16 May: [FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#WHT-ta-id)  **FULLY SUBSCRIBED**
 
 
 <a id="gstfiling-ta-id"></a>
