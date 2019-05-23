@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: SkillsFuture Credit
-permalink: /tomorrow-tax-professional/skillsfuture/
+permalink: /tomorrow-tax-professional/skillsfuture-credit/
 breadcrumb: SkillsFuture Credit
 collection_name: tomorrow-tax-professional
 ---
