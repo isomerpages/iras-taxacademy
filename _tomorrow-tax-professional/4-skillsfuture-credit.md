@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: SkillsFuture
+title: SkillsFuture Credit
 permalink: /tomorrow-tax-professional/skillsfuture/
-breadcrumb: SkillsFuture
+breadcrumb: SkillsFuture Credit
 collection_name: tomorrow-tax-professional
 ---
 
