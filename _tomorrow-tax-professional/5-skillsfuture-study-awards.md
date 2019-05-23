@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: SkillsFuture Study Awards
-permalink: /tomorrow-tax-professional/skillsfuture/
+permalink: /tomorrow-tax-professional/skillsfuture-study-awards/
 breadcrumb: SkillsFuture Study Awards
 collection_name: tomorrow-tax-professional
 ---
