@@ -85,7 +85,7 @@ The programme takes a commercial and practical approach to addressing main issue
 
 Dates of programme: 5 & 6 Sep 2019
 
-[Registration Form](https://docs.google.com/forms/d/1mueIi7haKCfyo2xIi3YsqN9gtlMFhp48-6J_5hwzhfk/editm){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ITP%Brochure.pdf){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1mueIi7haKCfyo2xIi3YsqN9gtlMFhp48-6J_5hwzhfk/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ITP Brochure.pdf){:target="_blank"}
 
 
 **Registration is OPEN for 2019 intake**
