@@ -77,17 +77,15 @@ The programme provides participants with the latest update on international tran
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd3xXcKQ3CSqb7TFWkKVXlgN75d0XawogOyBPQk_KbggoVbRw/viewform){:target="_blank"} - [Details](/files/executive-tax-programmes/WU%20Prog.pdf){:target="_blank"}
 
-**Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
-
 ### **Advanced International Tax Planning**
 
 The programme takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia. It covers the basic concepts of international tax planning and looks at the key tax considerations through technical learning and interactive case studies for MNCs.
 
 Dates of programme: 5 & 6 Sep 2019
 
-[Registration Form](https://docs.google.com/forms/d/1mueIi7haKCfyo2xIi3YsqN9gtlMFhp48-6J_5hwzhfk/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ITP Brochure.pdf){:target="_blank"}
-
+[Registration Form](https://docs.google.com/forms/d/1mueIi7haKCfyo2xIi3YsqN9gtlMFhp48-6J_5hwzhfk/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ITP%Brochure.pdf){:target="_blank"}
 
 **Registration is OPEN for 2019 intake**
 
+**Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
 
