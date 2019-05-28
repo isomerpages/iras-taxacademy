@@ -79,7 +79,7 @@ The programme provides participants with the latest update on international tran
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd3xXcKQ3CSqb7TFWkKVXlgN75d0XawogOyBPQk_KbggoVbRw/viewform){:target="_blank"} - [Details](/files/executive-tax-programmes/WU%20Prog.pdf){:target="_blank"}
 
 <a id="itp-id"></a>
-### **Advanced International Tax Planning**
+### **Advanced International Tax Planning Programme**
 
 The programme takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia. It covers the basic concepts of international tax planning and looks at the key tax considerations through technical learning and interactive case studies for MNCs.
 
