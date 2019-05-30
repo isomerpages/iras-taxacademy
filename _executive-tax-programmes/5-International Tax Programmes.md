@@ -13,11 +13,12 @@ collection_name: executive-tax-programmes
 ##### **Executive Tax Programme Level II (International Tax)**
 * Oct 2019 intake: [Stay tuned for more information in August](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
-##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
-* 2019 intake: [Leiden-TA Advanced Tax Treaties Programme](/executive-tax-programmes/international-tax/#leiden-ta-id)
-
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
 * 2019 intake: [WU-TA Advanced Transfer Pricing Programme](/executive-tax-programmes/international-tax/#wu-ta-id)
+
+##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
+* 2019 intake: [Advanced Inteernational Tax Planning Programme](/executive-tax-programmes/international-tax/#itp-id)
+
 
 <a id="etp1IT-ta-id"></a>
 ### **Executive Tax Programme Level I (International Tax)**
@@ -77,7 +78,8 @@ The programme provides participants with the latest update on international tran
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd3xXcKQ3CSqb7TFWkKVXlgN75d0XawogOyBPQk_KbggoVbRw/viewform){:target="_blank"} - [Details](/files/executive-tax-programmes/WU%20Prog.pdf){:target="_blank"}
 
-### **Advanced International Tax Planning**
+<a id="itp-id"></a>
+### **Advanced International Tax Planning Programme**
 
 The programme takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia. It covers the basic concepts of international tax planning and looks at the key tax considerations through technical learning and interactive case studies for MNCs.
 
