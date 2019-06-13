@@ -8,7 +8,7 @@ collection_name: tomorrow-tax-professional
 
 ### **SkillsFuture Study Awards**
 
-The SkillsFuture Study Awards equip Singaporeans with the skills needed to benefit from quality jobs created by our economy. As Singapore continues our transition to an innovation-driven economy, new skills and competencies among Singaporeans will be in demand. Jobs are also evolving with new functions and existing ones requiring updated skillsets. The SkillsFuture Study Awards encourage Singaporeans to develop and deepen specialist skills needed by future economic growth sectors or in areas of demand. It also supports Singaporeans who already have deep specialist skills to develop other competencies. Over 500 study awards will be available from October 2015. At a later stage, up to 2,000 study awards are aimed to be given annually.
+The SkillsFuture Study Awards equip Singaporeans with the skills needed to benefit from quality jobs created by our economy. As Singapore continues our transition to an innovation-driven economy, new skills and competencies among Singaporeans will be in demand. Jobs are also evolving with new functions and existing ones requiring updated skillsets. The SkillsFuture Study Awards encourage Singaporeans to develop and deepen specialist skills needed by future economic growth sectors or in areas of demand. It also supports Singaporeans who already have deep specialist skills to develop other competencies. 
 
 
 **How does it work?**<br>
