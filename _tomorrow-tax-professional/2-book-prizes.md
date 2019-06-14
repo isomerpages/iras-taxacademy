@@ -45,4 +45,4 @@ Angelia Ng Hui Yun<br>
 Top Student in Taxation Module<br>
 
 
-**Stay tuned for more updates on our book prizes recipients from NTU, NUS, Nanyang Polytechnic, Singapore Polytechnic and Temasek Polytechnic** 
+**Stay tuned for more updates on our book prizes recipients from NTU, NUS, Singapore Polytechnic and Temasek Polytechnic** 
