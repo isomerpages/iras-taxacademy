@@ -32,11 +32,11 @@ Top Student in Advanced Taxation Module<br>
 
 ### **2018/2019 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
 
-![Image of Tax Academy Book Prize](/images/Ling.jpg)
+![Image of Tax Academy Book Prize](/images/Ling.png)
 Ling Jung Hong<br>
 Top Student in Taxation Module<br>
 
-![Image of Tax Academy Book Prize](/images/Chuah.jpg)
+![Image of Tax Academy Book Prize](/images/Chuah.png)
 Chuah Boon Long<br>
 Top Student in Taxation Module<br>
 
