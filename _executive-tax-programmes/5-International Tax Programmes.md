@@ -8,10 +8,10 @@ collection_name: executive-tax-programmes
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (International Tax)**
-* Nov 2019 intake: (/executive-tax-programmes/international-tax/#etp1IT-ta-id)
+* Nov 2019 intake: [International Tax Level I](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **Executive Tax Programme Level II (International Tax)**
-* Oct 2019 intake: (/executive-tax-programmes/international-tax/#etp2IT-ta-id)
+* Oct 2019 intake: [International Tax Level II](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
 * 2019 intake: [WU-TA Advanced Transfer Pricing Programme](/executive-tax-programmes/international-tax/#wu-ta-id)
@@ -36,7 +36,7 @@ The next intake for this course will be in May 2020. Registration will open six 
 
 This course provides in-depth knowledge in international tax principles and concepts, with focus on specific issues on tax treaty and transfer pricing.
 
-[Registration Form](https://docs.google.com/forms/d/1tFa47UJcgLaTUMJdUkosDl_iji5Nf-RliBpld8GEpEQ/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ITPL222019.pdf){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1tFa47UJcgLaTUMJdUkosDl_iji5Nf-RliBpld8GEpEQ/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ITPL22019.pdf){:target="_blank"}
 
 **Registration is OPEN for Intake 1/2019**
 
