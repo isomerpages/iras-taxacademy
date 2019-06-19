@@ -6,7 +6,7 @@ breadcrumb: Union Training Assistance Programme
 collection_name: tomorrow-tax-professional
 ---
 
-### **Union Training Assistance Programme**
+### **Union Training Assistance Programme for NTUC Members**
 
 Attend up to $250 worth of Tax Academy training for free each year as an NTUC member!
 
@@ -30,7 +30,7 @@ The following courses offered by Tax Academy are eligible for UTAP claims:
 - WU – TA Advanced Transfer Pricing Programme
 - Advanced International Tax Planning Programme
 
-Who can apply?
+**Who can apply?**
 
 All NTUC members can apply for UTAP. However, the following criteria must be met to be eligible for UTAP:
 
@@ -43,7 +43,7 @@ All NTUC members can apply for UTAP. However, the following criteria must be met
 
 Unfunded course fee refers to the balance course fee payable after applicable government subsidy. This excludes GST, registration fees, misc. fees etc.
 
-How to apply for UTAP?
+**How to apply for UTAP?**
 
 Access website http://skillsupgrade.ntuc.org.sg
 
@@ -51,8 +51,9 @@ Step 1: Click on 'Search Course' under the "Skills Upgrade Available" tab to fin
 Step 2: Register for course with training provider and attend training. For course information and enrolment, please contact the training provider.
 Step 3: Login to the U Portal account to submit the UTAP application. NTUC Members should apply for their UTAP claim within 6 months after course ends. Late applications will be rejected.
 
-Enquiry on UTAP Matters
+**Enquiry on UTAP Matters**
 
-Website http://skillsupgrade.ntuc.org.sg
-Email UTAP@e2i.com.sg
+Website : http://skillsupgrade.ntuc.org.sg
+
+Email : UTAP@e2i.com.sg
 
