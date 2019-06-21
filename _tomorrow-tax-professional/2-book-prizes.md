@@ -30,4 +30,19 @@ Nicole Tan<br>
 Top Student in Advanced Taxation Module<br>
 
 
-**Stay tuned for more updates on our book prizes recipients from NTU, NUS, Nanyang Polytechnic, Singapore Polytechnic and Temasek Polytechnic** 
+### **2018/2019 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
+
+![Image of Tax Academy Book Prize](/images/Ling.png)
+Ling Jung Hong<br>
+Top Student in Taxation Module<br>
+
+![Image of Tax Academy Book Prize](/images/Chuah.png)
+Chuah Boon Long<br>
+Top Student in Taxation Module<br>
+
+
+Angelia Ng Hui Yun<br>
+Top Student in Taxation Module<br>
+
+
+**Stay tuned for more updates on our book prizes recipients from NTU, NUS, Singapore Polytechnic and Temasek Polytechnic** 
