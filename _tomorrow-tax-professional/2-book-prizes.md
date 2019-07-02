@@ -45,7 +45,7 @@ Angelia Ng Hui Yun<br>
 Top Student in Taxation Module<br>
 
 
-### **2018/2019 Academic Year Tax Academy Book Prize Recipients from Temasek Polytechnic**
+### **2018/2019 Academic Year Tax Academy Book Prize Recipient from Temasek Polytechnic**
 
 ![Image of Tax Academy Book Prize](/images/cheong.jpg)
 Cheong Fu Sheng<br>
