@@ -11,6 +11,8 @@ collection_name: seminars-and-conferences
 
 ##### **August 2019**
 
+* 14 August: [FasTax Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#14AugCTfiling-ta-id) 
+
 * 7 August: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#August-annualvalue-ta-id) 
 
 
@@ -25,6 +27,48 @@ collection_name: seminars-and-conferences
 
 
 * 11 June: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#annualvalue-ta-id)  **FULLY SUBSCRIBED**
+
+
+
+<a id="14AugCTfiling-ta-id"></a>
+### **FasTax Series: Fundamentals of Corporate Tax Filing**
+**14 August 2019 | 14:00 to 17:00 | Revenue House Discovery Room**
+
+[Registration Form](https://forms.gle/6bHhygBRdCJcg1uH9)
+
+As a company director, do you know whether your tax agent/staff are filing corporate tax correctly and what are the proper documentations to maintain?  As a tax agent/practitioner, do you know what are the common pitfalls to avoid when filing corporate tax for your clients?
+
+Join us in this workshop as our speakers from IRAS' Corporate Tax and Enforcement Divisions equip you with knowledge in the following areas:
+
+* Fundamentals of Singapore corporate taxation
+
+* Practical guidance and tips for preparing tax computation
+
+* Responsibilities of the company director
+
+Programme Outline:
+
+* Company’s tax filing obligations
+
+* Basic corporate tax rules on, income, deductibility of expenses, and capital allowances
+
+* Case study
+
+* Common mistakes to avoid
+
+* Consequences for filing late or not filing a return
+
+* Maintenance of proper records and source documents
+
+* Filing obligations of bankrupt directors
+
+* Responsibilities of Nominee/sleeping director
+ 
+Who should attend: Company directors, tax agents/practitioners, finance and accounting professionals
+ 
+Closing date: 15 July 19. Seats on a first-come-first-served basis.
+
+Seminar fees: $107 (incl. GST).
 
 
 
