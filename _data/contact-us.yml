@@ -24,12 +24,13 @@ column:
   - title: General Enquiries
     content:
     - line: tax_academy@iras.gov.sg (email)
-    # If you have an email, put (email) after the actual email
-Are you looking to learn more about a specific area of tax that is currently not covered in our programmes? 
+    Are you looking to learn more about a specific area of tax that is currently not covered in our programmes? 
 Please tell us what it is, so that we can consider designing new programmes or enhancing the existing ones.
 If you could leave us your name and contact details, we could then follow up with you on your suggestion, and offer a small token if it is implemented.
 
 Therefore, do share with us your learning needs through this online form. Thank you!
+
+    # If you have an email, put (email) after the actual email
 
   - title: "<a href='https://docs.google.com/forms/d/e/1FAIpQLScJNWH-DKKMJUnFC4Ws8Q6VM1Kei27PxeptOEhG8Ht0tTuIdA/viewform' style='text-decoration: underline;'>Join Mailing List</a>"
     content:
