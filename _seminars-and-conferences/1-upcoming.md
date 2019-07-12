@@ -10,9 +10,8 @@ collection_name: seminars-and-conferences
 ##### **UPCOMING EVENTS**
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Please tell us what it is, so that we can consider designing new events or enhancing the existing ones.
-If you could leave us your name and contact details, we could then follow up with you on your suggestion, and offer a small token if it is implemented.
-Therefore, do share with us your learning needs through this online form. Thank you!
-[My Learning Needs Request Form](https://forms.gle/AGwbzAxnHSxqWU8J8)
+Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://forms.gle/AGwbzAxnHSxqWU8J8). Thank you!
+
 
 
 ##### **August 2019**
