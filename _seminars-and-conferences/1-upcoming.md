@@ -18,7 +18,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 14 August: [FasTax Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#14AugCTfiling-ta-id) 
 
-* 7 August: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#August-annualvalue-ta-id) 
+* 7 August: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#August-annualvalue-ta-id)  **FULLY SUBSCRIBED** 
 
 
 ##### **July 2019**
