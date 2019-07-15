@@ -8,12 +8,17 @@ collection_name: seminars-and-conferences
 
 
 ##### **UPCOMING EVENTS**
+Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
+Please tell us what it is, so that we can consider designing new events or enhancing the existing ones.
+Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://forms.gle/AGwbzAxnHSxqWU8J8). Thank you!
+
+
 
 ##### **August 2019**
 
 * 14 August: [FasTax Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#14AugCTfiling-ta-id) 
 
-* 7 August: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#August-annualvalue-ta-id) 
+* 7 August: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#August-annualvalue-ta-id)  **FULLY SUBSCRIBED** 
 
 
 ##### **July 2019**
