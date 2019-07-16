@@ -23,7 +23,7 @@ locations:
 column:
   - title: Enquiries and Feedback
     content:
-    - line: [Enquiries and Feedback Form](https://form.gov.sg/5d2c51283703d80011e52615)
+    - line: "<a href='https://form.gov.sg/5d2c51283703d80011e52615'>Enquiries and Feedback Form</a>"
 
 
     # If you have an email, put (email) after the actual email
