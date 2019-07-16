@@ -63,7 +63,7 @@ homepage_hero_i_want_to: false
 homepage_resources: false
 
 # Feedback Form URL
-feedback_form_url: "https://forms.gle/LTCq4eEteFeiqtWPA"
+feedback_form_url: "https://form.gov.sg/5d2c51283703d80011e52615"
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
