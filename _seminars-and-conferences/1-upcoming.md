@@ -16,7 +16,9 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 ##### **August 2019**
 
-* 14 August: [FasTax Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#14AugCTfiling-ta-id) 
+* 20 August: [Seminar on Transfer Pricing relating to Commodity Marketing and Trading Activities](/seminars-and-conferences/upcoming/#20AugTP-ta-id) 
+
+* 14 August: [FasTax Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#14AugCTfiling-ta-id) **FULLY SUBSCRIBED**
 
 * 7 August: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#August-annualvalue-ta-id)  **FULLY SUBSCRIBED** 
 
@@ -34,6 +36,25 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 11 June: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#annualvalue-ta-id)  **FULLY SUBSCRIBED**
 
 
+<a id="20AugTP-ta-id"></a>
+### **FasTax Series: Fundamentals of Corporate Tax Filing**
+**20 August 2019 | 14:00 to 14:00 | Revenue House Discovery Room**
+
+[Registration Form](https://forms.gle/kFA8k5zXvtz23axp8)
+
+Multinational enterprise groups choose to base their commodity marketing and trading activities in Singapore for various reasons such as proximity to key markets and depth of the trading market in Singapore. The precise nature of the commodity marketing and trading activities undertaken in Singapore and the value contributed can vary widely. Where such activities are conducted between related parties, it is important that the arm’s length transfer price takes into account the diversity in the activities undertaken and the wide ranging values contributed.  On 24 May 2019, IRAS published an e-Tax guide on Commodity Marketing and Trading Activities, to help businesses comply with the arm’s length principle and transfer pricing documentation requirements.  In this seminar, our speaker from the IRAS, Ms Lou Wai Ling will give you an overview of the economic value of the commodity marketing and trading activities undertaken in Singapore and the guidance in the e-Tax guide on determining the arm’s length transfer price for related party commodity transactions.
+
+##### **About the Speaker:**
+
+Ms Lou Wai Ling is the Principal Tax Specialist from Transfer Pricing and Dispute Resolution Branch in IRAS.  She does transfer pricing policy formulation and Advance Pricing Arrangement and Mutual Agreement Procedure negotiation with foreign tax authorities.
+
+Who Should Attend: Finance and Valuation professionals | Tax professionals and Business owners | Legal professionals
+
+Seminar fees: $85.60 (incl. GST)
+
+Closing date: 26 July 19.  Seats on a first-come-first-served basis, upon full payment.
+
+ 
 
 <a id="14AugCTfiling-ta-id"></a>
 ### **FasTax Series: Fundamentals of Corporate Tax Filing**
