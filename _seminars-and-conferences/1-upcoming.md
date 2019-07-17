@@ -37,8 +37,8 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 
 <a id="20AugTP-ta-id"></a>
-### **FasTax Series: Fundamentals of Corporate Tax Filing**
-**20 August 2019 | 14:00 to 14:00 | Revenue House Discovery Room**
+### **Seminar on Transfer Pricing relating to Commodity Marketing and Trading Activities**
+**20 August 2019 | 14:00 to 16:00 | Revenue House Discovery Room**
 
 [Registration Form](https://forms.gle/kFA8k5zXvtz23axp8)
 
@@ -48,7 +48,7 @@ Multinational enterprise groups choose to base their commodity marketing and tra
 
 Ms Lou Wai Ling is the Principal Tax Specialist from Transfer Pricing and Dispute Resolution Branch in IRAS.  She does transfer pricing policy formulation and Advance Pricing Arrangement and Mutual Agreement Procedure negotiation with foreign tax authorities.
 
-Who Should Attend: Finance and Valuation professionals | Tax professionals and Business owners | Legal professionals
+Who Should Attend: Tax professionals, business owners and legal professionals
 
 Seminar fees: $85.60 (incl. GST)
 
