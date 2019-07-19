@@ -32,7 +32,7 @@ The next intake for this course will be in Feb 2020. Registration will be availa
 
 This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdQdYefMyQ2RFOv8FQPFrfL5uL1evLs1d1xm5uHMECuscJ9Ow/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP_L2_GST_2-2019.pdf" |}}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdQdYefMyQ2RFOv8FQPFrfL5uL1evLs1d1xm5uHMECuscJ9Ow/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP_L2_GST_2-2019.pdf"}}){:target="_blank"}
 
 Registration is OPEN for intake 2/2019.
 
