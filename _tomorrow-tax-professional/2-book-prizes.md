@@ -52,7 +52,7 @@ Cheong Fu Sheng<br>
 Top Student in Taxation Module<br>
 
 
-### **2018/2019 Academic Year Tax Academy Book Prize Recipients from Singapore Polytechnic**
+### **2018/2019 Academic Year Tax Academy Book Prize Recipient from Singapore Polytechnic**
 
 ![Image of Tax Academy Book Prize](/images/SP Si Dian.jpg)
 Koo Si Dian<br>
