@@ -51,4 +51,11 @@ Top Student in Taxation Module<br>
 Cheong Fu Sheng<br>
 Top Student in Taxation Module<br>
 
-**Stay tuned for more updates on our book prizes recipients from NTU, NUS and Singapore Polytechnic** 
+
+### **2018/2019 Academic Year Tax Academy Book Prize Recipient from Singapore Polytechnic**
+
+![Image of Tax Academy Book Prize](/images/SP Si Dian.jpg)
+Koo Si Dian<br>
+Top Student in Taxation Module<br>
+
+**Stay tuned for more updates on our book prizes recipients from NTU and NUS** 
