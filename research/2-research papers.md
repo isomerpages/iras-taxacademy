@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Research Papers
-permalink: /research/research papers/
+permalink: /research/research-papers/
 breadcrumb: Research Papers
 collection_name: research
 ---
