@@ -7,7 +7,7 @@ collection_name: executive-tax-programmes
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (GST)**
-* Feb 2020 intake: [Stay tuned for more information in December](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* Feb 2020 intake: [Stay tuned for more information in November](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **Executive Tax Programme Level II (GST)**
 * Sep 2019 intake: [ETP Level II - GST Sep Class](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
