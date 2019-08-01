@@ -7,13 +7,20 @@ collection_name: research
 ---
 
 **International Trade in B2B Services under VAT/GST Law and the Role of Permanent/Fixed Establishments: A Comparison of EU VAT and Singaporean GST in the Light of the OECD VAT/GST Guidelines**
+
 [Abstract](/files/International trade in B2B services under VATGST law abstract.pdf){:target="_blank"}
+
 This paper is published in the Asia-Pacific Tax Bulletin 25:3 (2019) and can be accessed [here] (https://www.ibfd.org/IBFD-Products/Journal-Articles/Asia-Pacific-Tax-Bulletin/collections/aptb/html/aptb_2019_03_o2_1.html){:target="_blank"}
+
 Dr Karoline Spies, Lecturer, Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business)
 
+
 **The Impact of Double Tax Treaties on Inward FDI in ASEAN countries**
+
 This paper is published in the Journal of Business and Finance in Emerging Markets and can be accessed [here](https://www.ssbrj.org/index.php/jbfem/article/view/51){:target="_blank"}
+
 Dr Dong Yue, Research Fellow, SMU-TA Centre for Excellence in Taxation
+ 
  
 **Reviewing the OECD’s and the EU’s Assessment of Singapore’s Development and Expansion Incentive**
 [Main Paper](/files/OECD’s and the EU’s Assessment of Singapore’s Development and Expansion Incentive.pdf){:target="_blank"}
