@@ -10,7 +10,7 @@ collection_name: research
 
 [Abstract](/files/International trade in B2B services under VATGST law abstract.pdf){:target="_blank"}
 
-This paper is published in the Asia-Pacific Tax Bulletin 25:3 (2019) and can be accessed [here] (https://www.ibfd.org/IBFD-Products/Journal-Articles/Asia-Pacific-Tax-Bulletin/collections/aptb/html/aptb_2019_03_o2_1.html){:target="_blank"}
+This paper is published in the Asia-Pacific Tax Bulletin 25:3 (2019) and can be accessed [here](https://www.ibfd.org/IBFD-Products/Journal-Articles/Asia-Pacific-Tax-Bulletin/collections/aptb/html/aptb_2019_03_o2_1.html){:target="_blank"}
 
 Dr Karoline Spies, Lecturer, Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business)
 
