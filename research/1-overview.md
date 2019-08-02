@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Overview
-permalink: /research/overview/
+permalink: /research/Overview/
 breadcrumb: Overview
 collection_name: research
 ---
