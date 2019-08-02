@@ -31,7 +31,6 @@ Dr Frederik Boulogne, Tax Lawyer at Lubbers, Boer & Douma and Researcher at VU U
 **A step forward for tax dispute resolution between China and ASEAN countries under the Belt and Road Initiative**
 
 [Abstract](/files/Abstract tax dispute resolution between China and ASEAN under BRI.pdf){:target="_blank"}
-
 [Main Paper](Tax dispute resolution between China and ASEAN under BRI.pdf){:target="_blank"}
 
 Dr Xu Diheng, Research Fellow, SMU-TA Centre for Excellence in Taxation
