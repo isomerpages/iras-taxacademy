@@ -60,5 +60,16 @@
     url: /tomorrow-tax-professional/Union-Training-Assistance-Programme/
   - title: Going Places in Tax
     url: /tomorrow-tax-professional/going-places-in-tax/
+- title: Research
+  url: /research/
+  sub-links:
+  - title: Overview
+    url: /research/overview
+  - title: Research Papers
+    url: /research/research-papers
+  - title: Call for Papers
+    url: /research/call-for-papers
+  - title: Events
+    url: /research/events
 - title: Contact Us
   url: /contact-us/
