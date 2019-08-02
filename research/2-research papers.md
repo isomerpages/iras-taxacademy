@@ -9,7 +9,6 @@ collection_name: research
 **International Trade in B2B Services under VAT/GST Law and the Role of Permanent/Fixed Establishments: A Comparison of EU VAT and Singaporean GST in the Light of the OECD VAT/GST Guidelines**
 
 [Abstract](/files/International trade in B2B services under VATGST law abstract.pdf){:target="_blank"}
-
 This paper is published in the Asia-Pacific Tax Bulletin 25:3 (2019) and can be accessed [here](https://www.ibfd.org/IBFD-Products/Journal-Articles/Asia-Pacific-Tax-Bulletin/collections/aptb/html/aptb_2019_03_o2_1.html){:target="_blank"}
 
 Dr Karoline Spies, Lecturer, Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business)
@@ -48,7 +47,6 @@ Dr Dong Yue, Research Fellow, SMU-TA Centre for Excellence in Taxation & Ms Balb
 **Developing an Artificial Intelligence’s Tax Assistant in International Tax Avoidance Cases: The Case Study under the PPT**
 
 [Abstract](/files/Abstract - AI Tax Avoidance PPT.pdf){:target="_blank"}
-
 [Main Paper](/files/KuzniackiB_AI Tax Avoidance PPT){:target="_blank"}
 
 Dr Blazej Kuzniacki, Research Fellow, SMU-TA Centre for Excellence in Taxation
@@ -71,16 +69,14 @@ Dr Matthias Petutschnig, Assistant Professor, Vienna University of Economics and
 **Related Parties as used in Transfer Pricing**
 
 [Abstract](/files/Abstract_Related Parties As Used in Transfer Pricing.pdf){:target="_blank"}
+This paper is published in IBFD and can be accessed [here](https://www.ibfd.org/IBFD-Products/Journal-Articles/International-Transfer-Pricing-Journal/collections/itpj/html/itpj_2017_06_int_2.html){:target="_blank"}
 
 Ms Yong Sing Yuan, Tax Director, Inland Revenue Authority of Singapore & Ms Jow Lee Ying, Senior Lecturer, Nanyang Technological University, Singapore
-
-This paper is published in IBFD and can be accessed [here](https://www.ibfd.org/IBFD-Products/Journal-Articles/International-Transfer-Pricing-Journal/collections/itpj/html/itpj_2017_06_int_2.html){:target="_blank"}
 
 
 **What is the cost of transparency? Does it outweigh the benefits obtained from greater transparency?**
 
 [Abstract](/files/Abstract_costs and benefits of tax transparency.pdf){:target="_blank"}
-
 [Main Paper](/files/Main paper_Costs and benefits of tax transparency.pdf){:target="_blank"}
 
 Ms Viktoria Wohrer, PhD candidate, Vienna University of Economics and Business
@@ -89,7 +85,6 @@ Ms Viktoria Wohrer, PhD candidate, Vienna University of Economics and Business
 **The Globalisation of Tax Good Governance**
 
 [Abstract](/files/Good Governance_Abstract.pdf){:target="_blank"}
-
 [Main Paper](/files/Good Governance_Main Paper.pdf){:target="_blank"}
 
 Dr Christiana Panayi, Professor in Tax Law, Queen Mary University of London
@@ -113,7 +108,6 @@ Dr Blazej Kuzniacki, Research Fellow, SMU-TA Centre for Excellence in Taxation
 **Objective or Subjective - Anti-treaty shopping policy in selected Asian jurisdictions in the post-BEPS world**
 
 [Abstract](/files/Objective or Subjective_ABSTRACT.pdf){:target="_blank"}
-
 [Main Paper](/files/Objective or Subjective - Anti-treaty shopping policy.pdf){:target="_blank"}
 
 Mr Andy Baik, Principal, Ernst & Young LLP & Dr Matthias Petutschnig, Associate Professor, Vienna University of Economics and Business
@@ -122,7 +116,6 @@ Mr Andy Baik, Principal, Ernst & Young LLP & Dr Matthias Petutschnig, Associate 
 **Impact of OECD BEPS Action 7 proposals on modification of Articles 5(4), 5(5) and 5(6) of OECD Model Convention: An evaluation of Action 7 on the future of intra-group transactions and business models of MNEs in their cross-border investments**
 
 [Abstract](/files/Abstract - Impact of OECD BEPS Action 7 proposals on modification of Articles.pdf){:target="_blank"}
-
 [Main Paper](/files/Impact of OECD BEPS Action 7 proposals on modification of Articles.pdf){:target="_blank"}
 
 Mr Tan Ching Khee, Partner, Ernst & Young Solutions LLP & Mr Henry Syrett, Partner, Ernst & Young Solutions LLP
@@ -131,7 +124,6 @@ Mr Tan Ching Khee, Partner, Ernst & Young Solutions LLP & Mr Henry Syrett, Partn
 **Local tax incentives and behavior of foreign enterprises: evidence from a large developing country**
 
 [Abstract](/files/Abstract - Local tax incentives and behavior of foreign enterprises.pdf){:target="_blank"}
-
 [Main Paper](/files/Local tax incentives and behavior of foreign enterprises.pdf){:target="_blank"}
 
 Prof Jing Xing, Assistant Professor, Shanghai Jiao Tong University, Prof Wei Cui,  Associate Professor, The University of British Columbia & Prof Xi Qu, Associate Professor, Shanghai Jiao Tong University
@@ -147,7 +139,6 @@ Mr Luis Coronado, Partner, Ernst & Young Solutions LLP& Mr Jerome van Staden, In
 **Mismatches in Tax Outcomes in the Light of BEPS Actions 2 & 5**
 
 [Abstract](/files/Summary - Mismatches in Tax Outcomes in the Light of BEPS.pdf){:target="_blank"}
-
 [Main Paper](/files/Mismatches in Tax Outcomes in the Light of BEPS-Actions 2 and 5.pdf){:target="_blank"}
 
 Mr Lukas Mechtler, PhD candidate, Vienna University of Economics and Business & Ms Cindy Wong, Group Tax Specialist, Inland Revenue Authority of Singapore
@@ -156,7 +147,6 @@ Mr Lukas Mechtler, PhD candidate, Vienna University of Economics and Business & 
 **Territorial Tax System Reform and Multinationals' Foreign Cash Holdings: New Evidence from Japan**
 
 [Abstract](/files/Abstract - Territorial Tax System Reform.pdf){:target="_blank"}
-
 This paper is published in the Journal of Corporate Finance and be accessed [here](https://www.sciencedirect.com/science/article/pii/S0929119917305412){:target="_blank"}
 
 Dr Jing Xing, Assistant Professor, Shanghai Jiao Tong University, Dr Stephen Bond, University of Oxford & Dr Giorgia Maffini, Leverhulme Trust Fellow, University of Oxford
@@ -165,7 +155,6 @@ Dr Jing Xing, Assistant Professor, Shanghai Jiao Tong University, Dr Stephen Bon
 **International Tax Law in the Post-BEPS World**
 
 [Abstract](/files/Abstract - International Tax Law In The Post-BEPS World.pdf){:target="_blank"}
-
 [Main Paper](/files/International Tax Law In The Post-BEPS World.pdf){:target="_blank"}
 
 Dr Christiana Panayi, Professor in Tax Law, Queen Mary University of London
@@ -174,7 +163,6 @@ Dr Christiana Panayi, Professor in Tax Law, Queen Mary University of London
 **Current Trends on Automatic Exchange of Information**
 
 [Abstract](/files/Abstract - Current Trends on Automatic Exchange of Information.pdf){:target="_blank"}
-
 [Main Paper](/files/Current Trends on Automatic Exchange of Information.pdf){:target="_blank"}
 
 Dr Christiana Panayi, Professor in Tax Law, Queen Mary University of London
@@ -183,7 +171,6 @@ Dr Christiana Panayi, Professor in Tax Law, Queen Mary University of London
 **Tax Treaty Policy of Developing Countries post-BEPS**
 
 [Abstract](/files/Abstract - Tax Treaty Policy of Developing Countries post-BEPS.pdf){:target="_blank"}
-
 [Main Paper](/files/Tax Treaty Policy of Developing Countries post-BEPS.pdf){:target="_blank"}
 
 Dr Graeme Cooper, Professor of Taxation Law, University of Sydney
@@ -192,7 +179,6 @@ Dr Graeme Cooper, Professor of Taxation Law, University of Sydney
 **Taxation and Pricing of Intangibles**
 
 [Abstract](/files/Summary - Taxation and Pricing of Intangibles.pdf){:target="_blank"}
-
 [Main Paper](/files/Main paper - Taxation and Pricing of Intangibles.pdf){:target="_blank"}
 
 [Appendix 1 Intellectual Property Protection: Competitive Positioning - Non-Tax Factors](/files/Appendix 1_Final IP Competitive Positioning of  regimes.pdf){:target="_blank"}
