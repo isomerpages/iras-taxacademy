@@ -11,7 +11,7 @@ collection_name: executive-tax-programmes
 
 * Sep 2019 intake: [ETP Level II - Corporate & Business Sep class](/executive-tax-programmes/income-tax/#etp2sep-ta-id)
 
-* Jan 2020 intake: [ETP Level II - Corporate & Business Jul class](/executive-tax-programmes/income-tax/#etp2sep-ta-id)
+* Jan 2020 intake: [ETP Level II - Corporate & Business Jan class](/executive-tax-programmes/income-tax/#etp2sep-ta-id)
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
