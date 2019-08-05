@@ -8,10 +8,10 @@ collection_name: executive-tax-programmes
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
-* Jul 2019 intake: [ETP Level II - Corporate & Business Jul class](/executive-tax-programmes/income-tax/#etp2jul-ta-id)
 
 * Sep 2019 intake: [ETP Level II - Corporate & Business Sep class](/executive-tax-programmes/income-tax/#etp2sep-ta-id)
 
+* Jan 2020 intake: [ETP Level II - Corporate & Business Jul class](/executive-tax-programmes/income-tax/#etp2jul-ta-id)
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
@@ -33,16 +33,16 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-Intake 1/2019 (July 2019 class):
-
-[Registration Form](https://docs.google.com/forms/d/1zT8Smm-AiTexXgN1C9pwdLdBMN-QXnPpt_vUc2qDE8U/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT12019.pdf){:target="_blank"}
-
 <a id="etp2sep-ta-id"></a>
 Intake 2/2019 (Sep 2019 class):
 
 [Registration Form](https://docs.google.com/forms/d/1gdl5pmB2STT7BJc-WkEHhm1cgu-NMF4Sqv3Pf6B8lZg/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT22019.pdf){:target="_blank"}
 
-Registration is OPEN for intake 1/2019 and Intake 2/2019.
+Registration is OPEN for intake 2/2019 and Intake 3/2019.
+
+Intake 3/2019 (Jan 2020 class):
+
+[Registration Form](https://docs.google.com/forms/d/1Qz8eJ7B-NqLs1DbhbAZCn6_hXmcCEFduRD2ePDtGO-Q/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT32019.pdf){:target="_blank"}
 
 The next intake for this course will be in Jan 2020. Registration will be available six weeks prior to the course commencement date.
 
