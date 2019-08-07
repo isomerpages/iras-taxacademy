@@ -30,7 +30,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 
 <a id="4OctConf-ta-id"></a>
-#### **IFA Singapore Branch - Tax Academy 2019 Digital Conference**
+#### **IFA Singapore Branch - Tax Academy 2019 Digital Tax Conference**
 ### **Taxing the Digitalised World: Triumph or Debacle?**
 **4 October 2019 | 9:00 to 17:45 | Sheraton Towers**
 
