@@ -28,14 +28,9 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 7 August: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#August-annualvalue-ta-id)  **FULLY SUBSCRIBED** 
 
 
-##### **July 2019**
-
-* 4 July: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#ReRun-annualvalue-ta-id)  **FULLY SUBSCRIBED**
-
-
 
 <a id="4OctConf-ta-id"></a>
-## **IFA Singapore Branch - Tax Academy 2019 Digital Conference**
+#### **IFA Singapore Branch - Tax Academy 2019 Digital Conference**
 ### **Taxing the Digitalised World: Triumph or Debacle?**
 **4 October 2019 | 9:00 to 17:45 | Sheraton Towers**
 
@@ -51,7 +46,7 @@ Members of the business and tax community; Legal professionals; Academics; Polic
 
 Registration:
 
-Closing Date:  13 Sep 2019 Seats on a first-come-first-served basis, upon full payment.
+Closing Date:  13 Sep 2019. Seats on a first-come-first-served basis, upon full payment.
 
 Fees: SGD 353.10 (incl. GST)
 Foreign participants, who in their business capacity belong overseas and are sponsored by overseas employers, are excluded from paying 7% GST.
@@ -151,34 +146,6 @@ Seminar fees: $160.50 (incl. GST)
 Closing date: 26 July 19. Seats on a first-come-first-served basis, upon full payment.
 
 
-
-<a id="ReRun-annualvalue-ta-id"></a>
-### **Understanding How Annual Values are assessed for Property Tax [FULLY SUBSCRIBED]**
-**4 July 2019 | 9:00 to 17:00 | Revenue House Aspiration Room**
-
-[Registration Form](https://forms.gle/rkp2WNezEnhKcVnq5)
- 
-The Annual Values of all properties are assessed by the Chief Assessor for property tax purposes.  This 1-day workshop allows the participants to learn from the former Chief Assessor how Annual Values are assessed for the different types of properties.  By the end of the workshop, the participants should be able to:
-
-A) 	Know what “properties” are assessable for property tax
-
-B) 	Explain the various ‘definitions’ of Annual Value
-
-C)	 Understand the basis and principles of assessing Annual Value
-
-D) 	Learn about the methods of assessing Annual Value, which include the Rental Comparison Method, Contractor’s Test Method, Profits Method, and the statutory and prescribed methods; and how they are applied to the different types of properties
-
-E)	 Have a better appreciation of the challenges in valuing complex properties
-
-##### **About the Speaker:**
-
-Ms Ang Sock Tiang has more than 35 years of work experience on statutory valuation and property tax administration.  During the period that she was appointed Chief Assessor and Chief Valuer between 2003 and 2014, she oversaw and was involved in many landmark property tax appeal cases and high signature valuation assignments which include the sites for the Integrated Resorts and the MRA land exchange between Singapore and Malaysia.  Her unique exposure to various valuation challenges allowed her to build on her valuation skills and expertise.   Following her retirement from IRAS in 2018, she has been appointed an adjunct Associate Professor by NUS and is currently teaching courses on real estate valuation and real estate taxation in both NUS and SMU.
-
-Who Should Attend: Finance and Valuation professionals, Tax professionals and Business owners, Legal professionals
-
-Seminar fees: $160.50 (incl. GST)
-
-Closing date: 27 June 19. Seats on a first-come-first-served basis, upon full payment.
 
 
 
