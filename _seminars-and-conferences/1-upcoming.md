@@ -14,9 +14,14 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 
 
+##### **October 2019**
+
+* 4 October: [IFA Singapore Branch - Tax Academy 2019 Digital Tax Conference](/seminars-and-conferences/upcoming/#4OctConf-ta-id) 
+
+
 ##### **August 2019**
 
-* 20 August: [Seminar on Transfer Pricing relating to Commodity Marketing and Trading Activities](/seminars-and-conferences/upcoming/#20AugTP-ta-id) 
+* 20 August: [Seminar on Transfer Pricing relating to Commodity Marketing and Trading Activities](/seminars-and-conferences/upcoming/#20AugTP-ta-id) **FULLY SUBSCRIBED**
 
 * 14 August: [FasTax Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#14AugCTfiling-ta-id) **FULLY SUBSCRIBED**
 
@@ -26,6 +31,30 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 ##### **July 2019**
 
 * 4 July: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#ReRun-annualvalue-ta-id)  **FULLY SUBSCRIBED**
+
+
+
+<a id="4OctConf-ta-id"></a>
+## **IFA Singapore Branch - Tax Academy 2019 Digital Conference**
+### **Taxing the Digitalised World: Triumph or Debacle?**
+**4 October 2019 | 9:00 to 17:45 | Sheraton Towers**
+
+[Registration Form](https://forms.gle/yqyhAGTwYKREYQ9i8) [Conference Brochure]({{"/seminars-brochures/Flyer_Conference4Oct2019.pdf"}}){:target="_blank"}
+
+Digital transformation and the digitalisation of the economy drive today‘s global tax agenda. The theme “Taxing the Digitalised World: Triumph or Debacle?” selected for this year's conference is in response to the latest developments on taxing the digitalized economy in the light of the ongoing work on the re-allocation of taxing rights under Pillar 1 and the global minimum tax proposals under Pillar 2 of the OECD/ BEPS paper, as well as specific country responses.
+
+This conference brings together tax officials, corporates and industry representatives and tax professionals from the Asia Pacific region, the US, the UK and Europe to share and deliberate these developments.
+
+Who should attend:
+
+Members of the business and tax community; Legal professionals; Academics; Policy makers and tax administrators
+
+Registration:
+
+Closing Date:  13 Sep 2019 Seats on a first-come-first-served basis, upon full payment.
+
+Fees: SGD 353.10 (incl. GST)
+Foreign participants, who in their business capacity belong overseas and are sponsored by overseas employers, are excluded from paying 7% GST.
 
 
 

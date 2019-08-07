@@ -6,6 +6,12 @@ breadcrumb: Research Papers
 collection_name: research
 ---
 
+**Necessity of the Dependent Agent Permanent Establishment**
+
+[Main Paper](/files/Paper_Tommy and Sing Yuan_FINAL.pdf){:target="_blank"}
+
+Ms Yong Sing Yuan, Tax Director, Inland Revenue Authority of Singapore & Mr Tommy Yee, Senior Lecturer, Singapore University of Social Sciences
+
 **International Trade in B2B Services under VAT/GST Law and the Role of Permanent/Fixed Establishments: A Comparison of EU VAT and Singaporean GST in the Light of the OECD VAT/GST Guidelines**
 
 [Abstract](/files/International trade in B2B services under VATGST law abstract.pdf){:target="_blank"}
