@@ -33,14 +33,12 @@ Dr Dong Yue, Research Fellow, SMU-TA Centre for Excellence in Taxation
  
  
 **Reviewing the OECD’s and the EU’s Assessment of Singapore’s Development and Expansion Incentive**
-
 [Main Paper](/files/OECD’s and the EU’s Assessment of Singapore’s Development and Expansion Incentive.pdf){:target="_blank"}
 
 Dr Frederik Boulogne, Tax Lawyer at Lubbers, Boer & Douma and Researcher at VU University Amsterdam (VU Nexus Centre)
 
 
 **A step forward for tax dispute resolution between China and ASEAN countries under the Belt and Road Initiative**
-
 [Abstract](/files/Abstract tax dispute resolution between China and ASEAN under BRI.pdf){:target="_blank"}
 [Main Paper](Tax dispute resolution between China and ASEAN under BRI.pdf){:target="_blank"}
 
@@ -55,7 +53,6 @@ Dr Dong Yue, Research Fellow, SMU-TA Centre for Excellence in Taxation & Ms Balb
   
   
 **Developing an Artificial Intelligence’s Tax Assistant in International Tax Avoidance Cases: The Case Study under the PPT**
-
 [Abstract](/files/Abstract - AI Tax Avoidance PPT.pdf){:target="_blank"}
 [Main Paper](/files/KuzniackiB_AI Tax Avoidance PPT){:target="_blank"}
 
@@ -70,7 +67,6 @@ Dr Xu Diheng, Research Fellow, SMU-TA Centre for Excellence in Taxation
   
   
 **Common Consolidated Corporate Tax Base and Limitation on Benefits Clauses**
-
 [Main Paper](/files/CCCTB_LoB.pdf){:target="_blank"}
 
 Dr Matthias Petutschnig, Assistant Professor, Vienna University of Economics and Business
@@ -85,7 +81,6 @@ Ms Yong Sing Yuan, Tax Director, Inland Revenue Authority of Singapore & Ms Jow 
 
 
 **What is the cost of transparency? Does it outweigh the benefits obtained from greater transparency?**
-
 [Abstract](/files/Abstract_costs and benefits of tax transparency.pdf){:target="_blank"}
 [Main Paper](/files/Main paper_Costs and benefits of tax transparency.pdf){:target="_blank"}
 
@@ -93,7 +88,6 @@ Ms Viktoria Wohrer, PhD candidate, Vienna University of Economics and Business
   
   
 **The Globalisation of Tax Good Governance**
-
 [Abstract](/files/Good Governance_Abstract.pdf){:target="_blank"}
 [Main Paper](/files/Good Governance_Main Paper.pdf){:target="_blank"}
 
@@ -109,14 +103,12 @@ Dr Blazej Kuzniacki, Research Fellow, SMU-TA Centre for Excellence in Taxation
   
 
 **Discretionary Benefits Provisions Under the MLI: A Virtuous Solution or a Vicious Circle?**
-
 [Main Paper](/files/Discretionary Benefits Provisions Under the MLI - Blazej Kuzniacki.pdf){:target="_blank"} (as published in Tax Notes International, July 31, 2017)
 
 Dr Blazej Kuzniacki, Research Fellow, SMU-TA Centre for Excellence in Taxation
   
   
 **Objective or Subjective - Anti-treaty shopping policy in selected Asian jurisdictions in the post-BEPS world**
-
 [Abstract](/files/Objective or Subjective_ABSTRACT.pdf){:target="_blank"}
 [Main Paper](/files/Objective or Subjective - Anti-treaty shopping policy.pdf){:target="_blank"}
 
@@ -124,7 +116,6 @@ Mr Andy Baik, Principal, Ernst & Young LLP & Dr Matthias Petutschnig, Associate 
   
   
 **Impact of OECD BEPS Action 7 proposals on modification of Articles 5(4), 5(5) and 5(6) of OECD Model Convention: An evaluation of Action 7 on the future of intra-group transactions and business models of MNEs in their cross-border investments**
-
 [Abstract](/files/Abstract - Impact of OECD BEPS Action 7 proposals on modification of Articles.pdf){:target="_blank"}
 [Main Paper](/files/Impact of OECD BEPS Action 7 proposals on modification of Articles.pdf){:target="_blank"}
 
@@ -132,7 +123,6 @@ Mr Tan Ching Khee, Partner, Ernst & Young Solutions LLP & Mr Henry Syrett, Partn
   
   
 **Local tax incentives and behavior of foreign enterprises: evidence from a large developing country**
-
 [Abstract](/files/Abstract - Local tax incentives and behavior of foreign enterprises.pdf){:target="_blank"}
 [Main Paper](/files/Local tax incentives and behavior of foreign enterprises.pdf){:target="_blank"}
 
@@ -140,14 +130,12 @@ Prof Jing Xing, Assistant Professor, Shanghai Jiao Tong University, Prof Wei Cui
   
   
 **Critical Evaluation of Action 14 – Recommendations and the Suggested Way Forward for Singapore**
-
 [Main Paper](/files/Critical Evaluation of Action 14.pdf){:target="_blank"}
 
 Mr Luis Coronado, Partner, Ernst & Young Solutions LLP& Mr Jerome van Staden, International Director, Ernst & Young Solutions LLP
   
 
 **Mismatches in Tax Outcomes in the Light of BEPS Actions 2 & 5**
-
 [Abstract](/files/Summary - Mismatches in Tax Outcomes in the Light of BEPS.pdf){:target="_blank"}
 [Main Paper](/files/Mismatches in Tax Outcomes in the Light of BEPS-Actions 2 and 5.pdf){:target="_blank"}
 
@@ -163,7 +151,6 @@ Dr Jing Xing, Assistant Professor, Shanghai Jiao Tong University, Dr Stephen Bon
 
   
 **International Tax Law in the Post-BEPS World**
-
 [Abstract](/files/Abstract - International Tax Law In The Post-BEPS World.pdf){:target="_blank"}
 [Main Paper](/files/International Tax Law In The Post-BEPS World.pdf){:target="_blank"}
 
@@ -171,7 +158,6 @@ Dr Christiana Panayi, Professor in Tax Law, Queen Mary University of London
 
 
 **Current Trends on Automatic Exchange of Information**
-
 [Abstract](/files/Abstract - Current Trends on Automatic Exchange of Information.pdf){:target="_blank"}
 [Main Paper](/files/Current Trends on Automatic Exchange of Information.pdf){:target="_blank"}
 
@@ -179,7 +165,6 @@ Dr Christiana Panayi, Professor in Tax Law, Queen Mary University of London
 
 
 **Tax Treaty Policy of Developing Countries post-BEPS**
-
 [Abstract](/files/Abstract - Tax Treaty Policy of Developing Countries post-BEPS.pdf){:target="_blank"}
 [Main Paper](/files/Tax Treaty Policy of Developing Countries post-BEPS.pdf){:target="_blank"}
 
@@ -187,7 +172,6 @@ Dr Graeme Cooper, Professor of Taxation Law, University of Sydney
 
 
 **Taxation and Pricing of Intangibles**
-
 [Abstract](/files/Summary - Taxation and Pricing of Intangibles.pdf){:target="_blank"}
 [Main Paper](/files/Main paper - Taxation and Pricing of Intangibles.pdf){:target="_blank"}
 
