@@ -6,15 +6,13 @@ breadcrumb: Research Papers
 collection_name: research
 ---
 
-**International Tax Competition, Capital Mobility, and Inequality: Empirical Evidence from Asia-Pacific Economies**
-
+**International Tax Competition, Capital Mobility, and Inequality: Empirical Evidence from Asia-Pacific Economies** 
 [Main Paper](/files/Tax competition capital mobility_chengwei_Chin Feng Yeh.pdf){:target="_blank"}
 
 Dr Xu Chengwei, Research Fellow, SMU-TA Centre for Excellence in Taxation & Ms Yeh Chin Feng, Principal Tax Specialist, Inland Revenue Authority of Singapore 
 
 
-**Necessity of the Dependent Agent Permanent Establishment**
-
+**Necessity of the Dependent Agent Permanent Establishment** 
 [Main Paper](/files/Paper_Tommy and Sing Yuan_FINAL.pdf){:target="_blank"}
 
 Ms Yong Sing Yuan, Tax Director, Inland Revenue Authority of Singapore & Mr Tommy Yee, Senior Lecturer, Singapore University of Social Sciences
