@@ -52,7 +52,7 @@ This paper is published in the Bulletin for International Taxation and can be ac
 Dr Dong Yue, Research Fellow, SMU-TA Centre for Excellence in Taxation & Ms Balbir Kaur, Group Tax Specialist, Inland Revenue Authority of Singapore
   
   
-**Developing an Artificial Intelligence’s Tax Assistant in International Tax Avoidance Cases: The Case Study under the PPT**
+**Developing an Artificial Intelligence’s Tax Assistant in International Tax Avoidance Cases: The Case Study under the PPT** 
 [Abstract](/files/Abstract - AI Tax Avoidance PPT.pdf){:target="_blank"}
 [Main Paper](/files/KuzniackiB_AI Tax Avoidance PPT){:target="_blank"}
 
