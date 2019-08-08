@@ -6,8 +6,7 @@ breadcrumb: Research Papers
 collection_name: research
 ---
 
-**International Tax Competition, Capital Mobility, and Inequality: Empirical Evidence from Asia-Pacific Economies** 
-[Main Paper](/files/Tax competition capital mobility_chengwei_Chin Feng Yeh.pdf){:target="_blank"}
+**International Tax Competition, Capital Mobility, and Inequality: Empirical Evidence from Asia-Pacific Economies** [Main Paper](/files/Tax competition capital mobility_chengwei_Chin Feng Yeh.pdf){:target="_blank"}
 
 Dr Xu Chengwei, Research Fellow, SMU-TA Centre for Excellence in Taxation & Ms Yeh Chin Feng, Principal Tax Specialist, Inland Revenue Authority of Singapore 
 
