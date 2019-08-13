@@ -78,9 +78,9 @@ IMPORTANT
 
 Attendees must complete the following eLearning modules and the respective quizzes, before attending the workshop:
 
-* Registering for GST: https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST
+* [eLearning module on Registering for GST](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
 
-* Overview of GST: https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST
+* [eLearning module on Overview of GST](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
 
 Who should attend: Tax agents/practitioners, finance and accounting professionals, and business owners
 
