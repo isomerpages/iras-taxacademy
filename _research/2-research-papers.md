@@ -6,6 +6,11 @@ breadcrumb: Research Papers
 collection_name: research
 ---
 
+**Singapore and the One Belt One Road Initiative: Potential tax implications for investors in the land route** [Main Paper](/files/The One Belt One Road Initiative 23May2018.pdf){:target="_blank"}
+
+Dr Jasmin Kollmann, EY Munich 
+
+
 **International Tax Competition, Capital Mobility, and Inequality: Empirical Evidence from Asia-Pacific Economies** [Main Paper](/files/Tax comp cap mob and inequality-20190103-XCW and YCF.pdf){:target="_blank"}
 
 Dr Xu Chengwei, Research Fellow, SMU-TA Centre for Excellence in Taxation & Ms Yeh Chin Feng, Principal Tax Specialist, Inland Revenue Authority of Singapore 
