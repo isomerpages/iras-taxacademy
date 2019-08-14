@@ -18,6 +18,9 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 4 October: [IFA Singapore Branch - Tax Academy 2019 Digital Tax Conference](/seminars-and-conferences/upcoming/#4OctConf-ta-id) 
 
+##### **September 2019**
+
+* 17 September: [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17SepGST-ta-id) 
 
 ##### **August 2019**
 
@@ -50,6 +53,40 @@ Closing Date:  13 Sep 2019. Seats on a first-come-first-served basis, upon full 
 
 Fees: SGD 353.10 (incl. GST)
 Foreign participants, who in their business capacity belong overseas and are sponsored by overseas employers, are excluded from paying 7% GST.
+
+
+
+<a id="17SepGST-ta-id"></a>
+### **FasTax Series: Fundamentals of GST Filing**
+**17 Sep 2019 | 13:00 to 17:00 | Revenue House Aspiration Room**
+
+[Registration Form](https://forms.gle/f9ssgM21QLDy1jfN6)
+
+Join us in this workshop to hear from IRAS’ tax officers in the following areas:
+
+* Responsibilities of a GST-Registered Person
+
+* Reimbursements vs Disbursement
+
+* Fringe Benefits
+
+* International Services
+
+You will also learn about the common filing mistakes to avoid, and get some hands-on practise for filing.
+
+IMPORTANT
+
+Attendees must complete the following eLearning modules and the respective quizzes, before attending the workshop:
+
+* [eLearning module on Registering for GST](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
+
+* [eLearning module on Overview of GST](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
+
+Who should attend: Tax agents/practitioners, finance and accounting professionals, and business owners
+
+Seminar fees: $107 (incl. GST)
+
+Closing date: 20 August 19.  Seats on a first-come-first-served basis, upon full payment.
 
 
 
