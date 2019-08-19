@@ -45,7 +45,7 @@ Dr Frederik Boulogne, Tax Lawyer at Lubbers, Boer & Douma and Researcher at VU U
 
 **A step forward for tax dispute resolution between China and ASEAN countries under the Belt and Road Initiative**
 [Abstract](/files/research papers/Abstract tax dispute resolution between China and ASEAN under BRI.pdf){:target="_blank"}
-[Main Paper](Tax dispute resolution between China and ASEAN under BRI.pdf){:target="_blank"}
+[Main Paper](/files/research papers/Tax dispute resolution between China and ASEAN under BRI.pdf){:target="_blank"}
 
 Dr Xu Diheng, Research Fellow, SMU-TA Centre for Excellence in Taxation
 
@@ -87,7 +87,7 @@ Ms Yong Sing Yuan, Tax Director, Inland Revenue Authority of Singapore & Ms Jow 
 
 **What is the cost of transparency? Does it outweigh the benefits obtained from greater transparency?**
 [Abstract](/files/research papers/Abstract_costs and benefits of tax transparency.pdf){:target="_blank"}
-[Main Paper](/files/Main paper_Costs and benefits of tax transparency.pdf){:target="_blank"}
+[Main Paper](/files/research papers/Main paper_Costs and benefits of tax transparency.pdf){:target="_blank"}
 
 Ms Viktoria Wohrer, PhD candidate, Vienna University of Economics and Business
   
