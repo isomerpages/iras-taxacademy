@@ -20,7 +20,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 ##### **September 2019**
 
-* 17 September: [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17SepGST-ta-id) 
+* 17 September: [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17SepGST-ta-id) **FULLY SUBSCRIBED**
 
 ##### **August 2019**
 
