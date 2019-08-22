@@ -20,7 +20,9 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 ##### **September 2019**
 
-* 17 September: [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17SepGST-ta-id) 
+* 27 September: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)
+
+* 17 September: [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17SepGST-ta-id) **FULLY SUBSCRIBED**
 
 ##### **August 2019**
 
@@ -54,6 +56,46 @@ Closing Date:  13 Sep 2019. Seats on a first-come-first-served basis, upon full 
 Fees: SGD 353.10 (incl. GST)
 Foreign participants, who in their business capacity belong overseas and are sponsored by overseas employers, are excluded from paying 7% GST.
 
+
+
+<a id="GST-ASK-ta-id"></a>
+### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
+**27 Sep 2019 | 14:00 to 17:00 | Revenue House Discovery Room**
+
+[Registration Form](https://forms.gle/hCUYordkQWbesg6A7)
+
+Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors? 
+Then join us for this half day workshop where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner.  The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
+
+By adopting ASK, you will enjoy the following benefits:
+
+* Understand GST requirements on filing and record-keeping
+
+* Review accuracy of GST submissions
+
+* Reduce risk of incurring penalties on common errors made by GST-registered businesses
+
+* Discover past GST errors early for timely disclosure to IRAS to enjoy zero or reduced penalties under IRAS' Voluntary Disclosure Programme
+
+* Enjoy administrative concessions for common errors disclosed through the course of ASK Annual Review
+
+* Fulfil requirement for application or renewal of selected GST schemes
+
+Programme Outline:
+
+* Introduction to GST Assisted Self-Help Kit (ASK)
+
+* Inculcating Good GST Practices
+
+* Performing Quality Checks and Highlights on Common GST Errors
+
+* Effective Annual Review
+
+Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+
+Seminar fees: $107 (incl. GST)
+
+Closing date: 30 Aug 19. Seats on a first-come-first-served basis, upon full payment.
 
 
 <a id="17SepGST-ta-id"></a>
