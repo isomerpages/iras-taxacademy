@@ -18,6 +18,8 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 4 October: [IFA Singapore Branch - Tax Academy 2019 Digital Tax Conference](/seminars-and-conferences/upcoming/#4OctConf-ta-id) 
 
+* 3 October: [TaxEdge Series: Regional Tax Bytes](/seminars-and-conferences/upcoming/#RegTaxBytes-ta-id)
+
 ##### **September 2019**
 
 * 27 September: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)
@@ -56,6 +58,24 @@ Closing Date:  13 Sep 2019. Seats on a first-come-first-served basis, upon full 
 Fees: SGD 353.10 (incl. GST)
 Foreign participants, who in their business capacity belong overseas and are sponsored by overseas employers, are excluded from paying 7% GST.
 
+
+<a id="RegTaxBytes-ta-id"></a>
+#### **TaxEdge Series: Regional Tax Bytes**
+**3 October 2019 | 9:00 to 11:30 | Revenue House Courage Room**
+
+[Registration Form](https://forms.gle/HMqp4U8V8CnY5oJJA) [Seminar Brochure]({{"/seminars-brochures/Flyer_3_Oct.pdf"}}){:target="_blank"}
+
+Tax regimes in the region are very wide and diverse. As they constantly evolve, they present challenges to advisors who advise on cross-border transactions. Join us in this interactive seminar where speakers from Axcelasia Taxand, PB Taxand, Salvador Llanillo & Bernardo, Yulchon LLC., Economic Laws Practice and Hendersen Taxand will provide you with succinct byte size information on the significant tax developments in China, Indonesia, India, South Korea, Malaysia, Philippines and how these developments would impact on inbound and outbound investments. The discussion will also cover transfer pricing trends and upcoming changes in tax laws and practices.  The seminar will be moderated by Withers KhattarWong LLP.
+
+Who should attend:
+
+Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
+
+Registration:
+
+Closing Date: 6 Sep 2019, or when seminar is fully subscribed.
+
+Seminar Fees: $85.60 (incl. GST)
 
 
 <a id="GST-ASK-ta-id"></a>
