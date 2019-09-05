@@ -73,7 +73,7 @@ Members of the business and tax community | Legal professionals | Academics | Po
 
 Registration:
 
-Closing Date: 6 Sep 2019, or when seminar is fully subscribed.
+Closing Date: Extended to 13 Sep 2019, or when seminar is fully subscribed.
 
 Seminar Fees: $85.60 (incl. GST)
 
