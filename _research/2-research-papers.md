@@ -6,6 +6,10 @@ breadcrumb: Research Papers
 collection_name: research
 ---
 
+**The Need for a New Australia Singapore Tax Treaty** [Main Paper](/files/research papers/The Need for a New Australia Singapore Tax Treaty.pdf){:target="_blank"}
+
+Prof John Taylor, Professor, University of New South Wales
+
 **Singapore and the One Belt One Road Initiative: Potential tax implications for investors in the land route** [Main Paper](/files/research papers/The One Belt One Road Initiative 23May2018.pdf){:target="_blank"}
 
 Dr Jasmin Kollmann, EY Munich 
