@@ -16,9 +16,8 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 ##### **October 2019**
 
+* 10 October: [FasTax Series: Fundamentals of Corporate Tax](/seminars-and-conferences/upcoming/#10octCTfiling-ta-id)
 * 4 October: [IFA Singapore Branch - Tax Academy 2019 Digital Tax Conference](/seminars-and-conferences/upcoming/#4OctConf-ta-id) 
-
-* 3 October: [TaxEdge Series: Regional Tax Bytes](/seminars-and-conferences/upcoming/#RegTaxBytes-ta-id)
 
 ##### **September 2019**
 
@@ -34,6 +33,46 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 7 August: [Understanding How Annual Values are assessed for Property Tax](/seminars-and-conferences/upcoming/#August-annualvalue-ta-id)  **FULLY SUBSCRIBED** 
 
+
+<a id="10octCTfiling-ta-id"></a>
+### **FasTax Series: Fundamentals of Corporate Tax Filing**
+**10 Oct 2019 | 14:00 to 17:00 | Revenue House Discovery Room**
+
+[Registration Form](https://forms.gle/fwsuFXbBicedK5WAA)
+
+As a company director, do you know whether your tax agent/staff are filing corporate tax correctly and what are the proper documentations to maintain?  As a tax agent/practitioner, do you know what are the common pitfalls to avoid when filing corporate tax for your clients?
+
+Join us in this workshop as our speakers from IRAS' Corporate Tax and Enforcement Divisions equip you with knowledge in the following areas:
+
+* Fundamentals of Singapore corporate taxation
+
+* Practical guidance and tips for preparing tax computation
+
+* Responsibilities of the company director
+
+Programme Outline:
+
+* Company’s tax filing obligations
+
+* Basic corporate tax rules on, income, deductibility of expenses, and capital allowances
+
+* Case study
+
+* Common mistakes to avoid
+
+* Consequences for filing late or not filing a return
+
+* Maintenance of proper records and source documents
+
+* Filing obligations of bankrupt directors
+
+* Responsibilities of Nominee/sleeping director
+ 
+Who should attend: Company directors, tax agents/practitioners, finance and accounting professionals
+ 
+Closing date: 23 Sep 19. Seats on a first-come-first-served basis.
+
+Seminar fees: $107 (incl. GST).
 
 
 <a id="4OctConf-ta-id"></a>
@@ -57,25 +96,6 @@ Closing Date:  13 Sep 2019. Seats on a first-come-first-served basis, upon full 
 
 Fees: SGD 353.10 (incl. GST)
 Foreign participants, who in their business capacity belong overseas and are sponsored by overseas employers, are excluded from paying 7% GST.
-
-
-<a id="RegTaxBytes-ta-id"></a>
-#### **TaxEdge Series: Regional Tax Bytes**
-**3 October 2019 | 9:00 to 11:30 | Revenue House Courage Room**
-
-[Registration Form](https://forms.gle/HMqp4U8V8CnY5oJJA) [Seminar Brochure]({{"/seminars-brochures/Flyer_3_Oct.pdf"}}){:target="_blank"}
-
-Tax regimes in the region are very wide and diverse. As they constantly evolve, they present challenges to advisors who advise on cross-border transactions. Join us in this interactive seminar where speakers from Axcelasia Taxand, PB Taxand, Salvador Llanillo & Bernardo, Yulchon LLC., Economic Laws Practice and Hendersen Taxand will provide you with succinct byte size information on the significant tax developments in China, Indonesia, India, South Korea, Malaysia, Philippines and how these developments would impact on inbound and outbound investments. The discussion will also cover transfer pricing trends and upcoming changes in tax laws and practices.  The seminar will be moderated by Withers KhattarWong LLP.
-
-Who should attend:
-
-Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
-
-Registration:
-
-Closing Date: Extended to 13 Sep 2019, or when seminar is fully subscribed.
-
-Seminar Fees: $85.60 (incl. GST)
 
 
 <a id="GST-ASK-ta-id"></a>
