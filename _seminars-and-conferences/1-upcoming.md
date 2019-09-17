@@ -18,6 +18,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 10 October: [FasTax Series: Fundamentals of Corporate Tax](/seminars-and-conferences/upcoming/#10octCTfiling-ta-id)
 * 4 October: [IFA Singapore Branch - Tax Academy 2019 Digital Tax Conference](/seminars-and-conferences/upcoming/#4OctConf-ta-id) 
+* 3 October: [TaxEdge Series: In-depth discussion about the recent Danish Beneficial ownership cases of the European Court of Justice and recent developments in EU State aid for Transfer Pricing](/seminars-and-conferences/upcoming/#Weber-ta-id)
 
 ##### **September 2019**
 
@@ -96,6 +97,29 @@ Closing Date:  13 Sep 2019. Seats on a first-come-first-served basis, upon full 
 
 Fees: SGD 353.10 (incl. GST)
 Foreign participants, who in their business capacity belong overseas and are sponsored by overseas employers, are excluded from paying 7% GST.
+
+
+<a id="Weber-ta-id"></a>
+### **TaxEdge Series: In-depth discussion about the recent Danish Beneficial ownership cases of the European Court of Justice and recent developments in EU State aid for Transfer Pricing (the decisions in Starbucks and FIAT and the hearing in the Apple case)**
+**3 Oct 2019 | 14:00 to 16:00 | Revenue House Courage Room**
+
+Tax Academy is pleased to organized the above seminar, helmed by Prof. dr. Dennis Weber (Professor of European Tax Law, University of Amsterdam).  In this seminar, Prof. Weber will discuss in-depth the Danish Beneficial ownership of the European Court of Justice. He will discuss the influence of the Commentary of the OECD model treaty versus the beneficial ownership requirements, he will go deeper into the abuse indications the European Court developed in those cases and into the burden of proof if there is abuse and who the beneficial owner is. He will address questions how much substance holding companies/finance companies need. In the second part of his presentation Prof. Weber will discuss the recent (24 September 2019) judgements of the European Court in the Starbucks and the FIAT cases about tax rulings and transfer pricing.
+
+Who should attend:
+
+Members of the business and tax community, Legal professionals, Academics, Policymakers and tax administrators.
+
+Registration:
+
+Closing Date: 23 Sep 2019. Seats on first-come-first-served basis, upon full payment.
+
+Fees: $85.60 (incl. GST)
+
+**About the Speaker**:
+
+Dennis Weber is Professor of European Tax Law at the University of Amsterdam, with specialization in business taxation, legal tech tools and anti-BEPS rules. He is director and founder of the Amsterdam Centre for Tax Law (ACTL), which is the tax law research centre of the University of Amsterdam, the Netherlands. He is a guest lecturer at various universities worldwide. Mr Weber is affiliated with Loyens & Loeff, where he heads the European tax law team and acts as a consultant, mainly to multinational organizations. He has been involved in numerous proceedings in the field of European tax law before the Dutch courts, the European Court of Justice (Verkooijen, D case, Société Général) and foreign courts (in Spain, France, Italy and Sweden).
+
+Mr Weber is also one of the founders of the Group for European and International Taxation (GREIT), founder of the EU Tax Law Group (an independent group of tax lawyers focussed on European tax law) and is the coordinator of the international and European tax law programme of the Netherlands Association of Tax Lawyers (NOB). He is also a board member of the NOB’s European tax law section, the general editor and founder of the Journal Highlights & Insights on European Taxation and is the general editor of the Kluwer International Tax Law blog. Mr Weber has published more than 500 articles on European tax law in national and international professional journals and has edited 13 books.
 
 
 <a id="GST-ASK-ta-id"></a>
