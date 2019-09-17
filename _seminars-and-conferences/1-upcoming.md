@@ -103,6 +103,8 @@ Foreign participants, who in their business capacity belong overseas and are spo
 ### **TaxEdge Series: In-depth discussion about the recent Danish Beneficial ownership cases of the European Court of Justice and recent developments in EU State aid for Transfer Pricing (the decisions in Starbucks and FIAT and the hearing in the Apple case)**
 **3 Oct 2019 | 14:00 to 16:00 | Revenue House Courage Room**
 
+[Registration Form](https://forms.gle/fQnw2UcYRdGdhTd16)
+
 Tax Academy is pleased to organized the above seminar, helmed by Prof. dr. Dennis Weber (Professor of European Tax Law, University of Amsterdam).  In this seminar, Prof. Weber will discuss in-depth the Danish Beneficial ownership of the European Court of Justice. He will discuss the influence of the Commentary of the OECD model treaty versus the beneficial ownership requirements, he will go deeper into the abuse indications the European Court developed in those cases and into the burden of proof if there is abuse and who the beneficial owner is. He will address questions how much substance holding companies/finance companies need. In the second part of his presentation Prof. Weber will discuss the recent (24 September 2019) judgements of the European Court in the Starbucks and the FIAT cases about tax rulings and transfer pricing.
 
 Who should attend:
