@@ -93,7 +93,7 @@ Members of the business and tax community; Legal professionals; Academics; Polic
 
 Registration:
 
-Closing Date:  13 Sep 2019. Seats on a first-come-first-served basis, upon full payment.
+Closing Date:  Extended to 23 Sep 2019. Seats on a first-come-first-served basis, upon full payment.
 
 Fees: SGD 353.10 (incl. GST)
 Foreign participants, who in their business capacity belong overseas and are sponsored by overseas employers, are excluded from paying 7% GST.
