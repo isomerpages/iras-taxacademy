@@ -20,7 +20,7 @@ Participants will learn to compute income tax liability for individuals accurate
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScccIX23UDQywGyRXzJOZO5G4lnaUAyiO8-dVasrionHHanKg/closedform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 (Income Tax) 2-2019_programme.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is OPEN for Intake 2/2019.
+Registration is CLOSED for Intake 2/2019.
 
 The next intake for this course will be in Apr/May 2020. Registration will be available six weeks prior to the course commencement date.
 
@@ -50,7 +50,7 @@ Intake 14:
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd-tMEO_Sg1jWNLojF8Advggb7nn1pqMgTok-70Aa0gfSOuoQ/viewform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 14) Info Package_v2.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 14) schedule_v2.0.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is OPEN for Intake 14 Modules 7, 8 and 9.
+Registration is OPEN for Intake 14 Module 9.
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
