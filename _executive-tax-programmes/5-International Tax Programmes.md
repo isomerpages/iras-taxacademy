@@ -74,7 +74,7 @@ The programme provides participants with the latest update on international tran
 *Mr Matthew Peter Keats*
 *Investigator, Financial Markets Authority of New Zealand*
 
-**Registration is OPEN for 2019 intake**
+**Registration is CLOSED for 2019 intake**
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd3xXcKQ3CSqb7TFWkKVXlgN75d0XawogOyBPQk_KbggoVbRw/viewform){:target="_blank"} - [Details](/files/executive-tax-programmes/WU%20Prog.pdf){:target="_blank"}
 
