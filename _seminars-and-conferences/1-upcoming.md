@@ -33,9 +33,9 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 [Registration Form](https://forms.gle/8FQSLUnd4FHpvB158)
 
-Tax Academy is pleased to organise the above seminar, helmed by Mr Sam Sim to repeat the lecture he delivered at Prof Kees van Raad's Leiden program at the prestigious Shanghai Fudan University earlier this year. 
+Tax Academy is pleased to organise the seminar on “Digital Silk Road - AI, big data, 5G and Platforms, what the International Digital Tax Proposals mean for China”.  The seminar will be conducted by Mr Sam Sim, Senior Advisor, University of Vienna Institute for Austrian and International Law Global Tax Policy Center.  This seminar was also featured as part of the Shanghai Fudan University’s “June 2019 ITC Leiden China Summer Course in International Tax Law”.
 
-Active audience participation and discussion is encouraged on the following that will be covered:
+Seminar Agenda:
 
 * The digital tax proposals and what it means to China, why China seems largely absent from the global digital debate
 
@@ -67,7 +67,7 @@ Who should attend: Tax practitioners, finance and accounting professionals, and 
 
 Seminar fees: $85.60 (incl. GST)
 
-Closing date: 29 Oct 19.  Seats on a first-come-first-served basis, upon full payment.
+Closing date: 15 Oct 19.  Seats on a first-come-first-served basis, upon full payment.
 
 
 <a id="10octCTfiling-ta-id"></a>
