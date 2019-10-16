@@ -48,7 +48,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 Intake 15:
 
-[Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLScRP7x9RBp4qoBHNk7PVM3Wa5TB42h1za4eVx2-_Gy6tHBPBw/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 15) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 15) schedule_v1.0.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLScRP7x9RBp4qoBHNk7PVM3Wa5TB42h1za4eVx2-_Gy6tHBPBw/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 15) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 15) schedule_v2.0.pdf" | absolute_url }}){:target="_blank"}
 
 Registration is OPEN for Intake 15 Modules 2, 3, 4, 5, 6, 7, 8 and 9.
 
