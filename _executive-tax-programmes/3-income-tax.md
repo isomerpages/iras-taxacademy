@@ -8,8 +8,8 @@ collection_name: executive-tax-programmes
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
-
-* July 2020 intake: [Stay tuned for more information](/executive-tax-programmes/income-tax/a-id="etp2sep-ta-id") 
+* Feb 2020 intake: [Stay tuned for more information in December](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* July 2020 intake: [Stay tuned for more information](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
