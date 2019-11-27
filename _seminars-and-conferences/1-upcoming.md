@@ -10,7 +10,7 @@ collection_name: seminars-and-conferences
 ##### **UPCOMING EVENTS**
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Please tell us what it is, so that we can consider designing new events or enhancing the existing ones.
-Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://forms.gle/AGwbzAxnHSxqWU8J8). Thank you!
+Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
 
