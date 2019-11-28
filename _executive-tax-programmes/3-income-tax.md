@@ -9,7 +9,7 @@ collection_name: executive-tax-programmes
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
-* Jan 2020 intake: [ETP Level II - Corporate & Business Jan class](/executive-tax-programmes/income-tax/#etp2sep-ta-id)
+* July 2020 intake: [Stay tuned for more information in May 2020](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
@@ -35,7 +35,7 @@ Intake 3/2019 (Jan 2020 class):
 
 [Registration Form](https://docs.google.com/forms/d/1Qz8eJ7B-NqLs1DbhbAZCn6_hXmcCEFduRD2ePDtGO-Q/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT32019.pdf){:target="_blank"}
 
-Registration is OPEN for Intake 3/2019.  
+Registration is CLOSED for Intake 3/2019.  
 
 The next intake for this course will be in July 2020. Registration will be available six weeks prior to the course commencement date.
 
