@@ -14,10 +14,10 @@ collection_name: executive-tax-programmes
 * Oct 2020 intake: [Stay tuned for more information in Aug 2020](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
-* 2019 intake: [WU-TA Advanced Transfer Pricing Programme](/executive-tax-programmes/international-tax/#wu-ta-id)
+* Sep/Oct 2020 intake: [Stay tuned for more information in Mar 2020](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
-* 2019 intake: [Advanced Inteernational Tax Planning Programme](/executive-tax-programmes/international-tax/#itp-id)
+* Sep 2020 intake: [Stay tuned for more information in Jun 2020](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
@@ -87,7 +87,7 @@ Dates of programme: 5 & 6 Sep 2019
 
 [Registration Form](https://docs.google.com/forms/d/1mueIi7haKCfyo2xIi3YsqN9gtlMFhp48-6J_5hwzhfk/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ITP2019.pdf){:target="_blank"}
 
-**Registration is OPEN for 2019 intake**
+**Registration is CLOSED for 2019 intake**
 
 **Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
 
