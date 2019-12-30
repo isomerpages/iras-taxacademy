@@ -14,222 +14,30 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 
 
-##### **October 2019**
+##### **March 2020**
 
-* 29 October: [TaxEdge Series: Digital Silk Road - AI, big data, 5G and Platforms. What the International Digital Tax Proposals mean for China](/seminars-and-conferences/upcoming/#29octTaxEdge-ta-id)
-* 10 October: [FasTax Series: Fundamentals of Corporate Tax](/seminars-and-conferences/upcoming/#10octCTfiling-ta-id)
-* 4 October: [IFA Singapore Branch - Tax Academy 2019 Digital Tax Conference](/seminars-and-conferences/upcoming/#4OctConf-ta-id) 
-* 3 October: [TaxEdge Series: In-depth discussion about the recent Danish Beneficial ownership cases of the European Court of Justice and recent developments in EU State aid for Transfer Pricing](/seminars-and-conferences/upcoming/#Weber-ta-id)
+* 3 to 5 March: [TEI US TAX SEMINAR 2020](/seminars-and-conferences/upcoming/#2020TEI-ta-id)
 
-##### **September 2019**
 
-* 27 September: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)
+<a id="2020TEI-ta-id"></a>
+##### **TEI US TAX SEMINAR 2020**
+**3 to 5 March 2020 | 9:00 to 17:00 | Courtyard by Marriott Singapore Novena**
 
-* 17 September: [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17SepGST-ta-id) **FULLY SUBSCRIBED**
+[Registration Form](https://forms.gle/JjtaWsJHAPGE17Mq5){:target="_blank"} - [Brochure](/seminars-brochures/2020 US Tax Training Brochure Circulation.pdf)
 
-<a id="29octTaxEdge-ta-id"></a>
-### **TaxEdge Series: Digital Silk Road - AI, big data, 5G and Platforms. What the International Digital Tax Proposals mean for China**
-**29 Oct 2019 | 14:00 to 16:30 | Revenue House Auditorium**
+The Tax Executives Institute (TEI) and the Tax Academy of Singapore (TAS) are pleased to jointly present the TEI US Tax Conference in Singapore on 3 to 5 March 2020.  This 3-day event will feature leading US tax experts from Ernst & Young, Baker & McKenzie who will provide participants with an overview of the US taxation system and discuss key features and recent developments.
 
-[Registration Form](https://forms.gle/8FQSLUnd4FHpvB158)
+Seminar fees:
 
-Tax Academy is pleased to organise the seminar on “Digital Silk Road - AI, big data, 5G and Platforms, what the International Digital Tax Proposals mean for China”.  The seminar will be conducted by Mr Sam Sim, Senior Advisor, University of Vienna Institute for Austrian and International Law Global Tax Policy Center.  This seminar was also featured as part of the Shanghai Fudan University’s “June 2019 ITC Leiden China Summer Course in International Tax Law”.
+Participants may choose to sign up for the full 3-day event or any 2 consecutive days.
 
-Seminar Agenda:
+TEI members (per day): SGD280 / USD220
 
-* The digital tax proposals and what it means to China, why China seems largely absent from the global digital debate
+Non-TEI members (per day): SGD380 / USD300
 
-* One Belt One Road, net FDI exporter and what a digital silk road means for China 
+Above fees exclude 7% GST.  Local participants need to pay above fees plus 7% GST.
 
-* Tax Dispute resolution on the Belt and Road
-
-* Trade war and a world of bifurcated standards if US-China decouples and what it means to global tax value chains
-
-* China's leap-frogging of the value chain from 3G to 5G and implications for tax   
-
-* Brief observations on Chinese advances in analytics, AI and blockhchain in tax administration
-
-* Q & A
-
-**About the Speaker**
-
-Sam Sim
-
-Senior Advisor, University of Vienna Institute for Austrian and International Law Global Tax Policy Center
-
-Member of Practice Council, New York University School of Law
-
-Member, International Association of Tax Judges
-
-Mr Sim was Regional Vice-President (Europe, Middle-East, Africa, Asia and Latin America) of TEI. He has led global teams as Deputy Global Head of Transfer Pricing and Transfer Pricing Geo Leader for EMEA and Asia-Pacific in large Fortune 100 MNEs. He is passionate in digital taxation and researched on Technology and Taxation at the Center for Artificial Intelligence at SMU, co-authored IEEE and IBM Research papers and lectured at the Master of Tax level courses at a number of universities. He is the author of The Logic and Practice of Transfer Pricing (Lexis-Nexis), Singapore Transfer Pricing Masterguide 2018/19 (CCH) and co-editor of Asia Voices: BEPS and Beyond (IBFD).
-
-Who should attend: Tax practitioners, finance and accounting professionals, and business owners
-
-Seminar fees: $85.60 (incl. GST)
-
-Closing date: 15 Oct 19.  Seats on a first-come-first-served basis, upon full payment.
-
-
-<a id="10octCTfiling-ta-id"></a>
-### **FasTax Series: Fundamentals of Corporate Tax Filing**
-**10 Oct 2019 | 14:00 to 17:00 | Revenue House Discovery Room**
-
-[Registration Form](https://forms.gle/fwsuFXbBicedK5WAA)
-
-As a company director, do you know whether your tax agent/staff are filing corporate tax correctly and what are the proper documentations to maintain?  As a tax agent/practitioner, do you know what are the common pitfalls to avoid when filing corporate tax for your clients?
-
-Join us in this workshop as our speakers from IRAS' Corporate Tax and Enforcement Divisions equip you with knowledge in the following areas:
-
-* Fundamentals of Singapore corporate taxation
-
-* Practical guidance and tips for preparing tax computation
-
-* Responsibilities of the company director
-
-Programme Outline:
-
-* Company’s tax filing obligations
-
-* Basic corporate tax rules on, income, deductibility of expenses, and capital allowances
-
-* Case study
-
-* Common mistakes to avoid
-
-* Consequences for filing late or not filing a return
-
-* Maintenance of proper records and source documents
-
-* Filing obligations of bankrupt directors
-
-* Responsibilities of Nominee/sleeping director
- 
-Who should attend: Company directors, tax agents/practitioners, finance and accounting professionals
- 
-Closing date: 23 Sep 19. Seats on a first-come-first-served basis.
-
-Seminar fees: $107 (incl. GST).
-
-
-<a id="4OctConf-ta-id"></a>
-#### **IFA Singapore Branch - Tax Academy 2019 Digital Tax Conference**
-### **Taxing the Digitalised World: Triumph or Debacle?**
-**4 October 2019 | 9:00 to 17:45 | Sheraton Towers**
-
-[Registration Form](https://forms.gle/yqyhAGTwYKREYQ9i8) [Conference Brochure]({{"/seminars-brochures/Flyer_Conference4Oct2019.pdf"}}){:target="_blank"}
-
-Digital transformation and the digitalisation of the economy drive today‘s global tax agenda. The theme “Taxing the Digitalised World: Triumph or Debacle?” selected for this year's conference is in response to the latest developments on taxing the digitalized economy in the light of the ongoing work on the re-allocation of taxing rights under Pillar 1 and the global minimum tax proposals under Pillar 2 of the OECD/ BEPS paper, as well as specific country responses.
-
-This conference brings together tax officials, corporates and industry representatives and tax professionals from the Asia Pacific region, the US, the UK and Europe to share and deliberate these developments.
-
-Who should attend:
-
-Members of the business and tax community; Legal professionals; Academics; Policy makers and tax administrators
-
-Registration:
-
-Closing Date:  Extended to 23 Sep 2019. Seats on a first-come-first-served basis, upon full payment.
-
-Fees: SGD 353.10 (incl. GST)
-Foreign participants, who in their business capacity belong overseas and are sponsored by overseas employers, are excluded from paying 7% GST.
-
-
-<a id="Weber-ta-id"></a>
-### **TaxEdge Series: In-depth discussion about the recent Danish Beneficial ownership cases of the European Court of Justice and recent developments in EU State aid for Transfer Pricing (the decisions in Starbucks and FIAT and the hearing in the Apple case)**
-**3 Oct 2019 | 14:00 to 16:00 | Revenue House Courage Room**
-
-[Registration Form](https://forms.gle/fQnw2UcYRdGdhTd16)
-
-Tax Academy is pleased to organized the above seminar, helmed by Prof. dr. Dennis Weber (Professor of European Tax Law, University of Amsterdam).  In this seminar, Prof. Weber will discuss in-depth the Danish Beneficial ownership of the European Court of Justice. He will discuss the influence of the Commentary of the OECD model treaty versus the beneficial ownership requirements, he will go deeper into the abuse indications the European Court developed in those cases and into the burden of proof if there is abuse and who the beneficial owner is. He will address questions how much substance holding companies/finance companies need. In the second part of his presentation Prof. Weber will discuss the recent (24 September 2019) judgements of the European Court in the Starbucks and the FIAT cases about tax rulings and transfer pricing.
-
-Who should attend:
-
-Members of the business and tax community, Legal professionals, Academics, Policymakers and tax administrators.
-
-Registration:
-
-Closing Date: 23 Sep 2019. Seats on first-come-first-served basis, upon full payment.
-
-Fees: $85.60 (incl. GST)
-
-**About the Speaker**:
-
-Dennis Weber is Professor of European Tax Law at the University of Amsterdam, with specialization in business taxation, legal tech tools and anti-BEPS rules. He is director and founder of the Amsterdam Centre for Tax Law (ACTL), which is the tax law research centre of the University of Amsterdam, the Netherlands. He is a guest lecturer at various universities worldwide. Mr Weber is affiliated with Loyens & Loeff, where he heads the European tax law team and acts as a consultant, mainly to multinational organizations. He has been involved in numerous proceedings in the field of European tax law before the Dutch courts, the European Court of Justice (Verkooijen, D case, Société Général) and foreign courts (in Spain, France, Italy and Sweden).
-
-Mr Weber is also one of the founders of the Group for European and International Taxation (GREIT), founder of the EU Tax Law Group (an independent group of tax lawyers focussed on European tax law) and is the coordinator of the international and European tax law programme of the Netherlands Association of Tax Lawyers (NOB). He is also a board member of the NOB’s European tax law section, the general editor and founder of the Journal Highlights & Insights on European Taxation and is the general editor of the Kluwer International Tax Law blog. Mr Weber has published more than 500 articles on European tax law in national and international professional journals and has edited 13 books.
-
-
-<a id="GST-ASK-ta-id"></a>
-### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
-**27 Sep 2019 | 14:00 to 17:00 | Revenue House Discovery Room**
-
-[Registration Form](https://forms.gle/hCUYordkQWbesg6A7)
-
-Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors? 
-Then join us for this half day workshop where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner.  The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
-
-By adopting ASK, you will enjoy the following benefits:
-
-* Understand GST requirements on filing and record-keeping
-
-* Review accuracy of GST submissions
-
-* Reduce risk of incurring penalties on common errors made by GST-registered businesses
-
-* Discover past GST errors early for timely disclosure to IRAS to enjoy zero or reduced penalties under IRAS' Voluntary Disclosure Programme
-
-* Enjoy administrative concessions for common errors disclosed through the course of ASK Annual Review
-
-* Fulfil requirement for application or renewal of selected GST schemes
-
-Programme Outline:
-
-* Introduction to GST Assisted Self-Help Kit (ASK)
-
-* Inculcating Good GST Practices
-
-* Performing Quality Checks and Highlights on Common GST Errors
-
-* Effective Annual Review
-
-Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
-Seminar fees: $107 (incl. GST)
-
-Closing date: 30 Aug 19. Seats on a first-come-first-served basis, upon full payment.
-
-
-<a id="17SepGST-ta-id"></a>
-### **FasTax Series: Fundamentals of GST Filing**
-**17 Sep 2019 | 13:00 to 17:00 | Revenue House Aspiration Room**
-
-[Registration Form](https://forms.gle/f9ssgM21QLDy1jfN6)
-
-Join us in this workshop to hear from IRAS’ tax officers in the following areas:
-
-* Responsibilities of a GST-Registered Person
-
-* Reimbursements vs Disbursement
-
-* Fringe Benefits
-
-* International Services
-
-You will also learn about the common filing mistakes to avoid, and get some hands-on practise for filing.
-
-IMPORTANT
-
-Attendees must complete the following eLearning modules and the respective quizzes, before attending the workshop:
-
-* [eLearning module on Registering for GST](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
-
-* [eLearning module on Overview of GST](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
-
-Who should attend: Tax agents/practitioners, finance and accounting professionals, and business owners
-
-Seminar fees: $107 (incl. GST)
-
-Closing date: 20 August 19.  Seats on a first-come-first-served basis, upon full payment.
+Closing date: 10 Feb 2020
 
 
 
