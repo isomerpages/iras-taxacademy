@@ -27,6 +27,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 <a id="MTC-ta-id"></a>
 ##### **FasTax Series: Managing Tax Compliance**
 **19 Feb 2020 | 14:00 to 17:00 | Stamford Training Room, The Adelphi**
+
 [Registration Form](https://forms.gle/zUHptGtEe4CKf9Ez7)
 Closing date for registration: 10 Feb
 
@@ -56,6 +57,7 @@ Seminar fees: $107 (incl. GST)
 <a id="GST-ASK-ta-id"></a>
 ### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
 **27 Sep 2019 | 14:00 to 17:00 | Savvy Training Room, International Plaza**
+
 [Registration Form](https://forms.gle/pMjYfqd52RYFezVr6)
 Closing date for registration: 19 Feb
 
@@ -98,6 +100,7 @@ Seminar fees: $107 (incl. GST)
 **3 to 5 March 2020 | 9:00 to 17:00 | Courtyard by Marriott Singapore Novena**
 
 [Registration Form](https://forms.gle/JjtaWsJHAPGE17Mq5){:target="_blank"} - [Brochure](/seminars-brochures/2020 US Tax Training Brochure Circulation.pdf)
+
 Closing date for registration: 10 Feb
 
 The Tax Executives Institute (TEI) and the Tax Academy of Singapore (TAS) are pleased to jointly present the TEI US Tax Conference in Singapore on 3 to 5 March 2020.  This 3-day event will feature leading US tax experts from Ernst & Young, Baker & McKenzie who will provide participants with an overview of the US taxation system and discuss key features and recent developments.
