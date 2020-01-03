@@ -14,9 +14,83 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 
 
+##### **February 2020**
+
+* 19 Feb: [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#MTC-ta-id)
+* 27 Feb: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)
+
 ##### **March 2020**
 
 * 3 to 5 March: [TEI US TAX SEMINAR 2020](/seminars-and-conferences/upcoming/#2020TEI-ta-id)
+
+
+<a id="MTC-ta-id"></a>
+##### **FasTax Series: Managing Tax Compliance**
+**19 Feb 2020 | 14:00 to 17:00 | Stamford Training Room, The Adelphi**
+[Registration Form](https://forms.gle/zUHptGtEe4CKf9Ez7)
+Closing date for registration: 10 Feb
+
+This seminar aims to enhance companies’ understanding of IRAS’ compliance approach and how companies can better comply with their tax obligations.  IRAS’ speakers from the Corporate Tax Division and  Investigation and Forensics Division will share with you on the authority’s audit and investigation approaches as well as hear about some of the findings from its audits and investigations.
+
+Seminar agenda include:
+
+* IRAS’ assessment process and risk–based approach to tax assessment
+
+* Common issues and mistakes made by companies
+
+* The penalty framework
+
+* An overview of the investigation process
+
+* The informant reward framework
+
+* How should businesses act when they are being investigated
+
+Participants will also learn how to mitigate the common mistakes and improve tax compliance by enhancing internal controls, record keeping and other areas.
+
+Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+
+Seminar fees: $107 (incl. GST)
+
+
+<a id="GST-ASK-ta-id"></a>
+### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
+**27 Sep 2019 | 14:00 to 17:00 | Savvy Training Room, International Plaza**
+[Registration Form](https://forms.gle/pMjYfqd52RYFezVr6)
+Closing date for registration: 19 Feb
+
+Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors? 
+Then join us for this half day workshop where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner.  The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
+
+By adopting ASK, you will enjoy the following benefits:
+
+* Understand GST requirements on filing and record-keeping
+
+* Review accuracy of GST submissions
+
+* Reduce risk of incurring penalties on common errors made by GST-registered businesses
+
+* Discover past GST errors early for timely disclosure to IRAS to enjoy zero or reduced penalties under IRAS' Voluntary Disclosure Programme
+
+* Enjoy administrative concessions for common errors disclosed through the course of ASK Annual Review
+
+* Fulfil requirement for application or renewal of selected GST schemes
+
+Programme Outline:
+
+* Introduction to GST Assisted Self-Help Kit (ASK)
+
+* Inculcating Good GST Practices
+
+* Performing Quality Checks and Highlights on Common GST Errors
+
+* Effective Annual Review
+
+Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+
+Seminar fees: $107 (incl. GST)
+
+
 
 
 <a id="2020TEI-ta-id"></a>
@@ -24,6 +98,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 **3 to 5 March 2020 | 9:00 to 17:00 | Courtyard by Marriott Singapore Novena**
 
 [Registration Form](https://forms.gle/JjtaWsJHAPGE17Mq5){:target="_blank"} - [Brochure](/seminars-brochures/2020 US Tax Training Brochure Circulation.pdf)
+Closing date for registration: 10 Feb
 
 The Tax Executives Institute (TEI) and the Tax Academy of Singapore (TAS) are pleased to jointly present the TEI US Tax Conference in Singapore on 3 to 5 March 2020.  This 3-day event will feature leading US tax experts from Ernst & Young, Baker & McKenzie who will provide participants with an overview of the US taxation system and discuss key features and recent developments.
 
@@ -37,7 +112,7 @@ Non-TEI members (per day): SGD380 / USD300
 
 Above fees exclude 7% GST.  Local participants need to pay above fees plus 7% GST.
 
-Closing date: 10 Feb 2020
+
 
 
 
