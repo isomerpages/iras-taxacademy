@@ -56,7 +56,7 @@ Seminar fees: $107 (incl. GST)
 
 <a id="GST-ASK-ta-id"></a>
 ### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
-**27 Sep 2019 | 14:00 to 17:00 | Savvy Training Room, International Plaza**
+**27 Feb 2020 | 14:00 to 17:00 | Savvy Training Room, International Plaza**
 
 [Registration Form](https://forms.gle/pMjYfqd52RYFezVr6)
 Closing date for registration: 19 Feb
