@@ -39,12 +39,14 @@ Nanyang Business School, Nanyang Technological University <br>
 Associate Professor Poh has been with the Nanyang Business School, NTU since 1998. He currently serves as Assistant Dean for the Bachelor in Accountancy programme, and teaches taxation courses at undergraduate and postgraduate levels. His research has been published in a number of peer-reviewed international journals. Outside of NTU, he has served at various times as Examiner for several professional accountancy bodies. He is an Accredited Tax Adviser and is currently a member of the Tax Academy’s curriculum and examination development committee and a member of the Income Tax Board of Review. <br>
 
 **Mr Eugene Lim** <br>
-Of Counsel <br>
-Providence Law Asia LLC <br>
+Co-Founder, Principal <br>
+Taxise Asia LLC <br>
 
-Eugene Lim is an international tax and trade lawyer who works extensively in the Asia Pacific region, having been based in Hong Kong and China for 11 years before moving to Singapore in 2014 to head the Singapore Tax, Trade and Wealth Management practice in one of the largest international law firms in Singapore. He has extensive experience relating to the structuring of supply chain and distribution strategies in the Asia Pacific region as well as in international tax and trade matters. He is currently practicing with Providence Law Asia LLC.
+Eugene Lim is an international tax and trade lawyer who works extensively in the Asia Pacific region.  He is a Founding Principal of Taxise Asia LLC (member firm of WTS Global) (“WTS Taxise”).  WTS Taxise is a boutique specialist international tax, transfer pricing and international trade Singapore law practice and is the exclusive member for Singapore of WTS Global.
 
-Eugene is recognised by leading legal directories such as The Legal 500 Asia Pacific and International Tax Review, with Chambers Asia Pacific noting that "clients prize the practical nature of Eugene Lim's advice, and particularly appreciate his ability 'to analyse, find solutions and add value - not just as a legal counsel but as a business consultant too'." Who's Who Legal commented that Eugene is the “first port of call” for clients in the trade and customs field. <br>
+Previously, Eugene was based in Hong Kong and China for 11 years before moving to Singapore in 2014 to head the Singapore Tax, Trade and Wealth Management practice in one of the largest international law firms in Singapore. He has extensive experience relating to the structuring of supply chain and distribution strategies in the Asia Pacific region as well as in international tax and trade matters. 
+
+Eugene is recognised by leading legal directories such as The Legal 500 Asia Pacific and International Tax Review, with Chambers Asia Pacific noting that “clients prize the practical nature of Eugene Lim’s advice, and particularly appreciate his ability ‘to analyse, find solutions and add value - not just as a legal counsel but as a business consultant too’.” Who’s Who Legal commented that Eugene is the “first port of call” for clients in the trade and customs field. <br>
 
 **Mr Low Hwee Chua** <br>
 Regional Managing Partner <br>
