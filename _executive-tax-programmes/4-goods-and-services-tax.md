@@ -10,7 +10,7 @@ collection_name: executive-tax-programmes
 * May 2020 intake: [Stay tuned for more information in March 2020](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **Executive Tax Programme Level II (GST)**
-* Feb 2020 intake: [Registration is OPEN now](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* Aug 2020 intake: [Stay tuned for more information in Jun 2020](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 
 <a id="etp1gst-ta-id"></a>
@@ -31,7 +31,7 @@ This course comprises one module on overall GST concepts and applications, and f
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSf3z0hEH9juV-TvyWpYbovuIh-eXPz3tQFoZaiqerU5vau2gg/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L2 GST 3-2019.pdf"}}){:target="_blank"}
 
-Registration is OPEN for intake 3/2019.
+Registration is CLOSED for intake 3/2019.
 
 The next intake for this course will be in Aug 2020. Registration will be available eight weeks prior to the course commencement date.
 
