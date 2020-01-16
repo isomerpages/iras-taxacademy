@@ -31,6 +31,10 @@ column:
   - title: Enquiries and Feedback
     content:
     - line: "<a href='https://form.gov.sg/5d2c51283703d80011e52615'>Enquiries and Feedback Form</a>"
+ - title: Frequently Asked Questions
+    content:
+    - line: You might like to check out the [FAQs](/seminars-brochures/FAQ.pdf) to see if your query is already answered here.
+
 
 
     # If you have an email, put (email) after the actual email
