@@ -14,44 +14,54 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 
 
-##### **February 2020**
-
-* 19 Feb: [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#MTC-ta-id)
-* 27 Feb: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)
 
 ##### **March 2020**
 
+* 6 March: [Tax Essential Series: Taking On Tax as A Young Corporate Lawyer](/seminars-and-conferences/upcoming/#morningSAL-ta-id)
 * 3 to 5 March: [TEI US TAX SEMINAR 2020](/seminars-and-conferences/upcoming/#2020TEI-ta-id)
 
 
-<a id="MTC-ta-id"></a>
-##### **FasTax Series: Managing Tax Compliance**
-**19 Feb 2020 | 14:00 to 17:00 | Stamford Training Room, The Adelphi**
+##### **February 2020**
 
-[Registration Form](https://forms.gle/zUHptGtEe4CKf9Ez7)
+* 27 Feb: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)
+* 19 Feb: [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#MTC-ta-id)
+
+
+
+<a id="morningSAL-ta-id"></a>
+##### **Tax Essential Series: Taking On Tax as A Young Corporate Lawyer**
+**6 March 2020 | 9:00 to 12:00 | Singapore Academy of Law, The Adelphi**
+
+[Registration at SAL website](https://www.sal-e.org.sg/tax-essentials-series-taking-on-tax-as-a-young-corporate-lawyer){:target="_blank"} - [Brochure](/seminars-brochures/SAL_TA_AMseminar.pdf)
+
+Closing date for registration: 26 Feb
+
+This session equips you with the essentials and helps you understand how to grow in the corporate law space. Join Mr Eugene Lim and his multi-disciplinary panellists, Mr Tang Siau Yan, Chief Legal Officer, IRAS, Ms Ong Ken Loon, Head, Tax & Private Client Services, Drew & Napier, Mr Sam Sim, Senior Advisor, University of Vienna Institute for Austrian and International Law Global Tax Policy Center, Member of Practice Council, New York University School of Law Member, International Association of Tax Judges, (plus one more in-house counsel) for an interactive session. The session is especially useful for those with a keen interest beyond legal technicalities and development of the law.
+
+Seminar fees: $117.70 (incl. GST)
+
+
+
+<a id="2020TEI-ta-id"></a>
+##### **TEI US TAX SEMINAR 2020**
+**3 to 5 March 2020 | 9:00 to 17:00 | Courtyard by Marriott Singapore Novena**
+
+[Registration Form](https://forms.gle/JjtaWsJHAPGE17Mq5){:target="_blank"} - [Brochure](/seminars-brochures/2020 US Tax Training Brochure Circulation.pdf)
+
 Closing date for registration: 10 Feb
 
-This seminar aims to enhance companies’ understanding of IRAS’ compliance approach and how companies can better comply with their tax obligations.  IRAS’ speakers from the Corporate Tax Division and  Investigation and Forensics Division will share with you on the authority’s audit and investigation approaches as well as hear about some of the findings from its audits and investigations.
+The Tax Executives Institute (TEI) and the Tax Academy of Singapore (TAS) are pleased to jointly present the TEI US Tax Conference in Singapore on 3 to 5 March 2020.  This 3-day event will feature leading US tax experts from Ernst & Young, Baker & McKenzie who will provide participants with an overview of the US taxation system and discuss key features and recent developments.
 
-Seminar agenda include:
+Seminar fees:
 
-* IRAS’ assessment process and risk–based approach to tax assessment
+Participants may choose to sign up for the full 3-day event or any 2 consecutive days.
 
-* Common issues and mistakes made by companies
+TEI members (per day): SGD280 / USD220
 
-* The penalty framework
+Non-TEI members (per day): SGD380 / USD300
 
-* An overview of the investigation process
+Above fees exclude 7% GST.  Local participants need to pay above fees plus 7% GST.
 
-* The informant reward framework
-
-* How should businesses act when they are being investigated
-
-Participants will also learn how to mitigate the common mistakes and improve tax compliance by enhancing internal controls, record keeping and other areas.
-
-Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
-Seminar fees: $107 (incl. GST)
 
 
 <a id="GST-ASK-ta-id"></a>
@@ -94,26 +104,34 @@ Seminar fees: $107 (incl. GST)
 
 
 
+<a id="MTC-ta-id"></a>
+##### **FasTax Series: Managing Tax Compliance**
+**19 Feb 2020 | 14:00 to 17:00 | Stamford Training Room, The Adelphi**
 
-<a id="2020TEI-ta-id"></a>
-##### **TEI US TAX SEMINAR 2020**
-**3 to 5 March 2020 | 9:00 to 17:00 | Courtyard by Marriott Singapore Novena**
-
-[Registration Form](https://forms.gle/JjtaWsJHAPGE17Mq5){:target="_blank"} - [Brochure](/seminars-brochures/2020 US Tax Training Brochure Circulation.pdf)
-
+[Registration Form](https://forms.gle/zUHptGtEe4CKf9Ez7)
 Closing date for registration: 10 Feb
 
-The Tax Executives Institute (TEI) and the Tax Academy of Singapore (TAS) are pleased to jointly present the TEI US Tax Conference in Singapore on 3 to 5 March 2020.  This 3-day event will feature leading US tax experts from Ernst & Young, Baker & McKenzie who will provide participants with an overview of the US taxation system and discuss key features and recent developments.
+This seminar aims to enhance companies’ understanding of IRAS’ compliance approach and how companies can better comply with their tax obligations.  IRAS’ speakers from the Corporate Tax Division and  Investigation and Forensics Division will share with you on the authority’s audit and investigation approaches as well as hear about some of the findings from its audits and investigations.
 
-Seminar fees:
+Seminar agenda include:
 
-Participants may choose to sign up for the full 3-day event or any 2 consecutive days.
+* IRAS’ assessment process and risk–based approach to tax assessment
 
-TEI members (per day): SGD280 / USD220
+* Common issues and mistakes made by companies
 
-Non-TEI members (per day): SGD380 / USD300
+* The penalty framework
 
-Above fees exclude 7% GST.  Local participants need to pay above fees plus 7% GST.
+* An overview of the investigation process
+
+* The informant reward framework
+
+* How should businesses act when they are being investigated
+
+Participants will also learn how to mitigate the common mistakes and improve tax compliance by enhancing internal controls, record keeping and other areas.
+
+Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+
+Seminar fees: $107 (incl. GST)
 
 
 
