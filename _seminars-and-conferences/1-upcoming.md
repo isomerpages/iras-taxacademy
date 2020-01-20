@@ -45,6 +45,7 @@ Seminar fees: $117.70 (incl. GST)
 <a id="2020TEI-ta-id"></a>
 ##### **TEI US TAX SEMINAR 2020**
 **3 to 5 March 2020 | 9:00 to 17:00 | Courtyard by Marriott Singapore Novena**
+**CLASS IS FULL**
 
 [Registration Form](https://forms.gle/JjtaWsJHAPGE17Mq5){:target="_blank"} - [Brochure](/seminars-brochures/2020 US Tax Training Brochure Circulation.pdf)
 
