@@ -27,7 +27,7 @@ locations:
 column:
   
   - title: Frequently Asked Questions
-   content:
+    content:
     - line: You might like to check out the [FAQs](/seminars-brochures/FAQ.pdf) to see if your query is already answered here.
     
   - title: Enquiries and Feedback
