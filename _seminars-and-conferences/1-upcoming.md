@@ -43,9 +43,8 @@ Seminar fees: $117.70 (incl. GST)
 
 
 <a id="2020TEI-ta-id"></a>
-##### **TEI US TAX SEMINAR 2020**
+##### **TEI US TAX SEMINAR 2020 | CLASS IS FULL**
 **3 to 5 March 2020 | 9:00 to 17:00 | Courtyard by Marriott Singapore Novena**
-**CLASS IS FULL**
 
 [Registration Form](https://forms.gle/JjtaWsJHAPGE17Mq5){:target="_blank"} - [Brochure](/seminars-brochures/2020 US Tax Training Brochure Circulation.pdf)
 
@@ -106,7 +105,7 @@ Seminar fees: $107 (incl. GST)
 
 
 <a id="MTC-ta-id"></a>
-##### **FasTax Series: Managing Tax Compliance**
+##### **FasTax Series: Managing Tax Compliance | CLASS IS FULL**
 **19 Feb 2020 | 14:00 to 17:00 | Stamford Training Room, The Adelphi**
 
 [Registration Form](https://forms.gle/zUHptGtEe4CKf9Ez7)
