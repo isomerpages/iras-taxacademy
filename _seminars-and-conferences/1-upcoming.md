@@ -33,7 +33,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 ##### **Tax Essential Series: Common Legal Issues in Tax Faced by SMEs**
 **6 March 2020 | 14:00 to 17:00 | Singapore Academy of Law, The Adelphi**
 
-[Registration at SAL website](https://https://www.sal-e.org.sg/common-legal-issues-in-tax-faced-by-smes){:target="_blank"} - [Brochure](/seminars-brochures/SAL_TA_PM Seminar.pdf)
+[Registration at SAL website](https://www.sal-e.org.sg/common-legal-issues-in-tax-faced-by-smes){:target="_blank"} - [Brochure](/seminars-brochures/SAL_TA_PM Seminar.pdf)
 
 Closing date for registration: 26 Feb
 
