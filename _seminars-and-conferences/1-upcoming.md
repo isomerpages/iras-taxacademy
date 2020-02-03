@@ -17,6 +17,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 ##### **March 2020**
 
+* 6 March: [Tax Essential Series: Common Legal Issues in Tax Faced by SMEs](/seminars-and-conferences/upcoming/#afternoonSAL-ta-id)
 * 6 March: [Tax Essential Series: Taking On Tax as A Young Corporate Lawyer](/seminars-and-conferences/upcoming/#morningSAL-ta-id)
 * 3 to 5 March: [TEI US TAX SEMINAR 2020](/seminars-and-conferences/upcoming/#2020TEI-ta-id)
 
@@ -28,11 +29,26 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 
 
+<a id="afternoonSAL-ta-id"></a>
+##### **Tax Essential Series: Common Legal Issues in Tax Faced by SMEs**
+**6 March 2020 | 14:00 to 17:00 | Singapore Academy of Law, The Adelphi**
+
+[Registration at SAL website](https://www.sal-e.org.sg/common-legal-issues-in-tax-faced-by-smes){:target="_blank"} - [Brochure](/seminars-brochures/SAL_TA_PM Seminar.pdf)
+
+Closing date for registration: 26 Feb
+
+This workshop will take you through some of the key issues in income tax, goods and services tax and stamp duties that SMEs would encounter at each stage of its life cycle – establishment, growth and expansion, internationalisation, restructuring. The workshop will also address the enterprise tax risks faced by SMEs in the new tax landscape where, in tandem with the increasing complexity in the international and domestic tax systems, the investigative and enforcement powers of the tax authorities have been enhanced. Experienced practitioners will share practical advice in managing and handling tax audits and investigations.
+
+Seminar fees: $214.00 (incl.GST)
+
+Bundle fees with Tax Essential Series: Taking On Tax as A Young Corporate Lawyer - $278.20 incl. GST | [Bundle Registration](https://www.sal-e.org.sg/tax-essentials-series-bundle-taking-on-tax-as-a-young-corporate-lawyer-common-legal-issues-in-tax-faced-by-smes)
+
+
 <a id="morningSAL-ta-id"></a>
 ##### **Tax Essential Series: Taking On Tax as A Young Corporate Lawyer**
-**6 March 2020 | 9:00 to 12:00 | Singapore Academy of Law, The Adelphi**
+**6 March 2020 | 10:30 to 12:00 | Singapore Academy of Law, The Adelphi**
 
-[Registration at SAL website](https://www.sal-e.org.sg/tax-essentials-series-taking-on-tax-as-a-young-corporate-lawyer){:target="_blank"} - [Brochure](/seminars-brochures/SAL_TA_AMseminar.pdf)
+[Registration at SAL website](https://www.sal-e.org.sg/tax-essentials-series-taking-on-tax-as-a-young-corporate-lawyer){:target="_blank"} - [Brochure](/seminars-brochures/Replace_SAL_TA_AMSeminar.pdf)
 
 Closing date for registration: 26 Feb
 
@@ -40,6 +56,7 @@ This session equips you with the essentials and helps you understand how to grow
 
 Seminar fees: $117.70 (incl. GST)
 
+Bundle fees with Tax Essential Series: Common Legal Issues in Tax Faced by SMEs - $278.20 incl. GST | [Bundle Registration](https://www.sal-e.org.sg/tax-essentials-series-bundle-taking-on-tax-as-a-young-corporate-lawyer-common-legal-issues-in-tax-faced-by-smes)
 
 
 <a id="2020TEI-ta-id"></a>
