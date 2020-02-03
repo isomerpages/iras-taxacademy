@@ -41,7 +41,7 @@ This workshop will take you through some of the key issues in income tax, goods 
 
 Seminar fees: $214.00 (incl.GST)
 
-Bundle fees with Tax Essential Series: Taking On Tax as A Young Corporate Lawyer - $278.20 incl. GST | [Bundle Registration](https://www.sal-e.org.sg/tax-essentials-series-bundle-taking-on-tax-as-a-young-corporate-lawyer-common-legal-issues-in-tax-faced-by-smes)
+Bundle fees with Tax Essential Series: Taking On Tax as A Young Corporate Lawyer - $278.20 incl. GST | [Bundle Registration](https://www.sal-e.org.sg/seminarslectures)
 
 
 <a id="morningSAL-ta-id"></a>
@@ -56,7 +56,7 @@ This session equips you with the essentials and helps you understand how to grow
 
 Seminar fees: $117.70 (incl. GST)
 
-Bundle fees with Tax Essential Series: Common Legal Issues in Tax Faced by SMEs - $278.20 incl. GST | [Bundle Registration](https://www.sal-e.org.sg/tax-essentials-series-bundle-taking-on-tax-as-a-young-corporate-lawyer-common-legal-issues-in-tax-faced-by-smes)
+Bundle fees with Tax Essential Series: Common Legal Issues in Tax Faced by SMEs - $278.20 incl. GST | [Bundle Registration](https://www.sal-e.org.sg/seminarslectures)
 
 
 <a id="2020TEI-ta-id"></a>
