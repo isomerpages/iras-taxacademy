@@ -14,7 +14,7 @@ collection_name: executive-tax-programmes
 * Oct 2020 intake: [Stay tuned for more information in Aug 2020](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
-* June 2020 intake: [Stay tuned for more information in Feb 2020](/executive-tax-programmes/international-tax/#leiden-ta-id)
+* June 2020 intake: [More Information](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
 * Sep/Oct 2020 intake: [Stay tuned for more information in Mar 2020](/executive-tax-programmes/international-tax/#wu-ta-id)
