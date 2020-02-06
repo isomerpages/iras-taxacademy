@@ -14,7 +14,7 @@ collection_name: executive-tax-programmes
 * Oct 2020 intake: [Stay tuned for more information in Aug 2020](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
-* May 2020 intake: [Stay tuned for more information in Jan 2020](/executive-tax-programmes/international-tax/#leiden-ta-id)
+* June 2020 intake: [More Information](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
 * Sep/Oct 2020 intake: [Stay tuned for more information in Mar 2020](/executive-tax-programmes/international-tax/#wu-ta-id)
@@ -52,11 +52,11 @@ The Advanced Tax Treaties Programme is a collaborative effort between Tax Academ
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-Dates of programme: 27 to 31 May 2019
+Dates of programme: 1 to 5 June 2020
 
-[Registration Form](https://docs.google.com/forms/u/1/d/199A8YqpruxuKS7E6Ww4KtqisWpthBqy3jB0-7LIeAZw/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Brochure_Leiden-TA_Advanced_Tax_Treaties.pdf){:target="_blank"}
+[Registration Form](https://forms.gle/3iwhFhsYgyhZj3pK6){:target="_blank"} - [Details](/files/executive-tax-programmes/ATT%20Brochure.pdf){:target="_blank"}
 
-**Registration is CLOSED for Intake 2019**
+
 
 <a id="wu-ta-id"></a>
 ### **WU – TA Advanced Transfer Pricing Programme**
