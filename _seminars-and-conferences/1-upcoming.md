@@ -13,6 +13,9 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+##### **April 2020**
+
+* 16 April: [Webinar on FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#FTWHT-ta-id)
 
 
 ##### **March 2020**
@@ -22,11 +25,31 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 3 to 5 March: [TEI US TAX SEMINAR 2020](/seminars-and-conferences/upcoming/#2020TEI-ta-id)
 
 
-##### **February 2020**
 
-* 27 Feb: [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#GST-ASK-ta-id)
-* 19 Feb: [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#MTC-ta-id)
+<a id="FTWHT-ta-id"></a>
+##### **Webinar on FasTax Series: Fundamentals of Withholding Tax**
+**16 April 2020 | 14:00 to 16:00**
 
+[Registration Form](https://forms.gle/9yD8c46ih4jVD8DL6)
+Closing date for registration: 31 March
+
+The Tax Academy of Singapore is pleased to organise this 2-hour webinar on Fundamentals of Withholding Tax. The webinar will be helmed by speakers from IRAS’ Corporate Tax and Enforcement Divisions. The speakers will share with you on the fundamental concepts of withholding tax, explain the types of payments that attract withholding tax and provide examples to illustrate the computation of withholding tax. This seminar will also cover the various aspects of withholding tax filing and payment obligations. Using the real-time public chat feature, you would still have the opportunity to clarify any doubts, just like in a face-to-face setting.
+
+Programme Outline:
+* Scope of Tax
+* What is withholding tax
+* Payments subject to withholding tax
+* Details of payments under Sections 12(6) and 12(7)
+* Withholding tax rates
+* Computation of withholding tax
+* When to file and pay
+* Date of payment and deemed payment
+* Penalties for late payment and recovery actions for non-paymente
+* Services at myTax Portal
+
+This webinar is suitable for: Tax practitioners, business owners, finance, accounting and legal professionals.
+
+Webinar Fee: $85.60 (incl. GST)
 
 
 <a id="afternoonSAL-ta-id"></a>
@@ -78,77 +101,6 @@ TEI members (per day): SGD280 / USD220
 Non-TEI members (per day): SGD380 / USD300
 
 Above fees exclude 7% GST.  Local participants need to pay above fees plus 7% GST.
-
-
-
-<a id="GST-ASK-ta-id"></a>
-### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
-**27 Feb 2020 | 14:00 to 17:00 | Savvy Training Room, International Plaza**
-
-[Registration Form](https://forms.gle/pMjYfqd52RYFezVr6)
-Closing date for registration: 19 Feb
-
-Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors? 
-Then join us for this half day workshop where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner.  The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
-
-By adopting ASK, you will enjoy the following benefits:
-
-* Understand GST requirements on filing and record-keeping
-
-* Review accuracy of GST submissions
-
-* Reduce risk of incurring penalties on common errors made by GST-registered businesses
-
-* Discover past GST errors early for timely disclosure to IRAS to enjoy zero or reduced penalties under IRAS' Voluntary Disclosure Programme
-
-* Enjoy administrative concessions for common errors disclosed through the course of ASK Annual Review
-
-* Fulfil requirement for application or renewal of selected GST schemes
-
-Programme Outline:
-
-* Introduction to GST Assisted Self-Help Kit (ASK)
-
-* Inculcating Good GST Practices
-
-* Performing Quality Checks and Highlights on Common GST Errors
-
-* Effective Annual Review
-
-Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
-Seminar fees: $107 (incl. GST)
-
-
-
-<a id="MTC-ta-id"></a>
-##### **FasTax Series: Managing Tax Compliance | CLASS IS FULL**
-**19 Feb 2020 | 14:00 to 17:00 | Stamford Training Room, The Adelphi**
-
-[Registration Form](https://forms.gle/zUHptGtEe4CKf9Ez7)
-Closing date for registration: 10 Feb
-
-This seminar aims to enhance companies’ understanding of IRAS’ compliance approach and how companies can better comply with their tax obligations.  IRAS’ speakers from the Corporate Tax Division and  Investigation and Forensics Division will share with you on the authority’s audit and investigation approaches as well as hear about some of the findings from its audits and investigations.
-
-Seminar agenda include:
-
-* IRAS’ assessment process and risk–based approach to tax assessment
-
-* Common issues and mistakes made by companies
-
-* The penalty framework
-
-* An overview of the investigation process
-
-* The informant reward framework
-
-* How should businesses act when they are being investigated
-
-Participants will also learn how to mitigate the common mistakes and improve tax compliance by enhancing internal controls, record keeping and other areas.
-
-Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
-Seminar fees: $107 (incl. GST)
 
 
 
