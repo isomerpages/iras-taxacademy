@@ -18,11 +18,11 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScccIX23UDQywGyRXzJOZO5G4lnaUAyiO8-dVasrionHHanKg/closedform){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 (Income Tax) 2-2019_programme.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://form.gov.sg/5e620618835c4b0016dd58bc){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 (Income Tax) 1-2020_programme.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is CLOSED for Intake 2/2019.
+Registration is OPEN for Intake 1/2020.
 
-The next intake for this course will be in Apr/May 2020. Registration will be available six weeks prior to the course commencement date.
+The next intake for this course will be in Oct 2020. Registration will be available six weeks prior to the course commencement date.
 
 <a id="etp2sep-ta-id"></a>
 ### **Executive Tax Programme Level II (Income Tax – Corporate & Business)**
@@ -50,7 +50,7 @@ Intake 15:
 
 [Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLScRP7x9RBp4qoBHNk7PVM3Wa5TB42h1za4eVx2-_Gy6tHBPBw/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 15) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 15) schedule_v3.0.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is OPEN for Intake 15 Modules 2, 4, 5, 6, 7, 8 and 9.
+Registration is OPEN for Intake 15 Modules 2, 5, 6, 7, 8 and 9.
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
