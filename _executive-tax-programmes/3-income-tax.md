@@ -31,11 +31,11 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-Intake 3/2019 (Jan 2020 class):
+Intake 1/2020 (May 2020 class):
 
-[Registration Form](https://docs.google.com/forms/d/1Qz8eJ7B-NqLs1DbhbAZCn6_hXmcCEFduRD2ePDtGO-Q/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT32019.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/5e6aefa61db1b700110b8676){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT12020.pdf){:target="_blank"}
 
-Registration is CLOSED for Intake 3/2019.  
+Registration is OPEN for Intake 1/2020.  
 
 The next intake for this course will be in July 2020. Registration will be available six weeks prior to the course commencement date.
 
