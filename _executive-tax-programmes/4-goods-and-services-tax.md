@@ -18,7 +18,7 @@ collection_name: executive-tax-programmes
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfjc7WT3OT-ABXVMbIfBGBKvT1FI_zf-nPpCQN4uUZq6sSe_Q/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 3-2019.pdf"}}){:target="_blank"}
+[Registration Form](https://form.gov.sg/5e74346dca6a01001185b7c2){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 1-2020.pdf"}}){:target="_blank"}
 
 Registration is OPEN for intake 1/2020.
 
