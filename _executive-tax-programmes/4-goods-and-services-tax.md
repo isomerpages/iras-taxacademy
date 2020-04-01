@@ -7,7 +7,7 @@ collection_name: executive-tax-programmes
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (GST)**
-* May 2020 intake: [Registration is now OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* Sep 2020 intake: [Stay tuned for more information in July 2020](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **Executive Tax Programme Level II (GST)**
 * Aug 2020 intake: [Stay tuned for more information in June 2020](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
@@ -20,7 +20,7 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 [Registration Form](https://form.gov.sg/5e74346dca6a01001185b7c2){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 1-2020.pdf"}}){:target="_blank"}
 
-Registration is OPEN for intake 1/2020.
+Registration is CLOSED for intake 1/2020.
 
 The next intake for this course will be in Sep 2020. Registration will be available eight weeks prior to the course commencement date.
 
