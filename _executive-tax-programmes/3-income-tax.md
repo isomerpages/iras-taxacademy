@@ -48,7 +48,7 @@ Intake 15:
 
 [Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLScRP7x9RBp4qoBHNk7PVM3Wa5TB42h1za4eVx2-_Gy6tHBPBw/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 15) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 15) schedule_v3.0.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is OPEN for Intake 15 Modules 2, 5, 6, 7, 8 and 9.
+Registration is CLOSED for Intake 15 Modules 2, 5, 6, 7, 8 and 9.
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
@@ -58,6 +58,6 @@ The next intake for this course will be in Nov 2020.
 
 Full programme participants who achieve the highest score for selected modules of the Advanced Tax Programme will be presented with a Book Prize. The Book Prizes are sponsored by Tax Academy’s stakeholders – Inland Revenue Authority of Singapore, Ernst & Young Solutions LLP, KPMG Services Pte Ltd, Deloitte & Touche LLP and PricewaterhouseCoopers Singapore Pte Ltd.
 
-[Book Prize Winners]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 13)_Book Prize Winners.pdf" | absolute_url }}){:target="_blank"}
+[Book Prize Winners]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 14)_Book Prize Winners.pdf" | absolute_url }}){:target="_blank"}
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
