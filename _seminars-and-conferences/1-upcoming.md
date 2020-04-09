@@ -21,7 +21,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 <a id="TEUS-ta-id"></a>
 ##### **Webinar on Webinar on TaxEdge Series: US’ Perspective on Tax Reform and OECD Pillars One and Two**
-**23 April 2020 | 14:00**
+**23 Apr, 1400hr (SGT) to 24 Apr, 1700hr (SGT)**
 
 [Registration Form](https://forms.gle/mpHtEVgcjSA99y6WA)
 Closing date for registration: 16 April
