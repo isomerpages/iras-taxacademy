@@ -48,9 +48,9 @@ Bob advises the US companies on a full range of international tax issues and col
 * Recorded lecture available for viewing from 23 Apr, 1400hr (SGT) to 24 Apr, 1700hr (SGT)
 * Fees: $53.50 (incl. GST)
 
-Please note that login accounts are only provided upon full payment of webinar fees.
+Please note that login accounts are only provided upon full payment of fees.
 
-This webinar is suitable for: Tax practitioners, business owners, finance, accounting and legal professionals.
+This lecture is suitable for: Tax practitioners, business owners, finance, accounting and legal professionals.
 
 For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5e8e8f131d1cd7001151f3a8), and we will attend to it as soon as possible.
 
