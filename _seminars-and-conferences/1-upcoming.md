@@ -39,8 +39,7 @@ Attendees are welcome to post questions on the discussion forum after watching t
 
 **About the Speaker**
 
-Mr Robert Stack
-Managing Director, Deloitte Tax LLP
+Mr Robert Stack, Managing Director, Deloitte Tax LLP
 
 Bob advises the US companies on a full range of international tax issues and collaborates with Deloitte’s global member firms on international tax developments and initiatives, including those from the Organization for Economic Cooperation and Development (OECD).  Bob joined Deloitte’s International Tax practice with Washington National Tax from the US Department of the Treasury, where he was the deputy assistant secretary for international tax affairs in the Office of Tax Policy. While there, he worked directly with the assistant secretary of tax policy and the international tax counsel in developing and implementing all aspects of US international tax policy, including treaties, regulations, and legislative proposals. He also was the official representative of the Obama administration for international tax policy and represented the US government at the OECD where he was involved in all aspects of the Base Erosion and Profit Shifting initiative. Prior to joining Treasury, Bob had more than 25 years of experience advising clients in international tax matters, representing both corporations and individuals.
 
@@ -50,6 +49,7 @@ Bob advises the US companies on a full range of international tax issues and col
 * Fees: $53.50 (incl. GST)
 
 Please note that login accounts are only provided upon full payment of webinar fees.
+
 This webinar is suitable for: Tax practitioners, business owners, finance, accounting and legal professionals.
 
 For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5e8e8f131d1cd7001151f3a8), and we will attend to it as soon as possible.
