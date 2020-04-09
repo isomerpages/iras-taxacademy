@@ -21,10 +21,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 <a id="TEUS-ta-id"></a>
 ##### **TaxEdge Series: US’ Perspective on Tax Reform and OECD Pillars One and Two**
-**23 Apr, 1400hr (SGT) to 24 Apr, 1700hr (SGT)**
-
-[Registration Form](https://forms.gle/mpHtEVgcjSA99y6WA)
-Closing date for registration: 16 April
+**23 Apr, 14:00 to 24 Apr, 17:00 (SGT)**
 
 Tax Academy is pleased to have Mr Robert Stack, formerly Deputy Assistant Secretary for international tax affairs at the U.S. Department of Treasury, to share with us on the US’ Perspective on Tax Reform and OECD Pillars One and Two. To accommodate the different time zones, Mr Stack will present this subject in a specially recorded lecture. 
 
@@ -45,22 +42,22 @@ Bob advises the US companies on a full range of international tax issues and col
 
 **Administrative Details**
 
-* Recorded lecture available for viewing from 23 Apr, 1400hr (SGT) to 24 Apr, 1700hr (SGT)
+* Recorded lecture available for viewing from 23 Apr, 14:00 to 24 Apr, 17:00 (SGT)
 * Fees: $53.50 (incl. GST)
+* [Registration Form](https://forms.gle/mpHtEVgcjSA99y6WA)
+* Closing date for registration: 16 April
 
 Please note that login accounts are only provided upon full payment of fees.
 
 This lecture is suitable for: Tax practitioners, business owners, finance, accounting and legal professionals.
 
-For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5e8e8f131d1cd7001151f3a8), and we will attend to it as soon as possible.
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5e8e8f131d1cd7001151f3a8), and we will attend to them as soon as possible.
+
 
 
 <a id="FTWHT-ta-id"></a>
 ##### **Webinar on FasTax Series: Fundamentals of Withholding Tax**
 **16 April 2020 | 14:00 to 16:00**
-
-[Registration Form](https://forms.gle/9yD8c46ih4jVD8DL6)
-Closing date for registration: 31 March
 
 The Tax Academy of Singapore is pleased to organise this 2-hour webinar on Fundamentals of Withholding Tax. The webinar will be helmed by speakers from IRAS’ Corporate Tax and Enforcement Divisions. The speakers will share with you on the fundamental concepts of withholding tax, explain the types of payments that attract withholding tax and provide examples to illustrate the computation of withholding tax. This seminar will also cover the various aspects of withholding tax filing and payment obligations. Using the real-time public chat feature, you would still have the opportunity to clarify any doubts, just like in a face-to-face setting.
 
@@ -78,8 +75,11 @@ Programme Outline:
 
 This webinar is suitable for: Tax practitioners, business owners, finance, accounting and legal professionals.
 
-Webinar Fee: $85.60 (incl. GST)
+**Administrative Details**
 
+* Webinar Fee: $85.60 (incl. GST)
+* [Registration Form](https://forms.gle/9yD8c46ih4jVD8DL6)
+* Closing date for registration: 31 March
 
 
 
