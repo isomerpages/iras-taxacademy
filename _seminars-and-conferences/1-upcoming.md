@@ -15,12 +15,12 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 ##### **April 2020**
 
-* 23 April: [Webinar on TaxEdge Series: US’ Perspective on Tax Reform and OECD Pillars One and Two](/seminars-and-conferences/upcoming/#TEUS-ta-id)
+* 23 April: [TaxEdge Series: US’ Perspective on Tax Reform and OECD Pillars One and Two](/seminars-and-conferences/upcoming/#TEUS-ta-id)
 * 16 April: [Webinar on FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#FTWHT-ta-id)
 
 
 <a id="TEUS-ta-id"></a>
-##### **Webinar on Webinar on TaxEdge Series: US’ Perspective on Tax Reform and OECD Pillars One and Two**
+##### **TaxEdge Series: US’ Perspective on Tax Reform and OECD Pillars One and Two**
 **23 Apr, 1400hr (SGT) to 24 Apr, 1700hr (SGT)**
 
 [Registration Form](https://forms.gle/mpHtEVgcjSA99y6WA)
