@@ -29,7 +29,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 ##### **Budget Clinic – Jobs Support Scheme (JSS) and the Enhanced Wage Credit Scheme (WCS)**
 **4 May to 5 May**
 
-Tax Academy is pleased to present this webinar which aims to enhance employers’ understanding of the Jobs Support Scheme (JSS) and the enhanced Wage Credit Scheme (WCS). This session will be presented in the form of pre-recorded presentation and a “live” Q&A session. IRAS’ speakers will share with you the highlights of the two payout schemes and the important points to note regarding the disbursement of the payout. Participants will also learn about the control measures in place to prevent abuse of the payout schemes.
+Tax Academy is pleased to present this webinar which aims to enhance employers’ understanding of the Jobs Support Scheme (JSS) and the enhanced Wage Credit Scheme (WCS). This session will be presented in the form of recorded presentation and a “live” Q&A session. IRAS’ speakers will share with you the highlights of the two payout schemes and the important points to note regarding the disbursement of the payout. Participants will also learn about the control measures in place to prevent abuse of the payout schemes.
  
 **Administrative Details**
 * 4 May to 5 May 20.: Access to view recorded presentation
