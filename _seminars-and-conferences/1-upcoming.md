@@ -13,10 +13,36 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+
+##### **May 2020**
+
+* 4 May: [Budget Clinic – Jobs Support Scheme (JSS) and the Enhanced Wage Credit Scheme (WCS)](/seminars-and-conferences/upcoming/#BCWCS-ta-id)
+
+
 ##### **April 2020**
 
 * 23 April: [TaxEdge Series: US’ Perspective on Tax Reform and OECD Pillars One and Two](/seminars-and-conferences/upcoming/#TEUS-ta-id)
 * 16 April: [Webinar on FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#FTWHT-ta-id)
+
+
+<a id="BCWCS-ta-id"></a>
+##### **Budget Clinic – Jobs Support Scheme (JSS) and the Enhanced Wage Credit Scheme (WCS)**
+**4 May to 5 May**
+
+Tax Academy is pleased to present this webinar which aims to enhance employers’ understanding of the Jobs Support Scheme (JSS) and the enhanced Wage Credit Scheme (WCS). This session will be presented in the form of pre-recorded presentation and a “live” Q&A session. IRAS’ speakers will share with you the highlights of the two payout schemes and the important points to note regarding the disbursement of the payout. Participants will also learn about the control measures in place to prevent abuse of the payout schemes.
+ 
+**Administrative Details**
+* 4 May to 5 May 20.: Access to view recorded presentation
+* 4 May 20, 3.30 p.m. to 4.30 p.m.: Online Q&A session with IRAS’ speakers
+* Fees: $53.50 (incl. GST)
+* [Registration Form](https://forms.gle/UYXt4DDA1QrKBZSH7)
+* Closing date for registration: 27 Apr
+
+Please note that login accounts are only provided upon full payment of fees.
+
+This lecture is suitable for: Tax practitioners, business owners, finance, accounting professionals.
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ea017ab194a2500122e8d8e), and we will attend to them as soon as possible.
 
 
 <a id="TEUS-ta-id"></a>
@@ -45,7 +71,7 @@ Bob advises the US companies on a full range of international tax issues and col
 * Recorded lecture available for viewing from 23 Apr, 14:00 to 24 Apr, 17:00 (SGT)
 * Fees: $53.50 (incl. GST)
 * [Registration Form](https://forms.gle/mpHtEVgcjSA99y6WA)
-* Closing date for registration: 16 April
+* Closing date for registration: 16 Apr
 
 Please note that login accounts are only provided upon full payment of fees.
 
