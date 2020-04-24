@@ -34,7 +34,7 @@ Tax Academy is pleased to present this webinar which aims to enhance employersâ€
 **Administrative Details**
 * 4 May to 5 May 20.: Access to view recorded presentation
 * 4 May 20, 3.30 p.m. to 4.30 p.m.: Online Q&A session with IRASâ€™ speakers
-* Fees: $53.50 (incl. GST)
+* Fee reduced to $32.10.  UP: $53.50 (incl. GST)
 * [Registration Form](https://forms.gle/UYXt4DDA1QrKBZSH7)
 * Closing date for registration: 27 Apr
 
