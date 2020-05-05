@@ -16,6 +16,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 ##### **May 2020**
 
+* 15 May: [TaxEdge Webinar Series: Should You Revise Your Transfer Pricing Processes in the Face of Covid-19?](/seminars-and-conferences/upcoming/#TETP-ta-id)
 * 4 May: [Budget Clinic – Jobs Support Scheme (JSS) and the Enhanced Wage Credit Scheme (WCS)](/seminars-and-conferences/upcoming/#BCWCS-ta-id)
 
 
@@ -23,6 +24,34 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 23 April: [TaxEdge Series: US’ Perspective on Tax Reform and OECD Pillars One and Two](/seminars-and-conferences/upcoming/#TEUS-ta-id)
 * 16 April: [Webinar on FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#FTWHT-ta-id)
+
+
+<a id="TETP-ta-id"></a>
+##### **TaxEdge Webinar Series: Should You Revise Your Transfer Pricing Processes in the Face of Covid-19?**
+**15 May**
+
+Tax Academy is pleased to present the above webinar, which will cover the following:
+
+* A bird’s-eye view of transfer pricing and recent developments
+* Why transfer pricing is challenging in this era of post-Base Erosion and Profit Shifting (BEPS) overcast with Covid-19 pandemic
+* Revising transfer pricing processes in the face of Covid-19
+
+This webinar is suitable for: Tax practitioners, business owners, finance, accounting and legal professionals
+
+**Administrative Details**
+
+* Date: 15 May 20 (Fri)
+* Time: 3.00 pm to 5.00 pm
+* Fee: $53.50 (incl. GST)
+* [Registration Form](https://forms.gle/vW35K4kjyJNBPdXg8)
+* Closing date for registration: 8 May, 12 p.m.
+
+Please note that login accounts are only provided upon full payment of fees.
+
+**About the Speaker**
+Dr. Sowmya Varadharajan is a Director at IC Advisors Pte Ltd, a firm that helps companies design and document appropriate transfer pricing strategies and approaches for their related party transactions. Having been trained in the U.S. on international tax and transfer pricing issues through blue-chip corporations, Sowmya now applies her transfer pricing training to transfer pricing issues in the Asia Pacific region. Sowmya has extensive experience in the high technology/ semiconductor as well as pharmaceutical/ biomedical industries. In addition to transfer pricing, she is also skilled in IP valuation. With the growth in transfer pricing related audits in the Asia Pacific region, Sowmya has assisted clients in India, China, Malaysia, Indonesia and Singapore in defending their transfer pricing arrangements with tax authorities. Sowmya is an economist with a Ph.D. in Economics from Cornell University and has more than 17 years of transfer pricing consulting experience.
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5eb0d480e7c65c0011d73ff9), and we will attend to them as soon as possible.
 
 
 <a id="BCWCS-ta-id"></a>
