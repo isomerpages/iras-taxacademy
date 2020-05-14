@@ -6,6 +6,12 @@ breadcrumb: Research Papers
 collection_name: research
 ---
 
+**Taxpayers’ Right of Defence in the International Context: the Case of Exchange of Tax Information and a Proposal for the “English” Wednesbury Doctrine as the New OECD (BEPS) Standard**
+
+This paper is published in the World Tax Journal and can be accessed [here](https://www.ibfd.org/IBFD-Products/Journal-Articles/World-Tax-Journal/collections/wtj/html/wtj_2020_02_o2_1.html){:target="_blank"}
+
+Dr Francesco Cannas, PhD Graduate, Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business)
+
 **The Need for a New Australia Singapore Tax Treaty** [Main Paper](/files/research papers/The Need for a New Australia Singapore Tax Treaty.pdf){:target="_blank"}
 
 Prof John Taylor, Professor, University of New South Wales
