@@ -10,7 +10,7 @@ collection_name: research
 
 This paper is published in the World Tax Journal and can be accessed [here](https://www.ibfd.org/IBFD-Products/Journal-Articles/World-Tax-Journal/collections/wtj/html/wtj_2020_02_o2_1.html){:target="_blank"}
 
-Dr Francesco Cannas, PhD Graduate, Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business)
+Dr Francesco Cannas, post-doctoral researcher at the University of Hasselt and Adjunct Professor at the University of Eastern Piedmont
 
 **The Need for a New Australia Singapore Tax Treaty** [Main Paper](/files/research papers/The Need for a New Australia Singapore Tax Treaty.pdf){:target="_blank"}
 
