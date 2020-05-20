@@ -13,6 +13,10 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+##### **June 2020**
+
+* 5 Jun: [TaxEdge Webinar Series: Crypto & Blockchain – A New Frontier in Taxation](/seminars-and-conferences/upcoming/#TEcrypto-ta-id)
+
 
 ##### **May 2020**
 
@@ -24,6 +28,55 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 23 April: [TaxEdge Series: US’ Perspective on Tax Reform and OECD Pillars One and Two](/seminars-and-conferences/upcoming/#TEUS-ta-id)
 * 16 April: [Webinar on FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#FTWHT-ta-id)
+
+
+<a id="TEcrypto-ta-id"></a>
+##### **TaxEdge Webinar Series: Crypto & Blockchain – A New Frontier in Taxation**
+**5 June**
+
+Tax Academy is pleased to organise the webinar on “Taxation of Crypto & Blockchain Tokens”. The webinar will be conducted by Mr Sam Sim, Board member Tax Analysts and Mr Irving Aw, both co-founders of Taxise Asia LLC.
+
+According to Tracxn, there are 398 Blockchain startups in Singapore as of April 2020. Financial technology (fintech) companies in Singapore raised a record US$735 million (S$1 billion) in the first nine months of 2019 according to Accenture. Given the growing importance of the crypto industry, a number of jurisdictions have in the past two years offered guidance on the tax treatment of crypto assets to provide more clarity and certainty to taxpayers. This includes Singapore, where IRAS has in recent times issued e-Tax Guides on the income tax and GST treatment of digital tokens. However, tax policy responses continue to evolve largely due to the versatility and non-monolithic nature of crypto assets as an asset class, as well as the evolving ways in which they are being put to commercial application.
+
+Join us in this introductory class which will uncover the exciting world of taxation in this cutting edge industry. This webinar will provide participants with an overview of the common types of crypto assets, including stablecoins, that are currently in the market. The manner in which jurisdictions have sought to tax transactions involving these types of crypto assets, from both direct tax and indirect tax perspectives, as well as some of the cross-border tax challenges presented due to the lack of a uniform approach by jurisdictions on the tax classification of these assets, will also be discussed.
+
+This webinar is suitable for: Tax practitioners, business owners, finance, accounting and legal professionals
+
+**Administrative Details**
+
+* Date: 5 Jun 20 (Fri)
+* Time: 3.00 p.m. to 4.30 p.m.
+* Fee: $53.50 (incl. GST)
+* [Registration Form](https://forms.gle/Qgv8wzPVzJ4GSoaCA)
+* Closing date for registration: 22 May (or when event is fully subscribed)
+
+Please note that login accounts are only provided upon full payment of fees.
+
+**About the Speakers**
+
+Mr Sam Sim
+
+Consultant to the United Nations on Digital Tax
+
+Senior Advisor to Vienna University Global Tax Policy Centre
+
+Board member, Tax Analysts (USA)
+
+Co-Founder and Senior-Of-Counsel, WTS Taxise
+
+Sam was previously Regional VP, Europe, Asia and Latin-America for the Tax Executive Institute (TEI). He is also a member of the Income Tax Board of Review. He is passionate in international tax, cross-border transactions, transfer pricing and digital taxation and is the author of the foremost book on BEPS in Asia “Asia Voices: BEPS and Beyond” published by the IBFD.
+
+Frequently invited as a speaker at international conferences, Sam previously led APAC, EMEA regional and global teams at a Forbes 50 US MNE and a FTSE 100 financial institution. He is also an adjunct professor at SUSS’ Master of Tax program and has lectured at Leiden ITC, Shanghai FuDan University, Vienna University, Universiti Indonesia, SMU, Malaysia and Singapore Tax Academies and the IBFD.
+
+ An attorney dual qualified in New York and Singapore, he is also a Chartered Accountant and an accredited tax advisor.
+
+Mr Irving Aw
+
+Co-founder and Principal of Taxise Asia LLC
+
+Irving Aw is currently Co-founder and Principal of Taxise Asia LLC—a boutique tax and trade law practice and the member firm of WTS Global in Singapore—and specializes in international and comparative as well as Singapore corporate taxation matters. Until recently, he was Counsel (Tax Law) at the International Monetary Fund (IMF), where he advised on legal tax issues—including the taxation of Fintech—in the context of technical assistance, surveillance, financial assistance programs, and Financial Sector Assessment Programs, and provided tax law design and drafting advice and assistance to numerous member countries. Prior to joining the IMF, Mr. Aw practiced tax law as a partner in two Singapore law firms, and before that, was Principal Legal Officer of Law Division and Tax Policy and International Tax Division at the Inland Revenue Authority of Singapore. Mr. Aw received his Bachelor of Laws from London School of Economics and Political Science, UK and his Juris Doctorate from Columbia Law School, USA, and is admitted to practice in Singapore, New York State and the Supreme Court of the United States.
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ec3ac4f2505cf0011807e21), and we will attend to them as soon as possible.
 
 
 <a id="TETP-ta-id"></a>
@@ -44,7 +97,7 @@ This webinar is suitable for: Tax practitioners, business owners, finance, accou
 * Time: 3.00 pm to 5.00 pm
 * Fee: $53.50 (incl. GST)
 * [Registration Form](https://forms.gle/vW35K4kjyJNBPdXg8)
-* Closing date for registration: 8 May, 12 p.m.
+* Closing date for registration: 8 May, 12 p.m. (or when event is fully subscribed)
 
 Please note that login accounts are only provided upon full payment of fees.
 
