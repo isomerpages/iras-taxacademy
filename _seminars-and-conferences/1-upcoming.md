@@ -46,6 +46,7 @@ Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and
 * Date: 18 Jun 20 (Thu)
 * Time: 3.00 p.m. to 5.00 p.m.
 * Fees: $85.60 (incl. GST)
+* [Registration Form](https://forms.gle/xy5L86daG8RF7xeLA)
 * Closing date for registration: 4 Jun 20
 
 **About the Speakers**
