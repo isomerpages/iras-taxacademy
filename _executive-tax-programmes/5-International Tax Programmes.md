@@ -28,7 +28,7 @@ collection_name: executive-tax-programmes
 
 This course will enable participants to acquire basic knowledge in tax treaties and transfer pricing.
 
-[Registration Form](https://docs.google.com/forms/d/1jPci3DZbIt5I5lB3cv1Q-euqIkfYF7zzeI_1IhoHSoE/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ITPL122019.pdf){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1jPci3DZbIt5I5lB3cv1Q-euqIkfYF7zzeI_1IhoHSoE/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/BrochureITPL112020.pdf){:target="_blank"}
 
 **Registration is OPEN for intake 1/2020**
 The next intake for this course will be in Nov 2020. Registration will open six weeks before the course commencement date.
