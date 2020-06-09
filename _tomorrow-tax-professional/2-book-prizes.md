@@ -32,23 +32,23 @@ Top Student in Advanced Taxation Module<br>
 
 ### **2019/2020 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
 
-![Image of Tax Academy Book Prize](/images/Jinie.png)
+![Image of Tax Academy Book Prize](/images/Jinie.jpeg)
 Jinie Agilia<br>
 Best Performance in Taxation Module<br>
 
-![Image of Tax Academy Book Prize](/images/Ng HM.png)
+![Image of Tax Academy Book Prize](/images/Ng HM.jpeg)
 Ng Hui Min<br>
 Best Performance in Taxation Module<br>
 
 
-![Image of Tax Academy Book Prize](/images/Joel Lai.png)
+![Image of Tax Academy Book Prize](/images/Joel Lai.jpg)
 Joel Lai Kai Rong<br>
 Best Performance in Taxation Module<br>
 
 
 ### **2019/2020 Academic Year Tax Academy Book Prize Recipient from Temasek Polytechnic**
 
-![Image of Tax Academy Book Prize](/images/Hai Qing.jpg)
+![Image of Tax Academy Book Prize](/images/Hai Qing.jpeg)
 Liang Hai Qing<br>
 Top Student in Taxation Module<br>
 
