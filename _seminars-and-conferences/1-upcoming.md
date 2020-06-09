@@ -177,14 +177,12 @@ For any clarifications, please submit your queries via [Clarifications on webina
 ##### **Budget Clinic – Jobs Support Scheme (JSS) and the Enhanced Wage Credit Scheme (WCS)**
 **4 May to 5 May**
 
-**Update: To support our businesses during this difficult period, fees for this webinar have been reduced**
-
 Tax Academy is pleased to present this webinar which aims to enhance employers’ understanding of the Jobs Support Scheme (JSS) and the enhanced Wage Credit Scheme (WCS). This session will be presented in the form of recorded presentation and a “live” Q&A session. IRAS’ speakers will share with you the highlights of the two payout schemes and the important points to note regarding the disbursement of the payout. Participants will also learn about the control measures in place to prevent abuse of the payout schemes.
  
 **Administrative Details**
 * 4 May to 5 May 20.: Access to view recorded presentation
 * 4 May 20, 3.30 p.m. to 4.30 p.m.: Online Q&A session with IRAS’ speakers
-* Fee reduced to $32.10 (incl GST).  UP: $53.50 (incl. GST)
+* Fee: $32.10 (incl GST).
 * [Registration Form](https://forms.gle/UYXt4DDA1QrKBZSH7)
 * Closing date for registration: 27 Apr
 
