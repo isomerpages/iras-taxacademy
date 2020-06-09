@@ -36,7 +36,7 @@ Top Student in Advanced Taxation Module<br>
 Jinie Agilia<br>
 Best Performance in Taxation Module<br>
 
-![Image of Tax Academy Book Prize](/images/Ng HM.jpeg)
+![Image of Tax Academy Book Prize](/images/Ng HM.jpg)
 Ng Hui Min<br>
 Best Performance in Taxation Module<br>
 
