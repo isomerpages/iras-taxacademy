@@ -15,6 +15,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 ##### **June 2020**
 
+* 26 Jun: [TaxEdge Webinar Series: International Taxation and Transfer Pricing in an Economic Downturn](/seminars-and-conferences/upcoming/#TE26Jun-ta-id)
 * 18 Jun: [FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#FT18Jun-ta-id)
 * 5 Jun: [TaxEdge Webinar Series: Crypto & Blockchain – A New Frontier in Taxation](/seminars-and-conferences/upcoming/#TEcrypto-ta-id)
 
@@ -23,6 +24,31 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 15 May: [TaxEdge Webinar Series: Should You Revise Your Transfer Pricing Processes in the Face of Covid-19?](/seminars-and-conferences/upcoming/#TETP-ta-id)
 * 4 May: [Budget Clinic – Jobs Support Scheme (JSS) and the Enhanced Wage Credit Scheme (WCS)](/seminars-and-conferences/upcoming/#BCWCS-ta-id)
+
+
+<a id="TE26Jun-ta-id"></a>
+##### **TaxEdge Webinar Series: International Taxation and Transfer Pricing in an Economic Downturn**
+**26 June**
+
+Tax Academy is pleased to organise the webinar on International Taxation and Transfer Pricing in an Economic Downturn.  In this webinar, our speakers from Deloitte Singapore, Ms Sharon Tan (Partner, International Tax) and Mr Uziel Alvarez (Director, Transfer Pricing) will share their views and insights on the international tax and transfer pricing considerations for multinationals, in light of the COVID-19 pandemic.  The webinar will look at the impact of the economic downtown on key international taxation issues and in the various stages of the transfer pricing lifecycle.
+
+ Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
+
+**Administrative Details**
+* The webinar will be conducted via Zoom
+* Date: 26 Jun 20 (Fri)
+* Time: 3.00 p.m. to 5.00 p.m.
+* Fees: $53.50 (incl. GST)
+* [Registration Form](https://forms.gle/yZohzQPbD5mk6GXK6)
+* Closing date for registration: 12 Jun 20
+
+**About the Speakers**
+
+**Sharon Tan** joined Deloitte in January 2018 as an International Tax Partner based in Singapore and she is also on the firm’s Global Value Chain Alignment (VCA) leadership network.  She supports the ﬁrm’s global clients with investments in the Asia Paciﬁc region. Sharon has over 24 years of MNC industry experience primarily in chemicals, technology and consumer brand. She sat on the Curriculum & Examination Development (CED) Committee for the Tax Academy of Singapore and the GST Committee of the Singapore Institute of Accredited Tax Professionals (SIATP).  She also participated as an appointed member of the Taxpayers Feedback Panel organised by the Inland Revenue Authority of Singapore (IRAS).  Sharon was also a board member representative of the Tax Executive Institute (TEI) Asian Chapter.
+
+**Uziel Alvarez** is a Director in the global transfer pricing practice of Deloitte, with over 15 years of experience from London, New York, and Singapore. He is a trusted advisor in developing holistic strategies and practical solutions to complex technical transfer pricing issues, and in aligning the tax footprint of multinational groups with their operating models. He works with clients in designing, documenting, and defending their transfer pricing approaches. Uziel is a frequent speaker in international conferences and seminars on advanced international tax topics, emerging issues and trends in transfer pricing, and tax technology solutions. He also leads the transfer pricing training programme of Deloitte in Southeast Asia and lectures on the advanced tax programme of the Tax Academy of Singapore.
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5edf46cfb735b2001162b012), and we will attend to them as soon as possible.
 
 
 <a id="FT18Jun-ta-id"></a>
@@ -151,14 +177,12 @@ For any clarifications, please submit your queries via [Clarifications on webina
 ##### **Budget Clinic – Jobs Support Scheme (JSS) and the Enhanced Wage Credit Scheme (WCS)**
 **4 May to 5 May**
 
-**Update: To support our businesses during this difficult period, fees for this webinar have been reduced**
-
 Tax Academy is pleased to present this webinar which aims to enhance employers’ understanding of the Jobs Support Scheme (JSS) and the enhanced Wage Credit Scheme (WCS). This session will be presented in the form of recorded presentation and a “live” Q&A session. IRAS’ speakers will share with you the highlights of the two payout schemes and the important points to note regarding the disbursement of the payout. Participants will also learn about the control measures in place to prevent abuse of the payout schemes.
  
 **Administrative Details**
 * 4 May to 5 May 20.: Access to view recorded presentation
 * 4 May 20, 3.30 p.m. to 4.30 p.m.: Online Q&A session with IRAS’ speakers
-* Fee reduced to $32.10 (incl GST).  UP: $53.50 (incl. GST)
+* Fee: $32.10 (incl GST).
 * [Registration Form](https://forms.gle/UYXt4DDA1QrKBZSH7)
 * Closing date for registration: 27 Apr
 
