@@ -48,7 +48,7 @@ Best Performance in Taxation Module<br>
 
 ### **2019/2020 Academic Year Tax Academy Book Prize Recipient from Temasek Polytechnic**
 
-![Image of Tax Academy Book Prize](/images/Hai Qing.jpeg)
+![Image of Tax Academy Book Prize](/images/Hai Qing.jpg)
 Liang Hai Qing<br>
 Top Student in Taxation Module<br>
 
