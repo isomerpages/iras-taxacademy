@@ -30,7 +30,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 ##### **TaxEdge Webinar Series: International Taxation and Transfer Pricing in an Economic Downturn**
 **26 June**
 
-Tax Academy is pleased to organise the webinar on International Taxation and Transfer Pricing in an Economic Downturn.  In this webinar, our speakers from Deloitte Singapore, Ms Sharon Tan (Partner, International Tax) and Mr Uziel Alvarez (Director, Transfer Pricing) will share their views and insights on the international tax and transfer pricing considerations for multinationals, in light of the COVID-19 pandemic.  The webinar will look at the impact of the economic downtown on key international taxation issues and in the various stages of the transfer pricing lifecycle.
+Tax Academy is pleased to organise the webinar on International Taxation and Transfer Pricing in an Economic Downturn.  In this webinar, our speakers from Deloitte Singapore, Ms Sharon Tan (Partner, International Tax) and Mr Uziel Alvarez (Director, Transfer Pricing) will share their views and insights on the international tax and transfer pricing considerations for multinationals, in light of the COVID-19 pandemic.  The webinar will look at the impact of the economic downturn on key international taxation issues and in the various stages of the transfer pricing lifecycle.
 
  Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
 
