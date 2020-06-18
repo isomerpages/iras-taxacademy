@@ -32,7 +32,7 @@ Top Student in Advanced Taxation Module<br>
 
 ### **2019/2020 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
 
-
+![Image of Tax Academy Book Prize](/images/Jinie.jpg)
 Jinie Agilia<br>
 Best Performance in Taxation Module<br>
 
