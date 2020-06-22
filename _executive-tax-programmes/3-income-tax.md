@@ -9,7 +9,7 @@ collection_name: executive-tax-programmes
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
-* July 2020 intake: [Stay tuned for more information in May 2020](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* Sep 2020 intake: [Stay tuned for more information in Sep 2020](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
@@ -31,11 +31,11 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Details](/files/executive-tax-programmes/income-tax/L2IT12020.pdf){:target="_blank"}
+[Details](/files/executive-tax-programmes/income-tax/brochureL2IT12020.pdf){:target="_blank"}
 
 Registration is CLOSED for Intake 1/2020.  
 
-The next intake for this course will be in July 2020. Registration will be available six weeks prior to the course commencement date.
+The next intake for this course will be in Sep 2020. Registration will be available six weeks prior to the course commencement date.
 
 <a id="atp-ta-id"></a>
 ### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme**
