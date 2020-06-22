@@ -87,7 +87,7 @@ The programme takes a commercial and practical approach to addressing main issue
 
 Look forward to a new learning experience as we deliver the programme to you via virtual classroom. 
 
-Dates of programme via virtual classroom: 18, 19 ,20, 25 Aug 2020 (2pm to 5.30pm)
+Dates of programme via virtual classroom: 18, 19 ,20, 25 Aug 2020 (Each session : 2pm to 5.30pm)
 
 [Registration Form](https://docs.google.com/forms/d/1sQFeh0eY6vEfN0qr_EZBxbPp7fJ_102guV29UgSJP8E/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureAdvITP2020.pdf){:target="_blank"}
 
