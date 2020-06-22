@@ -20,7 +20,7 @@ collection_name: executive-tax-programmes
 * Sep/Oct 2020 intake: [Stay tuned for more information in Mar 2020](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
-* Sep 2020 intake: [Stay tuned for more information in Jun 2020](/executive-tax-programmes/international-tax/#itp-id)
+* Aug 2020 intake: [More information](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
@@ -83,13 +83,15 @@ The programme provides participants with the latest update on international tran
 <a id="itp-id"></a>
 ### **Advanced International Tax Planning Programme**
 
-The programme takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia. It covers the basic concepts of international tax planning and looks at the key tax considerations through technical learning and interactive case studies for MNCs.
+The programme takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia. It covers the key concepts of international tax planning and assesses the impact of recent developments in international taxation through technical learning and interactive case studies for MNCs.  
 
-Dates of programme: 5 & 6 Sep 2019
+Look forward to a new learning experience as we deliver the programme to you via virtual classroom. 
 
-[Registration Form](https://docs.google.com/forms/d/1mueIi7haKCfyo2xIi3YsqN9gtlMFhp48-6J_5hwzhfk/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ITP2019.pdf){:target="_blank"}
+Dates of programme via virtual classroom: 18, 19 ,20, 25 Aug 2020 (Each session : 2pm to 5.30pm)
 
-**Registration is CLOSED for 2019 intake**
+[Registration Form](https://docs.google.com/forms/d/1sQFeh0eY6vEfN0qr_EZBxbPp7fJ_102guV29UgSJP8E/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureAdvITP2020.pdf){:target="_blank"}
+
+**Registration is OPEN for 2020 intake**
 
 **Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
 
