@@ -51,9 +51,9 @@ The Advanced Tax Treaties Programme is a collaborative effort between Tax Academ
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-Dates of programme: 1 to 5 June 2020
+Dates of programme: To be advised.
 
-[Registration Form](https://forms.gle/3iwhFhsYgyhZj3pK6){:target="_blank"} - [Details](/files/executive-tax-programmes/ATT%20Brochure.pdf){:target="_blank"}
+
 
 
 
