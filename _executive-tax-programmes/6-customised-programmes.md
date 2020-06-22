@@ -36,3 +36,5 @@ Participant of the Customised Programme on GST for Sim Lian Group Limited <br>
 
 **Fiji Islands Revenue & Customs Authority** <br>
 Participant of the Singapore Tax Experience Programme for Government Officials
+
+To enquire more on Customised Programme, please fill up the form and we will get in touch with you shortly.
