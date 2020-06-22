@@ -21,6 +21,7 @@ We have tailored programmes for both public and private sector organisations. Yo
 * May include learning visits to other organisations, upon request
 
 To enquire more on Customised Programme, please fill up the [FORM](https://form.gov.sg/5ef062461b667a001194317c) and we will get in touch with you shortly.
+
 ---
 
 Here’s what our past programme participants have to say… 
