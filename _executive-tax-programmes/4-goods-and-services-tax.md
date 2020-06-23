@@ -10,7 +10,7 @@ collection_name: executive-tax-programmes
 * Sep 2020 intake: [Stay tuned for more information in August 2020](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **Executive Tax Programme Level II (GST)**
-* Aug 2020 intake: [Registration is OPEN Now](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* Aug 2020 intake: [Registration is OPEN now](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 
 <a id="etp1gst-ta-id"></a>
