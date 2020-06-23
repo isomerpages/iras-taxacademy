@@ -7,10 +7,10 @@ collection_name: executive-tax-programmes
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (GST)**
-* Sep 2020 intake: [Stay tuned for more information in July 2020](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* Sep 2020 intake: [Stay tuned for more information in August 2020](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **Executive Tax Programme Level II (GST)**
-* Aug 2020 intake: [Stay tuned for more information in June 2020](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* Aug 2020 intake: [OPEN for Registration Now](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 
 <a id="etp1gst-ta-id"></a>
@@ -29,9 +29,9 @@ The next intake for this course will be in Sep 2020. Registration will be availa
 
 This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSf3z0hEH9juV-TvyWpYbovuIh-eXPz3tQFoZaiqerU5vau2gg/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L2 GST 3-2019.pdf"}}){:target="_blank"}
+[Registration Form](https://forms.gle/LoMbyMjhTKMTT2fY9/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L2 GST 3-2019.pdf"}}){:target="_blank"}
 
-Registration is CLOSED for intake 3/2019.
+Registration is OPEN for intake 1/2020.
 
 The next intake for this course will be in Aug 2020. Registration will be available eight weeks prior to the course commencement date.
 
