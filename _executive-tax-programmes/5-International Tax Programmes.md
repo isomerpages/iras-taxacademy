@@ -16,9 +16,6 @@ collection_name: executive-tax-programmes
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
 * June 2020 intake: [More Information](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
-##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
-* Sep/Oct 2020 intake: [Stay tuned for more information in Mar 2020](/executive-tax-programmes/international-tax/#wu-ta-id)
-
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
 * Aug 2020 intake: [More information](/executive-tax-programmes/international-tax/#itp-id)
 
@@ -52,33 +49,6 @@ The Advanced Tax Treaties Programme is a collaborative effort between Tax Academ
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
 Dates of programme: To be advised.
-
-
-
-
-
-<a id="wu-ta-id"></a>
-### **WU – TA Advanced Transfer Pricing Programme**
-
-The WU – TA Advanced Transfer Pricing Programme is offered by the WU Transfer Pricing Centre at the Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business) and the Tax Academy of Singapore. The four-day programme is facilitated by a team of professors from the WU Transfer Pricing Centre and regional tax experts.
-
-The programme provides participants with the latest update on international transfer pricing developments, and knowledge and insights to handle transfer pricing issues in specialised industries that are of relevance to the Asia-Pacific region. Workshops will be provided for all topics enabling opportunities for discussions.
-
-**A great opportunity to network with TP experts from academic and industry both local and overseas. Sign up now to enjoy the early-bird rate!** 
-
-### **Listen to what our past programme participants have to say...**
-
-*"The programme provided good insights into transfer pricing developments, with content that was current and relevant, and helped to draw out key issues for discussion. I especially appreciated that the speakers were able to deliver a mix of perspectives from academia, practitioner as well as private sector angles."*
-*Ms Jilian Lim*
-*Executive Director, Singapore Economic Development Board*
-
-*"A very well-organised and comprehensive course, covering the technical aspects of transfer pricing in a post-BEPS world, complemented with great presentations by experts from academia and private practice, with ample opportunities to discuss ideas and concepts with fellow practitioners. A thoroughly enjoyable experience. Thank you again, Vienna University of Economics and Business and Tax Academy of Singapore!"*
-*Mr Matthew Peter Keats*
-*Investigator, Financial Markets Authority of New Zealand*
-
-**Registration is CLOSED for 2019 intake**
-
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd3xXcKQ3CSqb7TFWkKVXlgN75d0XawogOyBPQk_KbggoVbRw/viewform){:target="_blank"} - [Details](/files/executive-tax-programmes/WU%20Prog.pdf){:target="_blank"}
 
 <a id="itp-id"></a>
 ### **Advanced International Tax Planning Programme**
