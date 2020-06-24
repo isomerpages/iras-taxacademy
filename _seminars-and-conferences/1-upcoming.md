@@ -13,6 +13,11 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+##### **July 2020**
+
+* 17 July: [Budget Clinic Webinar Series – Jobs Support Scheme (JSS)](/seminars-and-conferences/upcoming/#BC17Jul-ta-id)
+
+
 ##### **June 2020**
 
 * 26 Jun: [TaxEdge Webinar Series: International Taxation and Transfer Pricing in an Economic Downturn](/seminars-and-conferences/upcoming/#TE26Jun-ta-id)
@@ -24,6 +29,26 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 15 May: [TaxEdge Webinar Series: Should You Revise Your Transfer Pricing Processes in the Face of Covid-19?](/seminars-and-conferences/upcoming/#TETP-ta-id)
 * 4 May: [Budget Clinic – Jobs Support Scheme (JSS) and the Enhanced Wage Credit Scheme (WCS)](/seminars-and-conferences/upcoming/#BCWCS-ta-id)
+
+
+<a id="BC17Jul-ta-id"></a>
+##### **Budget Clinic Webinar Series – Jobs Support Scheme (JSS)**
+**17 July**
+
+Tax Academy is pleased to present this webinar which aims to enhance employers’ understanding of the Jobs Support Scheme (JSS). In this session IRAS’ speakers will provide you with an overview of the scheme and its recent enhancements. Coverage will include important points to note regarding the disbursement of the payout, such as how the payout is computed, and unacceptable practices or scenarios which constitute abuse of the scheme. A Q&A session will also be available at the end of the session.
+
+Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
+
+**Administrative Details**
+
+* The webinar will be conducted via Zoom
+* Date: 17 Jul 20 (Fri)
+* Time: 3.00 p.m. to 4.30 p.m.
+* Fees: $32.10 (incl. GST)
+* [Registration Form](https://forms.gle/dS1Jz3JpmLbE5KWM8)
+* Closing date for registration: 29 June
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
 
 
 <a id="TE26Jun-ta-id"></a>
