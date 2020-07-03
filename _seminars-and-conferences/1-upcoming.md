@@ -86,7 +86,7 @@ For any clarifications, please submit your queries via [Clarifications on webina
 
 <a id="TE23Jul-ta-id"></a>
 ##### **TaxEdge Webinar Series – China Tax Update**
-**24 July**
+**23 July**
 
 The global economic slowdown, China-US trade tensions and other factors have exerted pressure on China’s economic growth in 2019. To boost the economic development and maintain stable growth, China had relied on high-standard opening up, propelled innovation in 2019. In the tax front, China had reduced taxes and fees on a large scale. Tax reforms, covering the steadily advancing IIT reform, the deepening VAT reform  and the accelerating all-round tax legislation and the supportive fiscal and tax policies in special economic development areas covering the Greater Bay Area were the driving force in the 2019 tax policy.
 
