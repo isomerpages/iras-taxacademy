@@ -29,6 +29,73 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 29 Jul: [TaxEdge Webinar Series – Transfer Pricing for Financial Transactions](/seminars-and-conferences/upcoming/#TE29Jul-ta-id)
 
 
+<a id="TE28Aug-ta-id"></a>
+##### **FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance**
+**28 Aug**
+
+Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors?  Join us in this webinar where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner. The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
+
+Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+
+**Admin details**
+The webinar will be conducted via Zoom
+* Date: 28 Aug 20 (Fri)
+* Time: 2.30 p.m. to 4.30 p.m. (incl. Q&A)
+* Fees: Fees: $85.60 (incl. GST)
+* Closing date for registration: 20 Aug 20
+* [Registration Form](https://forms.gle/CSRDY9WwzWyuQhDt6)
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
+
+
+<a id="TE21Aug-ta-id"></a>
+##### **TaxEdge Webinar Series: Covid-19 and implications for China and Asian supply chains**
+**21 Aug**
+
+Covid-19 has highlighted the vulnerabilities of highly integrated global supply chains. Businesses will need to reassess the need for greater resilience in their Asian supply chains.  Join us in this webinar where **Mr Eugene Lim (Co-Founder & Principal) from WTS Taxise**, will share with you some of the key lessons from Covid-19 and trends affecting Asian and global supply chains. It will discuss China’s fiscal and regulatory responses to retain its key position in regional and global supply chains and how other Asian country (e.g., India and ASEAN) are responding to make their jurisdictions more attractive for supply chain operations. The webinar will also touch on tax considerations that companies will need to take into account as they restructure their supply chains in Asia.
+
+ Who Should Attend: Tax practitioners, Business leaders/Owners, Finance or Accounting and Legal professionals
+
+ **Admin details**
+* The webinar will be conducted via Zoom
+* Date: 21 Aug 20 (Fri)
+* Time: 3.00 p.m. to 4.30 p.m. (incl. Q&A)
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 13 Aug 20
+* [Registration Form](https://forms.gle/XzUjmDPPJtiBtHN56)
+
+**About the Speaker**
+
+Mr Eugene Lim is an international tax and trade lawyer who works extensively in the Asia Pacific region.  He is a Founding Principal of Taxise Asia LLC (member firm of WTS Global) (“WTS Taxise”). WTS Taxise is a boutique specialist international tax, transfer pricing and international trade Singapore law practice and is the exclusive member for Singapore of WTS Global. Previously, Eugene was based in Hong Kong and China for 11 years before moving to Singapore in 2014 to head the Singapore Tax, Trade and Wealth Management practice in one of the largest international law firms in Singapore. He has extensive experience relating to the structuring of supply chain and distribution strategies in the Asia Pacific region as well as in international tax and trade matters. Eugene is recognised by leading legal directories such as The Legal 500 Asia Pacific and International Tax Review, with Chambers Asia Pacific noting that “clients prize the practical nature of Eugene Lim’s advice, and particularly appreciate his ability ‘to analyse, find solutions and add value - not just as a legal counsel but as a business consultant too’.” Who’s Who Legal commented that Eugene is the “first port of call” for clients in the trade and customs field.
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
+
+
+<a id="TE13Aug-ta-id"></a>
+##### **TaxEdge Webinar Series: Managing Tax Controversies in the New Normal**
+**13 Aug**
+
+The Inland Revenue Authority of Singapore (IRAS) is known to adopt a risk-based approach in reviewing the income tax returns of companies. According to the IRAS’ website, around 90% of the corporate tax returns filed are classified as “companies with straightforward affairs” while the remaining 10% are from “companies with complex affairs”. Companies with straightforward tax affairs generally do not require detailed reviews of their income tax returns on a year-to-year basis. On the other hand, companies with more complex tax affairs can expect more in-depth reviews of their yearly income tax returns. How confident are you in managing your corporate income tax issues with the IRAS? Has the COVID-19 pandemic given rise to new tax audit issues and increased the likelihood of tax audits for companies?
+
+Join **Mrs Chung-Sim Siew Moon (Asia-Pacific Tax Policy and Controversy Leader and  Partner, Tax Services) from Ernst & Young Solutions LLP**, who will share with you the current corporate tax audit landscape in Singapore, and what you can do to proactively prevent controversy, manage risks and resolve disputes with the IRAS. You will also learn more about how businesses can put in place a proper documented tax governance framework to minimise potential tax controversy and tax uncertainty, and avoid costly mistakes.
+
+Who Should Attend: Tax practitioners, Business leaders/Owners, Finance or Accounting and Legal professionals
+
+**Admin details**
+* The webinar will be conducted via Zoom
+* Date: 13 Aug 20 (Thu)
+* Time: 3.00 p.m. to 4.00 p.m. (incl. Q&A)
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 5 Aug 20
+* [Registration Form](https://forms.gle/juXouREmSpjpfXtT6)
+
+**About the Speaker**
+
+Mrs Chung-Sim Siew Moon has over 30 years of tax experience. She works with both multinationals and local clients on tax compliance, controversy and advisory matters. Siew Moon is also the EY Asia-Pacific Tax Policy and Controversy (TPC) Leader. In this role, she works across all tax services, in particular, with the EY network of TPC professionals across the Asia-Pacific and globally. In working with the global tax controversy network, she helps clients to prevent, manage and resolve their tax controversies. Siew Moon also works with the EY global tax policy network to help develop and implement tax policy initiatives. Siew Moon graduated from the National University of Singapore with a Bachelor of Accountancy (First Class Honours) degree. She is a Fellow Chartered Accountant of the Institute of Singapore Chartered Accountants (ISCA), a Fellow CPA of CPA Australia, and an Accredited Tax Advisor from the Singapore Chartered Tax Professionals.
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
+
+
 <a id="FT7Aug-ta-id"></a>
 ##### **FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties (Intake 2)**
 **7 Aug**
@@ -47,7 +114,7 @@ Who Should Attend: Tax practitioners, Business Leaders/Owners, Finance or Accoun
 **Admin details**
 * The webinar will be conducted via Zoom
 * Date: 7 Aug 20 (Fri)
-* Time: 3.00 p.m. to 5.00 p.m.
+* Time: 3.00 p.m. to 5.00 p.m. (incl. Q&A)
 * Fees: $85.60 (incl. GST)
 * Closing date for registration: 29 Jul 20
 * [Registration Form](https://forms.gle/TMaM9gpND1qJWJi5A)
@@ -102,7 +169,7 @@ Who Should Attend: Business Leaders / Owners, Finance, Accounting, Legal Profess
 
 * The webinar will be conducted via Zoom
 * Date: 29 Jul 20 (Wed)
-* Time: 3.00 p.m. to 5.00 p.m.
+* Time: 3.00 p.m. to 5.00 p.m. (incl. Q&A)
 * Fees: $53.50 (incl. GST)
 * Closing date for registration: 23 Jul
 * [Registration Form](https://forms.gle/YAs1YdSVp4322DeWA)
@@ -132,7 +199,7 @@ This webinar will be presented by speakers from Deloitte & Touche LLP, **Mr Roha
 
 * The webinar will be conducted via Zoom
 * Date: 24 Jul 20 (Fri)
-* Time: 3.00 p.m. to 5.00 p.m.
+* Time: 3.00 p.m. to 5.00 p.m. (incl. Q&A)
 * Fees: $53.50 (incl. GST)
 * Closing date for registration: 16 Jul
 * [Registration Form](https://forms.gle/WZi6EfHPz8Gtdwph7)
@@ -165,7 +232,7 @@ Who Should Attend: Business Leaders / Owners, Finance, Accounting, Legal Profess
 
 * The webinar will be conducted via Zoom
 * Date: 23 Jul 20 (Thu)
-* Time: 3.00 p.m. to 4.30 p.m.
+* Time: 3.00 p.m. to 4.30 p.m. (incl. Q&A)
 * Fees: $53.50 (incl. GST)
 * Closing date for registration: 15 Jul
 * [Registration Form](https://forms.gle/tSi4Q6BFbtZgE7SX6)
@@ -189,7 +256,7 @@ Who Should Attend: Tax practitioners, Business Owners, Finance or Accounting and
 
 * The webinar will be conducted via Zoom
 * Date: 17 Jul 20 (Fri)
-* Time: 3.00 p.m. to 4.30 p.m.
+* Time: 3.00 p.m. to 4.30 p.m. (incl. Q&A)
 * Fees: $32.10 (incl. GST)
 * [Registration Form](https://forms.gle/dS1Jz3JpmLbE5KWM8)
 * Closing date for registration: 29 June
