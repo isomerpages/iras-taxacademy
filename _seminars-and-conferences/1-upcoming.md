@@ -13,6 +13,14 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+##### **August 2020**
+
+* 6 Aug: [Budget Clinic Webinar Series – Tax Implications on Employees’ Tax Reporting in the Face of COVID-19](/seminars-and-conferences/upcoming/#BC6Aug-ta-id)
+* 7 Aug: [FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties (Intake 2)](/seminars-and-conferences/upcoming/#FT7Aug-ta-id)
+* 13 Aug: [TaxEdge Webinar Series: Managing Tax Controversies in the New Normal](/seminars-and-conferences/upcoming/#TE13Aug-ta-id)
+* 21 Aug: [TaxEdge Webinar Series: Covid-19 and implications for China and Asian supply chains](/seminars-and-conferences/upcoming/#TE21Aug-ta-id)
+* 28 Aug: [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#FT28Aug-ta-id)
+
 ##### **July 2020**
 
 * 17 Jul: [Budget Clinic Webinar Series – Jobs Support Scheme (JSS)](/seminars-and-conferences/upcoming/#BC17Jul-ta-id)
@@ -21,9 +29,66 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 29 Jul: [TaxEdge Webinar Series – Transfer Pricing for Financial Transactions](/seminars-and-conferences/upcoming/#TE29Jul-ta-id)
 
 
+<a id="FT7Aug-ta-id"></a>
+##### **FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties (Intake 2)**
+**7 Aug**
+
+As a highly market-oriented and open economy, Singapore has established an extensive network of double tax agreements (DTA) with her trading partners to promote international trade and investment by improving transparency of information and certainty of tax positions, as well as to mitigate double taxation. This workshop will be facilitated by speakers from Deloitte - **Mr Daniel Ho (Tax Partner)**, and **Mr Tom Toryanik (Tax Director)**. The speakers will share with you practical approaches to help businesses understand the application of tax treaties to common cross-border payments through various worked examples and case studies.
+
+Programme Outline:
+* Fundamentals of treaty interpretation
+* Introduction to common DTA provisions
+* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
+* Worked examples and case studies
+* Q&A
+
+Who Should Attend: Tax practitioners, Business Leaders/Owners, Finance or Accounting and Legal professionals
+
+**Admin details**
+* The webinar will be conducted via Zoom
+* Date: 7 Aug 20 (Fri)
+* Time: 3.00 p.m. to 5.00 p.m.
+* Fees: $85.60 (incl. GST)
+* Closing date for registration: 29 Jul 20
+* [Registration Form](https://forms.gle/TMaM9gpND1qJWJi5A)
+
+**About the Speakers**
+
+Mr Daniel Ho is a partner with more than 20 years of tax experience serving Singapore headquartered as well as multinational companies. He is well-versed in cross-border taxation and tax treaty interpretation dealing with issues relating to permanent establishments, IP licensing, debt and equity transactions, share and asset divestments etc. He is a faculty member of the Deloitte International Corporate Tax School and a former part-time lecturer for the subject “Principles of Taxation” at the Nanyang Technological University. He is also the M&A tax leader for Deloitte Southeast Asia.
+
+Mr Tom Toryanik is Tax Director at Deloitte, based in Singapore, specialising in taxation of financial services. Prior to joining Deloitte, he worked for the Royal Bank of Scotland as Head of Tax for South East Asia and Australia.  Mr Toryanik holds a master’s degree in International Taxation from the University of Sydney and is a frequent presenter at industry forums.
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
+
+
+<a id="BC6Aug-ta-id"></a>
+##### **Budget Clinic Webinar Series – Tax Implications on Employees’ Tax Reporting in the Face of COVID-19**
+**6 Aug**
+
+Tax Academy is pleased to present this webinar which aims to enhance tax agents and employers’ understanding on the implications on employees’ tax reporting in the face of the coronavirus. This webinar will be presented by IRAS speakers in the form of a recorded presentation and a “live” Q&A session. The webinar will cover:
+
+* Tax implications on individuals temporary working remotely from Singapore due to COVID-19
+* Tax implications on individuals temporary working outside Singapore due to COVID-19
+* Tax residency
+* Tax treatment on employment benefits received by employees due to COVID-19
+ 
+Who should attend: Tax Agents, Business Owners, Finance and Human Resource Professionals
+
+**Admin details**
+
+* The webinar will be conducted via Zoom
+* Date: 6 Aug 20 (Thu)
+* Time: 3.00 p.m. to 4.30 p.m. (incl. Q&A)
+* Fees: $32.10 (incl. GST)
+* Closing date for registration: 29 July
+* [Registration Form](https://forms.gle/n23Gkfe8hw6wpWMu5)
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
+
+
 <a id="TE29Jul-ta-id"></a>
 ##### **TaxEdge Webinar Series – Transfer Pricing for Financial Transactions**
-**29 July**
+**29 Jul**
 
 The OECD’s Guidance on Financial Transactions was finally released in February 2020 to the much awaited relief of taxpayers, given the current economic situation that has come about due to COVID-19.  While the guidance provides specific considerations for intercompany lending, it also expands on the role and analysis of the treasury functions by looking at transactions involving hedging, cash pooling and financial guarantees.  Furthermore, it also provides detailed guidance on how arm’s length pricing for captive insurance and re-insurance should be undertaken. 
  
@@ -51,7 +116,7 @@ For any clarifications, please submit your queries via [Clarifications on webina
 
 <a id="TE24Jul-ta-id"></a>
 ##### **Permanent Establishment post BEPS in a digitalized world for Singapore and Singapore companies operating in the region**
-**24 July**
+**24 Jul**
 
 At the end of January 2020, the OECD Inclusive Framework (IF) on BEPS released a statement on its ongoing work to address the tax challenges arising from the digitalization of the economy. In this statement, the BEPS IF reaffirmed their commitment to reaching a multilateral solution by the end of 2020. In particular, the Pillar 1 proposal is intended to ensure a right to taxation in the market jurisdictions in relation to digital businesses and other consumer facing businesses that generate revenue through an active and sustained engagement in the market. There remains significant political challenges in achieving consensus at the OECD level, but if agreed, Pillar 1 would represent the most significant change to the international tax framework in over 100 years.
 
@@ -86,7 +151,7 @@ For any clarifications, please submit your queries via [Clarifications on webina
 
 <a id="TE23Jul-ta-id"></a>
 ##### **TaxEdge Webinar Series – China Tax Update**
-**23 July**
+**23 Jul**
 
 The global economic slowdown, China-US trade tensions and other factors have exerted pressure on China’s economic growth in 2019. To boost the economic development and maintain stable growth, China had relied on high-standard opening up, propelled innovation in 2019. In the tax front, China had reduced taxes and fees on a large scale. Tax reforms, covering the steadily advancing IIT reform, the deepening VAT reform  and the accelerating all-round tax legislation and the supportive fiscal and tax policies in special economic development areas covering the Greater Bay Area were the driving force in the 2019 tax policy.
 
@@ -114,7 +179,7 @@ For any clarifications, please submit your queries via [Clarifications on webina
 
 <a id="BC17Jul-ta-id"></a>
 ##### **Budget Clinic Webinar Series – Jobs Support Scheme (JSS)**
-**17 July**
+**17 Jul**
 
 Tax Academy is pleased to present this webinar which aims to enhance employers’ understanding of the Jobs Support Scheme (JSS). In this session IRAS’ speakers will provide you with an overview of the scheme and its recent enhancements. Coverage will include important points to note regarding the disbursement of the payout, such as how the payout is computed, and unacceptable practices or scenarios which constitute abuse of the scheme. A Q&A session will also be available at the end of the session.
 
