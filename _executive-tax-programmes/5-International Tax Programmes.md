@@ -8,10 +8,10 @@ collection_name: executive-tax-programmes
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (International Tax)**
-* July 2020 intake: [More information](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
+* Nov 2020 intake: [Stay tuned for more information in Nov 2020](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **Executive Tax Programme Level II (International Tax)**
-* Oct 2020 intake: [Stay tuned for more information in Aug 2020](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
+* Oct 2020 intake: [Stay tuned for more information in Oct 2020](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
 * June 2020 intake: [More Information](/executive-tax-programmes/international-tax/#leiden-ta-id)
@@ -27,7 +27,7 @@ This course will enable participants to acquire basic knowledge in tax treaties 
 
 [Registration Form](https://docs.google.com/forms/d/1jPci3DZbIt5I5lB3cv1Q-euqIkfYF7zzeI_1IhoHSoE/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/BrochureITPL112020.pdf){:target="_blank"}
 
-**Registration is OPEN for intake 1/2020**
+**Registration is CLOSED for intake 1/2020**
 The next intake for this course will be in Nov 2020. Registration will open six weeks before the course commencement date.
 
 <a id="etp2IT-ta-id"></a>

@@ -9,7 +9,7 @@ collection_name: executive-tax-programmes
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
-* Sep 2020 intake: [Stay tuned for more information in Sep 2020](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* Sep 2020 intake: [More information](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
@@ -29,13 +29,13 @@ The next intake for this course will be in Oct 2020. Registration will be availa
 
 This course provides in-depth knowledge in income tax principles and covers concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies.
 
-It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
+It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasinglyOhaving to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Details](/files/executive-tax-programmes/income-tax/brochureL2IT12020.pdf){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1JS4MThkY4pqs_Mz_hRD5mxQKhFcnC0pamkdWOftP6_k/edit){:target="_blank"} -  [Details](/files/executive-tax-programmes/income-tax/BusinessCorporate22020.pdf){:target="_blank"} 
 
-Registration is CLOSED for Intake 1/2020.  
+Registration is OPEN for Intake 2/2020.  
 
-The next intake for this course will be in Sep 2020. Registration will be available six weeks prior to the course commencement date.
+The next intake for this course will be in Jan 2021. Registration will be available six weeks prior to the course commencement date.
 
 <a id="atp-ta-id"></a>
 ### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme**
