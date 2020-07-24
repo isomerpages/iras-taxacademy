@@ -44,12 +44,12 @@ Please note that all applications will be subjected to short-listing. Participan
 
 Registration may be for the full course or for specific modules. For the full course, participants will have to complete three modules and one research paper over a ten-month period.
 
-[Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLSeSs-gHSMLzE5jSiH7A5xauZVrLOqpmb760XA3BS3FST9qbCg/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSdzLrZiEcGgGpPGdbTl8me3pomLAUZr8OyEgqcYWnUnF0Yxrw/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/Adv GST (2019-20) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/Adv GST (2019 -20) schedule_v2.0.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLSeSs-gHSMLzE5jSiH7A5xauZVrLOqpmb760XA3BS3FST9qbCg/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSddGUOU-rBhQWCsECNSxLz1jPwBdvdzMkqOj0XFlb-dgS8D5Q/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/Adv GST (2020-21) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/Adv GST (2020-21) schedule_v1.0.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is CLOSED for Intake 2019/20.
+Registration is OPEN for Intake 2020/21.
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
-The next intake for this course will be in Nov 2020.
+The next intake for this course will be in Nov 2021.
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
