@@ -33,7 +33,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 [Registration Form](https://docs.google.com/forms/d/1JS4MThkY4pqs_Mz_hRD5mxQKhFcnC0pamkdWOftP6_k/edit){:target="_blank"} -  [Details](/files/executive-tax-programmes/income-tax/BusinessCorporate22020.pdf){:target="_blank"} 
 
-Registration is OPEN for Intake 2/2020.  
+Registration is CLOSED for Intake 2/2020.  
 
 The next intake for this course will be in Jan 2021. Registration will be available six weeks prior to the course commencement date.
 
