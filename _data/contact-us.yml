@@ -36,7 +36,7 @@ column:
 
  - title: Invitation to Quote
     content:
-    - line: TA invites interested suppliers to quote for the provision of laptops. More details can be found in this document. Suppliers are to respond by 5 Aug 20.
+    - line: TA invites interested suppliers to quote for the provision of laptops. Details can be found in this document <a href='\seminars-brochures\Request for Quotation for Laptops.pdf'>Invitation to Quote</a>. Suppliers are to respond by 5 Aug 20.
 
 
     # If you have an email, put (email) after the actual email
