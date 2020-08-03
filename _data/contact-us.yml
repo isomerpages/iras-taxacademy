@@ -27,12 +27,16 @@ locations:
 column:
   
   - title: Frequently Asked Questions
-    content:
+    content:    
     - line: You might like to check out the <a href='\seminars-brochures\FAQ.pdf'>FAQ</a> to see if your query is already answered here.
     
   - title: Enquiries and Feedback
     content:
     - line: "<a href='https://form.gov.sg/5d2c51283703d80011e52615'>Enquiries and Feedback Form</a>"
+
+ - title: Invitation to Quote
+    content:
+    - line: TA invites interested suppliers to quote for the provision of laptops. More details can be found in this document. Suppliers are to respond by 5 Aug 20.
 
 
     # If you have an email, put (email) after the actual email
@@ -42,6 +46,7 @@ column:
     - line: By submitting your email address, you hereby agree that the Tax Academy of Singapore (TA) may collect, use and disclose your personal data that you provide in this Form for the purpose of sending you updates about the various events, programmes and related activities organised or co-organised by TA.
     - line: <br>
    
+     
 
 # Image
 image-url:

@@ -8,17 +8,40 @@ collection_name: who-we-are
 
 #### **Chairman**
 
-**Mr Ong Yew Huat** <br>
-Director <br>
-United Overseas Bank Limited
+**Mr Tham Sai Choy** <br>
+Chairman <br>
+Singapore Institute of Directors
 
-Mr Ong was appointed the Chairman of Tax Academy on 2 August 2014. 
+Mr Tham was appointed the Chairman of Tax Academy on 2 August 2020.
 
-Mr Ong was appointed a Director of United Overseas Bank Limited where he is Chairman of the Board Risk Management and Board Credit Committees and a member of the Audit Committee. He is also Chairman of UOB Malaysia. Mr Ong is also a Director of Singapore Power Ltd and Ascendas-Singbridge Ltd where he serves as Chairman of their respective Audit Committees.
+Mr Tham is a chartered accountant by profession.  He is a board member of DBS Group Holdings and Keppel Corporation, and serves on several statutory boards including the Housing & Development Board and the Accounting and Corporate Regulatory Authority.  He was for many years in public practice at KPMG, where he was its managing partner and then its Asia Pacific regional chairman when he retired.  
 
-In the field of education and the arts, he is member of the NUS Business School BBA (Accounting) Advisory Board and the Andersen Primary School Advisory Committee.  He is Chairman of the Singapore Tyler Print Institute. In 2017, he was awarded the Public Service Star for his contribution to the arts.
+He chairs the Singapore Institute of Directors.  He also serves on the governing board of Nanyang Polytechnic, and the advisory boards of SKBI Institute of Financial Economics and SMU Academy, both units of the Singapore Management University. 
+
+Mr Tham is a Fellow of the Institute of Singapore Chartered Accountants, the Institute of Chartered Accountants in England and Wales, and the Singapore Institute of Directors.  
 
 #### **Members**
+
+**Mrs Eng-Tay Geok Lee** <br>
+Chief Executive Officer <br>
+Tax Academy of Singapore <br>
+
+Mrs Eng-Tay Geok Lee is presently the Senior Advisor, Commissioner’s Office of the Inland Revenue Authority of Singapore, and the Chief Executive Officer of the Tax Academy of Singapore. She has more than thirty years in tax administration and tax policy formulation, and her roles include the Deputy Commissioner (Business) of the Inland Revenue Authority of Singapore and Chief Tax Policy Officer of Ministry of Finance Singapore. <br>
+
+**Mr Low Hwee Chua** <br>
+Regional Managing Partner <br>
+Tax & Legal <br>
+Deloitte Singapore & Southeast Asia <br>
+
+Mr Low Hwee Chua, Deloitte Singapore, is a tax partner with more than 25 years of experience including two years with the Inland Revenue Authority of Singapore. He is the regional managing partner for the tax practice in Deloitte Singapore and Deloitte Southeast Asia. Hwee Chua specialises in corporate income tax and international tax; assisting local and multinational companies to manage their tax affairs efficiently and cost effectively. Hwee Chua has assisted on a variety of projects including restructuring; mergers and acquisitions; tax due diligence; structuring of inbound and outbound investments; and applications for tax incentives and grants. Hwee Chua is an accredited tax adviser (income tax) with the Singapore Institute of Accredited Tax Professionals (SIATP) and is a board member of the SIATP. <br>
+
+**Ms Soh Pui Ming** <br>
+Head of Tax <br>
+Ernst & Young Solutions LLP <br>
+
+Pui Ming is the Head of Tax with Ernst & Young Singapore. She has more than 20 years of experience in Singapore and regional tax compliance and advisory. 
+
+Pui Ming was previously the EY Asean Leader for Global Compliance and Reporting, where she headed the record-to-report services in the region, which span traditional tax compliance, tax accounting, as well as book-keeping, payroll, and corporate secretarial services. She is also experienced in tax advisory matters including acquisitions, group reorganization, tax controversies and health checks etc. Pui Ming holds a Bachelor of Accountancy (Second Upper Honours) from the National University of Singapore. She is a member of the Institute of Singapore Chartered Accountants. She is also an Accredited Tax Advisor (Income Tax) of the Singapore Institute of Accredited Tax Professionals. 
 
 **Mr Chiu Wu Hong** <br>
 Head of Tax Market & Solutions <br>
@@ -26,11 +49,13 @@ KPMG Singapore <br>
 
 Wu Hong has over 20 years of Singapore and regional tax experience in the areas of tax incentive applications, cross-border transactions, merger and acquisitions, tax compliance, consulting and planning for local and multinational companies, as well as consulting for the public sector. In his role as Head of Enterprise, Wu Hong focuses on advising innovative start-ups, large local businesses and helping family businesses to grow. He has contributed articles in academic journals and leading business publications. He is also a regular speaker at seminars and has provided comments and articles on Tax and Enterprise related issues to the media. <br>
 
-**Mrs Eng-Tay Geok Lee** <br>
-Chief Executive Officer <br>
-Tax Academy of Singapore <br>
+**Mr Lennon Lee** <br>
+Financial Services Tax Leader <br>
+PwC Singapore <br>
 
-Mrs Eng-Tay Geok Lee is presently the Senior Advisor, Commissioner’s Office of the Inland Revenue Authority of Singapore, and the Chief Executive Officer of the Tax Academy of Singapore. She has more than thirty years in tax administration and tax policy formulation, and her roles include the Deputy Commissioner (Business) of the Inland Revenue Authority of Singapore and Chief Tax Policy Officer of Ministry of Finance Singapore. <br>
+Lennon is the financial services tax leader with PwC Singapore.  He has over 20 years of experience in practising Singapore and international tax.  He is active in advising financial institutions, multinational corporations and government-linked entities on cross-border tax implications and disputes, regional corporate restructuring and tax related financial regulatory projects as well as advisory relating to mergers and acquisitions, Singapore outbound and inbound investments, asset securitisation, cash and treasury products, REITs, asset wealth and fund management. In addition, he also manages the China tax practice in Singapore and advises various institutions and corporates on both China inbound and outbound investments.
+
+Lennon is a member of the Institute of Singapore Chartered Accountants and a member of the Singapore Institute of Accredited Tax Professionals (Accredited Tax Advisor).  He is also a member of the CPA Australia. <br>
 
 **Associate Professor Poh Eng Hin** <br>
 Assistant Dean, Division of Business Law <br>
@@ -48,19 +73,6 @@ Previously, Eugene was based in Hong Kong and China for 11 years before moving t
 
 Eugene is recognised by leading legal directories such as The Legal 500 Asia Pacific and International Tax Review, with Chambers Asia Pacific noting that “clients prize the practical nature of Eugene Lim’s advice, and particularly appreciate his ability ‘to analyse, find solutions and add value - not just as a legal counsel but as a business consultant too’.” Who’s Who Legal commented that Eugene is the “first port of call” for clients in the trade and customs field. <br>
 
-**Mr Low Hwee Chua** <br>
-Regional Managing Partner <br>
-Tax & Legal <br>
-Deloitte Singapore & Southeast Asia <br>
-
-Mr Low Hwee Chua, Deloitte Singapore, is a tax partner with more than 25 years of experience including two years with the Inland Revenue Authority of Singapore. He is the regional managing partner for the tax practice in Deloitte Singapore and Deloitte Southeast Asia. Hwee Chua specialises in corporate income tax and international tax; assisting local and multinational companies to manage their tax affairs efficiently and cost effectively. Hwee Chua has assisted on a variety of projects including restructuring; mergers and acquisitions; tax due diligence; structuring of inbound and outbound investments; and applications for tax incentives and grants. Hwee Chua is an accredited tax adviser (income tax) with the Singapore Institute of Accredited Tax Professionals (SIATP) and is a board member of the SIATP. <br>
-
-**Mr Chris Woo** <br>
-Head of Tax <br>
-PwC Singapore <br>
-
-Mr Chris Woo is the Tax Leader for PwC Singapore and PwC Myanmar. He is also a member of the leadership team of PwC Singapore. He has over 20 years of professional experience. Mr Woo specializes in the M&A tax needs of strategic, financial and private equity clients from Asia, the United States and Europe. He also worked in the M&A tax team in the London office of PwC UK. <br>
-
 **Mr Darren Tan Siew Peng** <br>
 Chief Financial Officer <br>
 OCBC Bank <br>
@@ -69,11 +81,11 @@ Mr Darren Tan was appointed Executive Vice President and Chief Financial Officer
 
 Mr Tan graduated with First Class Honours in Accountancy from Nanyang Technological University (NTU) and is a Chartered Financial Analyst and a Fellow Chartered Accountant of Singapore. Mr Tan is currently an Adjunct Professor with the Nanyang Business School at NTU and is a Council member of the Institute of Singapore Chartered Accountants (ISCA). Mr Tan was awarded the Singapore Corporate Awards Best CFO in 2017 and FinanceAsia Singapore Best CFO in 2016. 
 
-**Ms Soh Pui Ming** <br>
-Head of Tax <br>
-Ernst & Young Solutions LLP <br>
+**Professor Sum Yee Loong** <br>
+Professor of Accounting (Practice) <br>
+Singapore Management University <br>
 
-Pui Ming is the Head of Tax with Ernst & Young Singapore. She has more than 20 years of experience in Singapore and regional tax compliance and advisory. 
+Professor Sum has specialised in taxation for over 30 years and he was tax partner in Deloitte Singapore from 1987 to 2011. He has substantial experience providing advisory tax services to multi-national companies, local corporate clients and financial institutions. His specialties include corporate structuring, restructuring for IPO, acquisitions and mergers, cross-border transactions, structured finance and international tax planning. 
 
-Pui Ming was previously the EY Asean Leader for Global Compliance and Reporting, where she headed the record-to-report services in the region, which span traditional tax compliance, tax accounting, as well as book-keeping, payroll, and corporate secretarial services. She is also experienced in tax advisory matters including acquisitions, group reorganization, tax controversies and health checks etc. Pui Ming holds a Bachelor of Accountancy (Second Upper Honours) from the National University of Singapore. She is a member of the Institute of Singapore Chartered Accountants. She is also an Accredited Tax Advisor (Income Tax) of the Singapore Institute of Accredited Tax Professionals. 
+Professor Sum had been nominated on several occasions as one of the top 10 leading Tax Advisers in Singapore by International Tax Review and was also featured as one of the World’s Leading Tax Advisers in the Legal Media Group 2011 Guide to the World’s Leading Tax Advisers. He served on the Board of the Tax Academy of Singapore from August 2006 to August 2011 and was also previously a Senior Consultant with IRAS. He is currently a Board Member of IRAS and a Council Member of the National Arts Council. 
 
