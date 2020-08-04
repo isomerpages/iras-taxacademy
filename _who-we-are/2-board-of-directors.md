@@ -12,8 +12,6 @@ collection_name: who-we-are
 Chairman <br>
 Singapore Institute of Directors
 
-Mr Tham was appointed the Chairman of Tax Academy on 2 August 2020.
-
 Mr Tham is a chartered accountant by profession.  He is a board member of DBS Group Holdings and Keppel Corporation, and serves on several statutory boards including the Housing & Development Board and the Accounting and Corporate Regulatory Authority.  He was for many years in public practice at KPMG, where he was its managing partner and then its Asia Pacific regional chairman when he retired.  
 
 He chairs the Singapore Institute of Directors.  He also serves on the governing board of Nanyang Polytechnic, and the advisory boards of SKBI Institute of Financial Economics and SMU Academy, both units of the Singapore Management University. 
