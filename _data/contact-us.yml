@@ -36,6 +36,11 @@ column:
     - line: "<a href='https://form.gov.sg/5d2c51283703d80011e52615'>Enquiries and Feedback Form</a>"
 
 
+  - title: Invitation to Quote
+    content:
+    - line: TA invites interested suppliers to quote for the provision of laptops. More details can be found in this document. Suppliers are to respond by 5 Aug 20.
+
+
     # If you have an email, put (email) after the actual email
 
   - title: "<a href='https://forms.gle/XNroaGguydKpDCyx6' style='text-decoration: underline;'>Join Mailing List</a>"
