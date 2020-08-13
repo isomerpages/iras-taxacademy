@@ -13,6 +13,12 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+##### **September 2020**
+
+* 3 Sep: [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#FT3Sep-ta-id)
+* 18 Sep: [FasTax Webinar Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#FT18Sep-ta-id)
+
+
 ##### **August 2020**
 
 * 6 Aug: [Budget Clinic Webinar Series – Tax Implications on Employees’ Tax Reporting in the Face of COVID-19](/seminars-and-conferences/upcoming/#BC6Aug-ta-id)
@@ -21,6 +27,61 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 21 Aug: [TaxEdge Webinar Series: Covid-19 and implications for China and Asian supply chains](/seminars-and-conferences/upcoming/#TE21Aug-ta-id)
 * 28 Aug: [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#FT28Aug-ta-id)
 
+
+
+<a id="FT3Sep-ta-id"></a>
+##### **FasTax Webinar Series: Fundamentals of Corporate Tax Filing**
+**3 Sep**
+
+As a company director, do you know whether your tax agent/staff are filing corporate tax correctly and what are the proper documentations to maintain? As a tax agent/practitioner, do you know what are the common pitfalls to avoid when filing corporate tax for your clients?
+
+Join us in this webinar as our speakers from IRAS’ Corporate Tax and Enforcement Divisions equip you with knowledge in the following areas:
+
+* Fundamentals of Singapo*re corporate taxation
+* Practical guidance and tips for preparing tax computation
+* Responsibilities of the company director
+
+Who should attend: Company directors, tax agents/practitioners, finance and accounting professionals
+
+**Admin details**
+The webinar will be conducted via Zoom
+Date: 3 Sep 20 (Thu)
+Time: 2.30 p.m. to 4.30 p.m.
+Fees: $85.60 (incl. GST)
+Closing date for registration: 26 Aug 20
+[Registration Form](https://forms.gle/hxDkmxuvaRvHTAg66)
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
+
+
+<a id="FT18Sep-ta-id"></a>
+##### **FasTax Webinar Series: Fundamentals of GST Filing**
+**18 Sep**
+
+Join us in this workshop to hear from IRAS’ tax officers in the following areas:
+
+* Responsibilities of a GST-Registered Person
+* Reimbursements vs Disbursement
+* Fringe Benefits
+* International Services
+* Common filing mistakes to avoid.
+
+Who should attend: GST tax practitioners, including tax, finance, accounting and legal professionals
+
+**IMPORTANT**
+
+Attendees **must** complete the following eLearning modules and the respective quizzes, before attending the workshop:
+
+* [Please access the E-Learning module on Registering for GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
+* [Please access the E-Learning module on Overview of GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
+
+**Admin details**
+* The webinar will be conducted via Zoom
+* Date: 18 Sep 20 (Fri)
+* Time: 2.30 p.m. to 4.30 p.m.
+* Fees: $85.60 (incl. GST)
+* Closing date for registration: 10 Sep 20
+* [Registration Form](https://forms.gle/3C2hYLkF7oLgXGnc6)
 
 
 <a id="TE28Aug-ta-id"></a>
