@@ -18,11 +18,11 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 (Income Tax) 1-2020_programme.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScccIX23UDQywGyRXzJOZO5G4lnaUAyiO8-dVasrionHHanKg/viewform?usp=sf_link){:target="_blank"} -[Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 (Income Tax) 2-2020_programme_v2.0.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is CLOSED for Intake 1/2020.
+Registration is OPEN for Intake 2/2020.
 
-The next intake for this course will be in Oct 2020. Registration will be available six weeks prior to the course commencement date.
+The next intake for this course will be in Apr 2021. Registration will be available six weeks prior to the course commencement date.
 
 <a id="etp2sep-ta-id"></a>
 ### **Executive Tax Programme Level II (Income Tax – Corporate & Business)**
@@ -44,15 +44,15 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-Intake 15:
+Intake 16:
 
-[Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLScRP7x9RBp4qoBHNk7PVM3Wa5TB42h1za4eVx2-_Gy6tHBPBw/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 15) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 15) schedule_v3.0.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLScRP7x9RBp4qoBHNk7PVM3Wa5TB42h1za4eVx2-_Gy6tHBPBw/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 16) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 16) schedule_v1.0.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is CLOSED for Intake 15 Modules 2, 5, 6, 7, 8 and 9.
+Registration is OPEN for Intake 16 Modules 2, 3, 4, 5, 6, 7, 8 and 9.
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
-The next intake for this course will be in Nov 2020.
+The next intake for this course will be in Nov 2021.
 
 ### **Book Prizes**
 
