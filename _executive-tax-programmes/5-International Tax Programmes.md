@@ -39,7 +39,7 @@ This course provides in-depth knowledge in international tax principles and conc
 
 **Registration is OPEN for Intake 1/2020**
 
-The next intake for the course will be held in Oct 2020. Registration will open six weeks before the course commencement date.
+The next intake for the course will be held in Oct 2021. Registration will open six weeks before the course commencement date.
 
 <a id="leiden-ta-id"></a>
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
