@@ -53,9 +53,7 @@ The 8 half-day programme is facilitated by a team of professors from the WU Tran
 
 The programme provides participants with the latest update on international transfer pricing developments, and knowledge and insights to handle transfer pricing issues in specialised industries that are of relevance to the Asia-Pacific region. Workshops will be provided for all topics enabling opportunities for discussions.
 
-Look forward to a new learning experience as we deliver the programme to you via virtual classroom.
-
-Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas virtually.
+Look forward to a new learning experience as we deliver the programme to you via virtual classroom. Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas virtually.
 
 Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12 Nov 2020 (Each session : 3p.m. to 6p.m.)
 
