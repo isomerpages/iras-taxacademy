@@ -13,6 +13,9 @@ collection_name: executive-tax-programmes
 ##### **Executive Tax Programme Level II (International Tax)**
 * Oct 2020 intake: [Registration is open](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
+##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
+* Nov 2020 intake: [Registration is open](/executive-tax-programmes/international-tax/#wu-ta-id)
+
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
 * June 2020 intake: [More Information](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
@@ -40,6 +43,35 @@ This course provides in-depth knowledge in international tax principles and conc
 **Registration is OPEN for Intake 1/2020**
 
 The next intake for the course will be held in Oct 2021. Registration will open six weeks before the course commencement date.
+
+<a id="wu-ta-id"></a>
+### **Executive Tax Programme Level III (International Tax): WU-TA Advanced Transfer Pricing Programme**
+
+The WU – TA Advanced Transfer Pricing Programme is offered by the WU Transfer Pricing Centre at the Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business) and the Tax Academy of Singapore. 
+
+The 8 half-day programme is facilitated by a team of professors from the WU Transfer Pricing Centre and regional industry tax experts.
+
+*Prof Alfred Storck, Institute for Austrian and International Tax Law*
+*Dr Raffaele Petruzzi, Institute for Austrian and International Tax Law*
+*Mr Sayee Prasanna, Institute for Austrian and International Tax Law*
+*Ms Jow Lee Ying, Nanyang Technological University Singapore*
+*Mr Stephen Bruce, EY Singapore*
+*Ms Lisa Zheng, Procter & Gamble Singapore*
+*Ms Sharon Tan, Deloitte Singapore*
+*Mr Uziel Alvarez, Deloitte Singapore*
+*Mr Giammarco Cottani, Netflix*
+*Ms Yong Sing Yuan, Inland Revenue Authority of Singapore*
+
+The programme provides participants with the latest update on international transfer pricing developments, and knowledge and insights to handle transfer pricing issues in specialised industries that are of relevance to the Asia-Pacific region. Workshops will be provided for all topics enabling opportunities for discussions.
+
+Look forward to a new learning experience as we deliver the programme to you via virtual classroom.
+Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas virtually.
+
+Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12 Nov 2020 (Each session : 3p.m. to 6p.m.)
+
+[Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureAdvITP2020.pdf){:target="_blank"}
+
+**Registration is OPEN for 2020 Programme**
 
 <a id="leiden-ta-id"></a>
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
