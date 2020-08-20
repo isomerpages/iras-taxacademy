@@ -59,7 +59,7 @@ Don’t miss the opportunity to network with the TP experts from academic and in
 
 Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12 Nov 2020 (Each session : 3p.m. to 6p.m.)
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSceoTHj62_uDGddgDonCDWrbe1yio9agfoqC3Yxwh4ulpTI8A/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureAdvITP2020.pdf){:target="_blank"}
+[Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureAdvITP2020.pdf){:target="_blank"}
 
 **Registration is OPEN for 2020 intake**
 
