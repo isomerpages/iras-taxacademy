@@ -57,7 +57,7 @@ Look forward to a new learning experience as we deliver the programme to you via
 
 Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12 Nov 2020 (Each session : 3p.m. to 6p.m.)
 
-[Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureAdvITP2020.pdf){:target="_blank"}
+[Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/WU Programme.pdf){:target="_blank"}
 
 **Registration is OPEN for 2020 intake**
 
