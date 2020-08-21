@@ -11,13 +11,16 @@ collection_name: executive-tax-programmes
 * Nov 2020 intake: [Stay tuned for more information in Nov 2020](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **Executive Tax Programme Level II (International Tax)**
-* Oct 2020 intake: [Stay tuned for more information in Oct 2020](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
+* Oct 2020 intake: [Registration is open](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
+
+##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
+* Nov 2020 intake: [Registration is open](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
 * June 2020 intake: [More Information](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
-* Aug 2020 intake: [More information](/executive-tax-programmes/international-tax/#itp-id)
+* Aug 2021 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
@@ -35,11 +38,28 @@ The next intake for this course will be in Nov 2020. Registration will open six 
 
 This course provides in-depth knowledge in international tax principles and concepts, with focus on specific issues on tax treaty and transfer pricing.
 
-[Registration Form](https://docs.google.com/forms/d/1tFa47UJcgLaTUMJdUkosDl_iji5Nf-RliBpld8GEpEQ/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ITPL22019.pdf){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/11iWSk4aI3G_OOnH4mNuprJ4PKIYNpLu8z1gB3T6n2Ro/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureITPL212020.pdf){:target="_blank"}
 
-**Registration is CLOSED for Intake 1/2019**
+**Registration is OPEN for Intake 1/2020**
 
-The next intake for the course will be held in Oct 2020. Registration will open six weeks before the course commencement date.
+The next intake for the course will be held in Oct 2021. Registration will open six weeks before the course commencement date.
+
+<a id="wu-ta-id"></a>
+### **Executive Tax Programme Level III (International Tax): WU-TA Advanced Transfer Pricing Programme**
+
+The WU – TA Advanced Transfer Pricing Programme is offered by the WU Transfer Pricing Centre at the Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business) and the Tax Academy of Singapore. 
+
+The 8 half-day programme is facilitated by a team of professors from the WU Transfer Pricing Centre and regional industry tax experts.
+
+The programme provides participants with the latest update on international transfer pricing developments, and knowledge and insights to handle transfer pricing issues in specialised industries that are of relevance to the Asia-Pacific region. Workshops will be provided for all topics enabling opportunities for discussions.
+
+Look forward to a new learning experience as we deliver the programme to you via virtual classroom. Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas virtually.
+
+Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12 Nov 2020 (Each session : 3p.m. to 6p.m.)
+
+[Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureAdvITP2020.pdf){:target="_blank"}
+
+**Registration is OPEN for 2020 intake**
 
 <a id="leiden-ta-id"></a>
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
@@ -61,7 +81,7 @@ Dates of programme via virtual classroom: 18, 19 ,20, 25 Aug 2020 (Each session 
 
 [Registration Form](https://docs.google.com/forms/d/1sQFeh0eY6vEfN0qr_EZBxbPp7fJ_102guV29UgSJP8E/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureAdvITP2020.pdf){:target="_blank"}
 
-**Registration is OPEN for 2020 intake**
+**Registration is CLOSED for 2020 intake**
 
 **Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
 
