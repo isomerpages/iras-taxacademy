@@ -13,11 +13,70 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+##### **October 2020**
+
+* 9 Oct: [FasTax Webinar Series: Singapore Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#FT9Oct-ta-id)
+* 16 Oct: [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#FT16Oct-ta-id)
+
+
 ##### **September 2020**
 
 * 3 Sep: [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#FT3Sep-ta-id)
 * 16 Sep: [TaxEdge Webinar Series: Navigating the GST issues from Covid-19](/seminars-and-conferences/upcoming/#TE16Sep-ta-id)
 * 18 Sep: [FasTax Webinar Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#FT18Sep-ta-id)
+
+
+<a id="FT16Oct-ta-id"></a>
+##### **FasTax Webinar Series: Fundamentals of Corporate Tax Filing**
+**16 Oct**
+
+As a company director, do you know whether your tax agent/staff are filing corporate tax correctly and what are the proper documentations to maintain? As a tax agent/practitioner, do you know what are the common pitfalls to avoid when filing corporate tax for your clients?
+
+Join us in this webinar as our speakers from IRAS’ Corporate Tax and Enforcement Divisions equip you with knowledge in the following areas:
+
+* Fundamentals of Singapore corporate taxation
+* Practical guidance and tips for preparing tax computation
+* Responsibilities of the company director
+
+Who should attend: Company directors, tax agents/practitioners, finance and accounting professionals
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 16 Oct 20 (Fri)
+* Time: 2.30 p.m. to 4.30 p.m.
+* Fees: $85.60 (incl. GST)
+* Closing date for registration: 8 Oct 20
+* [Registration Form](https://forms.gle/fnrCFgSNbjc2sG7f7)
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
+
+
+<a id="FT9Oct-ta-id"></a>
+##### **FasTax Webinar Series: Singapore Transfer Pricing Essentials**
+**9 Oct**
+
+Businesses are required to prepare transfer pricing documentations.  Having a proper set of transfer pricing documentation is essential for businesses to substantiate that the pricing of their transactions with their related parties are arm’s length and for IRAS to help businesses to resolve transfer pricing disputes with foreign tax authorities if the need arises.  Join us in this webinar, as tax specialists from the IRAS provide you with an overview of the Singapore Transfer Pricing regime and its guidelines.  They will also share on how you should prepare proper transfer pricing documentation and advise you on the mistakes to avoid. There will be a Q&A segment at the end of the session.
+
+Agenda:
+
+* Singapore Transfer Pricing Regime
+* Transfer Pricing Documentation and mistakes to avoid
+* Transfer pricing disputes – prevention and resolution
+* Q&A
+
+Who should attend: Business owners/leaders, tax practitioners, including tax, finance, accounting and legal professionals
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 9 Oct 20 (Fri)
+* Time: 2.30 p.m. to 4.30 p.m.
+* Fees: $85.60 (incl. GST)
+* Closing date for registration: 2 Oct 20
+* [Registration Form](https://forms.gle/zQaUsHkjebwJ5H9s7)
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
 
 
 <a id="FT18Sep-ta-id"></a>
