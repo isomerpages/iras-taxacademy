@@ -64,7 +64,7 @@ E.g. If the unit consists of 6 lessons, participants have to attend at least 4 l
 - Internet banking/Bank transfers/GIRO/Paynow
 - Telegraphic Transfer (Participant to bear all bank charges)
 
-9.2 Payment is to be made within 14 days from date of invoice or before the commencement of the course, whichever is earlier.
+9.2 Payment is to be made within 7 days from date of invoice or before the commencement of the course, whichever is earlier.
 
 9.3 Course fees are non-refundable upon issuance of invoice.
 

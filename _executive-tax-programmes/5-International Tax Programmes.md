@@ -17,7 +17,7 @@ collection_name: executive-tax-programmes
 * Nov 2020 intake: [Registration is open](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
-* June 2020 intake: [More Information](/executive-tax-programmes/international-tax/#leiden-ta-id)
+* Jan 2021 intake: [More Information](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
 * Aug 2021 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#itp-id)
@@ -68,7 +68,7 @@ The Advanced Tax Treaties Programme is a collaborative effort between Tax Academ
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-Dates of programme: To be advised.
+Dates of programme: **SAVE THE DATE!** 4 Jan to 15 Jan 2021
 
 <a id="itp-id"></a>
 ### **Advanced International Tax Planning Programme**
