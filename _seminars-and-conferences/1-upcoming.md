@@ -17,6 +17,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 9 Oct: [FasTax Webinar Series: Singapore Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#FT9Oct-ta-id)
 * 16 Oct: [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#FT16Oct-ta-id)
+* 23 Oct: [TaxEdge Webinar Series: Insights into Valuation of Plant and Machinery](/seminars-and-conferences/upcoming/#TE23Oct-ta-id)
 
 
 ##### **September 2020**
@@ -24,6 +25,37 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 3 Sep: [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#FT3Sep-ta-id)
 * 16 Sep: [TaxEdge Webinar Series: Navigating the GST issues from Covid-19](/seminars-and-conferences/upcoming/#TE16Sep-ta-id)
 * 18 Sep: [FasTax Webinar Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#FT18Sep-ta-id)
+
+
+<a id="FT16Oct-ta-id"></a>
+##### **TaxEdge Webinar Series: Insights into Valuation of Plant and Machinery**
+**23 Oct**
+
+You may be confronted with questions of fair valuation of the fixed assets and the market value of the plant and machinery in the course of tax work. You may have to deal with questions of arm’s length price for the transfer of plant and machinery between related parties.  You may want to gather some insights into how a valuation of plant and machinery is performed by the professional valuer, and the complexity involved especially for specialised plant and complex machinery.
+
+Whether you are a business owner, tax professional, account and finance professionals or an aspiring valuer, join us in this webinar, where our speaker, **Mr Milton Tan (Managing Director, Twin Pillars Holdings Pte Ltd)** will share with you fundamentals of plant and machinery valuation and his experiences garnered from many years of valuing plant and machinery.
+
+The agenda will cover:
+
+* Definition of P&M
+* Purposes in valuation
+* Historical cost and market value
+* Brief introduction to valuation Methodology
+* Brief introduction to valuation processes
+* Insights on challenges
+
+Who should attend: Tax professionals, Finance and accounting professionals, and Business owners, Legal professionals, Aspiring valuers, Government officials.
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 23 Oct 20 (Fri)
+* Time: 3.00 p.m. to 5.00 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 15 Oct 20
+* [Registration Form](https://forms.gle/CeAzozBmxxEeaKmC9)
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
 
 
 <a id="FT16Oct-ta-id"></a>
