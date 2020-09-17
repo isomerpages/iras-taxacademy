@@ -55,6 +55,20 @@ Who should attend: Tax professionals, Finance and accounting professionals, and 
 * Closing date for registration: 15 Oct 20
 * [Registration Form](https://forms.gle/CeAzozBmxxEeaKmC9)
 
+**About the Speaker**
+
+Mr Milton Tan
+
+Founder and Managing Director
+
+Twin Pillars Holdings Pte Ltd
+
+Valuation & Advisory Services, Asia
+
+
+Mr Milton Tan is the Founder and Managing Director of Twin Pillars Holdings Pte Ltd.  Milton has more than 20 years of experience as an appraiser and auctioneer, where he has helped companies to redeploy their assets across the region.  He has also worked on cross-border valuations with clients ranging from MNCs to government agencies.  With his extensive knowledge and experience, he has valued various capital assets in a myriad of industries across Asia Pacific including the Indochina region.  Milton has conducted seminars and lectures on Plant and Machinery Valuation for local universities and professional bodies across Asia.  He is also a member and registered valuer of Royal Institute of Chartered Surveyors (RICS).  He has served as Chairman of RICS ASEAN Valuation Professional Group, Chairman of RICS Plant & Machinery Valuation Professional Group, and committee member of RICS Singapore Valuation Professional Group.
+
+
 For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
 
 
