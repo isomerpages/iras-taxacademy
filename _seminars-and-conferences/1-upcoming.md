@@ -13,6 +13,11 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+##### **November 2020**
+
+* 17 to 25 Nov: [TEI US Tax Conference (Virtual)](/seminars-and-conferences/upcoming/#TEI-ta-id)
+
+
 ##### **October 2020**
 
 * 9 Oct: [FasTax Webinar Series: Singapore Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#FT9Oct-ta-id)
@@ -27,7 +32,28 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 18 Sep: [FasTax Webinar Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#FT18Sep-ta-id)
 
 
-<a id="FT16Oct-ta-id"></a>
+<a id="TEI-ta-id"></a>
+##### **TEI US Tax Conference (Virtual)**
+**17 to 25 Nov**
+
+The Tax Executives Institute (TEI) and the Tax Academy of Singapore (TAS) are pleased to jointly present the TEI US Tax Conference in Singapore from 17 to 25 November 2020.  This virtual 6-modules event spreading across 6 days will feature leading US tax experts from EY and Baker & McKenzie who will provide participants with an overview of the US taxation system, key features of  US Tax Reform and recent developments.  Please click here for [Brochure](/seminars-brochures/2020 US Tax Training Brochure (Virtual).pdf)
+
+Who should attend: Business owners/leaders, tax practitioners, including tax, finance, accounting and legal professionals
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Dates: 17 to 25 Nov 20
+* Time: SGT 9.00 a.m. to 12.00 p.m.
+* Participants may choose to sign up for the modules that they are interested in, subject to a minimum of 4 modules.
+* Fees for TEI members (per module): SGD 100 / USD 75
+* Fees for Non-TEI members (per module): SGD 170 / USD 125
+* Above fees exclude 7% GST.  Local participants need to pay above fees plus 7% GST.
+* Closing date for registration: 30 Oct 20
+* [Registration Form](https://bit.ly/2FB8SuQ)
+
+
+<a id="TE23Oct-ta-id"></a>
 ##### **TaxEdge Webinar Series: Insights into Valuation of Plant and Machinery**
 **23 Oct**
 
