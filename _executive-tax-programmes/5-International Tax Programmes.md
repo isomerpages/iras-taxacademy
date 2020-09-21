@@ -60,6 +60,7 @@ Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12 Nov 2020 (Ea
 [Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/WU Programme.pdf){:target="_blank"}
 
 **Registration is OPEN for 2020 intake**
+*Registration will close on 2 Oct*
 
 <a id="leiden-ta-id"></a>
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
