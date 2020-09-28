@@ -70,7 +70,7 @@ Participants will learn thorough knowledge of the complex rules that govern tax 
 
 Dates of programme via virtual classroom: 4 Jan to 15 Jan 2021 (Each session : 3p.m. to 6p.m.)
 
-[Registration Form](https://forms.gle/Mw5JPvxU5MsXLoRFA) - [Details]()
+[Registration Form](https://forms.gle/Mw5JPvxU5MsXLoRFA) - [Details](/seminars-brochures/Website_ATT Brochure_Virtual.pdf)
 
 <a id="itp-id"></a>
 ### **Advanced International Tax Planning Programme**
