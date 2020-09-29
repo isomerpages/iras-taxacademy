@@ -17,7 +17,7 @@ collection_name: executive-tax-programmes
 * Nov 2020 intake: [Registration is open](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
-* Jan 2021 intake: [More Information](/executive-tax-programmes/international-tax/#leiden-ta-id)
+* Jan 2021 intake: [Registration is open](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
 * Aug 2021 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#itp-id)
@@ -66,9 +66,11 @@ Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12 Nov 2020 (Ea
 
 The Advanced Tax Treaties Programme is a collaborative effort between Tax Academy of Singapore and International Tax Center Leiden, Netherlands. The programme is aimed at tax professionals who have at least five years' tax experience and who are seeking to deepen their insight and expertise in tax treaties.
 
-Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
+Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts. Look forward to a new learning experience as we deliver the programme to you via virtual classroom.
 
-Dates of programme: **SAVE THE DATE!** 4 Jan to 15 Jan 2021
+Dates of programme via virtual classroom: 4 Jan to 15 Jan 2021 (Each session : 3p.m. to 6p.m.)
+
+[Registration Form](https://forms.gle/Mw5JPvxU5MsXLoRFA) - [Details](/seminars-brochures/Website_ATT Brochure_Virtual.pdf)
 
 <a id="itp-id"></a>
 ### **Advanced International Tax Planning Programme**
