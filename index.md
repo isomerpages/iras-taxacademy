@@ -5,8 +5,8 @@ permalink: /
 ---
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
 
-In line with the additional measures announced by the government in response to COVID-19, our office will be closed for walk-ins, until further notice. However, our training programmes which can be conducted online, are still running.
+Our office is now open for walk-ins, only on **Mondays from 10.00 a.m. to 3.00 p.m.**
 
-For the latest updates on our upcoming programmes, please visit the respective pages on our website.
+However, our programmes are still running as scheduled, online.
 
-We apologise for any inconvenience caused. In the meantime, stay safe!
+For the latest updates, please refer to the respective pages on this website.
