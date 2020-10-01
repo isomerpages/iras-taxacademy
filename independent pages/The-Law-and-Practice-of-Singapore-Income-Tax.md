@@ -1,3 +1,12 @@
+---
+layout: leftnav-page-content
+title: The Law and Practice of Singapore Income Tax
+permalink: /independent-pages/The-Law-and-Practice-of-Singapore-Income-Tax/
+breadcrumb: The-Law-and-Practice-of-Singapore-Income-Tax
+---
+
+### **The Law and Practice of Singapore Income Tax, 3rd Edition**
+
 The Tax Academy of Singapore is proud to present the Third Edition of The Law and Practice of Singapore Income Tax. 
 
 An authoritative and comprehensive reference book on taxation of income, this edition aims to explain the fundamental changes to the tax landscape and 
@@ -10,4 +19,4 @@ professionals, but also for students and educators on the law and practice of th
 --- Mrs Eng-Tay Geok Lee --- <br>
 CEO, Tax Academy of Singapore <br>
 
-(/images/Tax Book TOC.pdf)
+![Image of Tax Book Brochure](/files/Tax-Book-TOC.pdf)
