@@ -13,10 +13,11 @@ An authoritative and comprehensive reference book on taxation of income, this ed
 updates on the Second Edition with a comprehensive coverage and analysis of case law developments, administrative guides and practical application of the 
 income tax law, tax treaties and international tax agreements.
 
-The Third Edition is a  continues the aspiration to be the taxation book by the tax community for the tax community –  a valuable resource not just for tax 
+The Third Edition continues the aspiration to be the taxation book by the tax community for the tax community –  a valuable resource not just for tax 
 professionals, but also for students and educators on the law and practice of the Singapore income tax system.
 
---- Mrs Eng-Tay Geok Lee --- <br>
-CEO, Tax Academy of Singapore <br>
+*--- Mrs Eng-Tay Geok Lee ---* <br>
+*CEO, Tax Academy of Singapore* <br>
 
-![Image of Tax Book Brochure](/files/Tax-Book-TOC.pdf)
+![Image of Tax Book TOC1](/images/Tax-Book-TOC1.png)
+![Image of Tax Book TOC2](/images/Tax-Book-TOC2.png)
