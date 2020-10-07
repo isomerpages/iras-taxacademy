@@ -19,5 +19,5 @@ professionals, but also for students and educators on the law and practice of th
 *--- Mrs Eng-Tay Geok Lee ---* <br>
 *CEO, Tax Academy of Singapore* <br>
 
-![Image of Tax Book TOC1](/images/Tax-Book-TOC1.png)
-![Image of Tax Book TOC2](/images/Tax-Book-TOC2.png)
+![Image of Tax-Book- Brochure1](/images/Tax-Book- Brochure1.jpg)
+![Image of Tax-Book- Brochure2](/images/Tax-Book- Brochure2.jpg)
