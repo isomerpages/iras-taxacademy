@@ -21,7 +21,7 @@ Tax Academy offers a structured Tax Training Roadmap for tax professionals to at
 
 ##### **An Enabler for Thought Leadership in Taxation Matters**
 
-SMU - TA Centre for Excellence in Taxation is the first tax research centre in Singapore. It is set up by Tax Academy in partnership with the Singapore Management University to undertake policy-relevant and practice-oriented research in international tax with particular focus on Asian economies and tax systems.
+The Tax Academy believes in supporting and undertaking policy-relevant and practice-oriented research in international tax with particular focus on Asian economies and tax systems. After the end of Tax Academy’s collaboration with Singapore Management University in the Centre for Excellence in Taxation, it continues to invite research submissions on relevant topics that promotes critical thinking.
 
 ##### **A Platform for Tax Exchange**
 
