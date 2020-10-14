@@ -70,7 +70,7 @@ Agenda:
 * $345.61 (Special Price)
 * $406.60 (Recommended retail price)
 
-**E-Book**
+**[E Book](/seminars-brochures/What is an eBook.pdf)**
 * $272.85 (Special Price)
 * $321.00 (Recommended retail price)
 
