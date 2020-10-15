@@ -21,3 +21,5 @@ professionals, but also for students and educators on the law and practice of th
 
 ![Image of Tax-Book- Brochure1](/images/Tax-Book- Brochure1.jpg)
 ![Image of Tax-Book- Brochure2](/images/Tax-Book- Brochure2.jpg)
+
+To pre-order, [click here](https://store.lexisnexis.com.sg/categories/legal-topics/taxation-and-revenue-419/the-law-practice-of-singapore-income-tax-3rd-edition-skuSkusgLPSIT3ECONFIG){:target="_blank"}
