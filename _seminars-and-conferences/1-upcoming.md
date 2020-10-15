@@ -72,7 +72,7 @@ Prices shown are inclusive of GST:
 * $345.61 (Special Price)
 * $406.60 (Recommended retail price)
 
-**eBook:*
+**eBook:**
 * $272.85 (Special Price)
 * $321.00 (Recommended retail price)
 * Find out more about [what is an eBook](/seminars-brochures/What is an eBook.pdf)
