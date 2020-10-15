@@ -64,15 +64,18 @@ Agenda:
 * Closing date for registration: 19 Nov 20
 * [Registration Form](https://bit.ly/312M9PL)
 
-**Webinar exclusive!!!** Attendees will be entitled to purchase **one** copy of the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off Recommended Retail Price (RRP). Prices shown are inclusive of GST:
+**Webinar exclusive!!!** Attendees will be entitled to purchase one copy of the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP.
+This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
+Prices shown are inclusive of GST:
 
 **Hardcover:**
 * $345.61 (Special Price)
 * $406.60 (Recommended retail price)
 
-**[E Book](/seminars-brochures/What is an eBook.pdf)**
+**eBook:*
 * $272.85 (Special Price)
 * $321.00 (Recommended retail price)
+* Find out more about [what is an eBook](/seminars-brochures/What is an eBook.pdf)
 
 For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
 
