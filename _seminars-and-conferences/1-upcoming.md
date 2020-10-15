@@ -16,6 +16,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 ##### **November 2020**
 
 * 17 to 25 Nov: [TEI US Tax Conference (Virtual)](/seminars-and-conferences/upcoming/#TEI-ta-id)
+* 26 Nov: [A Peek into the “Taxing Book” - The Law and Practice of Singapore Income Tax 3rd Edition Primers Series: Exchange of Information](/seminars-and-conferences/upcoming/#EOI-ta-id)
 
 
 ##### **October 2020**
@@ -30,6 +31,53 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 3 Sep: [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#FT3Sep-ta-id)
 * 16 Sep: [TaxEdge Webinar Series: Navigating the GST issues from Covid-19](/seminars-and-conferences/upcoming/#TE16Sep-ta-id)
 * 18 Sep: [FasTax Webinar Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#FT18Sep-ta-id)
+
+
+<a id="EOI-ta-id"></a>
+##### **A Peek into the “Taxing Book” - The Law and Practice of Singapore Income Tax 3rd Edition Primers Series: Exchange of Information**
+**26 Nov**
+
+**Webinar attendees’ exclusive! 15% discount for purchase of book**
+
+In conjunction with the launch of the Third Edition of The Law and Practice of Singapore Income Tax, Tax Academy is pleased to present the first of a series of webinars where the authors will give an overview of what is covered in their respective chapters and expound on some of the topics.
+
+To kick-off this series, we have Mr Allen Tan (Partner, Baker McKenzie. Wong & Leow), and Mr Robin Ng (Director, ITaR-Policy, IRAS) to share from the chapter on “Exchange of Information”. They will discuss the key frameworks through which tax authorities of different jurisdictions work with each other by conducting exchange of information (‘EOI’), with a focus on developments that impact Singapore. 
+
+Who should attend: Business owners/leaders, tax practitioners, including tax, finance, accounting and legal professionals
+
+Agenda:
+
+* Overview of international developments on EOI and Singapore’s responses
+* International tax agreements
+* EOI on request
+* Automatic EOI
+* Spontaneous EOI
+* Thoughts on the challenges or issues in EOI arising from the sharing and gig economy
+* Discussion and Q&A session
+
+**Admin details:**
+
+* This webinar will be conducted via Zoom
+* Date: 26 Nov 20
+* Time: 3 p.m. to 5 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 19 Nov 20
+* [Registration Form](https://bit.ly/312M9PL)
+
+**Webinar exclusive!!!** Attendees will be entitled to purchase one copy of the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP.
+This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
+Prices shown are inclusive of GST:
+
+**Hardcover:**
+* $345.61 (Special Price)
+* $406.60 (Recommended retail price)
+
+**eBook:*
+* $272.85 (Special Price)
+* $321.00 (Recommended retail price)
+* Find out more about [what is an eBook](/seminars-brochures/What is an eBook.pdf)
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
 
 
 <a id="TEI-ta-id"></a>
@@ -51,6 +99,8 @@ Who should attend: Business owners/leaders, tax practitioners, including tax, fi
 * Above fees exclude 7% GST.  Local participants need to pay above fees plus 7% GST.
 * Closing date for registration: 30 Oct 20
 * [Registration Form](https://bit.ly/2FB8SuQ)
+
+For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
 
 
 <a id="TE23Oct-ta-id"></a>
