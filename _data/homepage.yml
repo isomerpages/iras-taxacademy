@@ -35,3 +35,10 @@ button:
   - text: Learn More
     url: /who-we-are/overview/
   
+info-sections:
+  - section-title: 
+    section-subtitle: The Law & Practice of Singapore Income Tax, Third Edition
+    section-description: Now Open for Pre-order!
+    section-more-button: Find Out More
+    section-more-button-url: /independent-pages/the-law-and-practice-of-singapore-income-tax/
+    section-image-path: /images/Tax-Book-Banner1.jpg
