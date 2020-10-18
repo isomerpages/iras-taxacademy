@@ -57,6 +57,12 @@ Agenda:
 * Closing date for registration: 19 Nov 20
 * [Registration Form](https://bit.ly/312M9PL)
 
+**About the Speakers**
+
+**Mr. Allen Tan** is the head of the Tax, Trade and Wealth Management practice in Baker McKenzie Wong & Leow. He has extensive experience working on both international and local tax issues, with a special focus on the regional tax aspects of the transactions that he is involved in. Allen’s clients include Global Fortune 500 multinational corporations and major Singapore conglomerates. He is recognised as a leading lawyer for his tax controversy and corporate tax work in many leading legal and tax directories including International Tax Review, Chambers Asia Pacific and Legal 500 Asia Pacific. Allen was also named the Asia Tax Practice Leader of the Year 2018 by International Tax Review.
+
+**Mr. Robin Ng** is currently the Director of the Policy Branch of the International Tax Policy and Relation Division in the Inland Revenue Authority of Singapore. Robin oversees matters relating to DTAs, policies concerning exchange of information on request, international tax cooperation and administrative assistance as well as international tax relations matters. Robin holds a Bachelor of Accountancy with Honours from the Nanyang Technological University and a Master of Laws in International Tax Laws with Honours from Vienna University of Economics and Business. Robin is a Chartered Accountant (Singapore) and an Accredited Tax Advisor (Income Tax). Robin has contributed to external journals such as the Cahiers for the International Fiscal Association.
+
 **Webinar exclusive!!!** Attendees will be entitled to purchase one copy of the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP.
 This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
 Prices shown are inclusive of GST:
