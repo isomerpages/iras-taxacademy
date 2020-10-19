@@ -16,7 +16,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 ##### **November 2020**
 
 * 17 to 25 Nov: [TEI US Tax Conference (Virtual)](/seminars-and-conferences/upcoming/#TEI-ta-id)
-* 26 Nov: [A Peek into the “Taxing Book” - The Law and Practice of Singapore Income Tax 3rd Edition Primers Series: Exchange of Information](/seminars-and-conferences/upcoming/#EOI-ta-id)
+* 26 Nov: [A Peek into the “Taxing Book” - The Law and Practice of Singapore Income Tax 3rd Edition Primers Series: Exchange of Information and International Tax Agreements](/seminars-and-conferences/upcoming/#EOI-ta-id)
 
 
 ##### **October 2020**
@@ -27,14 +27,14 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 
 <a id="EOI-ta-id"></a>
-##### **A Peek into the “Taxing Book” - The Law and Practice of Singapore Income Tax 3rd Edition Primers Series: Exchange of Information**
+##### **A Peek into the “Taxing Book” - The Law and Practice of Singapore Income Tax 3rd Edition Primers Series: Exchange of Information and International Tax Agreements**
 **26 Nov**
 
-**Webinar attendees’ exclusive! 15% discount for purchase of book**
+Following the success of the first and second editions, the Tax Academy of Singapore is proud to announce the upcoming launch of the 3rd edition of The Law & Practice of Singapore Income Tax. An authoritative and comprehensive reference book on taxation of income, this edition aims to explain the fundamental changes to the tax landscape and updates on the Second Edition with a comprehensive coverage and analysis of case law developments, administrative guides and practical application of the income tax law, tax treaties and international tax agreements.
 
-In conjunction with the launch of the Third Edition of The Law and Practice of Singapore Income Tax, Tax Academy is pleased to present the first of a series of webinars where the authors will give an overview of what is covered in their respective chapters and expound on some of the topics.
+In conjunction with the launch of the book, we are pleased to present the first of a series of webinars where the authors will give an overview of what is covered in their respective chapters and expound on some of the topics. In addition, webinar participants will be entitled to a special 15% discount off the price of the book!
 
-To kick-off this series, we have Mr Allen Tan (Partner, Baker McKenzie. Wong & Leow), and Mr Robin Ng (Director, ITaR-Policy, IRAS) to share from the chapter on “Exchange of Information”. They will discuss the key frameworks through which tax authorities of different jurisdictions work with each other by conducting exchange of information (‘EOI’), with a focus on developments that impact Singapore. 
+To kick off this series, we have **Mr Allen Tan (Head of Tax, Trade and Wealth Management, Baker McKenzie Wong & Leow)**, and **Mr Robin Ng (Director, International Tax and Relations-Policy, IRAS)** to share from the chapter on “Exchange of Information and International Tax Agreements”. They will discuss the key frameworks through which tax authorities of different jurisdictions work with each other by conducting exchange of information (‘EOI’), with a focus on developments that impact Singapore.
 
 Who should attend: Business owners/leaders, tax practitioners, including tax, finance, accounting and legal professionals
 
@@ -57,8 +57,13 @@ Agenda:
 * Closing date for registration: 19 Nov 20
 * [Registration Form](https://bit.ly/312M9PL)
 
-**Webinar exclusive!!!** Attendees will be entitled to purchase one copy of the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP.
-This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
+**About the Speakers**
+
+**Mr. Allen Tan** is the head of the Tax, Trade and Wealth Management practice in Baker McKenzie Wong & Leow. He has extensive experience working on both international and local tax issues, with a special focus on the regional tax aspects of the transactions that he is involved in. Allen’s clients include Global Fortune 500 multinational corporations and major Singapore conglomerates. He is recognised as a leading lawyer for his tax controversy and corporate tax work in many leading legal and tax directories including International Tax Review, Chambers Asia Pacific and Legal 500 Asia Pacific. Allen was also named the Asia Tax Practice Leader of the Year 2018 by International Tax Review.
+
+**Mr. Robin Ng** is currently the Director of the Policy Branch of the International Tax Policy and Relation Division in the Inland Revenue Authority of Singapore. Robin oversees matters relating to DTAs, policies concerning exchange of information on request, international tax cooperation and administrative assistance as well as international tax relations matters. Robin holds a Bachelor of Accountancy with Honours from the Nanyang Technological University and a Master of Laws in International Tax Laws with Honours from Vienna University of Economics and Business. Robin is a Chartered Accountant (Singapore) and an Accredited Tax Advisor (Income Tax). Robin has contributed to external journals such as the Cahiers for the International Fiscal Association.
+
+**Webinar Exclusive!! 15% discount for purchase of book!** Attendees will be entitled to purchase one copy of the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP. This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
 Prices shown are inclusive of GST:
 
 **Hardcover:**
