@@ -63,7 +63,7 @@ Agenda:
 
 **Mr. Robin Ng** is currently the Director of the Policy Branch of the International Tax Policy and Relation Division in the Inland Revenue Authority of Singapore. Robin oversees matters relating to DTAs, policies concerning exchange of information on request, international tax cooperation and administrative assistance as well as international tax relations matters. Robin holds a Bachelor of Accountancy with Honours from the Nanyang Technological University and a Master of Laws in International Tax Laws with Honours from Vienna University of Economics and Business. Robin is a Chartered Accountant (Singapore) and an Accredited Tax Advisor (Income Tax). Robin has contributed to external journals such as the Cahiers for the International Fiscal Association.
 
-**Webinar Exclusive!! 15% discount for purchase of book!** Attendees will be entitled to purchase one copy of the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP. This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
+**Webinar Exclusive!! 15% discount for purchase of book!** Attendees will be entitled to purchase the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP. This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
 Prices shown are inclusive of GST:
 
 **Hardcover:**
