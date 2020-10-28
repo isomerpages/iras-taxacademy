@@ -17,13 +17,37 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 17 to 25 Nov: [TEI US Tax Conference (Virtual)](/seminars-and-conferences/upcoming/#TEI-ta-id)
 * 26 Nov: [A Peek into the “Taxing Book” - The Law and Practice of Singapore Income Tax 3rd Edition Primers Series: Exchange of Information and International Tax Agreements](/seminars-and-conferences/upcoming/#EOI-ta-id)
+* 27 Nov: [Tax Academy Budget Clinic Webinar Series – Tax Implications on Employees’ Tax Reporting in the Face of COVID-19](/seminars-and-conferences/upcoming/#BC27Nov-ta-id)
 
 
 ##### **October 2020**
 
 * 9 Oct: [FasTax Webinar Series: Singapore Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#FT9Oct-ta-id)
 * 16 Oct: [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#FT16Oct-ta-id)
-* 23 Oct: [TaxEdge Webinar Series: Insights into Valuation of Plant and Machinery](/seminars-and-conferences/upcoming/#TE23Oct-ta-id)
+* 23 Oct: [TaxEdge Webinar Series: Insights into Valuation of Plant and Machinery](/seminars-and-conferences/upcoming/#TE23Nov-ta-id)
+
+
+<a id="BC27Nov-ta-id"></a>
+##### **Budget Clinic Webinar Series – Tax Implications on Employees’ Tax Reporting in the Face of COVID-19**
+**27 Nov**
+
+Tax Academy is pleased to present this webinar which aims to enhance tax agents and employers’ understanding on the implications on employees’ tax reporting in the face of the coronavirus. This webinar will be presented by IRAS speakers in the form of a recorded presentation and a “live” Q&A session. The webinar will cover:
+
+* Tax implications on individuals temporary working remotely from Singapore due to COVID-19
+* Tax implications on individuals temporary working outside Singapore due to COVID-19
+* Tax residency
+* Tax treatment on employment benefits received by employees due to COVID-19
+ 
+This webinar is suitable for: Tax Agents, Business Owners, Finance and Human Resource Professionals
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 27 Nov 20 (Fri)
+* Time: 3.00 p.m. to 4.30 p.m.
+* Fees: $32.10 (incl. GST)
+* Closing date for registration: 20 Nov
+* [Registration Form](https://forms.gle/kA9CaHLzT1ir3YuX6)
 
 
 <a id="EOI-ta-id"></a>
