@@ -14,7 +14,7 @@ collection_name: executive-tax-programmes
 * Oct 2020 intake: [Registration is open](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
-* Nov 2020 intake: [Registration is open](/executive-tax-programmes/international-tax/#wu-ta-id)
+* Nov 2020 intake: [Registration is closed](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
 * Jan 2021 intake: [Registration is open](/executive-tax-programmes/international-tax/#leiden-ta-id)
@@ -59,7 +59,7 @@ Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12 Nov 2020 (Ea
 
 [Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/WU Programme.pdf){:target="_blank"}
 
-**Registration is OPEN for 2020 intake and will close on 12 Oct, Monday.**
+**Registration is CLOSED for 2020 intake.**
 
 <a id="leiden-ta-id"></a>
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
