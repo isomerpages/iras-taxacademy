@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: SkillsFuture Credit
+title: 'SkillsFuture Credit'
 permalink: /tomorrow-tax-professional/skillsfuture-credit/
-breadcrumb: SkillsFuture Credit
-collection_name: tomorrow-tax-professional
+breadcrumb: 'SkillsFuture Credit'
+
 ---
+
 
 ### **SkillsFuture Credit**
 
