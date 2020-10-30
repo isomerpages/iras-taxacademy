@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Message from Tax Academy Chief Executive Officer
+title: 'Message from Tax Academy Chief Executive Officer'
 permalink: /who-we-are/message-from-tax-academy-ceo/
-breadcrumb: Message from Tax Academy Chief Executive Officer
-collection_name: who-we-are
+breadcrumb: 'Message from Tax Academy Chief Executive Officer'
+
 ---
+
 
 ### **Mrs Eng-Tay Geok Lee**<br>
 **Chief Executive Officer**
