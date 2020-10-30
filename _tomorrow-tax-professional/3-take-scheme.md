@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: TAKE Scheme
+title: 'TAKE Scheme'
 permalink: /tomorrow-tax-professional/take-scheme/
-breadcrumb: TAKE Scheme
-collection_name: tomorrow-tax-professional
+breadcrumb: 'TAKE Scheme'
+
 ---
+
 
 ### **Tax Appreciation and Knowledge Enhancement Scheme (TAKE)**
 
