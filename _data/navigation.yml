@@ -1,75 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: Who We Are
-  url: /who-we-are/overview/
-  sub-links:
-  - title: Overview
-    url: /who-we-are/overview/
-  - title: Board of Directors
-    url: /who-we-are/board-of-directors/
-  - title: Curriculum and Exam Development Committee
-    url: /who-we-are/curriculum-and-exam-development-committee/
-  - title: Message from Tax Academy Board Chairperson
-    url: /who-we-are/message-from-tax-academy-board-chairperson/
-  - title: Message from Tax Academy CEO
-    url: /who-we-are/message-from-tax-academy-ceo/
-  - title: Partners
-    url: /who-we-are/partners/
-  - title: Trainers
-    url: /who-we-are/trainers/
-- title: Structured Training
-  url: /executive-tax-programmes/tax-training-roadmap/
-  sub-links:
-  - title: Tax Training Roadmap
-    url: /executive-tax-programmes/tax-training-roadmap/
-  - title: Programme Calendar
-    url: /executive-tax-programmes/programme-calendar/
-  - title: Income Tax
-    url: /executive-tax-programmes/income-tax/
-  - title: Goods and Services Tax
-    url: /executive-tax-programmes/goods-and-services-tax/
-  - title: International Tax
-    url: /executive-tax-programmes/international-tax/
-  - title: Customised Programmes
-    url: /executive-tax-programmes/customised-programmes/
-  - title: Terms and Conditions
-    url: /executive-tax-programmes/terms-and-conditions/
-- title: Seminars/Conferences
-  url: /seminars-and-conferences/upcoming/
-  sub-links:
-  - title: Upcoming
-    url: /seminars-and-conferences/upcoming/
-- title: Awards And Schemes
-  url: /tomorrow-tax-professional/overview/
-  sub-links:
-  - title: Overview
-    url: /tomorrow-tax-professional/overview/
-  - title: Book Prizes
-    url: /tomorrow-tax-professional/book-prizes/
-  - title: TAKE Scheme
-    url: /tomorrow-tax-professional/take-scheme/
-  - title: SkillsFuture Credit
-    url: /tomorrow-tax-professional/skillsfuture-credit/
-  - title: SkillsFuture Study Awards
-    url: /tomorrow-tax-professional/skillsfuture-study-awards/
-  - title: Union Training Assistance Programme
-    url: /tomorrow-tax-professional/Union-Training-Assistance-Programme/
-  - title: Going Places in Tax
-    url: /tomorrow-tax-professional/going-places-in-tax/
-- title: Research
-  url: /research/overview
-  sub-links:
-  - title: Overview
-    url: /research/overview
-  - title: Research Papers
-    url: /research/research-papers
-  - title: Call for Papers
-    url: /research/call-for-papers
-  - title: Events
-    url: /research/events
-- title: Contact Us
-  url: /contact-us/
+logo: /images/tax-academy-logo.png
+links:
+    - title: 'Who We Are'
+      collection: who-we-are
+    - title: 'Structured Training'
+      collection: structured-training
+    - title: Seminars/Conferences
+      collection: seminarsconferences
+    - title: 'Awards And Schemes'
+      collection: awards-and-schemes
+    - title: Research
+      collection: research
+    - title: 'Contact Us'
+      url: /contact-us/
