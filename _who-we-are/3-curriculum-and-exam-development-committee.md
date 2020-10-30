@@ -7,15 +7,19 @@ collection_name: who-we-are
 ---
 
 #### **Chairman**
-**Mr Sum Yee Loong** <br>
+**Ms Sim Siew Moon** <br>
 Chairman <br>
-Professor of Accounting (Practice) <br>
-Singapore Management University
+EY Asia Pacific Tax Policy and Controversy Practice Leader and Partner  <br>
+Ernst & Young Solutions LLP
 
 #### **Members**
 **Ms Chow Wai Yee** <br>
 Assistant Commissioner <br>
 Inland Revenue Authority of Singapore
+
+**Mrs Eng Li Ming** <br>
+Tax Advisor <br>
+LM APPS
 
 **Mr Eugene Gay** <br>
 Head of Tax, Asia Pacific <br>
@@ -25,10 +29,8 @@ Marsh & McLennan Companies
 Partner <br>
 KPMG Singapore
 
-**Associate Professor Poh Eng Hin** <br>
-Assistant Dean <br>
-Nanyang Technological University
+**Associate Professor Stephen Phua** <br>
+Associate Professor <br>
+National University of Singapore
 
-**Ms Sim Siew Moon** <br>
-Partner <br>
-Ernst & Young Solutions LLP
+
