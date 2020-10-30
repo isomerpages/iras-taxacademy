@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: SkillsFuture Study Awards
+title: 'SkillsFuture Study Awards'
 permalink: /tomorrow-tax-professional/skillsfuture-study-awards/
-breadcrumb: SkillsFuture Study Awards
-collection_name: tomorrow-tax-professional
+breadcrumb: 'SkillsFuture Study Awards'
+
 ---
+
 
 ### **SkillsFuture Study Awards**
 
