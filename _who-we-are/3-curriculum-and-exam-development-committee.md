@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Curriculum and Examination Development Committee
+title: 'Curriculum and Examination Development Committee'
 permalink: /who-we-are/curriculum-and-exam-development-committee/
-breadcrumb: Curriculum and Examination Development Committee
-collection_name: who-we-are
+breadcrumb: 'Curriculum and Examination Development Committee'
+
 ---
+
 
 #### **Chairman**
 **Ms Sim Siew Moon** <br>

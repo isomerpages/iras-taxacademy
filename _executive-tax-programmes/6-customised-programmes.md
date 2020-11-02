@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Customised Programmes
+title: 'Customised Programmes'
 permalink: /executive-tax-programmes/customised-programmes/
-breadcrumb: Customised Programmes
-collection_name: executive-tax-programmes
+breadcrumb: 'Customised Programmes'
+
 ---
+
 
 Tax Academy leverages on its strong network of partners (e.g. IRAS, Big 4 accounting firms, ISCA and Law Society) to provide customised training programmes to suit your organisation’s training needs.
 

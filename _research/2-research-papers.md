@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Research Papers
+title: 'Research Papers'
 permalink: /research/research-papers/
-breadcrumb: Research Papers
-collection_name: research
+breadcrumb: 'Research Papers'
+
 ---
+
 
 **Taxpayers’ Right of Defence in the International Context: the Case of Exchange of Tax Information and a Proposal for the “English” Wednesbury Doctrine as the New OECD (BEPS) Standard**
 

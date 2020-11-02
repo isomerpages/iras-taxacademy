@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: International Tax
+title: 'International Tax'
 permalink: /executive-tax-programmes/international-tax/
-breadcrumb: International Tax
-collection_name: executive-tax-programmes
+breadcrumb: 'International Tax'
+
 ---
+
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (International Tax)**

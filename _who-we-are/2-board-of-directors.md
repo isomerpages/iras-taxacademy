@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Board of Directors
+title: 'Board of Directors'
 permalink: /who-we-are/board-of-directors/
-breadcrumb: Board of Directors
-collection_name: who-we-are
+breadcrumb: 'Board of Directors'
+
 ---
+
 
 #### **Chairman**
 

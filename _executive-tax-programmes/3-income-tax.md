@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Income Tax
+title: 'Income Tax'
 permalink: /executive-tax-programmes/income-tax/
-breadcrumb: Income Tax
-collection_name: executive-tax-programmes
+breadcrumb: 'Income Tax'
+
 ---
+
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**

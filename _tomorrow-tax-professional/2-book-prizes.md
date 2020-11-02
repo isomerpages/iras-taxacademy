@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Book Prizes
+title: 'Book Prizes'
 permalink: /tomorrow-tax-professional/book-prizes/
-breadcrumb: Book Prizes
-collection_name: tomorrow-tax-professional
+breadcrumb: 'Book Prizes'
+
 ---
+
 
 Tax Academy of Singapore sponsors book prizes to students taking the taxation modules in the local universities and polytechnics. 
 

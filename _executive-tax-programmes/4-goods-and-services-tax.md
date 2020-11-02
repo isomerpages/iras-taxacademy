@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Goods and Services Tax
+title: 'Goods and Services Tax'
 permalink: /executive-tax-programmes/goods-and-services-tax/
-breadcrumb: Goods and Services Tax
-collection_name: executive-tax-programmes
+breadcrumb: 'Goods and Services Tax'
+
 ---
+
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (GST)**
 * Feb 2021 intake: [Stay tuned for more information in January 2021](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)

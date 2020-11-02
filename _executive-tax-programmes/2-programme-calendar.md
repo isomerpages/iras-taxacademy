@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Programme Calendar
+title: 'Programme Calendar'
 permalink: /executive-tax-programmes/programme-calendar/
-breadcrumb: Programme Calendar
-collection_name: executive-tax-programmes
+breadcrumb: 'Programme Calendar'
+
 ---
+
 
 ### **STRUCTURED TAX PROGRAMME CALENDAR**
 

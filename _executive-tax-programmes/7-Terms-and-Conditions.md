@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Terms and Conditions
+title: 'Terms and Conditions'
 permalink: /executive-tax-programmes/Terms-and-Conditions/
-breadcrumb: Terms and Conditions
-collection_name: executive-tax-programmes
+breadcrumb: 'Terms and Conditions'
+
 ---
+
 
 **1. Registration**
 

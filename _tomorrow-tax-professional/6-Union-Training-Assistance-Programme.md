@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Union Training Assistance Programme
+title: 'Union Training Assistance Programme'
 permalink: /tomorrow-tax-professional/Union-Training-Assistance-Programme/
-breadcrumb: Union Training Assistance Programme
-collection_name: tomorrow-tax-professional
+breadcrumb: 'Union Training Assistance Programme'
+
 ---
+
 
 ### **Union Training Assistance Programme for NTUC Members**
 
