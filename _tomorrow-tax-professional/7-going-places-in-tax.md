@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Going Places in Tax
+title: 'Going Places in Tax'
 permalink: /tomorrow-tax-professional/going-places-in-tax/
-breadcrumb: Going Places in Tax
-collection_name: tomorrow-tax-professional
+breadcrumb: 'Going Places in Tax'
+
 ---
+
 
 **Going Places in Tax**<br>
 CPA Australia and Tax Academy of Singapore are proud to present you a series of video interviews showcasing tax professionals who represent a spectrum of career stages and in various public and private sectors of the tax community. Get the inside track of the tax profession and the career opportunities.

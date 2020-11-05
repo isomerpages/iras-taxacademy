@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Tax Training Roadmap
+title: 'Tax Training Roadmap'
 permalink: /executive-tax-programmes/tax-training-roadmap/
-breadcrumb: Tax Training Roadmap
-collection_name: executive-tax-programmes
+breadcrumb: 'Tax Training Roadmap'
+
 ---
+
 
 Tax Academy offers a structured Tax Training Roadmap for tax professionals to attain a high level of competency in local and international tax. We collaborate with leaders in the industry, academia and the government to develop and deliver structured tax training programmes that effectively raise the professional competency, knowledge and capabilities of the tax community.
 

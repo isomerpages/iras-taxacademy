@@ -1,17 +1,17 @@
 ---
-layout: leftnav-page-content
-title: International Tax
+title: 'International Tax'
 permalink: /executive-tax-programmes/international-tax/
-breadcrumb: International Tax
-collection_name: executive-tax-programmes
+breadcrumb: 'International Tax'
+
 ---
+
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (International Tax)**
-* Nov 2020 intake: [Stay tuned for more information in Nov 2020](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
+* Feb 2021 intake: [Stay tuned for more information in Feb 2021](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **Executive Tax Programme Level II (International Tax)**
-* Oct 2020 intake: [Registration is open](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
+* Oct 2020 intake: [Registration is closed](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
 * Nov 2020 intake: [Registration is closed](/executive-tax-programmes/international-tax/#wu-ta-id)
@@ -31,7 +31,7 @@ This course will enable participants to acquire basic knowledge in tax treaties 
 [Registration Form](https://docs.google.com/forms/d/1jPci3DZbIt5I5lB3cv1Q-euqIkfYF7zzeI_1IhoHSoE/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/BrochureITPL112020.pdf){:target="_blank"}
 
 **Registration is CLOSED for intake 1/2020**
-The next intake for this course will be in Nov 2020. Registration will open six weeks before the course commencement date.
+The next intake for this course will be in Feb 2021. Registration will open six weeks before the course commencement date.
 
 <a id="etp2IT-ta-id"></a>
 ### **Executive Tax Programme Level II (International Tax)**
@@ -40,7 +40,7 @@ This course provides in-depth knowledge in international tax principles and conc
 
 [Registration Form](https://docs.google.com/forms/d/11iWSk4aI3G_OOnH4mNuprJ4PKIYNpLu8z1gB3T6n2Ro/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureITPL212020.pdf){:target="_blank"}
 
-**Registration is OPEN for Intake 1/2020**
+**Registration is CLOSED for Intake 1/2020**
 
 The next intake for the course will be held in Oct 2021. Registration will open six weeks before the course commencement date.
 

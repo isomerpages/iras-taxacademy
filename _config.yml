@@ -1,74 +1,48 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Tax Academy Singapore
-title-abbreviated: Tax Academy Singapore
-email: admin@isomer.gov.sg
-description: >- # this means to ignore newlines until "baseurl:"
-  Tax Academy of Singapore is a not-for-profit institution set up by the Inland Revenue Authority of Singapore in collaboration with the international accounting firms - Deloitte & Touche, Ernst & Young, KPMG and PricewaterhouseCoopers, the Institute of Singapore Chartered Accountants and the Law Society of Singapore
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.taxacademy.sg" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'Tax Academy Singapore'
+description: 'Tax Academy of Singapore is a not-for-profit institution set up by the Inland Revenue Authority of Singapore in collaboration with the international accounting firms - Deloitte & Touche, Ernst & Young, KPMG and PricewaterhouseCoopers, the Institute of Singapore Chartered Accountants and the Law Society of Singapore'
+url: 'https://www.taxacademy.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-remote-theme
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 collections:
-  seminars-and-conferences:
-    output: true
-  executive-tax-programmes:
-    output: true
-  who-we-are:
-    output: true
-  tomorrow-tax-professional:
-    output: true
-  research:
-    output: true
-
-# Resource Room and Pagination
-resources_name: "resources"
+    seminars-and-conferences:
+        output: true
+    executive-tax-programmes:
+        output: true
+    who-we-are:
+        output: true
+    tomorrow-tax-professional:
+        output: true
+    research:
+        output: true
+resources_name: resources
 paginate: 12
-paginate_path: "/resources/page:num"
-
-# Site configuration
-####################
-homepage_hero_i_want_to: false
-homepage_resources: false
-
-# Feedback Form URL
-feedback_form_url: "https://form.gov.sg/5d2c51283703d80011e52615"
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+paginate_path: '/resources/page:num'
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
+favicon: /images/favicon.ico
+google-analytics: null
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
