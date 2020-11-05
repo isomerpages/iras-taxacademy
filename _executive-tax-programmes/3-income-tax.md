@@ -9,7 +9,7 @@ breadcrumb: 'Income Tax'
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
-* Nov 2020 intake: [More information](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* Jan 2021 intake: [Stay tuned for Jan 2021 Intake](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
@@ -33,7 +33,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 [Registration Form](https://docs.google.com/forms/d/1xy3Uz6P3_4fEUDnVWRv1l2ZbENct2ZzMMfSWZVvuK0U/edit){:target="_blank"} -  [Details](/files/executive-tax-programmes/income-tax/BrochureLevel2IncomeTax32020.pdf){:target="_blank"} 
 
-Registration is OPEN for Intake 3/2020.  
+Registration is CLOSED for Intake 3/2020.  
 
 The next intake for this course will be in Jan 2021. Registration will be available six weeks prior to the course commencement date.
 
