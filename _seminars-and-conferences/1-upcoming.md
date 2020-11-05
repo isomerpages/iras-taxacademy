@@ -13,18 +13,98 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+##### **December 2020**
+
+* 9 Dec: [TaxEdge Webinar Series: Stopping the Carousel (Fraud)…](/seminars-and-conferences/upcoming/#TE9Dec-ta-id)
+* 11 Dec: [A Peek into the “Taxing Book” - The Law and Practice of Singapore Income Tax 3rd Edition Primers Series: Tax Planning and Avoidance](/seminars-and-conferences/upcoming/#TPA-ta-id)
+
+
 ##### **November 2020**
 
 * 17 to 25 Nov: [TEI US Tax Conference (Virtual)](/seminars-and-conferences/upcoming/#TEI-ta-id)
 * 26 Nov: [A Peek into the “Taxing Book” - The Law and Practice of Singapore Income Tax 3rd Edition Primers Series: Exchange of Information and International Tax Agreements](/seminars-and-conferences/upcoming/#EOI-ta-id)
-* 27 Nov: [Tax Academy Budget Clinic Webinar Series – Tax Implications on Employees’ Tax Reporting in the Face of COVID-19](/seminars-and-conferences/upcoming/#BC27Nov-ta-id)
+* 27 Nov: [Budget Clinic Webinar Series – Tax Implications on Employees’ Tax Reporting in the Face of COVID-19](/seminars-and-conferences/upcoming/#BC27Nov-ta-id)
 
 
-##### **October 2020**
+<a id="TPA-ta-id"></a>
+##### **A Peek into the “Taxing Book” - The Law and Practice of Singapore Income Tax 3rd Edition Primers Series: Tax Planning and Avoidance**
+**11 Dec**
 
-* 9 Oct: [FasTax Webinar Series: Singapore Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#FT9Oct-ta-id)
-* 16 Oct: [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#FT16Oct-ta-id)
-* 23 Oct: [TaxEdge Webinar Series: Insights into Valuation of Plant and Machinery](/seminars-and-conferences/upcoming/#TE23Nov-ta-id)
+ollowing the success of the first and second editions, the Tax Academy of Singapore is proud to announce the upcoming launch of the 3rd edition of The Law & Practice of Singapore Income Tax. An authoritative and comprehensive reference book on taxation of income, this edition aims to explain the fundamental changes to the tax landscape and updates on the Second Edition with a comprehensive coverage and analysis of case law developments, administrative guides and practical application of the income tax law, tax treaties and international tax agreements. In conjunction with the launch of the book, we are pleased to present a series of webinars where the authors will give an overview of what is covered in their respective chapters and expound on some of the topics. In addition, webinar participants will be entitled to a special 15% discount off the price of the book!
+
+In this second webinar of the series, we are pleased to invite Ms Ong Ken Loon (Drew & Napier LLC, Head, Tax & Private Client Services) and Mr Charles Li (Drew & Napier LLC, Associate Director, Tax & Private Client Services), to share on the chapter on “Tax Planning and Avoidance”.  While both tax planning and tax avoidance are legal, employing inappropriate practices of tax avoidance in some cases may border on tax evasion.  On the other hand, tax planning is a process of elaborating the company’s financial related matters to maximise the tax benefits under eligible provisions of the tax framework. In this webinar, we will discuss the framework for tax planning and the application of the general anti-avoidance provision under section 33 of the Income Tax Act.
+
+Agenda:
+
+* This webinar will be conducted via Zoom
+* An overview on the framework for tax planning
+* Application of Section 33
+* Interaction with tax offences
+* Thoughts on recent developments in GAAR and Singapore’s effort to strengthen its anti-avoidance principles
+* Discussion and Q&A session
+
+**Admin details:**
+
+* This webinar will be conducted via Zoom
+* Date: 11 Dec 20
+* Time: 3 p.m. to 5 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 3 Dec 20
+* [Registration Form](https://forms.gle/Gn2SZm4w3n5eqHuG8)
+
+**About the Speakers**
+
+**Ms Ong Ken Loon** is the Head, Tax & Private Client Services of Drew & Napier LLC. Ken Loon advises on tax aspects of corporate transactions, such as income tax, GST, stamp duty, and property tax. She assists clients with negotiations with the IRAS and represents clients before the tax tribunals and courts. She advises local and multinational corporate groups, financial institutions, and investment funds on a broad range of transactions. Ken Loon also works with private clients on solutions to complex tax, succession and private wealth issues. She was formerly a Principal Legal Officer in the IRAS. She is recommended as one of Singapore’s leading tax lawyers by  Chambers & Partners and The Asia Pacific Legal 500.
+
+**Mr Charles Li** is the Associate Director, Tax & Private Client Services of Drew & Napier LLC. Charles is a dual-qualified lawyer and accountant. He has experience in both the private and public sectors, having worked in a law firm, an accounting firm and the tax authority. He was formerly a senior legal specialist and tax prosecutor with the IRAS. Charles is familiar with the different types of taxes and duties, and has experience with exchange of information, international tax and transfer pricing issues. He represents clients before the tax tribunals and the courts, and also assists clients with their applications for advance rulings, adjudications, reliefs, remissions, and family office tax incentives.
+
+**Webinar Exclusive!! 15% discount for purchase of book!** Attendees will be entitled to purchase the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP. This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
+Prices shown are inclusive of GST:
+
+**Hardcover:**
+* $345.61 (Discounted Price)
+* $406.60 (Recommended retail price)
+
+**eBook:**
+* $272.85 (Discounted Price)
+* $321.00 (Recommended retail price)
+* Find out more about [what is an eBook](/seminars-brochures/What is an eBook.pdf)
+
+
+<a id="TE9Dec-ta-id"></a>
+##### **TaxEdge Webinar Series: Stopping the Carousel (Fraud)…**
+**9 Dec**
+
+The lnland Revenue Authority of Singapore (IRAS) has made Missing Trader Fraud (MTF) also known as Carousel Fraud, a top priority of focus in its audit and investigation efforts. There are newspaper headlines of people under investigation for suspected involvement and the IRAS having new powers to arrest and seize goods. This was recently confirmed by the Second Finance Minister Mr Lawrence Wong in a Parliamentary response, that there are more than 300 GST-registered businesses under investigation as at end-2019, with a total tax amount of $450 million at stake.
+
+It is not surprising that MTF arrangements are the subject of new legislative provisions introduced in the recent Goods and Services Tax (Amendment) Act 2020. The new provisions allow the IRAS to deny a taxable person’s input tax claims in circumstances where the business “knew or should have known” that its transactions were part of a fraudulent MTF arrangement. If the business “knew” that it was involved in a MTF arrangement, it could be found guilty of an offence. If the business “should have known” that it was involved in a MTF arrangement, a 10% surcharge to the input tax denied may be imposed on the business.
+
+All GST-registered businesses will be affected to some extent. To help you understand the wide implications of the new GST provisions and the IRAS’ expectations of businesses under the new rules, please join us in our webinar where we have Mr Koh Soo How from Koh SH & Associates Pte Ltd, and Mr Yang Shi Yong and Mr Charles Li from Drew & Napier LLC, to explain the legal and practical aspects of the new rules and what it means to you.
+
+Agenda:
+
+* What is Missing Trader Fraud (MTF)
+* The new Goods and Services Tax (Amendment) Act 2020
+* Examples of MFT arrangements
+* Circumstances that can give rise to a denial of input tax claims 
+* What do you have to do to protect yourself
+
+**Admin details:**
+
+* This webinar will be conducted via Zoom
+* Date: 9 Dec 20
+* Time: 3 p.m. to 5 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 1 Dec 20
+* [Registration Form](https://forms.gle/Q2ves7mHToWpZac28)
+
+**About the Speakers**
+
+**Mr Koh Soo How** is the Executive Director of Koh SH & Associates Pte Ltd. With over 25 years of experience in GST, Soo How has been named as one of the world’s leading indirect tax advisers by International Tax Review since 2011. The highlights of his career and experience include being the partner lead of a Big 4 regional indirect tax network, member of the GST Board of Review from 2013 to 2019, and a core member of the IRAS team which implemented the GST system in 1994. Soo How is also the Chief Editor of LexisNexis’ “Goods and Services Tax – Law & Practice (2nd Edition)” and teaches at the Tax Academy and SUSS. He is also on SCTP’s GST Committee which engages the IRAS on technical and policy matters. Soo How now runs his own indirect tax advisory practice providing practical and sustainable advisory services
+
+**Mr Yang Shi Yong** is the Director, Tax & Private Client Services of Drew & Napier LLC. Shi Yong advises on a wide spectrum of tax law with specialisation in enterprise tax risk management, tax audit and tax investigation matters. He has successfully resolved a large number of audit and investigation matters without prosecution. Shi Yong’s other key strength lies in oil and gas matters. He regularly advises national oil and gas companies on downstream, refinery infrastructure and assets, storage, production sharing, off-take and supply, corporate governance, and day-to-day commercial and operational matters.
+
+**Mr Charles Li** is the Associate Director, Tax & Private Client Services of Drew & Napier LLC. Charles is a dual-qualified lawyer and accountant. He has experience in both the private and public sectors, having worked in a law firm, an accounting firm and the tax authority. He was formerly a senior legal specialist and tax prosecutor with the IRAS. Charles is familiar with the different types of taxes and duties, and has experience with exchange of information, international tax and transfer pricing issues. He represents clients before the tax tribunals and the courts, and also assists clients with their applications for advance rulings, adjudications, reliefs, remissions, and family office tax incentives.   
 
 
 <a id="BC27Nov-ta-id"></a>
@@ -123,105 +203,6 @@ Who should attend: Business owners/leaders, tax practitioners, including tax, fi
 * [Registration Form](https://bit.ly/2FB8SuQ)
 
 For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
-
-
-<a id="TE23Oct-ta-id"></a>
-##### **TaxEdge Webinar Series: Insights into Valuation of Plant and Machinery**
-**23 Oct**
-
-You may be confronted with questions of fair valuation of the fixed assets and the market value of the plant and machinery in the course of tax work. You may have to deal with questions of arm’s length price for the transfer of plant and machinery between related parties.  You may want to gather some insights into how a valuation of plant and machinery is performed by the professional valuer, and the complexity involved especially for specialised plant and complex machinery.
-
-Whether you are a business owner, tax professional, account and finance professionals or an aspiring valuer, join us in this webinar, where our speaker, **Mr Milton Tan (Managing Director, Twin Pillars Holdings Pte Ltd)** will share with you fundamentals of plant and machinery valuation and his experiences garnered from many years of valuing plant and machinery.
-
-The agenda will cover:
-
-* Definition of P&M
-* Purposes in valuation
-* Historical cost and market value
-* Brief introduction to valuation Methodology
-* Brief introduction to valuation processes
-* Insights on challenges
-
-Who should attend: Tax professionals, Finance and accounting professionals, and Business owners, Legal professionals, Aspiring valuers, Government officials.
-
-**Admin details:**
-
-* The webinar will be conducted via Zoom
-* Date: 23 Oct 20 (Fri)
-* Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 15 Oct 20
-* [Registration Form](https://forms.gle/CeAzozBmxxEeaKmC9)
-
-**About the Speaker**
-
-Mr Milton Tan
-
-Founder and Managing Director
-
-Twin Pillars Holdings Pte Ltd
-
-Valuation & Advisory Services, Asia
-
-
-Mr Milton Tan is the Founder and Managing Director of Twin Pillars Holdings Pte Ltd.  Milton has more than 20 years of experience as an appraiser and auctioneer, where he has helped companies to redeploy their assets across the region.  He has also worked on cross-border valuations with clients ranging from MNCs to government agencies.  With his extensive knowledge and experience, he has valued various capital assets in a myriad of industries across Asia Pacific including the Indochina region.  Milton has conducted seminars and lectures on Plant and Machinery Valuation for local universities and professional bodies across Asia.  He is also a member and registered valuer of Royal Institute of Chartered Surveyors (RICS).  He has served as Chairman of RICS ASEAN Valuation Professional Group, Chairman of RICS Plant & Machinery Valuation Professional Group, and committee member of RICS Singapore Valuation Professional Group.
-
-
-For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
-
-
-<a id="FT16Oct-ta-id"></a>
-##### **FasTax Webinar Series: Fundamentals of Corporate Tax Filing**
-**16 Oct**
-
-As a company director, do you know whether your tax agent/staff are filing corporate tax correctly and what are the proper documentations to maintain? As a tax agent/practitioner, do you know what are the common pitfalls to avoid when filing corporate tax for your clients?
-
-Join us in this webinar as our speakers from IRAS’ Corporate Tax and Enforcement Divisions equip you with knowledge in the following areas:
-
-* Fundamentals of Singapore corporate taxation
-* Practical guidance and tips for preparing tax computation
-* Responsibilities of the company director
-
-Who should attend: Company directors, tax agents/practitioners, finance and accounting professionals
-
-**Admin details:**
-
-* The webinar will be conducted via Zoom
-* Date: 16 Oct 20 (Fri)
-* Time: 2.30 p.m. to 4.30 p.m.
-* Fees: $85.60 (incl. GST)
-* Closing date for registration: 8 Oct 20
-* [Registration Form](https://forms.gle/fnrCFgSNbjc2sG7f7)
-
-For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
-
-
-<a id="FT9Oct-ta-id"></a>
-##### **FasTax Webinar Series: Singapore Transfer Pricing Essentials**
-**9 Oct**
-
-Businesses are required to prepare transfer pricing documentations.  Having a proper set of transfer pricing documentation is essential for businesses to substantiate that the pricing of their transactions with their related parties are arm’s length and for IRAS to help businesses to resolve transfer pricing disputes with foreign tax authorities if the need arises.  Join us in this webinar, as tax specialists from the IRAS provide you with an overview of the Singapore Transfer Pricing regime and its guidelines.  They will also share on how you should prepare proper transfer pricing documentation and advise you on the mistakes to avoid. There will be a Q&A segment at the end of the session.
-
-Agenda:
-
-* Singapore Transfer Pricing Regime
-* Transfer Pricing Documentation and mistakes to avoid
-* Transfer pricing disputes – prevention and resolution
-* Q&A
-
-Who should attend: Business owners/leaders, tax practitioners, including tax, finance, accounting and legal professionals
-
-**Admin details:**
-
-* The webinar will be conducted via Zoom
-* Date: 9 Oct 20 (Fri)
-* Time: 2.30 p.m. to 4.30 p.m.
-* Fees: $85.60 (incl. GST)
-* Closing date for registration: 2 Oct 20
-* [Registration Form](https://forms.gle/zQaUsHkjebwJ5H9s7)
-
-For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
-
 
 
 
