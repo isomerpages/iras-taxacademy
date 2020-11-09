@@ -36,7 +36,6 @@ In this second webinar of the series, we are pleased to invite Ms Ong Ken Loon (
 
 Agenda:
 
-* This webinar will be conducted via Zoom
 * An overview on the framework for tax planning
 * Application of Section 33
 * Interaction with tax offences
