@@ -23,7 +23,7 @@ sections:
     - infopic:
           title: null
           subtitle: 'The Law & Practice of Singapore Income Tax, Third Edition'
-          description: 'Now Open for Pre-order!'
+          description: 'Now Open for order!'
           url: /independent-pages/the-law-and-practice-of-singapore-income-tax/
           image: /images/Tax-Book-Banner1.jpg
           alt: 'alt text'
