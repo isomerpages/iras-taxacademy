@@ -48,7 +48,7 @@ Registration may be for the full course or for specific modules. For the full co
 
 Registration is CLOSED for Intake 2020/21.
 
-Registration for individual modules will close 1 month before the commencement of the module.
+Registration for individual modules is CLOSED for Intake 2020/21.
 
 The next intake for this course will be in Nov 2021.
 
