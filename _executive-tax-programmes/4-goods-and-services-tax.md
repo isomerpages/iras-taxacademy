@@ -18,7 +18,7 @@ breadcrumb: 'Goods and Services Tax'
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
-[Registration Form](https://forms.gle/8WpB2zuAjpkktGne9){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 2-2020.pdf"}}){:target="_blank"}
+[Registration Form](https://forms.gle/8WpB2zuAjpkktGne9){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 3-2020.pdf"}}){:target="_blank"}
 
 Registration is OPEN for intake 3/2020 (Feb 2021 intake).
 
@@ -29,7 +29,7 @@ The next intake for this course will be in May 2021. Registration will be availa
 
 This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services.
 
-[Registration Form](https://forms.gle/LoMbyMjhTKMTT2fY9){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L2 GST 1-2020.pdf"}}){:target="_blank"}
+[Registration Form](https://forms.gle/LoMbyMjhTKMTT2fY9){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L2 GST 2-2020.pdf"}}){:target="_blank"}
 
 Registration is OPEN for intake 2/2020 (Feb 2021 intake).
 
