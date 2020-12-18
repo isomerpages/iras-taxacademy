@@ -9,14 +9,13 @@ breadcrumb: 'Board of Directors'
 #### **Chairman**
 
 **Mr Tham Sai Choy** <br>
-Chairman <br>
-Singapore Institute of Directors
+Chartered Accountant <br>
 
-Mr Tham is a chartered accountant by profession.  He is a board member of DBS Group Holdings and Keppel Corporation, and serves on several statutory boards including the Housing & Development Board and the Accounting and Corporate Regulatory Authority.  He was for many years in public practice at KPMG, where he was its managing partner and then its Asia Pacific regional chairman when he retired.  
+Mr Tham is a chartered accountant by profession. He is a board member of DBS Group Holdings, Keppel Corporation, Mount Alvernia Hospital and the Accounting and Corporate Regulatory Authority. He was for many years in public practice at KPMG, where he was its managing partner and then its Asia Pacific regional chairman when he retired. 
 
-He chairs the Singapore Institute of Directors.  He also serves on the governing board of Nanyang Polytechnic, and the advisory boards of SKBI Institute of Financial Economics and SMU Academy, both units of the Singapore Management University. 
+He is the Chairman at EM Services Pte Ltd and serves on the governing board of Nanyang Polytechnic, and the advisory boards of SKB Institute of Financial Economics and SMU Academy, both units of the Singapore Management University. 
 
-Mr Tham is a Fellow of the Institute of Singapore Chartered Accountants, the Institute of Chartered Accountants in England and Wales, and the Singapore Institute of Directors.  
+Mr Tham is a Fellow of the Institute of Singapore Chartered Accountants, the Institute of Chartered Accountants in England and Wales, and the Singapore Institute of Directors.
 
 #### **Members**
 
@@ -34,6 +33,7 @@ Deloitte Singapore & Southeast Asia <br>
 Mr Low Hwee Chua, Deloitte Singapore, is a tax partner with more than 25 years of experience including two years with the Inland Revenue Authority of Singapore. He is the regional managing partner for the tax practice in Deloitte Singapore and Deloitte Southeast Asia. Hwee Chua specialises in corporate income tax and international tax; assisting local and multinational companies to manage their tax affairs efficiently and cost effectively. Hwee Chua has assisted on a variety of projects including restructuring; mergers and acquisitions; tax due diligence; structuring of inbound and outbound investments; and applications for tax incentives and grants. Hwee Chua is an accredited tax adviser (income tax) with the Singapore Institute of Accredited Tax Professionals (SIATP) and is a board member of the SIATP. <br>
 
 **Ms Soh Pui Ming** <br>
+Partner <br>
 Head of Tax <br>
 Ernst & Young Solutions LLP <br>
 
@@ -42,12 +42,15 @@ Pui Ming is the Head of Tax with Ernst & Young Singapore. She has more than 20 y
 Pui Ming was previously the EY Asean Leader for Global Compliance and Reporting, where she headed the record-to-report services in the region, which span traditional tax compliance, tax accounting, as well as book-keeping, payroll, and corporate secretarial services. She is also experienced in tax advisory matters including acquisitions, group reorganization, tax controversies and health checks etc. Pui Ming holds a Bachelor of Accountancy (Second Upper Honours) from the National University of Singapore. She is a member of the Institute of Singapore Chartered Accountants. She is also an Accredited Tax Advisor (Income Tax) of the Singapore Institute of Accredited Tax Professionals. 
 
 **Mr Chiu Wu Hong** <br>
-Head of Tax Market & Solutions <br>
+Partner <br>
+Head of IGH & Manufacturing, Tax <br>
+Head of Enterprise, Tax <br>
 KPMG Singapore <br>
 
 Wu Hong has over 20 years of Singapore and regional tax experience in the areas of tax incentive applications, cross-border transactions, merger and acquisitions, tax compliance, consulting and planning for local and multinational companies, as well as consulting for the public sector. In his role as Head of Enterprise, Wu Hong focuses on advising innovative start-ups, large local businesses and helping family businesses to grow. He has contributed articles in academic journals and leading business publications. He is also a regular speaker at seminars and has provided comments and articles on Tax and Enterprise related issues to the media. <br>
 
 **Mr Lennon Lee** <br>
+Partner <br>
 Financial Services Tax Leader <br>
 PwC Singapore <br>
 
