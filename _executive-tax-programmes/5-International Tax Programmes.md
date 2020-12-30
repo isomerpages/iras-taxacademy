@@ -17,7 +17,7 @@ breadcrumb: 'International Tax'
 * Nov 2020 intake: [Registration is closed](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
-* Jan 2021 intake: [Registration is open](/executive-tax-programmes/international-tax/#leiden-ta-id)
+* Jan 2021 intake: [Registration is closed](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
 * Aug 2021 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#itp-id)
