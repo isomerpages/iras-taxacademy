@@ -16,19 +16,16 @@ locations:
             - days: Fri
               time: '8.30am - 12:30pm, 1:30pm to 5.30pm'
               description: 'Closed on Weekends and Public Holidays'
-image-url: null
 contacts:
-    - title: 'Frequently Asked Questions'
-      content:
-            - phone: 'You might like to check out the <a href=''\seminars-brochures\FAQ.pdf''>FAQ</a> to see if your query is already answered here.'
-    - title: 'Enquiries and Feedback'
-      content:
-            - phone: '<a href=''https://form.gov.sg/5d2c51283703d80011e52615''>Enquiries and Feedback Form</a>'
-
-    - title: '<a href=''https://forms.gle/XNroaGguydKpDCyx6'' style=''text-decoration: underline;''>Join Mailing List</a>'
-      content:
-            - phone: 'By submitting your email address, you hereby agree that the Tax Academy of Singapore (TA) may collect, use and disclose your personal data that you provide in this Form for the purpose of sending you updates about the various events, programmes and related activities organised or co-organised by TA.'
-            - phone: '<br>'
+  - title: 'Frequently Asked Questions'
+    content:
+    - phone: 'You might like to check out the <a href=''\seminars-brochures\FAQ.pdf''>FAQ</a> to see if your query is already answered here.'
+  - title: 'Enquiries and Feedback'
+    content:
+    - phone: '<a href=''https://form.gov.sg/5d2c51283703d80011e52615''>Enquiries and Feedback Form</a>'
+  - title: '<a href=''https://forms.gle/XNroaGguydKpDCyx6'' style=''text-decoration: underline;''>Join Mailing List</a>'
+    content:
+    - phone: 'By submitting your email address, you hereby agree that the Tax Academy of Singapore (TA) may collect, use and disclose your personal data that you provide in this Form for the purpose of sending you updates about the various events, programmes and related activities organised or co-organised by TA.'
 
 ---
 
