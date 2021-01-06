@@ -7,10 +7,10 @@ breadcrumb: 'Goods and Services Tax'
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (GST)**
-* May 2021 intake: [Stay tuned for more information in Apr 2021](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* May 2021 intake: [Stay tuned for more information in Mar 2021](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **Executive Tax Programme Level II (GST)**
-* Aug 2021 intake: [Stay tuned for more information in Jul 2021](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* Aug 2021 intake: [Stay tuned for more information in Jun 2021](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 
 <a id="etp1gst-ta-id"></a>
