@@ -27,7 +27,7 @@ sections:
           url: /independent-pages/the-law-and-practice-of-singapore-income-tax/
           image: /images/Tax-Book-Banner1.jpg
           alt: 'alt text'
-          button: 'Find Out More'
+          button: 'Find out more about the book and how to get a discount when you order!'
 ---
 
 
