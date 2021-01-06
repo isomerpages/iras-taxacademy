@@ -24,9 +24,7 @@ contacts:
     - title: 'Enquiries and Feedback'
       content:
             - phone: '<a href=''https://form.gov.sg/5d2c51283703d80011e52615''>Enquiries and Feedback Form</a>'
-    - title: 'Invitation to Quote'
-      content:
-            - phone: 'TA invites interested suppliers to quote for the provision of laptops. Details can be found in this document <a href=''\seminars-brochures\Request for Quotation for Laptops.pdf''>Invitation to Quote</a>. Suppliers are to respond by 5 Aug 20.'
+
     - title: '<a href=''https://forms.gle/XNroaGguydKpDCyx6'' style=''text-decoration: underline;''>Join Mailing List</a>'
       content:
             - phone: 'By submitting your email address, you hereby agree that the Tax Academy of Singapore (TA) may collect, use and disclose your personal data that you provide in this Form for the purpose of sending you updates about the various events, programmes and related activities organised or co-organised by TA.'
