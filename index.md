@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: 'Tax Academy of Singapore'
+description: Tax Academy of Singapore is a not-for-profit institution set up by the Inland Revenue Authority of Singapore to raise the professional competency of the tax community.
 permalink: /
 notification: Our office is now open for walk-ins, only on <b>Mondays from 10.00 a.m. to 3.00 p.m.</b> However, our programmes are still running as scheduled, online. For the latest updates, please refer to the respective pages on this website. 
 sections:
