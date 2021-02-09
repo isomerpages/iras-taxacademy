@@ -12,11 +12,9 @@ breadcrumb: 'Programme Calendar'
 
 <table class="table-v">
   <tr>
-    <td>Income Tax - Individual 1/2019</td>
-    <td>Apr: 29, 30<br>
-    	  May: 06, 07, 08 (AM)<br>
-    	  Sep: 27 (AM)<br>
-        Exam - 03 Jun 
+    <td>Income Tax - Individual 1/2021</td>
+    <td>Apr/May 2021<br>
+    	  
     </td> 
   </tr>
   <tr>
