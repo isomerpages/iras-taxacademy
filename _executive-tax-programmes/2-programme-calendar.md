@@ -9,7 +9,6 @@ breadcrumb: 'Programme Calendar'
 ### **STRUCTURED TAX PROGRAMME CALENDAR**
 
 #### **Executive Tax Programme Level I**
-
 <table class="table-v">
   <tr>
     <td>Income Tax - Individual 1/2021</td>
@@ -81,6 +80,7 @@ breadcrumb: 'Programme Calendar'
   <tr>
    <td>WU-TA Advanced Transfer Pricing Programme</td>
     <td>Sep: 6, 7, 8, 9, 13, 14, 15, 16 </td>
+  <tr>
    <td>Advanced International Tax Planning Programme</td>
     <td>Aug 2021 </td>
   </tr>
