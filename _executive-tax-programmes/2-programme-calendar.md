@@ -24,18 +24,15 @@ breadcrumb: 'Programme Calendar'
   <tr>
     <td>Goods and Services Tax 2/2021</td>
     <td>Sep 2021<br>
-  </tr>
+  <tr>
   <td>Goods and Services Tax 3/2021</td>
     <td>Feb 2022<br>
-  </tr>
   <tr>
    <td>International Tax 1/2021</td>
     <td>May 2021<br> 
-  </tr>
   <tr>
     <td>International Tax 2/2021</td>
     <td>Feb 2022</td>
-  </tr>
  </table>
   
   
