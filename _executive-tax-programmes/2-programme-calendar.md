@@ -64,7 +64,7 @@ breadcrumb: 'Programme Calendar'
   </tr>
   <tr>
     <td>Goods and Services Tax 2/2021</td>
-    <td>Jan/Feb 2022<br> 
+    <td>Feb/Mar 2022<br> 
   </tr>
   <tr>
    <td>International Tax 1/2021</td>
@@ -78,7 +78,7 @@ breadcrumb: 'Programme Calendar'
 <table class="table-v">
   <tr>
     <td>Advanced Tax Programme Intake 16</td>
-    <td>Nov 2020 to Nov 2021 - Registration for specific modules is available.<br>
+    <td>Nov 2020 to Oct 2021 - Registration for specific modules is available.<br>
     </td> 
   </tr>
   <tr>
