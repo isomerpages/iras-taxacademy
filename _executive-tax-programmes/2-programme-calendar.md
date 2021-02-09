@@ -8,7 +8,7 @@ breadcrumb: 'Programme Calendar'
 
 ### **STRUCTURED TAX PROGRAMME CALENDAR**
 
-##### **Executive Tax Programme Level I**
+#### **Executive Tax Programme Level I**
 
 <table class="table-v">
   <tr>
@@ -45,6 +45,7 @@ breadcrumb: 'Programme Calendar'
   <tr>
     <td>Income Tax - Business and Corporate 2/2021</td>
     <td>Sep 2021<br> 
+  <tr>
    <td>Income Tax - Business and Corporate 3/2021</td>
     <td>Jan 2022<br>
   <tr>
@@ -77,6 +78,7 @@ breadcrumb: 'Programme Calendar'
   <tr>
     <td>Leiden-TA Advanced Tax Treaties Programme </td>
     <td>Nov 2021 </td>
+  <tr>
    <td>WU-TA Advanced Transfer Pricing Programme</td>
     <td>Sep: 6, 7, 8, 9, 13, 14, 15, 16 </td>
    <td>Advanced International Tax Planning Programme</td>
