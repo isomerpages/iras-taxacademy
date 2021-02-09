@@ -17,17 +17,13 @@ breadcrumb: 'Programme Calendar'
   
   </tr>
   <tr>
-    <td>Income Tax - Individual 2/2019</td>
-    <td>Sep: 27 (AM)<br>
-    	  Oct: 07, 08, 14, 15, 16 (AM)<br>
-        Exam - 15 Nov
-    </td> 
+    <td>Income Tax - Individual 2/2021</td>
+    <td>Sep/Oct
   </tr>
   <tr>
-     <td>Goods and Services Tax 1/2019</td>
-    <td>May: 07, 13, 14 (AM), 21<br>
-    	  Sep: 27 (AM)<br>
-        Exam - 12 Jun 
+     <td>Goods and Services Tax 1/2021</td>
+    <td>May: 17, 18<br>
+        Exam - 8 Jun 
      </td> 
   </tr>
   <tr>
