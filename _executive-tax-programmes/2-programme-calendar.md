@@ -40,11 +40,8 @@ permalink: /executive-tax-programmes/programme-calendar/
  
 ##### **Executive Tax Programme Level II**
 
-<div>
-
-  <table>
-  <tbody>
-    <tr>
+<table>
+  <tr>
       <td>Income Tax - Business and Corporate 1/2021</td>
       <td>Jul 2021<br> 
   </tr>  
@@ -67,38 +64,40 @@ permalink: /executive-tax-programmes/programme-calendar/
   <tr>
      <td>International Tax 1/2021</td>
       <td>Oct 2021</td>
-   </tbody>
-   </table>
+   </tr>  
+</table>
 
  
 ##### **Executive Tax Programme Level III**
 
-
 <table>
-  </tbody>
   <tr>
     <td>Advanced Tax Programme Intake 16</td>
     <td>Nov 2020 to Oct 2021 - Registration for specific modules is available.<br>
     </td> 
+  </tr>  
   <tr>
     <td>Advanced Tax Programme Intake 17</td>
     <td>Apr 2021 to Mar 2022 - Registration will open in Mar 2021.<br>
      </td> 
+  </tr>  
   <tr>
      <td>Advanced Goods and Services Tax 2022</td>
     <td>Apr 2022 to Mar 2023 - Registration will open in Jan 2022.<br>
     </td> 
+  </tr>  
   <tr>
     <td>Leiden-TA Advanced Tax Treaties Programme </td>
     <td>Nov 2021 </td>
+ </tr>  
   <tr>
    <td>WU-TA Advanced Transfer Pricing Programme</td>
     <td>Sep: 6, 7, 8, 9, 13, 14, 15, 16 </td>
+  </tr>  
   <tr>
    <td>Advanced International Tax Planning Programme</td>
     <td>Aug 2021 </td>
-  </tr>
- </tbody>
- </table>
+  </tr>  
+</table>
 
  
