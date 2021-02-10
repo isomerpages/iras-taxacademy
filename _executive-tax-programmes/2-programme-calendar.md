@@ -1,16 +1,14 @@
 ---
 title: 'Programme Calendar'
 permalink: /executive-tax-programmes/programme-calendar/
-breadcrumb: 'Programme Calendar'
-
 ---
 
 
 ### **STRUCTURED TAX PROGRAMME CALENDAR**
 
-#### **Executive Tax Programme Level I**
+##### **Executive Tax Programme Level I**
 
-<table class="table-v">
+<table>
   <tr>
     <td>Income Tax - Individual 1/2021</td>
     <td>Apr/May 2021<br>
@@ -38,7 +36,7 @@ breadcrumb: 'Programme Calendar'
   
 ##### **Executive Tax Programme Level II**
 
-<table class="table-v">
+<table>
   <tr>
     <td>Income Tax - Business and Corporate 1/2021</td>
     <td>Jul 2021<br> 
@@ -62,7 +60,7 @@ breadcrumb: 'Programme Calendar'
  
 ##### **Executive Tax Programme Level III**
 
-<table class="table-v">
+<table>
   <tr>
     <td>Advanced Tax Programme Intake 16</td>
     <td>Nov 2020 to Oct 2021 - Registration for specific modules is available.<br>
