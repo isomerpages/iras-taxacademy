@@ -47,19 +47,24 @@ permalink: /executive-tax-programmes/programme-calendar/
     <tr>
       <td>Income Tax - Business and Corporate 1/2021</td>
       <td>Jul 2021<br> 
-    <tr>
+  </tr>  
+  <tr>
       <td>Income Tax - Business and Corporate 2/2021</td>
       <td>Sep 2021<br> 
-    <tr>
+  </tr>  
+  <tr>
      <td>Income Tax - Business and Corporate 3/2021</td>
       <td>Jan 2022<br>
-    <tr>
+  </tr>  
+  <tr>
        <td>Goods and Services Tax 1/2021</td>
       <td>Aug 2021<br>
-    <tr>
+  </tr>  
+  <tr>
       <td>Goods and Services Tax 2/2021</td>
       <td>Feb/Mar 2022<br> 
-    <tr>
+  </tr>  
+  <tr>
      <td>International Tax 1/2021</td>
       <td>Oct 2021</td>
    </tbody>
