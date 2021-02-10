@@ -6,34 +6,36 @@ permalink: /executive-tax-programmes/programme-calendar/
 ### **STRUCTURED TAX PROGRAMME CALENDAR**
 ##### **Executive Tax Programme Level I**
 
-
-
 <table>
-  <tbody>
   <tr>
     <td>Income Tax - Individual 1/2021</td>
-    <td>Apr/May 2021<br>
+    <td>Apr/May 2021</td>
+  </tr> 
   <tr>
     <td>Income Tax - Individual 2/2021</td>
-    <td>Sep/Oct 2021<br>
+    <td>Sep/Oct 2021</td>
+  </tr> 
   <tr>
-     <td>Goods and Services Tax 1/2021</td>
-    <td>May: 17, 18<br>
-        Exam - 8 Jun
+    <td>Goods and Services Tax 1/2021</td>
+    <td>May: 17, 18<br>Exam - 8 Jun</td>
+    </tr> 
   <tr>
     <td>Goods and Services Tax 2/2021</td>
-    <td>Sep 2021<br>
+    <td>Sep 2021</td>
+  </tr>  
   <tr>
-  <td>Goods and Services Tax 3/2021</td>
-    <td>Feb 2022<br>
+    <td>Goods and Services Tax 3/2021</td>
+    <td>Feb 2022</td>
+  </tr>  
   <tr>
    <td>International Tax 1/2021</td>
-    <td>May 2021<br> 
+    <td>May 2021</td>
+  </tr>  
   <tr>
     <td>International Tax 2/2021</td>
     <td>Feb 2022</td>
-    </tbody>
- </table>
+  </tr>  
+</table>
 
  
 ##### **Executive Tax Programme Level II**
