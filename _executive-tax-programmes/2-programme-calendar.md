@@ -17,7 +17,7 @@ permalink: /executive-tax-programmes/programme-calendar/
   </tr> 
   <tr>
     <td>Goods and Services Tax 1/2021</td>
-    <td>May: 17, 18<br>Exam - 8 Jun</td>
+    <td>May: 17, 18<br>
     </tr> 
   <tr>
     <td>Goods and Services Tax 2/2021</td>
@@ -89,7 +89,7 @@ permalink: /executive-tax-programmes/programme-calendar/
  </tr>  
   <tr>
    <td>WU-TA Advanced Transfer Pricing Programme</td>
-    <td>Sep: 6, 7, 8, 9, 13, 14, 15, 16 </td>
+    <td>Sep: 6, 7, 8, 9, 13, 14, 15, 16 - Registration will open in Mar 2021. </td>
   </tr>  
   <tr>
    <td>Advanced International Tax Planning Programme</td>
