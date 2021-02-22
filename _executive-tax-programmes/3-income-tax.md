@@ -7,6 +7,10 @@ breadcrumb: 'Income Tax'
 
 
 ##### **UPCOMING PROGRAMMES**
+##### **Executive Tax Programme Level I (Income Tax - Individual)**
+
+* April 2021 intake: [Open for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
+
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
 * Jan 2021 intake: [Open for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
@@ -18,11 +22,11 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScccIX23UDQywGyRXzJOZO5G4lnaUAyiO8-dVasrionHHanKg/viewform?usp=sf_link){:target="_blank"} -[Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 (Income Tax) 2-2020_programme_v2.0.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1-AA0TH5k6agVeD7iq5md670gY9Y0_TPr43bYkn2fOLY/edit){:target="_blank"} -[Details]({{"/files/executive-tax-programmes/income-tax/L1IncomeTax12021brochure.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is CLOSED for Intake 2/2020.
+Registration is OPEN for Intake 1/2021.
 
-The next intake for this course will be in Apr 2021. Registration will be available six weeks prior to the course commencement date.
+The next intake for this course will be in Oct 2021. Registration will be available six weeks prior to the course commencement date.
 
 <a id="etp2sep-ta-id"></a>
 ### **Executive Tax Programme Level II (Income Tax – Corporate & Business)**
@@ -33,7 +37,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 [Registration Form](https://docs.google.com/forms/d/1z4xGYevIjraq-1RzDlmQ56aJT6p0_2VZKJXnMWmmdBI/edit){:target="_blank"} -  [Details](/files/executive-tax-programmes/income-tax/BusinessCorporate42020.pdf){:target="_blank"} 
 
-Registration is OPEN for Intake 4/2020.  
+Registration is CLOSED for Intake 4/2020.  
 
 The next intake for this course will be in July 2021. Registration will be available six weeks prior to the course commencement date.
 
