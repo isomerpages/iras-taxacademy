@@ -13,7 +13,7 @@ breadcrumb: 'Income Tax'
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
-* Jan 2021 intake: [Open for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* Jul 2021 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
