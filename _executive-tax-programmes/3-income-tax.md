@@ -42,7 +42,7 @@ Registration is CLOSED for Intake 4/2020.
 The next intake for this course will be in July 2021. Registration will be available six weeks prior to the course commencement date.
 
 <a id="atp-ta-id"></a>
-### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme (Intake 16)**
+### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme**
 
 This course provides in-depth knowledge in income tax principles and covers concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies.
 
@@ -56,7 +56,7 @@ Registration is OPEN for Intake 16 Modules 2, 3, 4, 5, 6, 7, 8 and 9.
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
-**Intake 17, April 2021 to Jan 2022:**
+**Intake 17, April 2021 to Feb 2022:**
 
 Closing date for full programme: 19 March 2021
 
