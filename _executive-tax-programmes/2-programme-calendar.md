@@ -17,7 +17,7 @@ permalink: /executive-tax-programmes/programme-calendar/
   </tr> 
   <tr>
     <td>Goods and Services Tax 1/2021</td>
-    <td>May: 17, 18<br>
+    <td>May: 17, 18<br></td>
     </tr> 
   <tr>
     <td>Goods and Services Tax 2/2021</td>

@@ -48,7 +48,7 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-Intake 16:
+**Intake 16, Nov 2020 to Nov 2021:**
 
 [Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLScRP7x9RBp4qoBHNk7PVM3Wa5TB42h1za4eVx2-_Gy6tHBPBw/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 16) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 16) schedule_v1.0.pdf" | absolute_url }}){:target="_blank"}
 
@@ -56,7 +56,12 @@ Registration is OPEN for Intake 16 Modules 2, 3, 4, 5, 6, 7, 8 and 9.
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
-The next intake for this course will be in Nov 2021.
+**Intake 17, April 2021 to Feb 2022:**
+
+Closing date for full programme: 19 March 2021
+
+[Registration Form - Full Programme](https://forms.gle/uCqpsUVuscY6M3Qd8) - [Registration Form - Modular](https://forms.gle/5Qe4mLVB1bjg1G8r5) - [Details](/files/executive-tax-programmes/ATP (Intake 17) Info Package.pdf) - [Schedule](/files/executive-tax-programmes/ATP (Intake 17) schedule.pdf)
+
 
 ### **Book Prizes**
 
