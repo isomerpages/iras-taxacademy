@@ -62,6 +62,8 @@ Closing date for full programme: 19 March 2021
 
 [Registration Form - Full Programme](https://forms.gle/uCqpsUVuscY6M3Qd8) - [Registration Form - Modular](https://forms.gle/5Qe4mLVB1bjg1G8r5) - [Details](/files/executive-tax-programmes/ATP (Intake 17) Info Package.pdf) - [Schedule](/files/executive-tax-programmes/ATP (Intake 17) schedule.pdf)
 
+Next ATP intake is April 2022.
+
 
 ### **Book Prizes**
 
