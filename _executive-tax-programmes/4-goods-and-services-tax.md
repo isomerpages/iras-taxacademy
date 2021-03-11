@@ -50,6 +50,6 @@ Registration is CLOSED for Intake 2020/21.
 
 Registration for individual modules is CLOSED for Intake 2020/21.
 
-The next intake for this course will be in Nov 2021.
+The next intake for this course will be in Apr 2022.
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
