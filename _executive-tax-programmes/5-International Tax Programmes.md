@@ -58,7 +58,7 @@ Look forward to a new learning experience as we deliver the programme to you via
 
 Dates of programme via virtual classroom: 6, 7, 8, 9, 13, 14, 15, 16 Sep 2021 (Each session : 3p.m. to 6p.m.)
 
-[Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/WU Programme 2021.pdf){:target="_blank"}
+[Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA){:target="_blank"} - [Details](/files/executive-tax-programmes/WU Programme 2021.pdf){:target="_blank"}
 
 **Registration is OPEN for 2021 intake.**
 
