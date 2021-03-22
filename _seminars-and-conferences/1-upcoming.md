@@ -96,7 +96,7 @@ Agenda:
 
 
 <a id="9Apr-ta-id"></a>
-#### **FasTax Webinar Series: Company Law 101 for Tax Professionals**
+#### **TaxEdge Webinar Series: Company Law 101 for Tax Professionals**
 **9 Apr**
 
 Tax Academy is pleased to present this webinar on Company Law 101 for Tax Professionals.  In this webinar, we are pleased to invite Mr Danny Quah (Counsel, Providence Law Asia) who will share with you on the key company law concepts encountered by tax professionals in their line of work.  The webinar will clarify the basics of company law, explain how the law creates legal fiction in distinguishing between a company and its human actors, compare the legal aspects of corporate and non-corporate structures and touch on how anti-avoidance is used in corporate vehicles.  The webinar will end with a Q&A session where the panellists are Danny and AP Stephen Phua (Associate Professor, NUS).
