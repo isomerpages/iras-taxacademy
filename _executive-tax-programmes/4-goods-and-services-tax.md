@@ -20,7 +20,7 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 [Registration Form](https://forms.gle/8WpB2zuAjpkktGne9){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 1-2021.pdf"}}){:target="_blank"}
 
-Registration is OPEN for intake 1/2021 (May 2021 intake).
+Registration is CLOSED for intake 3/2020 (Feb 2021 intake).
 
 The next intake for this course will be in Sep 2021. Registration will be available six weeks prior to the course commencement date.
 
