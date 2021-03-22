@@ -7,7 +7,7 @@ breadcrumb: 'Goods and Services Tax'
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (GST)**
-* May 2021 intake: [Registration is now Open](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* May 2021 intake: [Registration is now OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **Executive Tax Programme Level II (GST)**
 * Aug 2021 intake: [Stay tuned for more information in Jun 2021](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
@@ -18,7 +18,7 @@ breadcrumb: 'Goods and Services Tax'
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
-[Registration Form](https://forms.gle/8WpB2zuAjpkktGne9){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 3-2020.pdf"}}){:target="_blank"}
+[Registration Form](https://forms.gle/8WpB2zuAjpkktGne9){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L1 GST 1-2021.pdf"}}){:target="_blank"}
 
 Registration is OPEN for intake 1/2021 (May 2021 intake).
 
