@@ -9,7 +9,7 @@ breadcrumb: 'Income Tax'
 
 To support the tax community, Tax Academy is offering a 10% discount for the registration of tax courses commencing on 1 April 2021 to 31 March 2022.  
 
-The 10% discount is applicable to the following programmes 
+The 10% discount is applicable to the following programmes: 
 - Executive Tax Programme Level I (Income Tax-Individual) – Intake 1/2021 and 2/2021
 - Executive Tax Programme Level I (GST) – Intake 1/2021, 2/2021 and 3/2021
 - Executive Tax Programme Level I (International Tax) – Intake 1/2021 and 2/2021
@@ -20,7 +20,7 @@ The 10% discount is applicable to the following programmes
 - Advanced International Tax Programme
 
 
-##### **UPCOMING PROGRAMMES**
+### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (Income Tax - Individual)**
 
 * Oct 2021 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
