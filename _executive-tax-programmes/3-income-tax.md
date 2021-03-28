@@ -5,7 +5,7 @@ breadcrumb: 'Income Tax'
 
 ---
 
-##### **Tax Academy's Covid Support for the Tax Community**
+### **Tax Academy's Covid Support for the Tax Community**
 
 To support the tax community, Tax Academy is offering a 10% discount for the registration of tax courses commencing on 1 April 2021 to 31 March 2022.  
 
