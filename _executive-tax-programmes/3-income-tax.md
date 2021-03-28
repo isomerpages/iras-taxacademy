@@ -12,18 +12,25 @@ To support the tax community, Tax Academy is offering a 10% discount for the reg
 The 10% discount is applicable to the following programmes 
 
 •	Executive Tax Programme Level I (Income Tax-Individual) – Intake 1/2021 and 2/2021
+
 •	Executive Tax Programme Level I (GST) – Intake 1/2021, 2/2021 and 3/2021
+
 •	Executive Tax Programme Level I (International Tax) – Intake 1/2021 and 2/2021
+
 •	Executive Tax Programme Level II (Income Tax – Corporate & Business) – Intake 1/2021, 2/2021 and 3/2021
+
 •	Executive Tax Programme Level II (GST) – Intake 1/2021 and 2/2021
+
 •	Executive Tax Programme Level II (International Tax) – Intake 1/2021
+
 •	Executive Tax Programme Level III (Income Tax) Advanced Tax Programme Intake 17
+
 •	Advanced International Tax Programme
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (Income Tax - Individual)**
 
-* Oct 2021 intake: [Stay tuned for more information](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
+* Oct 2021 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
