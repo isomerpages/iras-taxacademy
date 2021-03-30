@@ -5,11 +5,23 @@ breadcrumb: 'Income Tax'
 
 ---
 
+To support the tax community, Tax Academy is offering a 10% discount for the registration of tax courses commencing on 1 April 2021 to 31 March 2022.  
 
-##### **UPCOMING PROGRAMMES**
+The 10% discount is applicable to the following programmes: 
+- Executive Tax Programme Level I (Income Tax-Individual) – Intake 1/2021 and 2/2021
+- Executive Tax Programme Level I (GST) – Intake 1/2021, 2/2021 and 3/2021
+- Executive Tax Programme Level I (International Tax) – Intake 1/2021 and 2/2021
+- Executive Tax Programme Level II (Income Tax – Corporate & Business) – Intake 1/2021, 2/2021 and 3/2021
+- Executive Tax Programme Level II (GST) – Intake 1/2021 and 2/2021
+- Executive Tax Programme Level II (International Tax) – Intake 1/2021
+- Executive Tax Programme Level III (Income Tax) Advanced Tax Programme Intake 17
+- Advanced International Tax Programme
+
+
+### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (Income Tax - Individual)**
 
-* April 2021 intake: [Open for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
+* Oct 2021 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
@@ -24,7 +36,7 @@ Participants will learn to compute income tax liability for individuals accurate
 
 [Registration Form](https://docs.google.com/forms/d/1-AA0TH5k6agVeD7iq5md670gY9Y0_TPr43bYkn2fOLY/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L1IncomeTax12021brochure.pdf){:target="_blank"} 
 
-Registration is OPEN for Intake 1/2021.
+Registration is CLOSED for Intake 1/2021.
 
 The next intake for this course will be in Oct 2021. Registration will be available six weeks prior to the course commencement date.
 
