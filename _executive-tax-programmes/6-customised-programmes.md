@@ -5,8 +5,6 @@ breadcrumb: 'Customised Programmes'
 
 ---
 
-### **Tax Academy’s Covid Support for the Tax Community**
-
 To support the local tax community , Tax Academy is offering a 10% discount for customised programmes where relevant.  
 
 Tax Academy leverages on its strong network of partners (e.g. IRAS, Big 4 accounting firms, ISCA and Law Society) to provide customised training programmes to suit your organisation’s training needs.
