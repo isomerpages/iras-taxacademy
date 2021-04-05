@@ -42,9 +42,9 @@ This course will enable participants to acquire basic knowledge in tax treaties 
 
 [Registration Form](https://docs.google.com/forms/d/1d-B0hBzkXjGmcsyvgmL7IhggheDgloBu5H-XasgVMDM/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureL1inttax12021.pdf){:target="_blank"}
 
-**Registration is CLOSED for intake 2/2020**
+**Registration is OPEN for intake 1/2021**
 
-The next intake for this course will be in May 2021. Registration will open six weeks before the course commencement date.
+The next intake for this course will be in Feb 2022. Registration will open six weeks before the course commencement date.
 
 <a id="etp2IT-ta-id"></a>
 ### **Executive Tax Programme Level II (International Tax)**
