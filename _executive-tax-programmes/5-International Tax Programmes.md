@@ -40,7 +40,7 @@ The 10% discount is applicable to the following programmes:
 
 This course will enable participants to acquire basic knowledge in tax treaties and transfer pricing.
 
-[Registration Form](https://docs.google.com/forms/d/1d-B0hBzkXjGmcsyvgmL7IhggheDgloBu5H-XasgVMDM/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L1IntTax22020brochure.pdf){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1d-B0hBzkXjGmcsyvgmL7IhggheDgloBu5H-XasgVMDM/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureL1inttax12021.pdf){:target="_blank"}
 
 **Registration is CLOSED for intake 2/2020**
 
