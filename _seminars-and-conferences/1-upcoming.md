@@ -16,18 +16,59 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 #### **May 2021**
 
 * 7 May: [TaxEdge Webinar Series: Property Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#7May-ta-id)
+* 28 May: [A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition Primers Series: Tax Treaties and Interpretation](/seminars-and-conferences/upcoming/#28May-ta-id)
+
 
 #### **April 2021**
 
 * 9 Apr: [TaxEdge Webinar Series: Company Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#9Apr-ta-id)
 * 23 Apr: [A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition: Transfer Pricing and Dispute Resolution](/seminars-and-conferences/upcoming/#23Apr-ta-id)
+* 30 Apr: [A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition Primers Series: Tax Residency, Withholding Tax and Taxation of Non-Residents (2nd Run)](/seminars-and-conferences/upcoming/#30Apr-ta-id)
 
 
-#### **March 2021**
+<a id="28May-ta-id"></a>
+#### **A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition Primers Series: Tax Treaties and Interpretation**
+**28 May**
 
-* 12 Mar: [A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition: Personal Income Taxation](/seminars-and-conferences/upcoming/#12Mar-ta-id)
-* 19 Mar: [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#19Mar-ta-id)
-* 26 Mar: [FasTax Webinar Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#26Mar-ta-id)
+Following the success of the first and second editions, the Tax Academy of Singapore is proud to launch of the 3rd edition of The Law & Practice of Singapore Income Tax. An authoritative and comprehensive reference book on taxation of income, this edition aims to explain the fundamental changes to the tax landscape and updates on the Second Edition with a comprehensive coverage and analysis of case law developments, administrative guides and practical application of the income tax law, tax treaties and international tax agreements.
+
+In conjunction with the launch of the book, we are pleased to present a series of webinars where the authors will give an overview of what is covered in their respective chapters and expound on some of the topics. In addition, webinar participants will be entitled to a special 15% discount off the price of the book!
+
+In this 6th webinar of the series, we are pleased to invite Mr Edmund Leow (Senior Partner, Dentons Rodyk & Davidson LLP) who will share on the chapter “Tax Treaties and Interpretation”.
+
+The importance of tax treaties has increased significantly due to globalization and cross border trade and investments. Being equipped with fundamental knowledge on the benefits of treaties, and the general principles for interpreting them, will greatly reduce your risk of paying unnecessary taxes on your cross-border transactions.  In this webinar we will cover:
+
+Agenda:
+* Why have tax treaties and what do they provide for?
+* Key provisions of Singapore’s tax treaties
+* Relief from double taxation
+* General issues relevant to the interpretation of tax treaties
+* Anti-avoidance provisions and the avoidance of double taxation treaties
+* Thoughts on the impact or potential issues arising from the new normal
+* Discussion and Q&A session
+ 
+**Admin details:**
+* This webinar will be conducted via Zoom
+* Date: 28 May 21
+* Time: 3.00 p.m. to 5.00 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 20 May (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/DvdF6WXb9qNKWd7B6)
+
+**About the speaker**
+**Mr Edmund Leow** is a Senior Partner heading up the firm’s Tax practice with three decades of experience advising multinational organisations on cross-border tax planning, transfer pricing and tax disputes.  He also advises high net worth individuals, private banks and trust companies in personal tax and trust and estate planning matters.  Edmund served as a Judicial Commissioner at the Supreme Court from 2013 to 2016. On stepping down, he was appointed Senior Counsel, making him the first and only Tax and Trust lawyer to be given this accolade nationwide.  He has been appointed Deputy Chairman of the Income Tax Board of Review, a statutory tribunal which hears income tax disputes between the Inland Revenue Authority of Singapore and taxpayers.  Edmund is well recognized in the tax practice, having been awarded the Asia Tax Practice Leader of the Year by International Tax Review Asia Tax Awards in 2019. His views on tax and wealth management were widely sought and publicised in the media, such as Bloomberg, BBC, Channel NewsAsia, Reuters, The Financial Times and The Straits Times.
+
+**Webinar Exclusive!! 15% discount for purchase of book!** Attendees will be entitled to purchase the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP. This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
+Prices shown are inclusive of GST:
+
+**Hardcover:**
+* $345.61 (Discounted Price)
+* $406.60 (Recommended retail price)
+
+**eBook:**
+* $272.85 (Discounted Price)
+* $321.00 (Recommended retail price)
+* Find out more about [what is an eBook](/seminars-brochures/What is an eBook.pdf)
 
 
 <a id="7May-ta-id"></a>
@@ -57,6 +98,48 @@ Agenda:
 **Mr Danny Quah** is a commercial litigator with specialised expertise in complex tax disputes. He was recently recognised by the Singapore Academy of Law as an up-and-coming litigator and previously spent some time “magic circle” barristers chambers Pump Court Tax Chambers in London. Danny has acted in multi-million dollar income tax, GST and stamp duty disputes, rare GST tax avoidance disputez, and judicial reviews for and against IRAS. He was previously with Baker & McKenzie’s tax team and IRAS’ Law Division. 
 
 **AP Stephen Phua** teaches Income Tax, Goods and Services Tax, Corporate Taxation, International Tax and Business & Finance for Lawyers in the Faculty of Law, NUS where he also serves as Tax Director, EW Barker Centre for Law and Business. He was a visiting scholar/professor to several leading universities in Australia, Canada, China, Japan, Switzerland and the USA. He served as a member for more than a decade on each one of the three tax tribunals in Singapore (Income Tax Board of Review, Goods and Services Tax Board of Review and Valuation Review Board).
+
+
+<a id="30Apr-ta-id"></a>
+#### **A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition Primers Series: Tax Residency, Withholding Tax and Taxation of Non-Residents (2nd Run)**
+**30 Apr**
+
+Following the success of the first and second editions, the Tax Academy of Singapore is proud to announce the launch of the 3rd edition of The Law & Practice of Singapore Income Tax. An authoritative and comprehensive reference book on taxation of income, this edition aims to explain the fundamental changes to the tax landscape and updates on the Second Edition with a comprehensive coverage and analysis of case law developments, administrative guides and practical application of the income tax law, tax treaties and international tax agreements.
+
+In conjunction with the launch of the book, we are pleased to present a series of webinars where the authors will give an overview of what is covered in their respective chapters and expound on some of the topics. In addition, webinar participants will be entitled to a special 15% discount off the price of the book!
+
+In this 2nd run on the subject “Tax Residency, Withholding Tax and Taxation of Non-Residents”, we are pleased to invite Ms Toh Boon Ngee (Partner, Tax, Head of Transport, Shipping & Logistics Tax), from KPMG Advisory LLP, and Mr Chester Wee (Partner, Asean International Corporate Tax Advisory Leader, International Tax and Transaction Services), from Ernst & Young Solutions LLP, to share on the chapters on “Tax Residency” and “Withholding Tax and Taxation of Non-Residents”. 
+
+Generally, the basis of taxation for a Singapore tax resident company does not differ materially from that for a non-tax resident company. However, there are differences in certain tax treatments, including withholding tax on certain payments made to non-resident companies. Withholding tax is a part of the overall tax collection mechanism, and businesses need to pay close attention to their withholding tax obligations as non-compliance can lead to hefty penalties from tax authorities.  In this webinar we will cover:
+
+Agenda:
+* Ascertaining corporate residence
+* Implications of being a Singapore tax resident
+* Singapore-sourced income provisions
+* Withholding tax provision under Part XII of the Income Tax Act
+* Practical examples and case studies
+* Thoughts on company residency issues that may arise in the New Normal
+* Discussion and Q&A session
+ 
+**Admin details:**
+* This webinar will be conducted via Zoom
+* Date: 30 Apr 21
+* Time: 3.00 p.m. to 5.00 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 22 Apr (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/mBvJS61Q9TBpQLz77)
+
+**Webinar Exclusive!! 15% discount for purchase of book!** Attendees will be entitled to purchase the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP. This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
+Prices shown are inclusive of GST:
+
+**Hardcover:**
+* $345.61 (Discounted Price)
+* $406.60 (Recommended retail price)
+
+**eBook:**
+* $272.85 (Discounted Price)
+* $321.00 (Recommended retail price)
+* Find out more about [what is an eBook](/seminars-brochures/What is an eBook.pdf)
 
 
 <a id="23Apr-ta-id"></a>
@@ -127,98 +210,6 @@ Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Le
 **AP Stephen Phua** teaches Income Tax, Goods and Services Tax, Corporate Taxation, International Tax and Business & Finance for Lawyers in the Faculty of Law, NUS where he also serves as Tax Director, EW Barker Centre for Law and Business. He was a visiting scholar/professor to several leading universities in Australia, Canada, China, Japan, Switzerland and the USA. He served as a member for more than a decade on each one of the three tax tribunals in Singapore (Income Tax Board of Review, Goods and Services Tax Board of Review and Valuation Review Board).
 
 
-<a id="26Mar-ta-id"></a>
-#### **FasTax Webinar Series: FasTax Webinar Series: Fundamentals of GST Filing**
-**26 Mar**
-
-Join us in this workshop to hear from IRAS’ tax officers in the following areas:
-
-* Responsibilities of a GST-Registered Person
-* Reimbursements vs Disbursement
-* Fringe Benefits
-* International Services
-* Common filing mistakes to avoid 
-
-Who should attend: GST tax practitioners, including tax, finance, accounting and legal professionals
-
-IMPORTANT
-Attendees must complete the following eLearning modules and the respective quizzes, before attending the workshop:
-* [Please access the E-Learning module on Registering for GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
-* [Please access the E-Learning module on Overview of GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
-
-**Admin details:**
-* The webinar will be conducted via Zoom
-* Date: 26 Mar 21 (Fri)
-* Time: 2.30 p.m. to 4.30 p.m.
-* Fees: $85.60 (incl. GST)
-* Closing date for registration: 15 Mar 21 (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/2rv246WNHjNeoNP36)
-
-
-<a id="19Mar-ta-id"></a>
-#### **FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance**
-**19 Mar**
-
-Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors?  Join us in this webinar where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner. The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
-
-Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
-**Admin details:**
-
-* The webinar will be conducted via Zoom
-* Date: 19 Mar 21 (Fri)
-* Time: 2.30 p.m. to 4.30 p.m.
-* Fees: $85.60 (incl. GST)
-* Closing date for registration: 8 Mar 21 (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/LT6hbb4NGH3CVQUU8)
-
-
-<a id="12Mar-ta-id"></a>
-#### **A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition: Personal Income Taxation**
-**12 Mar**
-
-Following the success of the first and second editions, the Tax Academy of Singapore is proud to launch of the 3rd edition of The Law & Practice of Singapore Income Tax. An authoritative and comprehensive reference book on taxation of income, this edition aims to explain the fundamental changes to the tax landscape and updates on the Second Edition with a comprehensive coverage and analysis of case law developments, administrative guides and practical application of the income tax law, tax treaties and international tax agreements.  In conjunction with the launch of the book, we are pleased to present a series of webinars where the authors will give an overview of what is covered in their respective chapters and expound on some of the topics. In addition, webinar participants will be entitled to a special 15% discount off the price of the book!
-
-In this fourth webinar of the series, we are pleased to invite Ms Sabrina Sia (Global Employer Services Leader, Deloitte Singapore) and Ms Michele Chao (Partner, Deloitte Singapore) to share on the chapter on Personal Income Taxation. 
-
-This webinar aims to familiarise you with a better understanding on the income tax treatment for individuals. This includes what constitutes income (allowances, , benefits-in-kind, retrenchment compensation), and what are the allowable expenses, donations and reliefs to reduce the chargeable income. We will also cover the schemes available for foreigners working in Singapore, and the employer’s reporting obligations.
-
-Agenda:
-* Scope and individual taxation of employment income (locals and foreigners)
-* Employer tax reporting obligations and common reporting errors
-* Covid-19 tax concessions
-* Taxation of rental income, personal reliefs and deductions
-* Voluntary disclosure programme
-* Q&A session
-
-Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
-**Admin details:**
-
-* This webinar will be conducted via Zoom
-* Date: 12 March 21 (Fri)
-* Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 5 March (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/degVaZ7v3y3QaJuD9)
-
-**About the Speakers**
-
-**Ms Sabrina Sia** leads the Global Employer Services (GES) division of the Tax Department in Deloitte & Touche Singapore and is responsible for the provision of individual tax compliance and consultancy services for local and expatriate employees in Singapore.  Sabrina has more than 20 years experience in Singapore personal income tax serving multinational and local companies in a variety of industries.  She advises clients on mobile employee tax management and a wide range of individual tax and employer tax compliance issues, including on equity and deferred compensation plans and cross-border tax implications for mobile employees.   Sabrina also has Singapore corporate tax experience as she started her career managing both individual and corporate tax clients.  Sabrina is a regular speaker at client conferences and seminars held by Deloitte in and outside of Singapore.  She also contributes regularly to media articles and academic publications.  Sabrina has a Bachelor of Accountancy (First Class Honours) at Nanyang Technological University. She is a member of the Singapore Chartered Tax Professionals (SCTP) and Institute of Singapore Chartered Accountants (ISCA).
-
-**Ms Michele Chao** is a Partner with Deloitte Singapore and has more than 20 years of experience in expatriate tax management. She began her career providing Singapore individual and corporate tax compliance and advisory services. She has  worked in China and handled China individual tax issues.  Currently, Michele is responsible for the provision of individual tax advisory and compliance services for expatriate employees from multinational companies. She has extensive experience in coordinating multi-country projects on employment taxes and tax planning for cross-border global mobility situations.  She is also the Deloitte Asia Pacific Global Employer Services lead on several key accounts.  Michele has a Bachelor of Accountancy (Hons.) from the Nanyang Technological University of Singapore with a minor in Economics. She is  a Certified Accountant with the Institute of Singapore Chartered Accountants (ISCA) and  a member of the Singapore Chartered Tax Professionals (SCTP).
-
-**Webinar Exclusive!! 15% discount for purchase of book!** Attendees will be entitled to purchase the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP. This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
-Prices shown are inclusive of GST:
-
-**Hardcover:**
-* $345.61 (Discounted Price)
-* $406.60 (Recommended retail price)
-
-**eBook:**
-* $272.85 (Discounted Price)
-* $321.00 (Recommended retail price)
-* Find out more about [what is an eBook](/seminars-brochures/What is an eBook.pdf)
 
 
 
