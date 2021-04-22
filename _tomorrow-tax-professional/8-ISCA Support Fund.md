@@ -1,6 +1,6 @@
 ---
 title: 'ISCA Support Fund'
-permalink: /tomorrow-tax-professional/ISCA Support Fund/
+permalink: /tomorrow-tax-professional/ISCA-Support-Fund/
 breadcrumb: 'ISCA Support Fund'
 
 ---
@@ -10,7 +10,8 @@ breadcrumb: 'ISCA Support Fund'
 
 The International Tax and Goods and Services Tax programmes are two of the curated programmes under the ISCA Support Fund, rolled out by the Institute of Singapore Chartered Accountants (ISCA). Eligible companies can enjoy funding support for these programmes.
 
-Please visit ISCA Support Fund webpage for more details. For enquiries on the ISCA Support Fund, please email the ISCA team at supportfund@isca.org.sg. 
+Please visit [ISCA Support Fund webpage](https://isca.org.sg/covid-19-series/isca-support-fund/isca-support-fund---for-smps)(:target="_blank"} for more details. For enquiries on the ISCA Support Fund, please email the ISCA team at supportfund@isca.org.sg. 
+
 
 ### **Qualifying Period of the Fund**
 
