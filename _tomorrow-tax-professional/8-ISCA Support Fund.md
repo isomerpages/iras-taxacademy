@@ -6,17 +6,17 @@ breadcrumb: 'ISCA Support Fund'
 ---
 
 
-### ISCA Support Fund
+## ISCA Support Fund
 
 The International Tax and Goods and Services Tax programmes are two of the curated programmes under the ISCA Support Fund, rolled out by the Institute of Singapore Chartered Accountants (ISCA). Eligible companies can enjoy funding support for these programmes.
 
 Please visit ISCA Support Fund webpage for more details. For enquiries on the ISCA Support Fund, please email the ISCA team at supportfund@isca.org.sg. 
 
-## **Qualifying Period of the Fund**
+### **Qualifying Period of the Fund**
 
 1 February 2021 to 30 June 2022
 
-## **Terms and Conditions**
+### **Terms and Conditions**
 
 Eligible companies and sponsored employees must meet the eligibility criteria established by ISCA in order to be eligible for the funding support. Please visit the ISCA Support Fund webpage for details on eligibility criteria and other terms & conditions. The below sets out the additional terms and conditions with respect to the International Tax and Goods and Services Tax programmes in order for participants of the programmes to be eligible for the funding support:
 
