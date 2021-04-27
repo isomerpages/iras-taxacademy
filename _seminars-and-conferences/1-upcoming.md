@@ -13,6 +13,14 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+#### **June 2021**
+
+* 4 Jun: [FasTax Webinar Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#4Jun-ta-id)
+* 10 Jun: [Budget Clinic Webinar Series – Jobs Support Scheme (JSS)](/seminars-and-conferences/upcoming/#10Jun-ta-id)
+* 11 Jun: [FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#11Jun-ta-id)
+* 18 Jun: [TaxEdge Webinar Series: Intellectual Property Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#18Jun-ta-id)
+ 
+
 #### **May 2021**
 
 * 7 May: [TaxEdge Webinar Series: Property Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#7May-ta-id)
@@ -24,6 +32,99 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 9 Apr: [TaxEdge Webinar Series: Company Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#9Apr-ta-id)
 * 23 Apr: [A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition: Transfer Pricing and Dispute Resolution](/seminars-and-conferences/upcoming/#23Apr-ta-id)
 * 30 Apr: [A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition Primers Series: Tax Residency, Withholding Tax and Taxation of Non-Residents (2nd Run)](/seminars-and-conferences/upcoming/#30Apr-ta-id)
+
+
+<a id="18Jun-ta-id"></a>
+#### **TaxEdge Webinar Series: Intellectual Property Law 101 for Tax Professionals**
+**18 Jun**
+
+Tax Academy is pleased to present this webinar on Intellectual Property Law 101 for Tax Professionals. In this webinar, we have invited Mr. Jevon Louis (Head, IP, Tech and Data, Shook Lin & Bok LLP) and Mr. Danny Quah (Counsel, Providence Law Asia) who will share with you the key intellectual property law concepts and issues encountered by tax professionals in their line of work. The webinar will introduce the basics of intellectual property law, explore the different types of intellectual property (IP) and intangible assets (IA) that Industry 4.0 companies typically have, the various legal mechanisms under the law for protecting and commercially exploiting such assets, and the various tax-related issues, schemes, and incentives available in key financial jurisdictions. The webinar will end with a Q&A session where the panelists are Jevon and Danny.
+
+This webinar is suitable for: Tax practitioners, Business Owners, Finance/Accounting, and Legal professionals
+
+Agenda:
+* Intellectual Property and Intangible Assets
+* Industry 4.0 - Role of Intellectual Property and Intangible Assets
+* Creating, protecting, and exploiting Intellectual Property and Intangible Assets
+* Tax-related issues affecting IP such as valuation and transfer pricing
+
+**Admin details:**
+* This webinar will be conducted via Zoom
+* Date: 18 June 21
+* Time: 3.00 p.m. to 5.00 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 9 June (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/n2SAbtn7wgZWqns48)
+
+
+<a id="11Jun-ta-id"></a>
+#### **FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
+**11 Jun**
+
+As a highly market-oriented and open economy, Singapore has established an extensive network of double tax agreements (DTA) with her trading partners to promote international trade and investment by improving transparency of information and certainty of tax positions, as well as to mitigate double taxation. Many businesses often ask whether they need to withhold taxes on payments to foreign residents. This webinar will help businesses understand when and how to withhold taxes, as well as what withholding tax treaties and regulations mean for the business. This workshop will be facilitated by speakers from Deloitte - Mr Daniel Ho (Tax Partner), and Mr Yap Hsien Yew (Senior Manager). The speakers will share with you practical approaches to help businesses understand the application of tax treaties to common cross-border payments through various worked examples and case studies.
+
+Programme Outline:
+* Fundamentals of treaty interpretation
+* Introduction to common DTA provisions
+* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
+* Worked examples and case studies
+* Q&A
+
+This webinar is suitable for: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
+
+**Admin details:**
+* This webinar will be conducted via Zoom
+* Date: 11 June 21
+* Time: 2.00 p.m. to 5.00 p.m.
+* Fees: $85.60 (incl. GST)
+* Closing date for registration: 2 June (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/1TMvkAWuHubq51i5A)
+
+
+<a id="10Jun-ta-id"></a>
+#### **Budget Clinic Webinar Series – Jobs Support Scheme (JSS)**
+**10 Jun**
+
+Tax Academy is pleased to present this webinar which aims to enhance employers’ understanding of the Jobs Support Scheme (JSS). In this session IRAS’ speakers will provide you with an overview of the scheme and its recent changes. The webinar will also cover details on the disbursement of the payout, how the payout is computed and more importantly, unacceptable practices or scenarios that may constitute abuse of the system.  A Q&A session will also be available at the end of the session.
+
+This webinar is suitable for: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
+
+**Admin details:**
+* This webinar will be conducted via Zoom
+* Date: 10 Jun 21
+* Time: 3.00 p.m. to 5.00 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 2 June (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/Gupamf79YVdQbmXk9)
+
+
+<a id="4Jun-ta-id"></a>
+#### **FasTax Webinar Series: Fundamentals of Withholding Tax**
+**4 Jun**
+
+The Tax Academy of Singapore is pleased to organise this webinar on Fundamentals of Withholding Tax. The webinar will be helmed by speakers from IRAS’ Corporate Tax and Enforcement Divisions. The speakers will share with you on the fundamental concepts of withholding tax, explain the types of payments that attract withholding tax and provide examples to illustrate the computation of withholding tax. This webinar will also cover the various aspects of withholding tax filing and payment obligations. 
+
+This webinar is suitable for: Tax practitioners, business owners, finance, accounting and legal professionals
+
+Agenda:
+* Scope of Tax
+* What is withholding tax
+* Payments subject to withholding tax
+* Details of payments under Sections 12(6) and 12(7)
+* Withholding tax rates
+* Computation of withholding tax
+* When to file and pay
+* Date of payment and deemed payment
+* Penalties for late payment and recovery actions for non-payment
+* e-Services at myTax Portal
+
+**Admin details:**
+* This webinar will be conducted via Zoom
+* Date: 4 Jun 21
+* Time: 2.30 p.m. to 4.30 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 25 May (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/rU5bNU7z7fPVvhnt5)
 
 
 <a id="28May-ta-id"></a>
