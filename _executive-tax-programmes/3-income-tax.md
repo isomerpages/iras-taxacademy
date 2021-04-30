@@ -72,7 +72,7 @@ Registration for individual modules will close 1 month before the commencement o
 
 Closing date for full programme: 19 March 2021
 
-[Registration Form - Full Programme](https://forms.gle/uCqpsUVuscY6M3Qd8) - [Registration Form - Modular](https://forms.gle/5Qe4mLVB1bjg1G8r5) - [Details](/files/executive-tax-programmes/ATP (Intake 17) Info Package.pdf) - [Schedule](/files/executive-tax-programmes/ATP (Intake 17) schedule.pdf)
+[Registration Form - Modular](https://forms.gle/5Qe4mLVB1bjg1G8r5) - [Details](/files/executive-tax-programmes/ATP (Intake 17) Info Package_v290421.pdf) - [Schedule](/files/executive-tax-programmes/ATP (Intake 17) schedule_30Apr.pdf)
 
 Next intake on this course will be in April 2022.
 
