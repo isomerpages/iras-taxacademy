@@ -56,6 +56,12 @@ Agenda:
 * Closing date for registration: 9 June (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/n2SAbtn7wgZWqns48)
 
+**About the Speakers**
+
+**Jevon Louis** specialises in intellectual property (IP) law, technology and data law and heads the respective practices at Shook in & Bok LLP. Jevon’s experience extends to both contentious and non-contentious IP and technology matters across multiple industries including, but not limited to, banking IT systems, pharmaceuticals, renewable energy, manufacturing, construction, logistics and semiconductors. Jevon also advises on intangible asset strategies, including the creation, management and exploitation of such assets via transactions. Another facet of the practice is the use of a data-driven approach to provide actionable business intelligence and advisory services to clients.
+
+**Mr Danny Quah** is a commercial litigator with specialised expertise in complex tax disputes. He was recently recognised by the Singapore Academy of Law as an up-and-coming litigator and previously spent some time “magic circle” barristers chambers Pump Court Tax Chambers in London. Danny has acted in multi-million dollar income tax, GST and stamp duty disputes, rare GST tax avoidance disputez, and judicial reviews for and against IRAS. He was previously with Baker & McKenzie’s tax team and IRAS’ Law Division. 
+
 
 <a id="11Jun-ta-id"></a>
 #### **FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
@@ -79,6 +85,12 @@ This webinar is suitable for: Tax practitioners, Business Owners, Finance or Acc
 * Fees: $85.60 (incl. GST)
 * Closing date for registration: 2 June (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/1TMvkAWuHubq51i5A)
+
+**About the Speakers**
+
+**Mr Daniel Ho** is a partner with more than 21 years of tax experience serving Singapore headquartered as well as multinational companies. He is well-versed in cross-border taxation and tax treaty interpretation dealing with issues relating to permanent establishments, IP licensing, debt and equity transactions, share and asset divestments etc. He is a faculty member of the Deloitte International Corporate Tax School and a former part-time lecturer for the subject “Principles of Taxation” at the Nanyang Technological University. He is also the M&A tax leader for Deloitte Southeast Asia.
+
+**Mr Yap Hsien Yew** has over 17 years of tax experience serving local, multinational, and listed companies in Singapore and the Asia-Pacific Region. He is regularly involved in tax consultancy and planning services, including M&A tax work, corporate restructuring, cross-border transactions, tax ruling requests, and stamp duties. The experience he has gained through tax advisory, due diligence, and tax M&A work for local, multinational, and listed companies has allowed him to understand the tax issues related to businesses.
 
 
 <a id="10Jun-ta-id"></a>
@@ -157,6 +169,7 @@ Agenda:
 * [Registration Form](https://forms.gle/DvdF6WXb9qNKWd7B6)
 
 **About the speaker**
+
 **Mr Edmund Leow** is a Senior Partner heading up the firm’s Tax practice with three decades of experience advising multinational organisations on cross-border tax planning, transfer pricing and tax disputes.  He also advises high net worth individuals, private banks and trust companies in personal tax and trust and estate planning matters.  Edmund served as a Judicial Commissioner at the Supreme Court from 2013 to 2016. On stepping down, he was appointed Senior Counsel, making him the first and only Tax and Trust lawyer to be given this accolade nationwide.  He has been appointed Deputy Chairman of the Income Tax Board of Review, a statutory tribunal which hears income tax disputes between the Inland Revenue Authority of Singapore and taxpayers.  Edmund is well recognized in the tax practice, having been awarded the Asia Tax Practice Leader of the Year by International Tax Review Asia Tax Awards in 2019. His views on tax and wealth management were widely sought and publicised in the media, such as Bloomberg, BBC, Channel NewsAsia, Reuters, The Financial Times and The Straits Times.
 
 **Webinar Exclusive!! 15% discount for purchase of book!** Attendees will be entitled to purchase the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP. This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
