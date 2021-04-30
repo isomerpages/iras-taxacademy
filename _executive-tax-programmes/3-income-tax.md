@@ -34,7 +34,7 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Registration Form](https://docs.google.com/forms/d/1-AA0TH5k6agVeD7iq5md670gY9Y0_TPr43bYkn2fOLY/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L1IncomeTax12021brochure.pdf){:target="_blank"} 
+[Registration Form](https://docs.google.com/forms/d/1-AA0TH5k6agVeD7iq5md670gY9Y0_TPr43bYkn2fOLY/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP Level 1 IIT 1-2021 Programme.pdf){:target="_blank"} 
 
 Registration is CLOSED for Intake 1/2021.
 
