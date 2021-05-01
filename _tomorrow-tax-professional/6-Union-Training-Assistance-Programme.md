@@ -10,7 +10,6 @@ breadcrumb: 'Union Training Assistance Programme'
 
 ![ALT](/images/UTAP.jpg)
 
-![Image of Tax Academy Book Prize](/images/Daryl Tan 1.jpg)
 
 Attend up to $250 worth of Tax Academy training for free each year as an NTUC member! 
 
