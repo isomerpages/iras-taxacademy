@@ -14,7 +14,7 @@ UTAP is a training benefit for NTUC members to defray their cost of training. Th
 
 NTUC members enjoy 50% unfunded course fee* support for up to $250 each year when you sign up for courses supported under UTAP. Under the Enhanced UTAP**, union members aged 40 and above get a further boost to upskill, with higher course fee subsidy, capped at $500 per qualifying member per year. 
 
-Please visit e2i’s website to find out more.
+Please visit [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/) to find out more.
 
 * Unfunded course fee refers to the balance course fee payable after applicable government subsidy. This excludes GST, registration fees, misc. fees etc.
 ** This is only applicable to courses attended between 1 July 2020 to 31 December 2022.
