@@ -8,7 +8,7 @@ breadcrumb: 'Union Training Assistance Programme'
 
 ### **Union Training Assistance Programme (UTAP) for NTUC Members**
 
-![ALT](/images/UTAP.jpg)
+![Image of UTAP](/images/UTAP.jpg)
 
 
 Attend up to $250 worth of Tax Academy training for free each year as an NTUC member! 
