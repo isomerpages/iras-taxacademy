@@ -16,9 +16,8 @@ NTUC members enjoy 50% unfunded course fee* support for up to $250 each year whe
 
 Please visit [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/) to find out more.
 
-*Unfunded course fee refers to the balance course fee payable after applicable government subsidy. This excludes GST, registration fees, misc. fees etc.
-
-** This is only applicable to courses attended between 1 July 2020 to 31 December 2022.
+\*Unfunded course fee refers to the balance course fee payable after applicable government subsidy. This excludes GST, registration fees, misc. fees etc.
+\**This is only applicable to courses attended between 1 July 2020 to 31 December 2022.
 
 **Courses**
 
