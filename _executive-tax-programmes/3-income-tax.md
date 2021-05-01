@@ -34,7 +34,7 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Registration Form](https://docs.google.com/forms/d/1-AA0TH5k6agVeD7iq5md670gY9Y0_TPr43bYkn2fOLY/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L1IncomeTax12021brochure.pdf){:target="_blank"} 
+[Registration Form](https://docs.google.com/forms/d/1-AA0TH5k6agVeD7iq5md670gY9Y0_TPr43bYkn2fOLY/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP Level 1 IIT 1-2021 Programme.pdf){:target="_blank"} 
 
 Registration is CLOSED for Intake 1/2021.
 
@@ -70,9 +70,7 @@ Registration for individual modules will close 1 month before the commencement o
 
 **Intake 17, April 2021 to Feb 2022:**
 
-Closing date for full programme: 19 March 2021
-
-[Registration Form - Full Programme](https://forms.gle/uCqpsUVuscY6M3Qd8) - [Registration Form - Modular](https://forms.gle/5Qe4mLVB1bjg1G8r5) - [Details](/files/executive-tax-programmes/ATP (Intake 17) Info Package.pdf) - [Schedule](/files/executive-tax-programmes/ATP (Intake 17) schedule.pdf)
+[Registration Form - Modular](https://forms.gle/5Qe4mLVB1bjg1G8r5) - [Details](/files/executive-tax-programmes/ATP (Intake 17) Info Package_v290421.pdf) - [Schedule](/files/executive-tax-programmes/ATP (Intake 17) schedule_30Apr.pdf)
 
 Next intake on this course will be in April 2022.
 
