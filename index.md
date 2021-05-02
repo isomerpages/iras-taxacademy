@@ -3,7 +3,7 @@ layout: homepage
 title: 'Tax Academy of Singapore'
 description: Tax Academy of Singapore is a not-for-profit institution set up by the Inland Revenue Authority of Singapore to raise the professional competency of the tax community.
 permalink: /
-notification: Our office is temporarily closed from 3 May 2021 until further notice. Our programmes are still running as scheduled, online. For the latest updates, please refer to the respective pages on this website. For enquiries, please contact us via the Enquiries and Feedback Form[https://form.gov.sg/#!/5d2c51283703d80011e52615].  
+notification: Our office is temporarily closed from 3 May 2021 until further notice. Our programmes are still running as scheduled, online. For the latest updates, please refer to the respective pages on this website. For enquiries, please contact us via the [Enquiries and Feedback Form](https://form.gov.sg/#!/5d2c51283703d80011e52615).  
 sections:
     - hero:
           title: 'Tax Academy Singapore'
