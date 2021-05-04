@@ -4,6 +4,20 @@ url: 'https://www.taxacademy.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 resources_name: resources
+colors:
+  primary-color: '#033a66'
+  secondary-color: '#827546'
+  media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
 paginate: 12
 paginate_path: '/resources/page:num'
 custom_css_path: /misc/custom.css
