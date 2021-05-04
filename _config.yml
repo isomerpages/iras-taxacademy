@@ -3,46 +3,52 @@ description: 'Tax Academy of Singapore is a not-for-profit institution set up by
 url: 'https://www.taxacademy.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
-collections:
-    seminars-and-conferences:
-        output: true
-    executive-tax-programmes:
-        output: true
-    who-we-are:
-        output: true
-    tomorrow-tax-professional:
-        output: true
-    research:
-        output: true
 resources_name: resources
+colors:
+  primary-color: '#033a66'
+  secondary-color: '#827546'
+  media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
 paginate: 12
 paginate_path: '/resources/page:num'
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 exclude:
-    - travis-script.js
-    - .travis.yml
-    - README.md
-    - package.json
-    - package-lock.json
-    - node_modules
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - Gemfile
-    - Gemfile.lock
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
 favicon: /images/favicon.ico
 google-analytics: null
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://staging-iras-tax-academy.netlify.app
+prod: https://production-iras-tax-academy.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
