@@ -1,0 +1,10 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - overview.md
+      - board-of-directors.md
+      - curriculum-and-examination-development-committee.md
+      - message-from-tax-academy-chief-executive-officer.md
+      - partners.md
+      - trainers.md
