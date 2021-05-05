@@ -62,15 +62,15 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 **Intake 16, Nov 2020 to Nov 2021:**
 
-[Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 16) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 16) schedule_v1.0.pdf" | absolute_url }}){:target="_blank"}
-
-Registration is OPEN for Intake 16 Modules 2, 3, 4, 5, 6, 7, 8 and 9.
+[Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 16) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATPIntake 16 schedule_5May.pdf" | absolute_url }}){:target="_blank"}
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
 **Intake 17, April 2021 to Feb 2022:**
 
 [Registration Form - Modular](https://forms.gle/5Qe4mLVB1bjg1G8r5) - [Details](/files/executive-tax-programmes/ATP (Intake 17) Info Package_v290421.pdf) - [Schedule](/files/executive-tax-programmes/ATP (Intake 17) schedule_30Apr.pdf)
+
+Registration for individual modules will close 1 month before the commencement of the module.
 
 Next intake on this course will be in April 2022.
 
