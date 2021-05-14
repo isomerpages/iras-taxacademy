@@ -1,0 +1,12 @@
+collections:
+  tomorrow-tax-professional:
+    output: true
+    order:
+      - overview.md
+      - book-prizes.md
+      - take-scheme.md
+      - skillsfuture-credit.md
+      - skillsfuture-study-awards.md
+      - union-training-assistance-programme.md
+      - going-places-in-tax.md
+      - isca-support-fund.md

@@ -1,0 +1,9 @@
+collections:
+  research:
+    output: true
+    order:
+      - overview.md
+      - research-papers.md
+      - call-for-papers.md
+      - events.md
+      - publications.md
