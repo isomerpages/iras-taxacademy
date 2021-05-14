@@ -1,10 +1,8 @@
 ---
-title: 'Income Tax'
+title: Income Tax
 permalink: /executive-tax-programmes/income-tax/
-breadcrumb: 'Income Tax'
-
+breadcrumb: Income Tax
 ---
-
 To support the tax community, Tax Academy is offering a 10% discount for the registration of tax courses commencing on 1 April 2021 to 31 March 2022.  
 
 The 10% discount is applicable to the following programmes: 
