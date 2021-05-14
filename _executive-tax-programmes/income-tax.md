@@ -60,7 +60,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 **Intake 16, Nov 2020 to Nov 2021:**
 
-[Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 16) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/ATPIntake 16 schedule_5May.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSfQ-AN_WbDiPAhSlZ7e6hBUao-1czqZP98timL3Kk5uR83hzQ/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ATP (Intake 16) Info Package_v1.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/ATPIntake 16 schedule_5May.pdf" | absolute_url }}){:target="_blank"}
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
