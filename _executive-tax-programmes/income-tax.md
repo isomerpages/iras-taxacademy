@@ -23,7 +23,7 @@ The 10% discount is applicable to the following programmes:
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
-* Jul 2021 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* Jul 2021 intake: [Course is open for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
@@ -45,11 +45,11 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Registration Form](https://docs.google.com/forms/d/1z4xGYevIjraq-1RzDlmQ56aJT6p0_2VZKJXnMWmmdBI/edit){:target="_blank"} -  [Details](/files/executive-tax-programmes/income-tax/BusinessCorporate42020.pdf){:target="_blank"} 
+[Registration Form](https://docs.google.com/forms/d/1xU5nx6QvBnx7-9qapa2BKgafpeacxuX_RnOYwYEO_Fc/edit){:target="_blank"} -  [Details](/files/executive-tax-programmes/income-tax/L2 Income Tax course brochure 2021 1.pdf){:target="_blank"} 
 
-Registration is CLOSED for Intake 4/2020.  
+Registration is OPEN for Intake 1/2021.  
 
-The next intake for this course will be in July 2021. Registration will be available six weeks prior to the course commencement date.
+The next intake for this course will be in Sep 2021. Registration will be available six weeks prior to the course commencement date.
 
 <a id="atp-ta-id"></a>
 ### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme**
