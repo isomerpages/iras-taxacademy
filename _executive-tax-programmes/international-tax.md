@@ -20,7 +20,7 @@ The 10% discount is applicable to the following programmes:
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (International Tax)**
-* May 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
+* Feb 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **Executive Tax Programme Level II (International Tax)**
 * Oct 2021 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
@@ -42,7 +42,7 @@ This course will enable participants to acquire basic knowledge in tax treaties 
 
 [Registration Form](https://docs.google.com/forms/d/1d-B0hBzkXjGmcsyvgmL7IhggheDgloBu5H-XasgVMDM/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureL1inttax12021.pdf){:target="_blank"}
 
-**Registration is OPEN for intake 1/2021**
+**Registration is CLOSED for intake 1/2021**
 
 The next intake for this course will be in Feb 2022. Registration will open six weeks before the course commencement date.
 
