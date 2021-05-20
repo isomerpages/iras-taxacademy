@@ -1,11 +1,8 @@
 ---
-title: 'SkillsFuture Credit'
+title: SkillsFuture Credit
 permalink: /tomorrow-tax-professional/skillsfuture-credit/
-breadcrumb: 'SkillsFuture Credit'
-
+breadcrumb: SkillsFuture Credit
 ---
-
-
 ### **SkillsFuture Credit**
 
 SkillsFuture Credit aims to encourage individuals to take ownership of their skills development and lifelong learning. All Singaporeans aged 25 and above will receive an opening credit of S$500 from January 2016. Your credit will not expire and the government will provide periodic top-ups, so you may accumulate your credit.
@@ -19,15 +16,16 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 
 - Executive Tax Programme Level 1 (Income Tax) - ETP1IIT
 - Executive Tax Programme Level 2 (Business & Corporate Tax) - ETP2BCT
--	Executive Tax Programme Level 3 (Advanced Tax Programme) - ETP3ATP
+-	Executive Tax Programme Level 3 (Advanced Tax Programme)* - ETP3ATP
 -	Executive Tax Programme Level 1 (GST) - ETP1GST
 -	Executive Tax Programme Level 2 (GST) - ETP2GST
--	Executive Tax Programme Level 3 (Advanced GST) - ETP3AGST
+-	Executive Tax Programme Level 3 (Advanced GST)* - ETP3AGST
 -	Executive Tax Programme Level 1 (International Tax) - ETP1IT
 -	Executive Tax Programme Level 2 (International Tax) - ETP2IT
 -	Leiden – TA Advanced Tax Treaties Programme - ETP3TTP
 -	WU – TA Advanced Transfer Pricing Programme - ETP3TPP
 -	Advanced International Tax Planning Programme - ETP3ITP
+(*applicable for full programme only)
 
 **Claim Process**<br>
 
@@ -41,4 +39,3 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 
 
 *Sign up for our programmes now, just a few simple steps and you can offset the programme fees using your SkillsFuture Credits.*
-
