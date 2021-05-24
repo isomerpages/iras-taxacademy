@@ -1,12 +1,8 @@
 ---
-title: 'Upcoming Seminars and Conferences'
+title: Upcoming Seminars and Conferences
 permalink: /seminars-and-conferences/upcoming/
-breadcrumb: 'Upcoming Seminars and Conferences'
-
+breadcrumb: Upcoming Seminars and Conferences
 ---
-
-
-
 ##### **UPCOMING EVENTS**
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Please tell us what it is, so that we can consider designing new events or enhancing the existing ones.
@@ -206,116 +202,6 @@ Agenda:
 * Fees: $53.50 (incl. GST)
 * Closing date for registration: 29 Apr (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/SjvsLjwLazw9bamF6)
-
-**About the Speaker and Panellist**
-
-**Mr Danny Quah** is a commercial litigator with specialised expertise in complex tax disputes. He was recently recognised by the Singapore Academy of Law as an up-and-coming litigator and previously spent some time “magic circle” barristers chambers Pump Court Tax Chambers in London. Danny has acted in multi-million dollar income tax, GST and stamp duty disputes, rare GST tax avoidance disputez, and judicial reviews for and against IRAS. He was previously with Baker & McKenzie’s tax team and IRAS’ Law Division. 
-
-**AP Stephen Phua** teaches Income Tax, Goods and Services Tax, Corporate Taxation, International Tax and Business & Finance for Lawyers in the Faculty of Law, NUS where he also serves as Tax Director, EW Barker Centre for Law and Business. He was a visiting scholar/professor to several leading universities in Australia, Canada, China, Japan, Switzerland and the USA. He served as a member for more than a decade on each one of the three tax tribunals in Singapore (Income Tax Board of Review, Goods and Services Tax Board of Review and Valuation Review Board).
-
-
-<a id="30Apr-ta-id"></a>
-#### **A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition Primers Series: Tax Residency, Withholding Tax and Taxation of Non-Residents (2nd Run)**
-**30 Apr**
-
-Following the success of the first and second editions, the Tax Academy of Singapore is proud to announce the launch of the 3rd edition of The Law & Practice of Singapore Income Tax. An authoritative and comprehensive reference book on taxation of income, this edition aims to explain the fundamental changes to the tax landscape and updates on the Second Edition with a comprehensive coverage and analysis of case law developments, administrative guides and practical application of the income tax law, tax treaties and international tax agreements.
-
-In conjunction with the launch of the book, we are pleased to present a series of webinars where the authors will give an overview of what is covered in their respective chapters and expound on some of the topics. In addition, webinar participants will be entitled to a special 15% discount off the price of the book!
-
-In this 2nd run on the subject “Tax Residency, Withholding Tax and Taxation of Non-Residents”, we are pleased to invite Ms Toh Boon Ngee (Partner, Tax, Head of Transport, Shipping & Logistics Tax), from KPMG Advisory LLP, and Mr Chester Wee (Partner, Asean International Corporate Tax Advisory Leader, International Tax and Transaction Services), from Ernst & Young Solutions LLP, to share on the chapters on “Tax Residency” and “Withholding Tax and Taxation of Non-Residents”. 
-
-Generally, the basis of taxation for a Singapore tax resident company does not differ materially from that for a non-tax resident company. However, there are differences in certain tax treatments, including withholding tax on certain payments made to non-resident companies. Withholding tax is a part of the overall tax collection mechanism, and businesses need to pay close attention to their withholding tax obligations as non-compliance can lead to hefty penalties from tax authorities.  In this webinar we will cover:
-
-Agenda:
-* Ascertaining corporate residence
-* Implications of being a Singapore tax resident
-* Singapore-sourced income provisions
-* Withholding tax provision under Part XII of the Income Tax Act
-* Practical examples and case studies
-* Thoughts on company residency issues that may arise in the New Normal
-* Discussion and Q&A session
- 
-**Admin details:**
-* This webinar will be conducted via Zoom
-* Date: 30 Apr 21
-* Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 22 Apr (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/mBvJS61Q9TBpQLz77)
-
-**Webinar Exclusive!! 15% discount for purchase of book!** Attendees will be entitled to purchase the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP. This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
-Prices shown are inclusive of GST:
-
-**Hardcover:**
-* $345.61 (Discounted Price)
-* $406.60 (Recommended retail price)
-
-**eBook:**
-* $272.85 (Discounted Price)
-* $321.00 (Recommended retail price)
-* Find out more about [what is an eBook](/seminars-brochures/What is an eBook.pdf)
-
-
-<a id="23Apr-ta-id"></a>
-#### **A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition: Transfer Pricing and Dispute Resolution**
-**23 Apr**
-
-ollowing the success of the first and second editions, the Tax Academy of Singapore is proud to launch of the 3rd edition of The Law & Practice of Singapore Income Tax. An authoritative and comprehensive reference book on taxation of income, this edition aims to explain the fundamental changes to the tax landscape and updates on the Second Edition with a comprehensive coverage and analysis of case law developments, administrative guides and practical application of the income tax law, tax treaties and international tax agreements.
-
-In conjunction with the launch of the book, we are pleased to present a series of webinars where the authors will give an overview of what is covered in their respective chapters and expound on some of the topics. In addition, webinar participants will be entitled to a special 15% discount off the price of the book!
-
-In this fifth webinar of the series, we are pleased to invite Ms Jow Lee Ying (Senior Lecturer, NTU and Director, EY Corporate Advisors Pte. Ltd.), and Ms Yong Sing Yuan (Tax Director, Tax Policy and Transfer Pricing Division, IRAS) who will share on the chapters “The Arms-Length Principle and Transfer Pricing” and “Dispute Resolution and Mutual Agreement Procedure”.
-
-With increased attention on transfer pricing audit, dispute resolution mechanism will also grow in importance. In this webinar, we will discuss transfer pricing as practised in Singapore’s context, and the means through which international tax disputes can be resolved by IRAS. We will also share on measures to prevent international tax disputes relating to transfer pricing i.e. Advance Pricing Arrangements (‘APAs’).
-
-Agenda:
-* Overview of transfer pricing in Singapore
-* Transfer pricing audit and enforcement
-* Transfer Pricing Penalties
-* Resolution of international tax disputes
-* Dispute resolution mechanism (MAP and APA)
-* Thoughts on practical actions and emerging issues to note for companies during an economic downturn
-* Discussion and Q&A session
-
-**Admin details:**
-* This webinar will be conducted via Zoom
-* Date: 23 Apr 21
-* Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 15 Apr (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/nrevtpK7wz84aGns9)
-
-**About the Speakers**
-
-**Ms Jow Lee Ying** is a senior lecturer at the Nanyang Technological University and a Director in EY Corporate Advisors Pte. Ltd.’s tax practice based in Singapore. She has extensive experience in a wide spectrum of international tax work, particularly in tax/transfer pricing policy and controversy. This includes transfer pricing audits, Advance Pricing Arrangements (APAs), Mutual Agreement Procedure (MAPs) and tax treaties.  Prior to this, Lee Ying was with the Inland Revenue Authority of Singapore (IRAS), Economic Development Board (EDB) and the Ministry of Finance. She is well regarded for her international tax expertise and is a regular speaker at public tax seminars.  Lee Ying holds a Bachelor of Science with 1st Class Honours from the National University of Singapore and a Master of International Taxation from the University of Sydney. She is also an Accredited Tax Advisor and an Association of Chartered Certified Accountants graduate.
-
-**Ms Yong Sing Yuan** is currently the Tax Director in the Inland Revenue Authority of Singapore dealing with transfer pricing and dispute resolution matters. She has experience in tax policy work and international taxation matters.  Sing Yuan holds a Bachelor of Accountancy with Honours from the Nanyang Technological University and a Master of Advanced Studies in International Tax Law Cum Laude from Leiden University. She is also an Accredited Tax Advisor with the Singapore Institute of Accredited Tax Practitioners. Sing Yuan is the course advisor and ad hoc trainer for programs run by the Tax Academy. She has also contributed to external journals such as the Bulletin for International Taxation by IBFD.
-
-
-<a id="9Apr-ta-id"></a>
-#### **TaxEdge Webinar Series: Company Law 101 for Tax Professionals**
-**9 Apr**
-
-Tax Academy is pleased to present this webinar on Company Law 101 for Tax Professionals.  In this webinar, we are pleased to invite Mr Danny Quah (Counsel, Providence Law Asia) who will share with you on the key company law concepts encountered by tax professionals in their line of work.  The webinar will clarify the basics of company law, explain how the law creates legal fiction in distinguishing between a company and its human actors, compare the legal aspects of corporate and non-corporate structures and touch on how anti-avoidance is used in corporate vehicles.  The webinar will end with a Q&A session where the panellists are Danny and AP Stephen Phua (Associate Professor, NUS).
-
-Agenda:
-* Effects of incorporation
-* Terminology
-* Corporate & non-corporate structures
-* Incorporation issues
-* Role of company actors
-* Winding up, striking off
-* Anti-avoidance using corporate vehicles
- 
-Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
-**Admin details:**
-* This webinar will be conducted via Zoom
-* Date: 9 Apr 21 (Fri)
-* Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 1 Apr (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/Z2k5AhXfYFNkz7cH7)
 
 **About the Speaker and Panellist**
 
