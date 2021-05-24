@@ -42,17 +42,19 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 Tax Academy is pleased to present the Country Tax Systems Webinar Series.  In this webinar, we will cover tax systems in Thailand, and we are pleased to invite speakers from Baker McKenzie Thailand.  They are, Mr Panya Sittisakonsin (Head of Tax), Mr Geoffrey K. Soh (Head of Transfer Pricing), Ms Thanissorn Masuchand (Tax Associate), and Mr Keerati Saneewong Na Ayudthaya (Tax Associate).  The speakers will share on the following:
 
 **Tax**
+
 During the COVID-19 pandemic, the Thai government announced various tax measures to mitigate the impact and boost the domestic economy. Now, business operators should consider how their companies can take advantage of the various measures, and what developments to expect in the near future. Apart from this, the Thai government also aims to be a “digital government” and introduce digital technology to manage tax collection, risk management, and tax audits. To address these issues, our speakers Panya Sittisakonsin (Head of Tax, Baker McKenzie Thailand) and Thanissorn Masuchand (Tax Associate, Baker McKenzie Thailand) will provide key considerations for the following topics:         
 
- * Overview of Thai corporate tax for investors
+* Overview of Thai corporate tax for investors
 * Recent developments and tax measures for businesses in Thailand
 * Outlook for 2021–2022: tax audit trends and future developments
 * Key takeaways from recent tax case law and case studies
  
 **Transfer Pricing**
+
 Over the past few years, tax authorities across the world have increasingly focused their attention on transfer pricing and Thailand is no exception.  Besides meeting recent disclosure and contemporaneous documentation requirements, Thai taxpayers also have to ensure their transfer pricing matters comply with various departmental instructions, Director-General notifications, and legislation. To unravel the intricacies of Thai transfer pricing, our speaker, Geoffrey K. Soh (Head of Transfer Pricing, Baker McKenzie Thailand) will speak about:
 
- * The transfer pricing landscape in Thailand
+* The transfer pricing landscape in Thailand
 * The related-party disclosure form and implications
 * Supporting transfer pricing and legal documentation
 * Potential transfer pricing issues arising from COVID-19 impacts on Thai businesses
@@ -60,6 +62,7 @@ Over the past few years, tax authorities across the world have increasingly focu
 * Developments on the horizon
  
 **Customs**
+
 Amidst the aggressive customs audit atmosphere in Thailand and the recent development of the new Customs Act of Thailand since 13 November 2017, business operators who import into and/or export goods out of Thailand should be aware of the customs system in Thailand to maximize their competitiveness with trade and customs privileges. For clarity on the theoretical and practical aspects of Thai customs laws and regulations, our speakers, Panya Sittisakonsin (Head of Tax, Baker McKenzie Thailand) and Keerati Saneewong Na Ayudthaya (Tax Associate, Baker McKenzie Thailand) will provide a synopsis and cover the following issues:
 
 * Overview of the customs system in Thailand
