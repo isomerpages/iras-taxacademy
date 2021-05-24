@@ -80,6 +80,12 @@ Amidst the aggressive customs audit atmosphere in Thailand and the recent develo
 * Closing date for registration: 5 July (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/XcGfC77EzRGZpFto7)
 
+**About the Speakers**
+
+**Mr Panya Sittisakonsin** joined Baker McKenzie’s Tax Practice Group in 2002 and became a Partner in 2012. He also leads the International Commercial & Trade Practice Group and practices in the customs and supply chain areas. Panya advises clients on complex tax structures, offshore investment, international tax planning, tax disputes and tax litigation. Acritas Sharper Insight named Panya a Stand-Out Lawyer (2018). He is Tier 1 in The Legal 500 Asia Pacific (Tax, Customs and International Trade). He is Band 1 in Tax in Chambers Asia Pacific. International Tax Review named him an Indirect Tax Leader and Tax Controversy Leader.
+
+
+
 
 <a id="18Jun-ta-id"></a>
 #### **TaxEdge Webinar Series: Intellectual Property Law 101 for Tax Professionals**
