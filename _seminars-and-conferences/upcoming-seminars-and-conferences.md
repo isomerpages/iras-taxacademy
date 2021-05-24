@@ -90,6 +90,7 @@ Amidst the aggressive customs audit atmosphere in Thailand and the recent develo
 
 **Ms Thanissorn Masuchand** has over nine-year’s experience in domestic and international taxation areas. As a member of the Tax Practice Group, she is skilled in providing comprehensive legal advice on tax planning and restructuring, mergers & acquisitions, wealth management, transfer pricing and tax dispute & litigation. In addition to her broad experience in taxation, Thanissorn is currently participating in a tax development project for the Thai government to amend the tax regulations and tax schemes for investment in Thailand and has taught a tax seminar class for the Bachelor of Laws Program at Chulalongkorn University as an assistant lecturer since 2017.
 
+
 <a id="18Jun-ta-id"></a>
 #### **TaxEdge Webinar Series: Intellectual Property Law 101 for Tax Professionals**
 **18 Jun**
