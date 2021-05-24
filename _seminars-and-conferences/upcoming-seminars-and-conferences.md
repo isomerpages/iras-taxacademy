@@ -84,7 +84,7 @@ Amidst the aggressive customs audit atmosphere in Thailand and the recent develo
 
 **Mr Panya Sittisakonsin** joined Baker McKenzie’s Tax Practice Group in 2002 and became a Partner in 2012. He also leads the International Commercial & Trade Practice Group and practices in the customs and supply chain areas. Panya advises clients on complex tax structures, offshore investment, international tax planning, tax disputes and tax litigation. Acritas Sharper Insight named Panya a Stand-Out Lawyer (2018). He is Tier 1 in The Legal 500 Asia Pacific (Tax, Customs and International Trade). He is Band 1 in Tax in Chambers Asia Pacific. International Tax Review named him an Indirect Tax Leader and Tax Controversy Leader.
 
-
+**Mr Geoffrey Soh** leads Baker McKenzie's Thailand Transfer Pricing Practice and serves on Baker McKenzie's Global Transfer Pricing Steering Committee. He has 23 years of experience, in Thailand, Singapore and Canada. Since 1998, Geoff has managed over 1,500 client engagements — encompassing the documentation, planning, audit defense and dispute resolution aspects of transfer pricing. Previously, Geoff was the Head of Transfer Pricing at a Big Four audit firm in Singapore. Geoff has presented events worldwide, including training seminars with the Tax Academy of Singapore. The International Tax Review has recognized him as one of Asia's top transfer pricing and tax controversy leaders.
 
 
 <a id="18Jun-ta-id"></a>
