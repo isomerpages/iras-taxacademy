@@ -25,6 +25,7 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 -	Leiden – TA Advanced Tax Treaties Programme - ETP3TTP
 -	WU – TA Advanced Transfer Pricing Programme - ETP3TPP
 -	Advanced International Tax Planning Programme - ETP3ITP
+
 (*applicable for full programme only)
 
 **Claim Process**<br>
