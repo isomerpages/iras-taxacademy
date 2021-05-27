@@ -24,8 +24,7 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 -	Executive Tax Programme Level 2 (International Tax) - ETP2IT
 -	Leiden – TA Advanced Tax Treaties Programme - ETP3TTP
 -	WU – TA Advanced Transfer Pricing Programme - ETP3TPP
--	Advanced International Tax Planning Programme - ETP3ITP
-(*applicable for full programme only)
+-	Advanced International Tax Planning Programme - ETP3ITP <br>(*applicable for full programme only)
 
 **Claim Process**<br>
 
