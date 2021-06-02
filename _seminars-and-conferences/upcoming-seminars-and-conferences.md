@@ -11,6 +11,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 #### **July 2021**
 
+* 8 July: [Country Tax Systems Webinar Series - U.S. Taxation](/seminars-and-conferences/upcoming/#8July-ta-id)
 * 16 July: [Country Tax Systems Webinar Series - Thailand](/seminars-and-conferences/upcoming/#16July-ta-id)
 
 
@@ -21,18 +22,6 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 11 Jun: [FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#11Jun-ta-id)
 * 18 Jun: [TaxEdge Webinar Series: Intellectual Property Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#18Jun-ta-id)
  
-
-#### **May 2021**
-
-* 7 May: [TaxEdge Webinar Series: Property Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#7May-ta-id)
-* 28 May: [A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition Primers Series: Tax Treaties and Interpretation](/seminars-and-conferences/upcoming/#28May-ta-id)
-
-
-#### **April 2021**
-
-* 9 Apr: [TaxEdge Webinar Series: Company Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#9Apr-ta-id)
-* 23 Apr: [A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition: Transfer Pricing and Dispute Resolution](/seminars-and-conferences/upcoming/#23Apr-ta-id)
-* 30 Apr: [A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition Primers Series: Tax Residency, Withholding Tax and Taxation of Non-Residents (2nd Run)](/seminars-and-conferences/upcoming/#30Apr-ta-id)
 
 
 <a id="16July-ta-id"></a>
@@ -89,6 +78,33 @@ Amidst the aggressive customs audit atmosphere in Thailand and the recent develo
 **Mr Keerati Saneewong Na Ayudthaya** joined Baker McKenzie’s Tax Practice Group in 2013 and is in the International Commercial & Trade Practice Group. He specializes in indirect taxes, including customs laws, audit and dispute. He previously practiced in-house at an automotive company in general corporate matters, labor law, intellectual property law and customs law. Keerati serves as a member of Customs Sub-Committee of the Thai Chamber of Commerce. He was an assistant to a member of the Sub-Committee of the National Legislative Assembly on Tax Revenue and the Special Committee of the National Legislative Assembly on Consideration of the Customs Act.
 
 **Ms Thanissorn Masuchand** has over nine-year’s experience in domestic and international taxation areas. As a member of the Tax Practice Group, she is skilled in providing comprehensive legal advice on tax planning and restructuring, mergers & acquisitions, wealth management, transfer pricing and tax dispute & litigation. In addition to her broad experience in taxation, Thanissorn is currently participating in a tax development project for the Thai government to amend the tax regulations and tax schemes for investment in Thailand and has taught a tax seminar class for the Bachelor of Laws Program at Chulalongkorn University as an assistant lecturer since 2017.
+
+
+<a id="8July-ta-id"></a>
+#### **Country Tax Systems Webinar Series - U.S. Taxation**
+**8 July**
+
+Just a little more than three years after President Trump enacted sweeping US tax reform in December 2017, President Biden also announced his tax plan shortly after taking office in early 2021, putting the survival of the earlier reform provisions in question.
+
+Tax Academy is pleased to present this webinar where our speaker Mr David Allgaier (Tax Partner, Deloitte China) provides you a refresh of the core US domestic and cross-border tax provisions that impact the multinational corporations. Gain insights into the current US political landscape and its impact on tax policy, the key corporate tax proposals offered by the Biden administration and Congressional leaders, and the implications associated with what is effectively the US re-engagement on the OECD Pillar One and Pillar Two initiatives.
+
+Agenda:
+* Summary of recent legislation
+* Key domestic provisions
+* Key international provisions (US taxpayers/non-US taxpayers)
+* Tax policy update
+
+Admin details:
+* This webinar will be conducted via Zoom
+* Date:  8 July 21
+* Time: 2.00 p.m. to 5.00 p.m.
+* Fees: $85.60 (incl. GST)
+* Closing date for registration: 29 June (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/exiUqBHkjZVpEYYT8)
+
+**About the Speaker**
+
+**David Allgaier** is a tax partner with Deloitte China and provides US tax advisory services to clients with an industry focus on private equity and real estate. David has over 20 years of experience advising clients on tax matters related to their investment into the United States such as issues related to capital structure/financing, holding company, profit repatriation/withholding tax, and exit. David also advises on US tax issues related to investment into China/Asia Pacific (for example, issues relevant to US investors in private equity funds in relation to portfolio investments in China/Asia Pacific). David has been based in Shanghai since 2008. Prior to working in Shanghai, David spent over six years working in London and over two years working in Dublin as a US tax advisor. Prior to working in Europe, David worked in both Washington, DC and Irvine, California. David is a frequent presenter on US tax topics such as the 2017 US tax reform, various stimulus measures related to Covid-19, and other recent and proposed tax law changes. David also currently serves as the chairperson of the American Chamber of Commerce (Shanghai) Tax Committee.
 
 
 <a id="18Jun-ta-id"></a>
@@ -195,80 +211,6 @@ Agenda:
 * Closing date for registration: 25 May (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/rU5bNU7z7fPVvhnt5)
 
-
-<a id="28May-ta-id"></a>
-#### **A Peek into the “Taxing Book” - “The Law and Practice of Singapore Income Tax, 3rd Edition Primers Series: Tax Treaties and Interpretation**
-**28 May**
-
-Following the success of the first and second editions, the Tax Academy of Singapore is proud to launch of the 3rd edition of The Law & Practice of Singapore Income Tax. An authoritative and comprehensive reference book on taxation of income, this edition aims to explain the fundamental changes to the tax landscape and updates on the Second Edition with a comprehensive coverage and analysis of case law developments, administrative guides and practical application of the income tax law, tax treaties and international tax agreements.
-
-In conjunction with the launch of the book, we are pleased to present a series of webinars where the authors will give an overview of what is covered in their respective chapters and expound on some of the topics. In addition, webinar participants will be entitled to a special 15% discount off the price of the book!
-
-In this 6th webinar of the series, we are pleased to invite Mr Edmund Leow (Senior Partner, Dentons Rodyk & Davidson LLP) who will share on the chapter “Tax Treaties and Interpretation”.
-
-The importance of tax treaties has increased significantly due to globalization and cross border trade and investments. Being equipped with fundamental knowledge on the benefits of treaties, and the general principles for interpreting them, will greatly reduce your risk of paying unnecessary taxes on your cross-border transactions.  In this webinar we will cover:
-
-Agenda:
-* Why have tax treaties and what do they provide for?
-* Key provisions of Singapore’s tax treaties
-* Relief from double taxation
-* General issues relevant to the interpretation of tax treaties
-* Anti-avoidance provisions and the avoidance of double taxation treaties
-* Thoughts on the impact or potential issues arising from the new normal
-* Discussion and Q&A session
- 
-**Admin details:**
-* This webinar will be conducted via Zoom
-* Date: 28 May 21
-* Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 20 May (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/DvdF6WXb9qNKWd7B6)
-
-**About the speaker**
-
-**Mr Edmund Leow** is a Senior Partner heading up the firm’s Tax practice with three decades of experience advising multinational organisations on cross-border tax planning, transfer pricing and tax disputes.  He also advises high net worth individuals, private banks and trust companies in personal tax and trust and estate planning matters.  Edmund served as a Judicial Commissioner at the Supreme Court from 2013 to 2016. On stepping down, he was appointed Senior Counsel, making him the first and only Tax and Trust lawyer to be given this accolade nationwide.  He has been appointed Deputy Chairman of the Income Tax Board of Review, a statutory tribunal which hears income tax disputes between the Inland Revenue Authority of Singapore and taxpayers.  Edmund is well recognized in the tax practice, having been awarded the Asia Tax Practice Leader of the Year by International Tax Review Asia Tax Awards in 2019. His views on tax and wealth management were widely sought and publicised in the media, such as Bloomberg, BBC, Channel NewsAsia, Reuters, The Financial Times and The Straits Times.
-
-**Webinar Exclusive!! 15% discount for purchase of book!** Attendees will be entitled to purchase the Third Edition of The Law and Practice of Singapore Income Tax at 15% discount off RRP. This discount code can be applied at the online bookstore. We will email the unique discount code to attendees after webinar fees have been paid.
-Prices shown are inclusive of GST:
-
-**Hardcover:**
-* $345.61 (Discounted Price)
-* $406.60 (Recommended retail price)
-
-**eBook:**
-* $272.85 (Discounted Price)
-* $321.00 (Recommended retail price)
-* Find out more about [what is an eBook](/seminars-brochures/What is an eBook.pdf)
-
-
-<a id="7May-ta-id"></a>
-#### **TaxEdge Webinar Series: Property Law 101 for Tax Professionals**
-**7 May**
-
-Tax Academy is pleased to present this webinar on Property Law 101 for Tax Professionals.  In this webinar, we are pleased to invite Mr Danny Quah (Counsel, Providence Law Asia) who will share with you the key property law concepts encountered by tax professionals in their line of work. The webinar will clarify the basics of property law, explain how the legal fiction that is “property rights” interact with each other and our world at large, and provide a conceptual understanding of the proprietary aspects of cryptocurrency and trusts.  The webinar will end with a Q&A session where the panellists are Danny and AP Stephen Phua (Associate Professor, NUS).
-
-Who Should Attend: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
-Agenda:
-* General principles
-* Classification of rights
-* Current topic #1: Trusts
-* Current topic #2: Crypto
-
-**Admin details:**
-* This webinar will be conducted via Zoom
-* Date: 7 May 21 (Fri)
-* Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 29 Apr (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/SjvsLjwLazw9bamF6)
-
-**About the Speaker and Panellist**
-
-**Mr Danny Quah** is a commercial litigator with specialised expertise in complex tax disputes. He was recently recognised by the Singapore Academy of Law as an up-and-coming litigator and previously spent some time “magic circle” barristers chambers Pump Court Tax Chambers in London. Danny has acted in multi-million dollar income tax, GST and stamp duty disputes, rare GST tax avoidance disputez, and judicial reviews for and against IRAS. He was previously with Baker & McKenzie’s tax team and IRAS’ Law Division. 
-
-**AP Stephen Phua** teaches Income Tax, Goods and Services Tax, Corporate Taxation, International Tax and Business & Finance for Lawyers in the Faculty of Law, NUS where he also serves as Tax Director, EW Barker Centre for Law and Business. He was a visiting scholar/professor to several leading universities in Australia, Canada, China, Japan, Switzerland and the USA. He served as a member for more than a decade on each one of the three tax tribunals in Singapore (Income Tax Board of Review, Goods and Services Tax Board of Review and Valuation Review Board).
 
 
 
