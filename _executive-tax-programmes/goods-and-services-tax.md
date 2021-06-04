@@ -1,10 +1,8 @@
 ---
-title: 'Goods and Services Tax'
+title: Goods and Services Tax
 permalink: /executive-tax-programmes/goods-and-services-tax/
-breadcrumb: 'Goods and Services Tax'
-
+breadcrumb: Goods and Services Tax
 ---
-
 To support the tax community, Tax Academy is offering a 10% discount for the registration of tax courses commencing on 1 April 2021 to 31 March 2022.  
 
 The 10% discount is applicable to the following programmes: 
@@ -39,13 +37,15 @@ The next intake for this course will be in Sep 2021. Registration will be availa
 <a id="etp2gst-ta-id"></a>
 ### **Executive Tax Programme Level II (Goods and Services Tax)**
 
+•	Aug 2021 intake: Registration is now open
+
 This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services.
 
 [Registration Form](https://forms.gle/LoMbyMjhTKMTT2fY9){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/ETP L2 GST 2-2020.pdf"}}){:target="_blank"}
 
-Registration is CLOSED for intake 2/2020 (Feb 2021 intake).
+Registration is OPEN for intake 1/2021 (Aug 2021 intake).
 
-The next intake for this course will be in Aug 2021. Registration will be available six weeks prior to the course commencement date.
+The next intake for this course will be in Feb 2022. Registration will be available six weeks prior to the course commencement date.
 
 <a id="etp3gst-ta-id"></a>
 ### **Executive Tax Programme Level III (Goods and Services Tax): Advanced GST**
