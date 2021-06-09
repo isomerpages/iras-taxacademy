@@ -1,10 +1,8 @@
 ---
-title: 'International Tax'
+title: International Tax
 permalink: /executive-tax-programmes/international-tax/
-breadcrumb: 'International Tax'
-
+breadcrumb: International Tax
 ---
-
 To support the tax community, Tax Academy is offering a 10% discount for the registration of tax courses commencing on 1 April 2021 to 31 March 2022.  
 
 The 10% discount is applicable to the following programmes: 
@@ -15,7 +13,7 @@ The 10% discount is applicable to the following programmes:
 - Executive Tax Programme Level II (GST) – Intake 1/2021 and 2/2021
 - Executive Tax Programme Level II (International Tax) – Intake 1/2021
 - Executive Tax Programme Level III (Income Tax) Advanced Tax Programme Intake 17
-- Advanced International Tax Programme
+- Advanced International Tax Planning Programme
 
 
 ##### **UPCOMING PROGRAMMES**
@@ -99,4 +97,3 @@ Dates of programme via virtual classroom: 18, 19 ,20, 25 Aug 2020 (Each session 
 **Registration is CLOSED for 2020 intake**
 
 **Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
-

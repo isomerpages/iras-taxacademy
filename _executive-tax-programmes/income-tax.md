@@ -13,7 +13,7 @@ The 10% discount is applicable to the following programmes:
 - Executive Tax Programme Level II (GST) – Intake 1/2021 and 2/2021
 - Executive Tax Programme Level II (International Tax) – Intake 1/2021
 - Executive Tax Programme Level III (Income Tax) Advanced Tax Programme Intake 17
-- Advanced International Tax Programme
+- Advanced International Tax Planning Programme
 
 
 ### **UPCOMING PROGRAMMES**
@@ -23,7 +23,7 @@ The 10% discount is applicable to the following programmes:
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
-* Sep 2021 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* Nov 2021 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
@@ -49,7 +49,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 Registration is CLOSED for Intake 1/2021.  
 
-The next intake for this course will be in Sep 2021. Registration will be available six weeks prior to the course commencement date.
+The next intake for this course will be in Nov 2021. Registration will be available six weeks prior to the course commencement date.
 
 <a id="atp-ta-id"></a>
 ### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme**
@@ -66,7 +66,7 @@ Registration for individual modules will close 1 month before the commencement o
 
 **Intake 17, April 2021 to Feb 2022:**
 
-[Registration Form - Modular](https://forms.gle/5Qe4mLVB1bjg1G8r5) - [Details](/files/executive-tax-programmes/ATP (Intake 17) Info Package_v290421.pdf) - [Schedule](/files/executive-tax-programmes/ATP (Intake 17) schedule_30Apr.pdf)
+[Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLScOmVNz_yMOJwG7c8QPNRHwCpzk2vg7jIjfnF2-8BSVSTNP6Q/viewform?usp=sf_link) - [Details](/files/executive-tax-programmes/ATP (Intake 17) Info Package_v290421.pdf) - [Schedule](/files/executive-tax-programmes/ATP (Intake 17) schedule_30Apr.pdf)
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
