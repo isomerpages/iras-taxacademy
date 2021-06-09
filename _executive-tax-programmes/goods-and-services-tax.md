@@ -13,7 +13,7 @@ The 10% discount is applicable to the following programmes:
 - Executive Tax Programme Level II (GST) – Intake 1/2021 and 2/2021
 - Executive Tax Programme Level II (International Tax) – Intake 1/2021
 - Executive Tax Programme Level III (Income Tax) Advanced Tax Programme Intake 17
-- Advanced International Tax Programme
+- Advanced International Tax Planning Programme
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (GST)**
