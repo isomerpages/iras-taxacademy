@@ -13,7 +13,7 @@ The 10% discount is applicable to the following programmes:
 - Executive Tax Programme Level II (GST) – Intake 1/2021 and 2/2021
 - Executive Tax Programme Level II (International Tax) – Intake 1/2021
 - Executive Tax Programme Level III (Income Tax) Advanced Tax Programme Intake 17
-- Advanced International Tax Programme
+- Advanced International Tax Planning Programme
 
 
 ### **UPCOMING PROGRAMMES**
@@ -23,7 +23,7 @@ The 10% discount is applicable to the following programmes:
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
-* Sep 2021 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* Nov 2021 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
@@ -49,7 +49,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 Registration is CLOSED for Intake 1/2021.  
 
-The next intake for this course will be in Sep 2021. Registration will be available six weeks prior to the course commencement date.
+The next intake for this course will be in Nov 2021. Registration will be available six weeks prior to the course commencement date.
 
 <a id="atp-ta-id"></a>
 ### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme**
