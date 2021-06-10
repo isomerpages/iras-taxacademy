@@ -1,8 +1,7 @@
 ---
-title: 'Programme Calendar'
+title: Programme Calendar
 permalink: /executive-tax-programmes/programme-calendar/
 ---
-
 ### **STRUCTURED TAX PROGRAMME CALENDAR**
 ##### **Executive Tax Programme Level I**
 
@@ -51,10 +50,15 @@ permalink: /executive-tax-programmes/programme-calendar/
   </tr>  
   <tr>
      <td>Income Tax - Business and Corporate 3/2021</td>
-      <td>Jan 2022</td>
+      <td>Nov 2021</td>
   </tr>  
   <tr>
-       <td>Goods and Services Tax 1/2021</td>
+  <td>Income Tax - Business and Corporate 4/2021</td>
+      <td>Jan 2022</td> 
+  </tr>  
+  <tr>
+				  <td>Goods and Services Tax 1/2021
+		  </td>
       <td>Aug 2021</td>
   </tr>  
   <tr>
@@ -96,5 +100,3 @@ permalink: /executive-tax-programmes/programme-calendar/
     <td>Aug 2021 </td>
   </tr>  
 </table>
-
- 
