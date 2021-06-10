@@ -47,7 +47,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 [Registration Form](https://docs.google.com/forms/d/1xU5nx6QvBnx7-9qapa2BKgafpeacxuX_RnOYwYEO_Fc/edit){:target="_blank"} -  [Details](/files/executive-tax-programmes/income-tax/L2 Income Tax course brochure 2021 1.pdf){:target="_blank"} 
 
-Registration is CLOSED for Intake 1/2021.  
+Registration is CLOSED.  
 
 The next intake for this course will be in Nov 2021. Registration will be available six weeks prior to the course commencement date.
 
