@@ -92,6 +92,6 @@ Dates of programme via virtual classroom: 10, 11, 19  & 20 Aug 2021 (Each sessio
 
 [Registration Form](https://docs.google.com/forms/d/1PQvOVPINj7Ak7jPp-ypopLYlzmTYmba18oGg7-_lvmI/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochure Adv ITP 2021){:target="_blank"}
 
-**Registration is CLOSED for 2020 intake**
+**Registration is OPEN for 2021 intake**
 
 **Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
