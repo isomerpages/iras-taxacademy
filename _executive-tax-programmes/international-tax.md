@@ -90,7 +90,7 @@ The programme takes a commercial and practical approach to addressing main issue
 
 Dates of programme via virtual classroom: 10, 11, 19  & 20 Aug 2021 (Each session : 9.00 a.m. to 12.30 p.m.)
 
-[Registration Form](https://docs.google.com/forms/d/1PQvOVPINj7Ak7jPp-ypopLYlzmTYmba18oGg7-_lvmI/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochure Adv ITP 2021){:target="_blank"}
+[Registration Form](https://docs.google.com/forms/d/1PQvOVPINj7Ak7jPp-ypopLYlzmTYmba18oGg7-_lvmI/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochure Adv ITP 2021.pdf){:target="_blank"}
 
 **Registration is OPEN for 2021 intake**
 
