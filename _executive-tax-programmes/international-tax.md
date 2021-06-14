@@ -30,7 +30,7 @@ The 10% discount is applicable to the following programmes:
 * Jan 2021 intake: [Registration is closed](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
-* Aug 2021 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#itp-id)
+* Aug 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
@@ -88,12 +88,10 @@ Dates of programme via virtual classroom: 4 Jan to 15 Jan 2021 (Each session : 3
 
 The programme takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia. It covers the key concepts of international tax planning and assesses the impact of recent developments in international taxation through technical learning and interactive case studies for MNCs.  
 
-Look forward to a new learning experience as we deliver the programme to you via virtual classroom. 
+Dates of programme via virtual classroom: 10, 11, 19  & 20 Aug 2021 (Each session : 9.00 a.m. to 12.30 p.m.)
 
-Dates of programme via virtual classroom: 18, 19 ,20, 25 Aug 2020 (Each session : 2pm to 5.30pm)
+[Registration Form](https://docs.google.com/forms/d/1PQvOVPINj7Ak7jPp-ypopLYlzmTYmba18oGg7-_lvmI/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochure Adv ITP 2021.pdf){:target="_blank"}
 
-[Registration Form](https://docs.google.com/forms/d/1sQFeh0eY6vEfN0qr_EZBxbPp7fJ_102guV29UgSJP8E/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureAdvITP2020.pdf){:target="_blank"}
-
-**Registration is CLOSED for 2020 intake**
+**Registration is OPEN for 2021 intake**
 
 **Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
