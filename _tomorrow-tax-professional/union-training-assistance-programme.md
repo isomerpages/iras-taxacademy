@@ -54,6 +54,7 @@ Step 3: Login to the U Portal account to submit the UTAP application. NTUC Membe
 
 **Enquiry on UTAP Matters**
 
-Website : http://skillsupgrade.ntuc.org.sg
+Website :  [e2i’s website
+(https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/)
 
 Email : UTAP@e2i.com.sg
