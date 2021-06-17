@@ -1,19 +1,15 @@
 ---
-title: 'Terms and Conditions'
+title: Terms and Conditions
 permalink: /executive-tax-programmes/Terms-and-Conditions/
-breadcrumb: 'Terms and Conditions'
-
+breadcrumb: Terms and Conditions
 ---
-
-
 **1. Registration**
 
-1.1 Participants may apply for the course online or via email.
+1.1 Participants may apply for the course online.
 
 1.2 All applications for Level I and II courses are subject to confirmation. Successful applicants will receive an email at least 1 week before the commencement of the course.
 
-1.3 All applications for Level III courses are subject to shortlisting. For full programme registration, participants will be notified of their application outcome 1 month before the commencement of the course. For modular registration, participants will be notified
-approximately 3 weeks before the commencement of the module.
+1.3 All applications for Level III courses are subject to shortlisting. For full programme registration, participants will be notified of their application outcome 1 month before the commencement of the course. For modular registration, participants will be notified approximately 2 to 3 weeks before the commencement of the module.
 
 **2. Attendance**
 
@@ -75,7 +71,7 @@ E.g. If the unit consists of 6 lessons, participants have to attend at least 4 l
 10.1 For tax courses with examinations, hardcopy certificates of achievement/transcript will be
 issued to participants.
 
-10.2 For tax courses without examinations, a hardcopy certificate of completion will be issued.
+10.2 For tax courses without examinations, a certificate of completion will be issued.
 
 **11. Administrative fee**
 
