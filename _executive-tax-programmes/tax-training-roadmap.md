@@ -74,7 +74,7 @@ Students will achieve a good appreciation of basic tax principles and tax laws, 
     <td>At least 2 years experience in domestic tax</td>
   </tr>
   <tr>
-    <td>Accreditation by Singapore Chartered Tax Professionals</td>
+    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
     <td>NIL</td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ Students will achieve in-depth appreciation of tax principles and tax laws, and 
     <td>1 to 3 years</td>
   </tr>
   <tr>
-    <td>Accreditation by Singapore Institute of Accredited Tax Professionals</td>
+    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
     <td>• Accredited Tax Practitioners (Provisional)<br>
         • Accredited Tax Practitioners</td>
   </tr>
@@ -129,7 +129,7 @@ Students will achieve in-depth appreciation of tax principles and tax laws, and 
     <td>1 to 3 years</td>
   </tr>
   <tr>
-    <td>Accreditation by Singapore Institute of Accredited Tax Professionals</td>
+    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
      <td>• Accredited Tax Practitioners (Provisional)<br>
          • Accredited Tax Practitioners</td>
   </tr>
@@ -178,7 +178,7 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>At least 3 years</td>
   </tr>
   <tr>
-    <td>Accreditation by Singapore Institute of Accredited Tax Professionals</td>
+    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
     <td>• Accredited Tax Advisor</td>
   </tr>
   <tr>
@@ -204,7 +204,7 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>At least 3 years</td>
   </tr>
   <tr>
-    <td>Accreditation by Singapore Institute of Accredited Tax Professionals</td>
+    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
     <td>• Accredited Tax Advisor</td>
   </tr>
  </table>
@@ -214,10 +214,10 @@ Students will achieve a high level of understanding in tax and be able to work i
 <table class="table-v">
   <tr>
     <td>Programme Overview</td>
-    <td>(i) Leiden – TA Advanced Tax Treaties Programme <br>
+    <td>Leiden – TA Advanced Tax Treaties Programme <br>
 	(ii) Provide advanced treatment of tax treaties concepts and rules <br>
 	(iii) In-depth examination of the rules and structure of the OECD Model Tax Convention <br>
-	(iv) WU – TA Advanced Transfer Pricing Programme <br>
+	WU – TA Advanced Transfer Pricing Programme <br>
 	(v) Provide latest update on international transfer pricing developments <br>
 	(vi) Knowledge and insights to handle transfer pricing issues in industries that are of relevance to the Asia-Pacific region
     </td> 
