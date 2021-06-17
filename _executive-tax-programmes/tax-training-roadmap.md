@@ -1,11 +1,8 @@
 ---
-title: 'Tax Training Roadmap'
+title: Tax Training Roadmap
 permalink: /executive-tax-programmes/tax-training-roadmap/
-breadcrumb: 'Tax Training Roadmap'
-
+breadcrumb: Tax Training Roadmap
 ---
-
-
 Tax Academy offers a structured Tax Training Roadmap for tax professionals to attain a high level of competency in local and international tax. We collaborate with leaders in the industry, academia and the government to develop and deliver structured tax training programmes that effectively raise the professional competency, knowledge and capabilities of the tax community.
 
 
@@ -69,7 +66,7 @@ Students will achieve a good appreciation of basic tax principles and tax laws, 
   <tr>
     <td>Programme Overview</td>
     <td>(i) Provide foundation on general concepts of tax treaty and introduction to the OECD and Singapore treaty models <br>
-		(ii) Provide basic undestanding of transfer pricing and the Singapore transfer pricing guidelines
+		(ii) Provide basic understanding of transfer pricing and the Singapore transfer pricing guidelines
     </td> 
   </tr>
   <tr>
@@ -77,7 +74,7 @@ Students will achieve a good appreciation of basic tax principles and tax laws, 
     <td>At least 2 years experience in domestic tax</td>
   </tr>
   <tr>
-    <td>Accreditation by Singapore Institute of Accredited Tax Professionals</td>
+    <td>Accreditation by Singapore Chartered Tax Professionals</td>
     <td>NIL</td>
   </tr>
   <tr>
