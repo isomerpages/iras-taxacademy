@@ -5,7 +5,7 @@ breadcrumb: SkillsFuture Credit
 ---
 ### **SkillsFuture Credit**
 
-SkillsFuture Credit aims to encourage individuals to take ownership of their skills development and lifelong learning. All Singaporeans aged 25 and above will receive an opening credit of S$500 from January 2016. From 1 Oct 2020, Singapore citizens will receive a one-time $500 Skillsfuture Credit Top-up.  
+SkillsFuture Credit aims to encourage individuals to take ownership of their skills development and lifelong learning. All Singaporeans aged 25 and above will receive an opening credit of S$500 from January 2016. From 1 Oct 2020, Singapore citizens aged 25 or above will receive a one-time $500 Skillsfuture Credit Top-up.  
 
 For more information on SkillsFuture Credit claims, please visit [SkillsFuture Singapore](https://www.skillsfuture.gov.sg/credit){:target="_blank"}
 
