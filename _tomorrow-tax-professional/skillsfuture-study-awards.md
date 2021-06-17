@@ -17,5 +17,4 @@ Please visit [SkillsFuture Study Award for Accountancy](https://programmes.myski
 
 -	Executive Tax Programme Level 3 (Advanced Tax Programme)
 -	Executive Tax Programme Level 3 (Advanced GST)
--
-Only applicable for full programme participants
+- Only applicable for full programme participants
