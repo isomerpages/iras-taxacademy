@@ -215,11 +215,11 @@ Students will achieve a high level of understanding in tax and be able to work i
   <tr>
     <td>Programme Overview</td>
     <td>Leiden – TA Advanced Tax Treaties Programme <br>
-	(ii) Provide advanced treatment of tax treaties concepts and rules <br>
-	(iii) In-depth examination of the rules and structure of the OECD Model Tax Convention <br>
+	(i) Provide advanced treatment of tax treaties concepts and rules <br>
+	(ii) In-depth examination of the rules and structure of the OECD Model Tax Convention <br>
 	WU – TA Advanced Transfer Pricing Programme <br>
-	(v) Provide latest update on international transfer pricing developments <br>
-	(vi) Knowledge and insights to handle transfer pricing issues in industries that are of relevance to the Asia-Pacific region
+	(i) Provide latest update on international transfer pricing developments <br>
+	(ii) Knowledge and insights to handle transfer pricing issues in industries that are of relevance to the Asia-Pacific region
     </td> 
   </tr>
   <tr>
