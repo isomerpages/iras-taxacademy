@@ -27,7 +27,7 @@ Students will achieve a good appreciation of basic tax principles and tax laws, 
     <td>0 to 1 year</td>
   </tr>
   <tr>
-    <td>Accreditation by Singapore Institute of Accredited Tax Professionals</td>
+    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
     <td>NIL</td>
   </tr>
   <tr>
