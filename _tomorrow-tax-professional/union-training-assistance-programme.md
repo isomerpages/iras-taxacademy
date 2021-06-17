@@ -44,7 +44,7 @@ All NTUC members can apply for UTAP. However, the following criteria must be met
 
 **How to apply for UTAP?**
 
-Access website http://skillsupgrade.ntuc.org.sg
+Access [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/)
 
 Step 1: Click on 'Search Course' under the "Skills Upgrade Available" tab to find out if the course and training provider is supported under UTAP.
 
