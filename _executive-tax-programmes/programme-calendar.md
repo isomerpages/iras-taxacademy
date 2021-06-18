@@ -3,12 +3,13 @@ title: Programme Calendar
 permalink: /executive-tax-programmes/programme-calendar/
 ---
 ### **STRUCTURED TAX PROGRAMME CALENDAR**
+
 ##### **Executive Tax Programme Level I**
 
 <table>
   <tr>
     <td>Income Tax - Individual 1/2021</td>
-    <td>Apr/May 2021</td>
+    <td>From 12 Apr to 25 May 2021 (with e-learning)</td>
   </tr> 
   <tr>
     <td>Income Tax - Individual 2/2021</td>
@@ -16,7 +17,7 @@ permalink: /executive-tax-programmes/programme-calendar/
   </tr> 
   <tr>
     <td>Goods and Services Tax 1/2021</td>
-    <td>May: 17, 18<br></td>
+    <td>From 5 to 18 May 2021 (with e-learning)<br></td>
     </tr> 
   <tr>
     <td>Goods and Services Tax 2/2021</td>
@@ -28,7 +29,7 @@ permalink: /executive-tax-programmes/programme-calendar/
   </tr>  
   <tr>
    <td>International Tax 1/2021</td>
-    <td>May 2021</td>
+    <td>From 6 to 31 May 2021</td>
   </tr>  
   <tr>
     <td>International Tax 2/2021</td>
@@ -42,11 +43,11 @@ permalink: /executive-tax-programmes/programme-calendar/
 <table>
   <tr>
       <td>Income Tax - Business and Corporate 1/2021</td>
-      <td>Jul 2021</td> 
+      <td>From 1 to 29 Jul 2021</td> 
   </tr>  
   <tr>
       <td>Income Tax - Business and Corporate 2/2021</td>
-      <td>Sep 2021</td> 
+      <td>From 6 Sep to 5 Oct 2021</td> 
   </tr>  
   <tr>
      <td>Income Tax - Business and Corporate 3/2021</td>
@@ -59,7 +60,7 @@ permalink: /executive-tax-programmes/programme-calendar/
   <tr>
 				  <td>Goods and Services Tax 1/2021
 		  </td>
-      <td>Aug 2021</td>
+      <td>From 2 to 27 Aug 2021</td>
   </tr>  
   <tr>
       <td>Goods and Services Tax 2/2021</td>
@@ -77,11 +78,11 @@ permalink: /executive-tax-programmes/programme-calendar/
 <table>
   <tr>
     <td>Advanced Tax Programme Intake 16</td>
-    <td>Nov 2020 to Oct 2021 - Registration for specific modules is available.</td>
+    <td>From Nov 2020 to Oct 2021 - Registration for specific modules is available.</td>
   </tr>  
   <tr>
     <td>Advanced Tax Programme Intake 17</td>
-    <td>Apr 2021 to Mar 2022 - Registration will open in Mar 2021.</td> 
+    <td>From Apr 2021 to Mar 2022.</td> 
   </tr>  
   <tr>
      <td>Advanced Goods and Services Tax 2022</td>
@@ -93,10 +94,10 @@ permalink: /executive-tax-programmes/programme-calendar/
  </tr>  
   <tr>
    <td>WU-TA Advanced Transfer Pricing Programme</td>
-    <td>Sep: 6, 7, 8, 9, 13, 14, 15, 16 - Registration will open in Mar 2021. </td>
+    <td>From 6 to 16 Sep 2021 </td>
   </tr>  
   <tr>
    <td>Advanced International Tax Planning Programme</td>
-    <td>Aug 2021 </td>
+    <td>From 10 to 20 Aug 2021 </td>
   </tr>  
 </table>
