@@ -1,11 +1,8 @@
 ---
-title: 'Book Prizes'
+title: Book Prizes
 permalink: /tomorrow-tax-professional/book-prizes/
-breadcrumb: 'Book Prizes'
-
+breadcrumb: Book Prizes
 ---
-
-
 Tax Academy of Singapore sponsors book prizes to students taking the taxation modules in the local universities and polytechnics. 
 
 
@@ -13,36 +10,19 @@ Tax Academy of Singapore sponsors book prizes to students taking the taxation mo
 
 To encourage students to achieve their academic goals and pursue a career in tax
 
-### **2018 Tax Academy Book Prize Recipients from SMU**
+### **2020/2021 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
 
-![Image of Tax Academy Book Prize](/images/Daryl Tan 1.jpg)
-Tan Jun-Yang Daryl<br>
-Top Student in Advanced Taxation Module<br>
-
-
-![Image of Tax Academy Book Prize](/images/Luo Xindi 1.jpg)
-Luo Xindi<br>
-Top Student in Advanced Taxation Module<br>
-
-
-![Image of Tax Academy Book Prize](/images/Nicole Tan 1.jpg)
-Nicole Tan<br>
-Top Student in Advanced Taxation Module<br>
-
-
-### **2019/2020 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
-
-![Image of Tax Academy Book Prize](/images/Jinie.jpg)
-Jinie Agilia<br>
+![Image of Tax Academy Book Prize](/images/Calyn.jpg)
+Calyn Sng Shu Min<br>
 Best Performance in Taxation Module<br>
 
-![Image of Tax Academy Book Prize](/images/Ng HM.jpg)
-Ng Hui Min<br>
+![Image of Tax Academy Book Prize](/images/Ng Yi Shan.jpg)
+Ng Yi Shan<br>
 Best Performance in Taxation Module<br>
 
 
-![Image of Tax Academy Book Prize](/images/Joel Lai.jpg)
-Joel Lai Kai Rong<br>
+![Image of Tax Academy Book Prize](/images/Adrian.jpg)
+Adrian Galen Teng<br>
 Best Performance in Taxation Module<br>
 
 
@@ -59,4 +39,4 @@ Top Student in Taxation Module<br>
 Koo Si Dian<br>
 Top Student in Taxation Module<br>
 
-**Stay tuned for more updates on our book prizes recipients from NTU and NUS** 
+**Stay tuned for more updates on our book prizes recipients from NTU and NUS**
