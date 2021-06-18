@@ -4,6 +4,8 @@ permalink: /executive-tax-programmes/programme-calendar/
 ---
 ### **STRUCTURED TAX PROGRAMME CALENDAR**
 
+Please refer to the course brochure for the dates.
+
 ##### **Executive Tax Programme Level I**
 
 <table>
