@@ -16,7 +16,7 @@ To encourage students to achieve their academic goals and pursue a career in tax
 Calyn Sng Shu Min<br>
 Best Performance in Taxation Module<br>
 
-![Image of Tax Academy Book Prize](/images/Ng Yi Shan.jpg)
+![Image of Tax Academy Book Prize](/images/Ng Yi Shan.jpeg)
 Ng Yi Shan<br>
 Best Performance in Taxation Module<br>
 
