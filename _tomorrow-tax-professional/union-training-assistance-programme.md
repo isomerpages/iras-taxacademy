@@ -1,11 +1,8 @@
 ---
-title: 'Union Training Assistance Programme'
+title: Union Training Assistance Programme
 permalink: /tomorrow-tax-professional/Union-Training-Assistance-Programme/
-breadcrumb: 'Union Training Assistance Programme'
-
+breadcrumb: Union Training Assistance Programme
 ---
-
-
 ### **Union Training Assistance Programme (UTAP) for NTUC Members**
 
 Attend up to $250 worth of Tax Academy training for free each year as an NTUC member! 
@@ -16,7 +13,7 @@ NTUC members enjoy 50% unfunded course fee* support for up to $250 each year whe
 
 Please visit [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/) to find out more.
 
-\*Unfunded course fee refers to the balance course fee payable after applicable government subsidy. This excludes GST, registration fees, misc. fees etc.
+\*Unfunded course fee refers to the balance course fee payable after applicable government subsidy. This excludes GST, registration fees, miscellaneous fees, etc.
 
 \**This is only applicable to courses attended between 1 July 2020 to 31 December 2022.
 
@@ -47,17 +44,16 @@ All NTUC members can apply for UTAP. However, the following criteria must be met
 
 **How to apply for UTAP?**
 
-Access website http://skillsupgrade.ntuc.org.sg
+Access [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/)
 
 Step 1: Click on 'Search Course' under the "Skills Upgrade Available" tab to find out if the course and training provider is supported under UTAP.
 
-Step 2: Register for course with training provider and attend training. For course information and enrolment, please contact the training provider.
+Step 2: Register for course with training provider and attend training. 
 
 Step 3: Login to the U Portal account to submit the UTAP application. NTUC Members should apply for their UTAP claim within 6 months after course ends. Late applications will be rejected.
 
 **Enquiry on UTAP Matters**
 
-Website : http://skillsupgrade.ntuc.org.sg
+Access [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/)
 
 Email : UTAP@e2i.com.sg
-
