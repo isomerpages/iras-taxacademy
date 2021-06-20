@@ -27,7 +27,7 @@ The 10% discount is applicable to the following programmes:
 * Sep 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
-* Jan 2021 intake: [Registration is closed](/executive-tax-programmes/international-tax/#leiden-ta-id)
+* Nov 2021 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
 * Aug 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
