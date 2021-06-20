@@ -15,14 +15,6 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 16 July: [Country Tax Systems Webinar Series - Thailand](/seminars-and-conferences/upcoming/#16July-ta-id)
 
 
-#### **June 2021**
-
-* 4 Jun: [FasTax Webinar Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#4Jun-ta-id)
-* 10 Jun: [Budget Clinic Webinar Series – Jobs Support Scheme (JSS)](/seminars-and-conferences/upcoming/#10Jun-ta-id)
-* 11 Jun: [FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#11Jun-ta-id)
-* 18 Jun: [TaxEdge Webinar Series: Intellectual Property Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#18Jun-ta-id)
- 
-
 
 <a id="16July-ta-id"></a>
 #### **Country Tax Systems Webinar Series - Thailand**
@@ -106,110 +98,6 @@ Admin details:
 
 **David Allgaier** is a tax partner with Deloitte China and provides US tax advisory services to clients with an industry focus on private equity and real estate. David has over 20 years of experience advising clients on tax matters related to their investment into the United States such as issues related to capital structure/financing, holding company, profit repatriation/withholding tax, and exit. David also advises on US tax issues related to investment into China/Asia Pacific (for example, issues relevant to US investors in private equity funds in relation to portfolio investments in China/Asia Pacific). David has been based in Shanghai since 2008. Prior to working in Shanghai, David spent over six years working in London and over two years working in Dublin as a US tax advisor. Prior to working in Europe, David worked in both Washington, DC and Irvine, California. David is a frequent presenter on US tax topics such as the 2017 US tax reform, various stimulus measures related to Covid-19, and other recent and proposed tax law changes. David also currently serves as the chairperson of the American Chamber of Commerce (Shanghai) Tax Committee.
 
-
-<a id="18Jun-ta-id"></a>
-#### **TaxEdge Webinar Series: Intellectual Property Law 101 for Tax Professionals**
-**18 Jun**
-
-Tax Academy is pleased to present this webinar on Intellectual Property Law 101 for Tax Professionals. In this webinar, we have invited Mr. Jevon Louis (Head, IP, Tech and Data, Shook Lin & Bok LLP) and Mr. Danny Quah (Counsel, Providence Law Asia) who will share with you the key intellectual property law concepts and issues encountered by tax professionals in their line of work. The webinar will introduce the basics of intellectual property law, explore the different types of intellectual property (IP) and intangible assets (IA) that Industry 4.0 companies typically have, the various legal mechanisms under the law for protecting and commercially exploiting such assets, and the various tax-related issues, schemes, and incentives available in key financial jurisdictions. The webinar will end with a Q&A session where the panelists are Jevon and Danny.
-
-This webinar is suitable for: Tax practitioners, Business Owners, Finance/Accounting, and Legal professionals
-
-Agenda:
-* Intellectual Property and Intangible Assets
-* Industry 4.0 - Role of Intellectual Property and Intangible Assets
-* Creating, protecting, and exploiting Intellectual Property and Intangible Assets
-* Tax-related issues affecting IP such as valuation and transfer pricing
-
-**Admin details:**
-* This webinar will be conducted via Zoom
-* Date: 18 June 21
-* Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 9 June (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/n2SAbtn7wgZWqns48)
-
-**About the Speakers**
-
-**Jevon Louis** specialises in intellectual property (IP) law, technology and data law and heads the respective practices at Shook Lin & Bok LLP. Jevon’s experience extends to both contentious and non-contentious IP and technology matters across multiple industries including, but not limited to, banking IT systems, pharmaceuticals, renewable energy, manufacturing, construction, logistics and semiconductors. Jevon also advises on intangible asset strategies, including the creation, management and exploitation of such assets via transactions. Another facet of the practice is the use of a data-driven approach to provide actionable business intelligence and advisory services to clients.
-
-**Mr Danny Quah** is a commercial litigator with specialised expertise in complex tax disputes. He was recently recognised by the Singapore Academy of Law as an up-and-coming litigator and previously spent some time “magic circle” barristers chambers Pump Court Tax Chambers in London. Danny has acted in multi-million dollar income tax, GST and stamp duty disputes, rare GST tax avoidance disputes, and judicial reviews for and against IRAS. He was previously with Baker & McKenzie’s tax team and IRAS’ Law Division. 
-
-
-<a id="11Jun-ta-id"></a>
-#### **FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
-**11 Jun**
-
-As a highly market-oriented and open economy, Singapore has established an extensive network of double tax agreements (DTA) with her trading partners to promote international trade and investment by improving transparency of information and certainty of tax positions, as well as to mitigate double taxation. Many businesses often ask whether they need to withhold taxes on payments to foreign residents. This webinar will help businesses understand when and how to withhold taxes, as well as what withholding tax treaties and regulations mean for the business. This workshop will be facilitated by speakers from Deloitte - Mr Daniel Ho (Tax Partner), and Mr Yap Hsien Yew (Senior Manager). The speakers will share with you practical approaches to help businesses understand the application of tax treaties to common cross-border payments through various worked examples and case studies.
-
-Programme Outline:
-* Fundamentals of treaty interpretation
-* Introduction to common DTA provisions
-* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
-* Worked examples and case studies
-* Q&A
-
-This webinar is suitable for: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
-
-**Admin details:**
-* This webinar will be conducted via Zoom
-* Date: 11 June 21
-* Time: 2.00 p.m. to 5.00 p.m.
-* Fees: $85.60 (incl. GST)
-* Closing date for registration: 2 June (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/1TMvkAWuHubq51i5A)
-
-**About the Speakers**
-
-**Mr Daniel Ho** is a partner with more than 21 years of tax experience serving Singapore headquartered as well as multinational companies. He is well-versed in cross-border taxation and tax treaty interpretation dealing with issues relating to permanent establishments, IP licensing, debt and equity transactions, share and asset divestments etc. He is a faculty member of the Deloitte International Corporate Tax School and a former part-time lecturer for the subject “Principles of Taxation” at the Nanyang Technological University. He is also the M&A tax leader for Deloitte Southeast Asia.
-
-**Mr Yap Hsien Yew** has over 17 years of tax experience serving local, multinational, and listed companies in Singapore and the Asia-Pacific Region. He is regularly involved in tax consultancy and planning services, including M&A tax work, corporate restructuring, cross-border transactions, tax ruling requests, and stamp duties. The experience he has gained through tax advisory, due diligence, and tax M&A work for local, multinational, and listed companies has allowed him to understand the tax issues related to businesses.
-
-
-<a id="10Jun-ta-id"></a>
-#### **Budget Clinic Webinar Series – Jobs Support Scheme (JSS)**
-**10 Jun**
-
-Tax Academy is pleased to present this webinar which aims to enhance employers’ understanding of the Jobs Support Scheme (JSS). In this session IRAS’ speakers will provide you with an overview of the scheme and its recent changes. The webinar will also cover details on the disbursement of the payout, how the payout is computed and more importantly, unacceptable practices or scenarios that may constitute abuse of the system.  A Q&A session will also be available at the end of the session.
-
-This webinar is suitable for: Tax practitioners, Business Owners, Finance or Accounting and Legal professionals
-
-**Admin details:**
-* This webinar will be conducted via Zoom
-* Date: 10 Jun 21
-* Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 2 June (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/Gupamf79YVdQbmXk9)
-
-
-<a id="4Jun-ta-id"></a>
-#### **FasTax Webinar Series: Fundamentals of Withholding Tax**
-**4 Jun**
-
-The Tax Academy of Singapore is pleased to organise this webinar on Fundamentals of Withholding Tax. The webinar will be helmed by speakers from IRAS’ Corporate Tax and Enforcement Divisions. The speakers will share with you on the fundamental concepts of withholding tax, explain the types of payments that attract withholding tax and provide examples to illustrate the computation of withholding tax. This webinar will also cover the various aspects of withholding tax filing and payment obligations. 
-
-This webinar is suitable for: Tax practitioners, business owners, finance, accounting and legal professionals
-
-Agenda:
-* Scope of Tax
-* What is withholding tax
-* Payments subject to withholding tax
-* Details of payments under Sections 12(6) and 12(7)
-* Withholding tax rates
-* Computation of withholding tax
-* When to file and pay
-* Date of payment and deemed payment
-* Penalties for late payment and recovery actions for non-payment
-* e-Services at myTax Portal
-
-**Admin details:**
-* This webinar will be conducted via Zoom
-* Date: 4 Jun 21
-* Time: 2.30 p.m. to 4.30 p.m.
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 25 May (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/rU5bNU7z7fPVvhnt5)
 
 
 
