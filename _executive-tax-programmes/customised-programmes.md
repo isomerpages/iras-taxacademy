@@ -1,10 +1,8 @@
 ---
-title: 'Customised Programmes'
+title: Customised Programmes
 permalink: /executive-tax-programmes/customised-programmes/
-breadcrumb: 'Customised Programmes'
-
+breadcrumb: Customised Programmes
 ---
-
 To support the local tax community , Tax Academy is offering a 10% discount for customised programmes where relevant.  
 
 Tax Academy leverages on its strong network of partners (e.g. IRAS, Big 4 accounting firms, ISCA and Law Society) to provide customised training programmes to suit your organisation’s training needs.
@@ -19,7 +17,6 @@ We have tailored programmes for both public and private sector organisations. Yo
 * Lessons can be delivered via interactive group discussions and case studies
 * Comprehensive training materials will be provided
 * Clock Continuing Professional Education (CPE) hours for relevant topics
-* May include learning visits to other organisations, upon request
 
 To find out more on Customised Programme, please fill up the [FORM](https://form.gov.sg/5ef062461b667a001194317c) and we will get in touch with you shortly.
 
@@ -39,5 +36,3 @@ Participant of the Customised Programme on GST for Sim Lian Group Limited <br>
 
 **Fiji Islands Revenue & Customs Authority** <br>
 Participant of the Singapore Tax Experience Programme for Government Officials
-
-
