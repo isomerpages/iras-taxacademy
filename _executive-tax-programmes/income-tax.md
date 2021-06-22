@@ -68,7 +68,7 @@ Registration for individual modules will close 1 month before the commencement o
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
-Next intake on this course will be in April 2022.
+The next intake for this course will be in Apr 2022. Registration will be available in Jan/Feb 2022.
 
 
 ### **Book Prizes**
