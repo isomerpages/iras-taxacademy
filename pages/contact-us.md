@@ -19,7 +19,7 @@ locations:
 contacts:
   - title: Frequently Asked Questions
     content: 
-    - other: 'You might like to check out the <a href=/seminars-brochures/FAQ.pdf>FAQ</a> to see if your query is already answered here.'
+    - other: 'You might like to check out the <a href=/files/seminars-brochures/FAQ.pdf>FAQ</a> to see if your query is already answered here.'
   - title: Enquiries and Feedback
     content:
     - other: <a href="https://form.gov.sg/5d2c51283703d80011e52615">Enquiries and Feedback Form</a>

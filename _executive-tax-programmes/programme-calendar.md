@@ -84,11 +84,11 @@ Please refer to the respective programme brochure for the programme dates.
   </tr>  
   <tr>
     <td>Advanced Tax Programme Intake 17</td>
-    <td>From Apr 2021 to Mar 2022.</td> 
+    <td>From Apr 2021 to Mar 2022 - Registration for specific modules is available</td> 
   </tr>  
   <tr>
      <td>Advanced Goods and Services Tax 2022</td>
-    <td>Apr 2022 to Mar 2023 - Registration will open in Jan 2022.</td> 
+    <td>To be confirmed</td> 
   </tr>  
   <tr>
     <td>Leiden-TA Advanced Tax Treaties Programme </td>
