@@ -5,4 +5,4 @@ breadcrumb: Partners
 ---
 Tax Academy has developed strategic partnerships with leading regional bodies and institutions to deliver high quality tax training programmes, seminars and conferences.
 
-![Image of Tax Academy partners](/images/partnerslogos_resize1.jpg)
+![Image of Tax Academy partners]({{"/images/partnerslogos_resize1.jpg" | absolute_url}})
