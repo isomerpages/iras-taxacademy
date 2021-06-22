@@ -1,11 +1,8 @@
 ---
-title: 'Board of Directors'
+title: Board of Directors
 permalink: /who-we-are/board-of-directors/
-breadcrumb: 'Board of Directors'
-
+breadcrumb: Board of Directors
 ---
-
-
 #### **Chairman**
 
 **Mr Tham Sai Choy** <br>
@@ -23,7 +20,7 @@ Mr Tham is a Fellow of the Institute of Singapore Chartered Accountants, the Ins
 Chief Executive Officer <br>
 Tax Academy of Singapore <br>
 
-Mrs Eng-Tay Geok Lee is presently the Senior Advisor, Commissioner’s Office of the Inland Revenue Authority of Singapore, and the Chief Executive Officer of the Tax Academy of Singapore. She has more than thirty years in tax administration and tax policy formulation, and her roles include the Deputy Commissioner (Business) of the Inland Revenue Authority of Singapore and Chief Tax Policy Officer of Ministry of Finance Singapore. <br>
+Mrs Eng-Tay Geok Lee is the Chief Executive Officer of the Tax Academy of Singapore. She has more than thirty years in tax administration and tax policy formulation, and has previously held  appointments as Senior Advisor and Deputy Commissioner (Business) of Inland Revenue Authority of Singapore, and Chief Tax Policy Officer of Ministry of Finance Singapore. <br>
 
 **Mr Low Hwee Chua** <br>
 Regional Managing Partner <br>
@@ -88,4 +85,4 @@ Singapore Management University <br>
 
 Professor Sum has specialised in taxation for over 30 years and he was tax partner in Deloitte Singapore from 1987 to 2011. He has substantial experience providing advisory tax services to multi-national companies, local corporate clients and financial institutions. His specialties include corporate structuring, restructuring for IPO, acquisitions and mergers, cross-border transactions, structured finance and international tax planning. 
 
-Professor Sum had been nominated on several occasions as one of the top 10 leading Tax Advisers in Singapore by International Tax Review and was also featured as one of the World’s Leading Tax Advisers in the Legal Media Group 2011 Guide to the World’s Leading Tax Advisers. He served on the Board of the Tax Academy of Singapore from August 2006 to August 2011 and was also previously a Senior Consultant with IRAS. He is currently a Board Member of IRAS and a Council Member of the National Arts Council. 
+Professor Sum had been nominated on several occasions as one of the top 10 leading Tax Advisers in Singapore by International Tax Review and was also featured as one of the World’s Leading Tax Advisers in the Legal Media Group 2011 Guide to the World’s Leading Tax Advisers. He served on the Board of the Tax Academy of Singapore from August 2006 to August 2011 and was also previously a Senior Consultant with IRAS. He is currently a Board Member of IRAS and a Council Member of the National Arts Council.
