@@ -3,12 +3,12 @@ title: Overview
 permalink: /who-we-are/overview/
 breadcrumb: Overview
 ---
-> Tax Academy of Singapore is a not-for-profit institution set up by the Inland Revenue Authority of Singapore in collaboration with the international accounting firms - Deloitte & Touche, Ernst & Young, KPMG and PricewaterhouseCoopers, the Singapore Chartered Tax Professionals, the Institute of Singapore Chartered Accountants and the Law Society of Singapore
+> Tax Academy of Singapore is a not-for-profit institution set up by the Inland Revenue Authority of Singapore in collaboration with the international accounting firms - Deloitte & Touche, Ernst & Young, KPMG and PricewaterhouseCoopers, the Singapore Chartered Tax Professionals, the Institute of Singapore Chartered Accountants and the Law Society of Singapore.
 
 
 ### **Our Mission**
 
-To raise professional competency of the tax community and develop our standing as a leading centre for taxation and regional tax knowledge hub
+To raise professional competency of the tax community and develop our standing as a leading centre for taxation and regional tax knowledge hub.
 
 ### **Our Goals**
 
