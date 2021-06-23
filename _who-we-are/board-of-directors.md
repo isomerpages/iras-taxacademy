@@ -20,7 +20,7 @@ Mr Tham is a Fellow of the Institute of Singapore Chartered Accountants, the Ins
 Chief Executive Officer <br>
 Tax Academy of Singapore <br>
 
-Mrs Eng-Tay Geok Lee is the Chief Executive Officer of the Tax Academy of Singapore. She has more than thirty years in tax administration and tax policy formulation, and has previously held  appointments as Senior Advisor and Deputy Commissioner (Business) of Inland Revenue Authority of Singapore, and Chief Tax Policy Officer of Ministry of Finance Singapore. <br>
+Mrs Eng-Tay Geok Lee is the Chief Executive Officer of the Tax Academy of Singapore. She has more than thirty years of experience in tax administration and tax policy formulation, and has previously held  appointments as Senior Advisor and Deputy Commissioner (Business) of Inland Revenue Authority of Singapore, and Chief Tax Policy Officer of Ministry of Finance Singapore. <br>
 
 **Mr Low Hwee Chua** <br>
 Regional Managing Partner <br>
