@@ -13,8 +13,25 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 8 July: [Country Tax Systems Webinar Series - U.S. Taxation](/seminars-and-conferences/upcoming/#8July-ta-id)
 * 16 July: [Country Tax Systems Webinar Series - Thailand](/seminars-and-conferences/upcoming/#16July-ta-id)
+* 22 July: [TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries](/seminars-and-conferences/upcoming/#22July-ta-id)
 
+<a id="22July-ta-id"></a>
+#### **TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries**
+**22 July**
 
+Tax Academy is pleased to present the webinar “UN Tax Developments and their relevance for Developing Countries”, on 22 July.  We are pleased to invite Mr Michael Lennard, Chief of the UN’s International Tax Cooperation Unit and Secretary of the UN Tax Committee, who will outline the UN Tax developments, including taxing the increasingly digitalized economy, other tax treaty issues, and transfer pricing.  He will discuss on the relevance of the UN tax work to developing countries and possible ways forward for international tax cooperation, including promoting developing country input into the norm setting.
+
+Admin details:
+* This webinar will be conducted via Zoom
+* Date:  22 July 21
+* Time: 3.00 p.m. to 5.00 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 12 July (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/L8d5tdDZKoydi3M69)
+
+**About the Speaker**
+
+**Michael Lennard** is Chief of the International Tax Cooperation Section in the Financing for Sustainable Development Office of the UN and Secretary of the UN Tax Committee.  His work focuses on ensuring the fairness and workability of international tax norms, including achieving greater developing country input into those norms, and encouraging cooperation to improve tax systems as a spur to sustained development that benefits all stakeholders in tax systems. He currently leads the UN Secretariat work on transfer pricing and on taxation of the digitalized economy.  He has also been responsible at Secretariat level, for the 2017 Updates of the UN Model Tax Convention and United Nations Handbook on Selected Issues in the Taxation of the Extractive Industries for Developing Countries.
 
 <a id="16July-ta-id"></a>
 #### **Country Tax Systems Webinar Series - Thailand**
