@@ -59,7 +59,7 @@ Lennon is a member of the Institute of Singapore Chartered Accountants and a mem
 Assistant Dean, Division of Business Law <br>
 Nanyang Business School, Nanyang Technological University <br>
 
-Associate Professor Poh has been with the Nanyang Business School, NTU since 1998. He currently serves as Assistant Dean for the Bachelor in Accountancy programme, and teaches taxation courses at undergraduate and postgraduate levels. His research has been published in a number of peer-reviewed international journals. Outside of NTU, he has served at various times as Examiner for several professional accountancy bodies. He is an Accredited Tax Adviser and is currently a member of the Tax Academy’s curriculum and examination development committee and a member of the Income Tax Board of Review. <br>
+Associate Professor Poh has been with the Nanyang Business School, NTU since 1998. He currently serves as Assistant Dean for the Bachelor in Accountancy programme, and teaches taxation courses at undergraduate and postgraduate levels. His research has been published in a number of peer-reviewed international journals. Outside of NTU, he has served at various times as Examiner for several professional accountancy bodies. He is an Accredited Tax Adviser and had previously served as a member of the Tax Academy’s curriculum and examination development committee and a member of the Income Tax Board of Review. <br>
 
 **Mr Eugene Lim** <br>
 Co-Founder, Principal <br>
