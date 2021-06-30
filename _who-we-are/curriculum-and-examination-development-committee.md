@@ -1,16 +1,12 @@
 ---
-title: 'Curriculum and Examination Development Committee'
+title: Curriculum and Examination Development Committee
 permalink: /who-we-are/curriculum-and-exam-development-committee/
-breadcrumb: 'Curriculum and Examination Development Committee'
-
+breadcrumb: Curriculum and Examination Development Committee
 ---
-
-
 #### **Chairman**
 **Ms Sim Siew Moon** <br>
 Chairman <br>
-EY Asia Pacific Tax Policy and Controversy Practice Leader and Partner  <br>
-Ernst & Young Solutions LLP
+Retired Singapore Tax Partner, Ernst & Young Solutions LLP  <br>
 
 #### **Members**
 **Ms Chow Wai Yee** <br>
@@ -32,5 +28,3 @@ KPMG Singapore
 **Associate Professor Stephen Phua** <br>
 Associate Professor <br>
 National University of Singapore
-
-
