@@ -6,7 +6,8 @@ breadcrumb: Curriculum and Examination Development Committee
 #### **Chairman**
 **Ms Sim Siew Moon** <br>
 Chairman <br>
-Retired Singapore Tax Partner, Ernst & Young Solutions LLP  <br>
+Retired Singapore Tax Partner <br>
+Ernst & Young Solutions LLP  <br>
 
 #### **Members**
 **Ms Chow Wai Yee** <br>
