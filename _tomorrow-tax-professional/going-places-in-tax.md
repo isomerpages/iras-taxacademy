@@ -35,7 +35,7 @@ Give it a go, be prepared to invest because it is your career and your future,�
       </div>
 
 **Going Places in Tax: Sim Siew Moon – Be passionate about tax**<br>
-“Tax is about maths as you do computation about tax payables; tax is also art as you have to be creative to see what can be done within the ambience of the law,” declares Sim Siew Moon, Partner of Tax, Ernst & Young Solutions LLP. Hear real life practical stories on career prospects in different areas of tax specialisation.
+“Tax is about maths as you do computation about tax payables; tax is also art as you have to be creative to see what can be done within the ambience of the law,” declares Sim Siew Moon, Retired Singapore Tax Partner, Ernst & Young Solutions LLP. Hear real life practical stories on career prospects in different areas of tax specialisation.
 
 <div class="bp-youtube">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/9o5CsFuKUzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
