@@ -27,7 +27,7 @@ The 10% discount is applicable to the following programmes:
 * Sep 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
-* Nov 2021 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#leiden-ta-id)
+* Nov 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
 * Aug 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
@@ -75,13 +75,13 @@ Dates of programme via virtual classroom: 6, 7, 8, 9, 13, 14, 15, 16 Sep 2021 (E
 <a id="leiden-ta-id"></a>
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
 
-The Advanced Tax Treaties Programme is a collaborative effort between Tax Academy of Singapore and International Tax Center Leiden, Netherlands. The programme is aimed at tax professionals who have at least five years' tax experience and who are seeking to deepen their insight and expertise in tax treaties.
+The Advanced Tax Treaties Programme is a collaborative effort between Tax Academy of Singapore and International Tax Center Leiden, Netherlands. The programme is aimed at tax professionals who have at least 3 years' tax experience and who are seeking to deepen their insight and expertise in tax treaties.
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts. Look forward to a new learning experience as we deliver the programme to you via virtual classroom.
 
 
-[Registration Form] - [Details](/files/seminars-brochures/Website_ATT Brochure_Virtual.pdf)
-**Registration is CLOSED**
+[Registration Form](https://forms.gle/17Q3xEXr8iaXUybw7) - [Details](/files/seminars-brochures/Website_ATT Brochure_Virtual.pdf)
+**Registration is OPEN for Nov 2021 intake.**
 
 
 <a id="itp-id"></a>
