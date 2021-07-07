@@ -19,7 +19,7 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 - Executive Tax Programme Level 2 (Business & Corporate Tax) - TGS-2019507222
 -	Executive Tax Programme Level 3 (Advanced Tax Programme)* - TGS-2019507226
 -	Executive Tax Programme Level 1 (GST) - TGS-2019507219
--	Executive Tax Programme Level 2 (GST) - TGS-2019507223
+-	Executive Tax Programme Level 2 (GST)* - TGS-2019507223
 -	Executive Tax Programme Level 3 (Advanced GST)* - TGS-2019507225
 -	Executive Tax Programme Level 1 (International Tax) - TGS-2019507221
 -	Executive Tax Programme Level 2 (International Tax) - TGS-2019507224
