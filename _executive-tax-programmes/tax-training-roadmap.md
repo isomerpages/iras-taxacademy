@@ -74,10 +74,6 @@ Students will achieve a good appreciation of basic tax principles and tax laws, 
     <td>At least 2 years experience in domestic tax</td>
   </tr>
   <tr>
-    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
-    <td>NIL</td>
-  </tr>
-  <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>This course is suitable for candidates who wish to take Paper 1 & 3 of the ADIT exam</td>
   </tr>
