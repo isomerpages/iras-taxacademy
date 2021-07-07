@@ -37,7 +37,7 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 - Please make payment within 7 days upon receiving the invoice so that Tax Academy can issue a programme confirmation
 - Upon receiving the programme confirmation, please log in to the SkillsFuture Credit portal and upload the confirmation to submit your claim immediately
 - Please email Tax Academy a screenshot of the claim after it has been submitted and approved by SkillsFuture Singapore
-- Please note that TA programmes are not eligible for other funding such as the Mid-Career Enhanced Subsidy (MCES) and Workfare Skills Support (WSS) Scheme,
+- Please note that TA programmes are not eligible for other funding such as the Mid-Career Enhanced Subsidy (MCES) and Workfare Skills Support (WSS) Scheme.
 
 
 *Sign up for our programmes now, just a few simple steps and you can offset the programme fees using your SkillsFuture Credits.*
