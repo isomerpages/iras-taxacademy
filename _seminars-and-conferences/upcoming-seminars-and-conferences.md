@@ -49,6 +49,7 @@ Target Audience: Tax practitioners, Business Owners, Finance/Accounting and Lega
 * Time: 2.00 p.m. to 5.00 p.m.
 * Fees: $85.60 (incl. GST)
 * Closing date for registration: 29 Jul (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/Kncus5x7YZfJxEyW6)
 
 
 <a id="5Aug-ta-id"></a>
