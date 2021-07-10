@@ -8,12 +8,22 @@ Are you looking to learn more about a specific area of tax that is currently not
 Please tell us what it is, so that we can consider designing new events or enhancing the existing ones.
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+#### **August 2021**
+
+* 5 Aug : [TaxEdge Webinar Series: Trusts Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#5Aug-ta-id)
+
+* 6 Aug : [FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#6Aug-ta-id)
+
+* 20 Aug : [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#20Aug-ta-id)
+
+ 27 Aug : [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#27Aug-ta-id)
+
 
 #### **July 2021**
 
-* 8 July: [Country Tax Systems Webinar Series - U.S. Taxation](/seminars-and-conferences/upcoming/#8July-ta-id)
-* 16 July: [Country Tax Systems Webinar Series - Thailand](/seminars-and-conferences/upcoming/#16July-ta-id)
-* 22 July: [TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries](/seminars-and-conferences/upcoming/#22July-ta-id)
+* 8 Jul: [Country Tax Systems Webinar Series - U.S. Taxation](/seminars-and-conferences/upcoming/#8July-ta-id)
+* 16 Jul: [Country Tax Systems Webinar Series - Thailand](/seminars-and-conferences/upcoming/#16July-ta-id)
+* 22 Jul: [TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries](/seminars-and-conferences/upcoming/#22July-ta-id)
 
 <a id="22July-ta-id"></a>
 #### **TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries**
