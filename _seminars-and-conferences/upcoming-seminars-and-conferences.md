@@ -30,6 +30,25 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 #### **FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
 **6 Aug**
 
+Singapore has established an extensive network of double tax agreements (DTA) to promote international trade and investment through information transparency and tax certainty, as well as to mitigate double taxation. This has implication on withholding tax on payments to foreign residents.
+
+Join us in this webinar where our speakers from Deloitte, Mr. Daniel Ho (Tax Partner), and Mr. Yap Hsien Yew (Senior Manager), will share on the requirements of withholding tax, what withholding tax treaties and regulations mean for businesses.  They will also share practical approaches to help businesses understand the application of tax treaties to common cross-border payments through worked examples and case studies.
+
+Programme Outline:
+* Fundamentals of treaty interpretation
+* Introduction to common DTA provisions
+* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
+* Worked examples and case studies
+* Q&A
+ 
+Target Audience: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+
+**Admin details**:
+* This webinar will be conducted via Zoom
+* Date:  6 Aug 21
+* Time: 2.00 p.m. to 5.00 p.m.
+* Fees: $85.60 (incl. GST)
+* Closing date for registration: 29 Jul (or when webinar is fully subscribed)
 
 
 <a id="5Aug-ta-id"></a>
@@ -43,7 +62,7 @@ Target Audience: Tax Practitioners, Family Offices, Wealth Planners, Business Ow
 **Admin details**:
 * The webinar will be conducted via Zoom
 * Date: 5 Aug 21
-* Time: 3.00pm to 5.00pm
+* Time: 3.00 p.m. to 5.00 p.m.
 * Fees: $53.50 (incl. GST)
 * Closing date for registration: 29 Jul (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/pkuJ4WXmdCUfbsh59)
