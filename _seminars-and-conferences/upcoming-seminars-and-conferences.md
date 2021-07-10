@@ -26,6 +26,31 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 22 Jul: [TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries](/seminars-and-conferences/upcoming/#22July-ta-id)
 
 
+<a id="20Aug-ta-id"></a>
+#### **FasTax Webinar Series: Fundamentals of Corporate Tax Filing**
+**20 Aug**
+
+As a company director, do you know whether your tax agent/staff are filing corporate tax correctly and what are the proper documentations to maintain? As a tax agent/practitioner, do you know what are the common pitfalls to avoid when filing corporate tax for your clients?
+
+ 
+
+Join us in this webinar as our speakers from IRAS’ Corporate Tax and Enforcement Divisions equip you with knowledge in the following areas:
+
+Fundamentals of Singapore corporate taxation
+Practical guidance and tips for preparing tax computation
+Responsibilities of the company director
+ 
+
+Target Audience: Company directors, tax agents/practitioners, finance and accounting professionals
+
+**Admin details:**
+* The webinar will be conducted via Zoom
+* Date: 20 Aug 21
+* Time: 2.00 p.m. to 5.00 p.m.
+* Fees: $85.60 (incl. GST)
+* Closing date for registration: 12 Aug (or when webinar is fully subscribed)
+
+
 <a id="6Aug-ta-id"></a>
 #### **FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
 **6 Aug**
