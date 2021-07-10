@@ -26,6 +26,23 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 22 Jul: [TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries](/seminars-and-conferences/upcoming/#22July-ta-id)
 
 
+<a id="27Aug-ta-id"></a>
+#### **FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance**
+**27 Aug**
+
+Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors?  Join us in this webinar where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner. The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
+
+ Target Audience: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+
+ **Admin details:**
+* The webinar will be conducted via Zoom
+* Date: 27 Aug 21
+* Time: 2.30pm to 4.30pm
+* Fees: Fees: $53.50 (incl. GST)
+* Closing date for registration: 19 Aug (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/wtvuBKdeKmb8GEpd7)
+
+
 <a id="20Aug-ta-id"></a>
 #### **FasTax Webinar Series: Fundamentals of Corporate Tax Filing**
 **20 Aug**
@@ -45,7 +62,7 @@ Target Audience: Company directors, tax agents/practitioners, finance and accoun
 * Time: 2.00 p.m. to 5.00 p.m.
 * Fees: $85.60 (incl. GST)
 * Closing date for registration: 12 Aug (or when webinar is fully subscribed)
-[Registration Form](https://forms.gle/59E8rwoyEyx3wpbk6)
+* [Registration Form](https://forms.gle/59E8rwoyEyx3wpbk6)
 
 
 <a id="6Aug-ta-id"></a>
