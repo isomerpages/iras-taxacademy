@@ -32,15 +32,11 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 As a company director, do you know whether your tax agent/staff are filing corporate tax correctly and what are the proper documentations to maintain? As a tax agent/practitioner, do you know what are the common pitfalls to avoid when filing corporate tax for your clients?
 
- 
-
 Join us in this webinar as our speakers from IRAS’ Corporate Tax and Enforcement Divisions equip you with knowledge in the following areas:
-
-Fundamentals of Singapore corporate taxation
-Practical guidance and tips for preparing tax computation
-Responsibilities of the company director
+* Fundamentals of Singapore corporate taxation
+* Practical guidance and tips for preparing tax computation
+* Responsibilities of the company director
  
-
 Target Audience: Company directors, tax agents/practitioners, finance and accounting professionals
 
 **Admin details:**
@@ -49,6 +45,7 @@ Target Audience: Company directors, tax agents/practitioners, finance and accoun
 * Time: 2.00 p.m. to 5.00 p.m.
 * Fees: $85.60 (incl. GST)
 * Closing date for registration: 12 Aug (or when webinar is fully subscribed)
+[Registration Form](https://forms.gle/59E8rwoyEyx3wpbk6)
 
 
 <a id="6Aug-ta-id"></a>
@@ -68,7 +65,7 @@ Programme Outline:
  
 Target Audience: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
 
-**Admin details**:
+**Admin details:**
 * This webinar will be conducted via Zoom
 * Date:  6 Aug 21
 * Time: 2.00 p.m. to 5.00 p.m.
