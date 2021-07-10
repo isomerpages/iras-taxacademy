@@ -25,13 +25,37 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 16 Jul: [Country Tax Systems Webinar Series - Thailand](/seminars-and-conferences/upcoming/#16July-ta-id)
 * 22 Jul: [TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries](/seminars-and-conferences/upcoming/#22July-ta-id)
 
+
+<a id="6Aug-ta-id"></a>
+#### **FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
+**6 Aug**
+
+
+
+<a id="5Aug-ta-id"></a>
+#### **TaxEdge Webinar Series: Trusts Law 101 for Tax Professionals**
+**5 Aug**
+
+Tax Academy is pleased to present this webinar on Trusts Law 101 for Tax Professionals. In this webinar, Ms. Valerie Wu (Partner, Head of Tax & Private Wealth Asia, Pinsent Masons) and Mr. Danny Quah (Counsel, Providence Law Asia) will share on key trust concepts in the private wealth arena. Hot topics such as sham trusts, settlor-reserved powers, non-charitable purpose trusts and the use of trusts in tax avoidance structures will also be covered.
+
+Target Audience: Tax Practitioners, Family Offices, Wealth Planners, Business Owners, Finance/Accounting Professionals
+
+**Admin details**:
+* The webinar will be conducted via Zoom
+* Date: 5 Aug 21
+* Time: 3.00pm to 5.00pm
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 29 Jul (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/pkuJ4WXmdCUfbsh59)
+
+
 <a id="22July-ta-id"></a>
 #### **TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries**
 **22 July**
 
 Tax Academy is pleased to present the webinar “UN Tax Developments and their relevance for Developing Countries”, on 22 July.  We are pleased to invite Mr Michael Lennard, Chief of the UN’s International Tax Cooperation Unit and Secretary of the UN Tax Committee, who will outline the UN Tax developments, including taxing the increasingly digitalized economy, other tax treaty issues, and transfer pricing.  He will discuss on the relevance of the UN tax work to developing countries and possible ways forward for international tax cooperation, including promoting developing country input into the norm setting.
 
-Admin details:
+**Admin details**:
 * This webinar will be conducted via Zoom
 * Date:  22 July 21
 * Time: 3.00 p.m. to 5.00 p.m.
