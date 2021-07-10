@@ -11,12 +11,9 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 #### **August 2021**
 
 * 5 Aug : [TaxEdge Webinar Series: Trusts Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#5Aug-ta-id)
-
 * 6 Aug : [FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#6Aug-ta-id)
-
 * 20 Aug : [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#20Aug-ta-id)
-
- 27 Aug : [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#27Aug-ta-id)
+* 27 Aug : [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#27Aug-ta-id)
 
 
 #### **July 2021**
@@ -32,12 +29,12 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors?  Join us in this webinar where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner. The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
 
- Target Audience: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
+Target Audience: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
 
  **Admin details:**
 * The webinar will be conducted via Zoom
 * Date: 27 Aug 21
-* Time: 2.30pm to 4.30pm
+* Time: 2.30 p.m. to 4.30 p.m.
 * Fees: Fees: $53.50 (incl. GST)
 * Closing date for registration: 19 Aug (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/wtvuBKdeKmb8GEpd7)
