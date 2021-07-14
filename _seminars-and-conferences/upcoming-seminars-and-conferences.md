@@ -127,7 +127,7 @@ Target Audience: Tax Practitioners, Family Offices, Wealth Planners, Business Ow
 #### **TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries**
 **22 July**
 
-Tax Academy is pleased to present the webinar “UN Tax Developments and their relevance for Developing Countries”, on 22 July.  We are pleased to invite Mr Michael Lennard, Chief of the UN’s International Tax Cooperation Unit and Secretary of the UN Tax Committee, who will outline the UN Tax developments, including taxing the increasingly digitalized economy, other tax treaty issues, and transfer pricing.  He will discuss on the relevance of the UN tax work to developing countries and possible ways forward for international tax cooperation, including promoting developing country input into the norm setting.
+Tax Academy is pleased to present the webinar “UN Tax Developments and their relevance for Developing Countries”, on 22 July.  In this webinar, Mr Michael Lennard, Chief of the UN’s International Tax Cooperation Unit and Secretary of the UN Tax Committee, will outline the UN Tax developments, including taxing the increasingly digitalized economy, other tax treaty issues, and transfer pricing.  He will discuss on the relevance of the UN tax work to developing countries and possible ways forward for international tax cooperation, including promoting developing country input into the norm setting.
 
 **Admin details**:
 * This webinar will be conducted via Zoom
