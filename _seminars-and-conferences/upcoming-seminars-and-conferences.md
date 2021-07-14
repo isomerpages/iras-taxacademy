@@ -8,6 +8,10 @@ Are you looking to learn more about a specific area of tax that is currently not
 Please tell us what it is, so that we can consider designing new events or enhancing the existing ones.
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+#### **September 2021**
+* 3 Sep : [Signature Conference: Taxes and Investments in a Post-Pandemic World
+](/seminars-and-conferences/upcoming/#3Sep-ta-id)
+
 #### **August 2021**
 
 * 5 Aug : [TaxEdge Webinar Series: Trusts Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#5Aug-ta-id)
@@ -21,6 +25,20 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 8 Jul: [Country Tax Systems Webinar Series - U.S. Taxation](/seminars-and-conferences/upcoming/#8July-ta-id)
 * 16 Jul: [Country Tax Systems Webinar Series - Thailand](/seminars-and-conferences/upcoming/#16July-ta-id)
 * 22 Jul: [TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries](/seminars-and-conferences/upcoming/#22July-ta-id)
+
+
+<a id="3Sep-ta-id"></a>
+#### **Signature Conference: Taxes and Investments in a Post-Pandemic World**
+**3 Sep**
+
+Join us at the Tax Academy’s Signature Conference on 3 Sep 2021! Look forward to a new experience as we deliver the conference virtually to you.
+
+Hear tax experts and academics discuss the fiscal and tax challenges, the emerging international tax rules and policies, and make sense of the imperatives in preparation for the new fiscal and international tax order for a more digitalised economy.
+
+**Save the date and stay tuned for more information !**
+
+Who should attend:
+Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
 
 
 <a id="27Aug-ta-id"></a>
@@ -109,7 +127,7 @@ Target Audience: Tax Practitioners, Family Offices, Wealth Planners, Business Ow
 #### **TaxEdge Webinar Series - UN Tax Developments and their relevance for Developing Countries**
 **22 July**
 
-Tax Academy is pleased to present the webinar “UN Tax Developments and their relevance for Developing Countries”, on 22 July.  We are pleased to invite Mr Michael Lennard, Chief of the UN’s International Tax Cooperation Unit and Secretary of the UN Tax Committee, who will outline the UN Tax developments, including taxing the increasingly digitalized economy, other tax treaty issues, and transfer pricing.  He will discuss on the relevance of the UN tax work to developing countries and possible ways forward for international tax cooperation, including promoting developing country input into the norm setting.
+Tax Academy is pleased to present the webinar “UN Tax Developments and their relevance for Developing Countries”, on 22 July.  In this webinar, Mr Michael Lennard, Chief of the UN’s International Tax Cooperation Unit and Secretary of the UN Tax Committee, will outline the UN Tax developments, including taxing the increasingly digitalized economy, other tax treaty issues, and transfer pricing.  He will discuss on the relevance of the UN tax work to developing countries and possible ways forward for international tax cooperation, including promoting developing country input into the norm setting.
 
 **Admin details**:
 * This webinar will be conducted via Zoom
@@ -210,13 +228,10 @@ Admin details:
 
 
 
+*Tax Academy reserves the right to cancel the event, or make changes to the schedule, venue and speakers.*
 
 
 For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
-
-
-
-
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
