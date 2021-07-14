@@ -30,11 +30,13 @@ sections:
           description: Executive Tax Programme Levels I to III
           url: /executive-tax-programmes/international-tax/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Taxes and Investments in a Post-Pandemic World, 3 Sep 2021
+      subtitle: Signature Conference
+      description: Save the date and stay tuned for more information !
+      button: Upcoming seminars and conferences
       alt: Image alt text
+      image: /images/Save%20the%20Date.jpg
+      url: https://www.taxacademy.sg/seminars-and-conferences/upcoming/
   - infopic:
       subtitle: The Law & Practice of Singapore Income Tax, Third Edition
       url: /independent-pages/the-law-and-practice-of-singapore-income-tax/
