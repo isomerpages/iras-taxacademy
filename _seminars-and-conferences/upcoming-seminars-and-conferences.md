@@ -46,7 +46,7 @@ Target Audience: Tax practitioners, Business Owners, Finance/Accounting and Lega
 * The webinar will be conducted via Zoom
 * Date: 27 Aug 21
 * Time: 2.30 p.m. to 4.30 p.m.
-* Fees: $53.50 (incl. GST).  Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.
+* Fees: $53.50 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.*
 * Closing date for registration: 19 Aug (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/wtvuBKdeKmb8GEpd7)
 
@@ -68,7 +68,7 @@ Target Audience: Company directors, tax agents/practitioners, finance and accoun
 * The webinar will be conducted via Zoom
 * Date: 20 Aug 21
 * Time: 2.00 p.m. to 5.00 p.m.
-* Fees: $85.60 (incl. GST).  Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 80, excluding GST.
+* Fees: $85.60 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 80, excluding GST.*
 * Closing date for registration: 12 Aug (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/59E8rwoyEyx3wpbk6)
 
@@ -94,7 +94,7 @@ Target Audience: Tax practitioners, Business Owners, Finance/Accounting and Lega
 * This webinar will be conducted via Zoom
 * Date:  6 Aug 21
 * Time: 2.00 p.m. to 5.00 p.m.
-* Fees: $85.60 (incl. GST).  Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 80, excluding GST.
+* Fees: $85.60 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 80, excluding GST.*
 * Closing date for registration: 29 Jul (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/Kncus5x7YZfJxEyW6)
 
@@ -111,7 +111,7 @@ Target Audience: Tax Practitioners, Family Offices, Wealth Planners, Business Ow
 * The webinar will be conducted via Zoom
 * Date: 5 Aug 21
 * Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST).  Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.
+* Fees: $53.50 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.*
 * Closing date for registration: 29 Jul (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/pkuJ4WXmdCUfbsh59)
 
