@@ -38,13 +38,11 @@ Pui Ming is the Head of Tax with Ernst & Young Singapore. She has more than 20 y
 
 Pui Ming was previously the EY Asean Leader for Global Compliance and Reporting, where she headed the record-to-report services in the region, which span traditional tax compliance, tax accounting, as well as book-keeping, payroll, and corporate secretarial services. She is also experienced in tax advisory matters including acquisitions, group reorganization, tax controversies and health checks etc. Pui Ming holds a Bachelor of Accountancy (Second Upper Honours) from the National University of Singapore. She is a member of the Institute of Singapore Chartered Accountants. She is also an Accredited Tax Advisor (Income Tax) of the Singapore Institute of Accredited Tax Professionals. 
 
-**Mr Chiu Wu Hong** <br>
-Partner <br>
-Head of IGH & Manufacturing, Tax <br>
-Head of Enterprise, Tax <br>
+**Mr Ajay Sanganeria** <br>
+Head of Tax <br>
 KPMG Singapore <br>
 
-Wu Hong has over 20 years of Singapore and regional tax experience in the areas of tax incentive applications, cross-border transactions, merger and acquisitions, tax compliance, consulting and planning for local and multinational companies, as well as consulting for the public sector. In his role as Head of Enterprise, Wu Hong focuses on advising innovative start-ups, large local businesses and helping family businesses to grow. He has contributed articles in academic journals and leading business publications. He is also a regular speaker at seminars and has provided comments and articles on Tax and Enterprise related issues to the media. <br>
+Ajay leads the tax practice for KPMG Singapore and has more than 20 years of post-qualification experience in the areas of tax consulting and compliance. He specialises in corporate and international tax and has advised numerous clients on inbound/outbound investments, pre and post IPO structuring, supply chain hub model restructuring, cross border service fee/royalty payments, procurement model and intellectual property structuring. Ajay has contributed many articles in academic journals, leading business publications and newspapers. He is also a regular speaker on tax issues including in collaboration with industry associations and Government agencies.<br>
 
 **Mr Lennon Lee** <br>
 Partner <br>
