@@ -13,7 +13,7 @@ To encourage students to achieve their academic goals and pursue a career in tax
 ### **2020/2021 Academic Year Tax Academy Book Prize Recipient from Singapore Management University**
 
 ![Image of Tax Academy Book Prize]
-(/images/KENDRICK.jpeg)
+(/images/KENDRICK.jpg)
 Low Wei Ming Kendrick<br>
 Best Performance in Advanced Taxation<br>
 
