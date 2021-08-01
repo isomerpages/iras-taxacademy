@@ -10,6 +10,13 @@ Tax Academy of Singapore sponsors book prizes to students taking the taxation mo
 
 To encourage students to achieve their academic goals and pursue a career in tax
 
+### **2020/2021 Academic Year Tax Academy Book Prize Recipient from Singapore Management University**
+
+![Image of Tax Academy Book Prize]
+(/images/LOW WEI MING KENDRICK.jpg)
+Low Wei Ming Kendrick<br>
+Best Performance in Advanced Taxation<br>
+
 ### **2020/2021 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
 
 ![Image of Tax Academy Book Prize](/images/Calyn.jpg)
