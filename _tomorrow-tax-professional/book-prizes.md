@@ -14,7 +14,7 @@ To encourage students to achieve their academic goals and pursue a career in tax
 
 ![Image of Tax Academy Book Prize](/images/Wong Qi En.jpg)
 Wong Qi En<br>
-Best Performance in Advanced Taxation<br>
+Best Performance in International Tax and Trading Law<br>
 
 
 
@@ -22,7 +22,7 @@ Best Performance in Advanced Taxation<br>
 
 ![Image of Tax Academy Book Prize](/images/KENDRICK.jpg)
 Low Wei Ming Kendrick<br>
-Best Performance in International Tax and Trading Law<br>
+Best Performance in Advanced Taxation<br>
 
 ### **2020/2021 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
 
