@@ -22,7 +22,7 @@ Best Performance in Advanced Taxation<br>
 
 ![Image of Tax Academy Book Prize](/images/KENDRICK.jpg)
 Low Wei Ming Kendrick<br>
-Best Performance in Advanced Taxation<br>
+Best Performance in International Tax and Trading Law<br>
 
 ### **2020/2021 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
 
