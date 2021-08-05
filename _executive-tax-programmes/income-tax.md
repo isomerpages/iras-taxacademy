@@ -19,7 +19,7 @@ The 10% discount is applicable to the following programmes:
 ### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (Income Tax - Individual)**
 
-* Oct 2021 intake: [Open for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
+* Oct 2021 intake: [Registration is OPEN](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
