@@ -36,7 +36,7 @@ Participants will learn to compute income tax liability for individuals accurate
 
 Registration is OPEN for Intake 2/2021.
 
-The next intake for this course will be in Apr 2022.  Registration will be available six weeks to eight weeks prior to the course commencement date.
+The next intake for this course will be in Apr 2022.  Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp2sep-ta-id"></a>
 ### **Executive Tax Programme Level II (Income Tax – Corporate & Business)**
