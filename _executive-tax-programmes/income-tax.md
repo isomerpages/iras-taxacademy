@@ -19,7 +19,7 @@ The 10% discount is applicable to the following programmes:
 ### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (Income Tax - Individual)**
 
-* Oct 2021 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
+* Oct 2021 intake: [Open for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate & Business)**
 
@@ -32,7 +32,7 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Registration Form](https://docs.google.com/forms/d/1-AA0TH5k6agVeD7iq5md670gY9Y0_TPr43bYkn2fOLY/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP Level 1 IIT 1-2021 Programme.pdf){:target="_blank"} 
+[Registration Form](https://docs.google.com/forms/d/1qlROg7tvmBHK1uGxUPWOXmus2_emrH-2rgB-VY0KJdU/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Course brochure L1 Individual Income Tax 2 2021.pdf){:target="_blank"} 
 
 Registration is CLOSED for Intake 1/2021.
 
