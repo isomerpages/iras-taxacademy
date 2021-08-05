@@ -34,9 +34,9 @@ Participants will learn to compute income tax liability for individuals accurate
 
 [Registration Form](https://docs.google.com/forms/d/1qlROg7tvmBHK1uGxUPWOXmus2_emrH-2rgB-VY0KJdU/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Course brochure L1 Individual Income Tax 2 2021.pdf){:target="_blank"} 
 
-Registration is CLOSED for Intake 1/2021.
+Registration is OPEN for Intake 2/2021.
 
-The next intake for this course will be in Oct 2021. Registration will be available six weeks prior to the course commencement date.
+The next intake for this course will be in Apr 2022.  Registration will be available six weeks to eight weeks prior to the course commencement date.
 
 <a id="etp2sep-ta-id"></a>
 ### **Executive Tax Programme Level II (Income Tax – Corporate & Business)**
