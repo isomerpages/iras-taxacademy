@@ -33,7 +33,7 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 
 - Please indicate in the registration form that you would like to use the SkillsFuture Credit
 - Email the following to Tax Academy within 3 working days from the date of registration: 
-  - Your Full Name (as per NRIC)
+  - Full Name (as per NRIC)
   - last 4 digits of your NRIC number including the alphabet
   - screenshot showing the available skillscredit in your Skillsfuture portal and 
   - amount of SkillsFuture Credit to be claimed
