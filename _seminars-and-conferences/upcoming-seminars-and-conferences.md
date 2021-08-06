@@ -31,7 +31,7 @@ Who should attend:
 Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
 
 **Admin details:**
-* The webinar will be conducted via Zoom
+* The conference will be conducted via Zoom
 * Date: 3 Sep 21
 * Time: 10.00 a.m. to 4.30 p.m.
 * Fees: $53.50 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.*
@@ -75,49 +75,6 @@ Target Audience: Company directors, tax agents/practitioners, finance and accoun
 * Fees: $85.60 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 80, excluding GST.*
 * Closing date for registration: 12 Aug (or when webinar is fully subscribed)
 * [Registration Form](https://forms.gle/59E8rwoyEyx3wpbk6)
-
-
-<a id="6Aug-ta-id"></a>
-#### **FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties**
-**6 Aug**
-
-Singapore has established an extensive network of double tax agreements (DTA) to promote international trade and investment through information transparency and tax certainty, as well as to mitigate double taxation. This has implication on withholding tax on payments to foreign residents.
-
-Join us in this webinar where our speakers from Deloitte, Mr. Daniel Ho (Tax Partner), and Mr. Yap Hsien Yew (Senior Manager), will share on the requirements of withholding tax, what withholding tax treaties and regulations mean for businesses.  They will also share practical approaches to help businesses understand the application of tax treaties to common cross-border payments through worked examples and case studies.
-
-Programme Outline:
-* Fundamentals of treaty interpretation
-* Introduction to common DTA provisions
-* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
-* Worked examples and case studies
-* Q&A
- 
-Target Audience: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
-**Admin details:**
-* This webinar will be conducted via Zoom
-* Date:  6 Aug 21
-* Time: 2.00 p.m. to 5.00 p.m.
-* Fees: $85.60 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 80, excluding GST.*
-* Closing date for registration: 29 Jul (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/Kncus5x7YZfJxEyW6)
-
-
-<a id="5Aug-ta-id"></a>
-#### **TaxEdge Webinar Series: Trusts Law 101 for Tax Professionals**
-**5 Aug**
-
-Tax Academy is pleased to present this webinar on Trusts Law 101 for Tax Professionals. In this webinar, Ms. Valerie Wu (Partner, Head of Tax & Private Wealth Asia, Pinsent Masons) and Mr. Danny Quah (Counsel, Providence Law Asia) will share on key trust concepts in the private wealth arena. Hot topics such as sham trusts, settlor-reserved powers, non-charitable purpose trusts and the use of trusts in tax avoidance structures will also be covered.
-
-Target Audience: Tax Practitioners, Family Offices, Wealth Planners, Business Owners, Finance/Accounting Professionals
-
-**Admin details**:
-* The webinar will be conducted via Zoom
-* Date: 5 Aug 21
-* Time: 3.00 p.m. to 5.00 p.m.
-* Fees: $53.50 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.*
-* Closing date for registration: 29 Jul (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/pkuJ4WXmdCUfbsh59)
 
 
 
