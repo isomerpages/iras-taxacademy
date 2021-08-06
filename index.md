@@ -31,8 +31,8 @@ sections:
   - infopic:
       title: Taxes and Investments in a Post-Pandemic World, 3 Sep 2021
       subtitle: Signature Conference
-      description: Save the date and stay tuned for more information !
-      button: Upcoming seminars and conferences
+      description: Find out more about the event and how to register !
+      button: now open for registration !
       alt: Image alt text
       image: /images/Save%20the%20Date.jpg
       url: https://www.taxacademy.sg/seminars-and-conferences/upcoming/

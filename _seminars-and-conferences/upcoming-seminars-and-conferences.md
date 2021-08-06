@@ -13,9 +13,6 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 ](/seminars-and-conferences/upcoming/#3Sep-ta-id)
 
 #### **August 2021**
-
-* 5 Aug : [TaxEdge Webinar Series: Trusts Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#5Aug-ta-id)
-* 6 Aug : [FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#6Aug-ta-id)
 * 20 Aug : [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#20Aug-ta-id)
 * 27 Aug : [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#27Aug-ta-id)
 
@@ -24,15 +21,22 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 #### **Signature Conference: Taxes and Investments in a Post-Pandemic World**
 **3 Sep**
 
-Join us at the Tax Academy’s Signature Conference on 3 Sep 2021! Look forward to a new experience as we deliver the conference virtually to you.
+As countries emerge from the CoVID-19 pandemic, the fiscal costs incurred in supporting the economy during and post-pandemic will weigh on governments. Investments are needed to create jobs and provide revenues. The evolving international tax rules for a more digitalised world economy are also culminating in some form of the new international tax order. Companies and governments will have to manoeuvre through and emerge from these challenges.
 
-Hear tax experts and academics discuss the fiscal and tax challenges, the emerging international tax rules and policies, and make sense of the imperatives in preparation for the new fiscal and international tax order for a more digitalised economy.
+The conference offers keynotes and panel discussion by policy makers, tax and business professionals and academia to share insights on the emerging international tax rules and policies and discuss the fiscal and tax challenges so as to make sense of the imperatives in preparation for the post-pandemic fiscal and international tax order in a more digitalised economy.
 
-**Save the date and stay tuned for more information !**
+[Details](/files/seminars-brochures/TA Signature Conference Brochure 2021.pdf) - [About the Speakers and Panellists](/files/seminars-brochures/Website_Speakers Bios.pdf)
 
 Who should attend:
 Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
 
+**Admin details:**
+* The webinar will be conducted via Zoom
+* Date: 3 Sep 21
+* Time: 10.00 a.m. to 4.30 p.m.
+* Fees: $53.50 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.*
+* Closing date for registration: 25 Aug 
+*  [Registration Form](https://forms.gle/cd2sbxznZH7s3v336)
 
 <a id="27Aug-ta-id"></a>
 #### **FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance**
