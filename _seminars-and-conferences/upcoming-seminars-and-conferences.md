@@ -28,6 +28,7 @@ As countries emerge from the CoVID-19 pandemic, the fiscal costs incurred in sup
 
 The conference offers keynotes and panel discussion by policy makers, tax and business professionals and academia to share insights on the emerging international tax rules and policies and discuss the fiscal and tax challenges so as to make sense of the imperatives in preparation for the post-pandemic fiscal and international tax order in a more digitalised economy.
 
+[Details](/files/seminars-brochures/TA Signature Conference Brochure 2021.pdf) - [About the Speakers and Panellists](/files/seminars-brochures/Website_Speakers Bios.pdf)
 
 Who should attend:
 Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
