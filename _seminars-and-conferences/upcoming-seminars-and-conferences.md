@@ -13,9 +13,6 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 ](/seminars-and-conferences/upcoming/#3Sep-ta-id)
 
 #### **August 2021**
-
-* 5 Aug : [TaxEdge Webinar Series: Trusts Law 101 for Tax Professionals](/seminars-and-conferences/upcoming/#5Aug-ta-id)
-* 6 Aug : [FasTax Webinar Series: Fundamentals of Withholding Tax – Implications of Tax Treaties](/seminars-and-conferences/upcoming/#6Aug-ta-id)
 * 20 Aug : [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#20Aug-ta-id)
 * 27 Aug : [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#27Aug-ta-id)
 
