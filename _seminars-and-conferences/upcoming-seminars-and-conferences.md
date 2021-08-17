@@ -21,6 +21,37 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 27 Aug : [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#27Aug-ta-id)
 
 
+
+<a id="9Sep-ta-id"></a>
+#### **FasTax Webinar Series: Fundamentals of GST Filing**
+**9 Sep**
+
+Join us in this webinar to hear from IRAS’ tax officers in the following areas:
+
+* Responsibilities of a GST-Registered Person
+* Key GST Concepts
+* Common GST Errors
+* Reimbursements vs Disbursement
+* Fringe Benefits
+* International Services
+ 
+Target Audience: GST tax practitioners, including tax, finance, accounting and legal professionals
+
+Attendees must complete the following eLearning modules and the respective quizzes, before attending the webinar:
+
+* [Please access the E-Learning module on Registering for GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
+* [Please access the E-Learning module on Overview of GST here ](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 9 Sep 21
+* Time: 2.30 p.m. to 4.30 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 3 Sep (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/FTDU8EBsR6ss73qZ6)
+
+
 <a id="3Sep-ta-id"></a>
 #### **Signature Conference: Taxes and Investments in a Post-Pandemic World**
 **3 Sep**
@@ -31,7 +62,7 @@ The conference offers keynotes and panel discussion by policy makers, tax and bu
 
 [Details](/files/seminars-brochures/TA Signature Conference Brochure 2021.pdf) - [About the Speakers and Panellists](/files/seminars-brochures/Website_Speakers Bios.pdf)
 
-Who should attend:
+Target Audience:
 Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
 
 **Admin details:**
