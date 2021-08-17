@@ -26,7 +26,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 Having a proper set of transfer pricing documentation is essential for businesses not only for reporting purpose, it will be useful in times of transfer pricing disputes with foreign tax authorities.
 
-Join us in this webinar, where our speakers from Deloitte, Mr Avik Bose (Tax Partner, Transfer Pricing) and Mr Tay Eng Hong (Senior Manager, Transfer Pricing), together with IRAS, Ms Balbir Kaur (Group Tax Specialist) and Ms Linda Cheng (Senior Manager), provide you with insights and experiences in the areas of  Singapore’s Transfer Pricing regime, preparation of transfer pricing documentation, common mistakes to avoid, and managing Transfer Pricing disputes.
+Join us in this webinar, where our speakers from Deloitte, Mr Avik Bose (Tax Partner, Transfer Pricing) and Mr Tay Eng Hong (Senior Manager, Transfer Pricing), together with IRAS, Ms Balbir Kaur (Group Tax Specialist) and Ms Linda Cheng (Senior Manager), provide you with insights and experiences in the areas of  Singapore’s Transfer Pricing regime.
  
 Agenda:
 * Overview of Singapore’s TP regime
