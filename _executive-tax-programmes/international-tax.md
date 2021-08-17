@@ -9,7 +9,7 @@ The 10% discount is applicable to the following programmes:
 - Executive Tax Programme Level I (Income Tax-Individual) – Intake 1/2021 and 2/2021
 - Executive Tax Programme Level I (GST) – Intake 1/2021, 2/2021 and 3/2021
 - Executive Tax Programme Level I (International Tax) – Intake 1/2021 and 2/2021
-- Executive Tax Programme Level II (Income Tax – Corporate & Business) – Intake 1/2021, 2/2021 and 3/2021
+- Executive Tax Programme Level II (Income Tax – Corporate &amp; Business) – Intake 1/2021, 2/2021 and 3/2021
 - Executive Tax Programme Level II (GST) – Intake 1/2021 and 2/2021
 - Executive Tax Programme Level II (International Tax) – Intake 1/2021
 - Executive Tax Programme Level III (Income Tax) Advanced Tax Programme Intake 17
@@ -24,7 +24,7 @@ The 10% discount is applicable to the following programmes:
 * Oct 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
-* Sep 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
+* Sep 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
 * Nov 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#leiden-ta-id)
@@ -70,7 +70,7 @@ Dates of programme via virtual classroom: 6, 7, 8, 9, 13, 14, 15, 16 Sep 2021 (E
 
 [Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA){:target="_blank"} - [Details](/files/executive-tax-programmes/WU Programme 2021.pdf){:target="_blank"}
 
-**Registration is OPEN for 2021 intake.**
+**Registration is CLOSED for 2021 intake.**
 
 <a id="leiden-ta-id"></a>
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
@@ -89,7 +89,7 @@ Participants will learn thorough knowledge of the complex rules that govern tax 
 
 The programme takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia. It covers the key concepts of international tax planning and assesses the impact of recent developments in international taxation through technical learning and interactive case studies for MNCs.  
 
-Dates of programme via virtual classroom: 10, 11, 19  & 20 Aug 2021 (Each session : 9.00 a.m. to 12.30 p.m.)
+Dates of programme via virtual classroom: 10, 11, 19  &amp; 20 Aug 2021 (Each session : 9.00 a.m. to 12.30 p.m.)
 
 [Registration Form](https://docs.google.com/forms/d/1PQvOVPINj7Ak7jPp-ypopLYlzmTYmba18oGg7-_lvmI/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochure Adv ITP 2021.pdf){:target="_blank"}
 
