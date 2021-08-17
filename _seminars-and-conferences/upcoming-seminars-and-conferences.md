@@ -12,9 +12,73 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 3 Sep : [Signature Conference: Taxes and Investments in a Post-Pandemic World
 ](/seminars-and-conferences/upcoming/#3Sep-ta-id)
 
+* 9 Sep : [FasTax Webinar Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#9Sep-ta-id)
+
+* 24 Sep : [FasTax Webinar Series: Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#24Sep-ta-id)
+
 #### **August 2021**
 * 20 Aug : [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#20Aug-ta-id)
 * 27 Aug : [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#27Aug-ta-id)
+
+<a id="24Sep-ta-id"></a>
+#### **FasTax Webinar Series: Transfer Pricing Essentials**
+**24 Sep**
+
+Having a proper set of transfer pricing documentation is essential for businesses not only for reporting purpose, it will be useful in times of transfer pricing disputes with foreign tax authorities.
+
+Join us in this webinar, where our speakers from Deloitte, Mr Avik Bose (Tax Partner, Transfer Pricing) and Mr Tay Eng Hong (Senior Manager, Transfer Pricing), together with IRAS, Ms Balbir Kaur (Group Tax Specialist) and Ms Linda Cheng (Senior Manager), provide you with insights and experiences in the areas of  Singapore’s Transfer Pricing regime, preparation of transfer pricing documentation, common mistakes to avoid, and managing Transfer Pricing disputes.
+ 
+Agenda:
+* Overview of Singapore’s TP regime
+* TP documentation and mistakes to avoid
+* TP disputes—prevention and resolution
+
+**Admin details:**
+* The webinar will be conducted via Zoom
+* Date: 24 Sep 21
+* Time: 2.00 p.m. to 5.00 p.m.
+* Fees: $85.60 (incl. GST) *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 80, excluding GST.*
+* Closing date for registration: 16 Sep (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/qnSA6rWskBp9uNNJ7)
+
+**About the Speakers**
+
+**Mr Avik Bose** is a Tax Partner at Deloitte Singapore.  Avik has over 17 years of experience in transfer pricing.  This includes supply/value chain realignments, intellectual property valuation, structuring and pricing intercompany financial transactions, planning and executing global documentation projects for multinational corporations (MNCs). Avik assists MNCs in various industries to develop and implement commercially viable transfer pricing policies to achieve tax efficiencies across jurisdictions. He has represented his clients before revenue authorities in several Mutual Agreement Procedure (MAP) and Advanced Pricing Agreement (APA) cases, including representing before the Tax Courts. Avik is an active speaker at various transfer pricing discussion forums, authors articles in the public domain and conducted trainings with regional revenue authorities.
+
+**Mr Tay Eng Hong** is a Transfer Pricing Senior Manager at Deloitte Singapore.  Eng Hong has 18 years of experience in advising multinational corporations (MNCs) on development and implementation of effective transfer pricing planning, and preparing supporting economic and financial analyses. He is also involved in Mutual Agreement Procedure (MAP) and Advanced Pricing Agreement (APA) assignments involving corporation with IRAS and overseas Competent Authorities. Eng Hong has assisted major MNCs in addressing their transfer pricing requirements, including companies involved in manufacturing, distribution, service provision, financial and licensing activities. Eng Hong has dealt with transfer pricing issues across a wide range of industries, including automotive, consumer goods, financial services, oil and gas. The majority of these assignments were global or regional projects, involving close collaboration with counterparts from other Deloitte transfer pricing practices.
+
+**Ms Linda Cheng** is the Senior Manager of the transfer pricing audit team in the Corporate Tax Division in IRAS. Prior to this, she was in the Transfer Pricing and Dispute Resolution branch handling transfer pricing mutual agreement procedure and advance pricing arrangement cases.
+
+ **Ms Balbir Kaur** is a Group Tax Specialist from the Transfer Pricing and Dispute Resolution Branch in IRAS. She does transfer pricing policy formulation and Advanced Pricing Agreement and Mutual Agreement Procedure negotiation with the foreign tax authorities.
+
+<a id="9Sep-ta-id"></a>
+#### **FasTax Webinar Series: Fundamentals of GST Filing**
+**9 Sep**
+
+Join us in this webinar to hear from IRAS’ tax officers in the following areas:
+
+* Responsibilities of a GST-Registered Person
+* Key GST Concepts
+* Common GST Errors
+* Reimbursements vs Disbursement
+* Fringe Benefits
+* International Services
+ 
+Target Audience: GST tax practitioners, including tax, finance, accounting and legal professionals
+
+Attendees must complete the following eLearning modules and the respective quizzes, before attending the webinar:
+
+* [Please access the E-Learning module on Registering for GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
+* [Please access the E-Learning module on Overview of GST here ](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 9 Sep 21
+* Time: 2.30 p.m. to 4.30 p.m.
+* Fees: $53.50 (incl. GST) *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.*
+* Closing date for registration: 3 Sep (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/FTDU8EBsR6ss73qZ6)
 
 
 <a id="3Sep-ta-id"></a>
@@ -27,7 +91,7 @@ The conference offers keynotes and panel discussion by policy makers, tax and bu
 
 [Details](/files/seminars-brochures/TA Signature Conference Brochure 2021.pdf) - [About the Speakers and Panellists](/files/seminars-brochures/Website_Speakers Bios.pdf)
 
-Who should attend:
+Target Audience:
 Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
 
 **Admin details:**
