@@ -12,6 +12,10 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 3 Sep : [Signature Conference: Taxes and Investments in a Post-Pandemic World
 ](/seminars-and-conferences/upcoming/#3Sep-ta-id)
 
+* 9 Sep : [FasTax Webinar Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#9Sep-ta-id)
+
+* 24 Sep : [FasTax Webinar Series: Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#24Sep-ta-id)
+
 #### **August 2021**
 * 20 Aug : [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#20Aug-ta-id)
 * 27 Aug : [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#27Aug-ta-id)
