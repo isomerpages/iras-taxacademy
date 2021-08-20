@@ -1,11 +1,8 @@
 ---
-title: 'The Law and Practice of Singapore Income Tax'
+title: The Law and Practice of Singapore Income Tax
 permalink: /independent-pages/The-Law-and-Practice-of-Singapore-Income-Tax/
 breadcrumb: The-Law-and-Practice-of-Singapore-Income-Tax
-
 ---
-
-
 ### **The Law and Practice of Singapore Income Tax, 3rd Edition**
 
 The Tax Academy of Singapore is proud to present the Third Edition of The Law and Practice of Singapore Income Tax. 
@@ -24,5 +21,3 @@ professionals, but also for students and educators on the law and practice of th
 ![Image of Tax-Book- Brochure2](/images/Brochure Page 2.jpg)
 
 To order, [click here](https://store.lexisnexis.com.sg/categories/legal-topics/taxation-and-revenue-419/the-law-practice-of-singapore-income-tax-3rd-edition-skuSkusgLPSIT3ECONFIG){:target="_blank"}
-
-Sign up for an upcoming webinar to get 15% discount off the book! Find out more at [Seminars and Conferences](https://www.taxacademy.sg/seminars-and-conferences/upcoming/).
