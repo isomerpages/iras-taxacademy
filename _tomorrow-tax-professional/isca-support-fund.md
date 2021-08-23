@@ -7,7 +7,7 @@ breadcrumb: ISCA Support Fund
 
 The International Tax and Goods and Services Tax programmes are two of the curated programmes under the ISCA Support Fund, rolled out by the Institute of Singapore Chartered Accountants (ISCA).  Eligible companies can enjoy funding support for these programmes.
 
-Please visit [ISCA Support Fund webpage](https://isca.org.sg/covid-19-series/isca-support-fund) for more details.  As the application for the ISCA Support Fund has closed, only companies which have been awarded the funding support (received the letter of award from ISCA) can utilise the funds to support the cost of the programmes.   For enquiries on the ISCA Support Fund, please email the ISCA team at supportfund@isca.org.sg.
+Please visit [ISCA Support Fund webpage](https://isca.org.sg/covid-19-series/isca-support-fund/isca-support-fund---for-smps) for more details.  As the application for the ISCA Support Fund has closed, only companies which have been awarded the funding support (received the letter of award from ISCA) can utilise the funds to support the cost of the programmes.   For enquiries on the ISCA Support Fund, please email the ISCA team at supportfund@isca.org.sg.
 
 #### Qualifying Period of the Fund
 1 February 2021 to 30 June 2022
@@ -40,4 +40,4 @@ Eligible companies and sponsored employees must meet the eligibility criteria es
 
 • Fees and submission of examination results must be incurred during the qualifying period (see above) to be eligible for the funding support.
 
-• Full Fee must be made to the Tax Academy of Singapore. Claims submission are to be made to ISCA under the ISCA Support Fund before 30 June 2022, after the completion of the programmes and payment of programmes. Funds will only be disbursed (on a reimbursement basis) to the company by ISCA upon receiving the supporting documents. Please visit the [ISCA Support Fund webpage](https://isca.org.sg/covid-19-series/isca-support-fund for details on claim submission and disbursement.
+• Full Fee must be made to the Tax Academy of Singapore. Claims submission are to be made to ISCA under the ISCA Support Fund before 30 June 2022, after the completion of the programmes and payment of programmes. Funds will only be disbursed (on a reimbursement basis) to the company by ISCA upon receiving the supporting documents. Please visit the [ISCA Support Fund webpage](https://isca.org.sg/covid-19-series/isca-support-fund/isca-support-fund---for-smps) for details on claim submission and disbursement.
