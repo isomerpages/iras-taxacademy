@@ -10,10 +10,6 @@ Retired Singapore Tax Partner <br>
 Ernst & Young Solutions LLP  <br>
 
 #### **Members**
-**Ms Chow Wai Yee** <br>
-Assistant Commissioner <br>
-Inland Revenue Authority of Singapore
-
 **Mrs Eng Li Ming** <br>
 Tax Advisor <br>
 LM APPS
@@ -22,10 +18,18 @@ LM APPS
 Head of Tax, Asia Pacific <br>
 Marsh & McLennan Companies
 
-**Ms Mak Oi Leng** <br>
-Partner <br>
-KPMG Singapore
+**Mr Daniel Ho** <br>
+Tax Partner <br>
+Deloitte Singapore
+
+**Ms Leow Lay Hwa** <br>
+Tax Director <br>
+Inland Revenue Authority of Singapore
 
 **Associate Professor Stephen Phua** <br>
 Associate Professor <br>
 National University of Singapore
+
+**Ms Tan Hui Cheng** <br>
+Tax Partner <br>
+PwC Singapore
