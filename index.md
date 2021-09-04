@@ -36,7 +36,7 @@ sections:
       description: "Coming Soon: Post Event Highlights!"
       button: Post event highlights
       alt: Image alt text
-      image: /images/Save%20the%20Date.jpg
+      image: /images/Picture_Sig%20Conference.jpg
       url: https://www.taxacademy.sg/seminars-and-conferences/upcoming/#3Sep-ta-id
   - infopic:
       subtitle: The Law & Practice of Singapore Income Tax, Third Edition
