@@ -33,11 +33,11 @@ sections:
   - infopic:
       title: Taxes and Investments in a Post-Pandemic World, 3 Sep 2021
       subtitle: Signature Conference
-      description: Find out more about the event and how to register !
-      button: now open for registration !
+      description: "Coming Soon: Post Event Highlights!"
+      button: Post event highlights
       alt: Image alt text
       image: /images/Save%20the%20Date.jpg
-      url: https://www.taxacademy.sg/seminars-and-conferences/upcoming/
+      url: https://www.taxacademy.sg/seminars-and-conferences/upcoming/#3Sep-ta-id
   - infopic:
       subtitle: The Law & Practice of Singapore Income Tax, Third Edition
       url: /independent-pages/the-law-and-practice-of-singapore-income-tax/
