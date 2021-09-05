@@ -92,7 +92,7 @@ The conference offers keynotes and panel discussion by policy makers, tax and bu
 Target Audience:
 Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
 
-**Coming Soon: Post Conference Highlights! **
+Coming Soon: Post Conference Highlights!
 
 
 
