@@ -16,9 +16,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 24 Sep : [FasTax Webinar Series: Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#24Sep-ta-id)
 
-#### **August 2021**
-* 20 Aug : [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#20Aug-ta-id)
-* 27 Aug : [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#27Aug-ta-id)
+
 
 <a id="24Sep-ta-id"></a>
 #### **FasTax Webinar Series: Transfer Pricing Essentials**
@@ -94,55 +92,7 @@ The conference offers keynotes and panel discussion by policy makers, tax and bu
 Target Audience:
 Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
 
-**Admin details:**
-* The conference will be conducted via Zoom
-* Date: 3 Sep 21
-* Time: 10.00 a.m. to 4.30 p.m.
-* Fees: $53.50 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.*
-* Closing date for registration: 25 Aug 
-*  [Registration Form](https://forms.gle/cd2sbxznZH7s3v336)
-
-<a id="27Aug-ta-id"></a>
-#### **FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance**
-**27 Aug**
-
-Do you wish to manage your GST-registered business’ GST risks and avoid common GST errors?  Join us in this webinar where Senior Tax Auditors from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner. The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
-
-Target Audience: Tax practitioners, Business Owners, Finance/Accounting and Legal professionals
-
- **Admin details:**
-* The webinar will be conducted via Zoom
-* Date: 27 Aug 21
-* Time: 2.30 p.m. to 4.30 p.m.
-* Fees: $53.50 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.*
-* Closing date for registration: 19 Aug (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/wtvuBKdeKmb8GEpd7)
-
-
-<a id="20Aug-ta-id"></a>
-#### **FasTax Webinar Series: Fundamentals of Corporate Tax Filing**
-**20 Aug**
-
-As a company director, do you know whether your tax agent/staff are filing corporate tax correctly and what are the proper documentations to maintain? As a tax agent/practitioner, do you know what are the common pitfalls to avoid when filing corporate tax for your clients?
-
-Join us in this webinar as our speakers from IRAS’ Corporate Tax and Enforcement Divisions equip you with knowledge in the following areas:
-* Fundamentals of Singapore corporate taxation
-* Practical guidance and tips for preparing tax computation
-* Responsibilities of the company director
- 
-Target Audience: Company directors, tax agents/practitioners, finance and accounting professionals
-
-**Admin details:**
-* The webinar will be conducted via Zoom
-* Date: 20 Aug 21
-* Time: 2.00 p.m. to 5.00 p.m.
-* Fees: $85.60 (incl. GST).  *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 80, excluding GST.*
-* Closing date for registration: 12 Aug (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/59E8rwoyEyx3wpbk6)
-
-
-
-
+**Coming Soon: Post Conference Highlights! **
 
 
 
