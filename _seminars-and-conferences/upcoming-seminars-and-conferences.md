@@ -92,12 +92,12 @@ The conference offers keynotes and panel discussion by policy makers, tax and bu
 Target Audience:
 Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
 
-**Coming Soon: Post Conference Highlights! **
+Coming Soon: Post Conference Highlights!
 
 
 
 
-*Tax Academy reserves the right to cancel the event, or make changes to the schedule, venue and speakers.*
+
 
 
 For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
