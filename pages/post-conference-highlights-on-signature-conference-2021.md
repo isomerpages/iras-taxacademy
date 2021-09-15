@@ -47,4 +47,4 @@ Mr Pascal Saint-Amans shared on recent progress towards the renewed internationa
 ![Alt text for image on Isomer site](/images/Panel.jpg)
 Panel Discussion on “Fiscal Sustainability and Taxes in Post-Pandemic World” 
 Panelists, (from top left to right) Ms Doreen Tan, Mr Rajat Bansal, Mr Giammarco Cottani 
-(bottom left to right) Mr Chris Woo, Ms Chiam Yah Fang, Mr Harvey Koenig 
+(bottom left to right) Mr Chris Woo, Ms Chiam Yah Fang, Mr Harvey Koenig
