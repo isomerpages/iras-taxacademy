@@ -9,4 +9,3 @@ Tax Academy held a successful virtual conference on [Taxes and Investments in a 
 More than 350 participants took away a key message that Singapore will adjust its corporate tax system as needed, if and when a consensus is fully reached. We will abide by the internationally agreed standards, safeguard our taxing rights and seek to minimize the compliance burden for businesses. 
 
 **Opening Address **
-
