@@ -10,3 +10,4 @@ More than 350 participants took away a key message that Singapore will adjust it
 
 **Opening Address**
 
+In her opening address at the event, Minister Indranee Rajah shared about the Base Erosion and Profit Shifting (BEPS 2.0) Project, which involves a revision of international tax rules. 
