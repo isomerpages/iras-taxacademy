@@ -14,3 +14,6 @@ In her opening address at the event, Minister Indranee Rajah shared about the Ba
 
 ![Alt text for image on Isomer site](/images/2M.jpg)
 **Opening Address** by Guest-of-Honour, Minister in the Prime Minister’s Office, Second Minister for Finance and National Development, Ms Indranee Rajah.
+
+“There is strong international momentum to achieve a global agreement on BEPS, including a minimum effective tax rate of at least 15%, by the end of this year. Post-BEPS 2.0, Singapore as a small economy will have to work harder than ever to attract and retain investment. But we are no strangers to hard work and meeting challenges. Together, we can strengthen or build new advantages, and seek new opportunities.”  - Minister Indranee Rajah
+
