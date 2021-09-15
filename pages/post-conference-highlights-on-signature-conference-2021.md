@@ -17,3 +17,4 @@ In her opening address at the event, Minister Indranee Rajah shared about the Ba
 
 “There is strong international momentum to achieve a global agreement on BEPS, including a minimum effective tax rate of at least 15%, by the end of this year. Post-BEPS 2.0, Singapore as a small economy will have to work harder than ever to attract and retain investment. But we are no strangers to hard work and meeting challenges. Together, we can strengthen or build new advantages, and seek new opportunities.”  - Minister Indranee Rajah
 
+You can read the speech [here](https://www.mof.gov.sg/news-publications/speeches/opening-address-by-ms-indranee-rajah-minister-in-the-prime-minister-s-office-second-minister-for-finance-and-national-development-at-the-tax-academy-signature-conference-in-singapore-on-friday-3-sep-2021-1.30pm).
