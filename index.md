@@ -37,7 +37,7 @@ sections:
       button: Post event highlights
       alt: Image alt text
       image: /images/Picture_Sig%20Conference.jpg
-      url: https://www.taxacademy.sg/seminars-and-conferences/upcoming/#3Sep-ta-id
+      url: https://cms.isomer.gov.sg/sites/isomerpages-taxacademy/pages/post-conference-highlights-on-signature-conference-2021.md
   - infopic:
       subtitle: The Law & Practice of Singapore Income Tax, Third Edition
       url: /independent-pages/the-law-and-practice-of-singapore-income-tax/
