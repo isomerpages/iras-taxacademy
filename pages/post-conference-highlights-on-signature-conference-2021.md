@@ -1,7 +1,8 @@
 ---
 title: Post Conference Highlights on Signature Conference 2021
-permalink: /permalink
+permalink: /post-conference-highlights
 ---
+
 # **Tax Academy Signature Conference 2021: Taxes and Investments in a Post-Pandemic World**
 
 Tax Academy held a successful virtual conference on [Taxes and Investments in a Post Pandemic World](https://www.taxacademy.sg/seminars-and-conferences/upcoming/#3Sep-ta-id) on 3 September. 
