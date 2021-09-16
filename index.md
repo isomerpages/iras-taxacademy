@@ -37,7 +37,7 @@ sections:
       button: Post event highlights
       alt: Image alt text
       image: /images/Picture_Sig%20Conference.jpg
-      url: https://www.taxacademy.sg/post-conference-highlights/
+      url: https://www.taxacademy.sg/post-conference-highlights
   - infopic:
       subtitle: The Law & Practice of Singapore Income Tax, Third Edition
       url: /independent-pages/the-law-and-practice-of-singapore-income-tax/
