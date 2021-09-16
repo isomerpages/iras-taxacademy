@@ -2,10 +2,6 @@
 title: Post Conference Highlights
 permalink: /post-conference-highlights
 ---
-
-
-
-
 # **Tax Academy Signature Conference 2021: Taxes and Investments in a Post-Pandemic World**
 
 Tax Academy held a successful virtual conference on [Taxes and Investments in a Post Pandemic World](https://www.taxacademy.sg/seminars-and-conferences/upcoming/#3Sep-ta-id) on 3 September. 
@@ -49,6 +45,7 @@ We, at the Tax Academy, thank all speakers, panelists, guests and participants f
 Mr Pascal Saint-Amans shared on recent progress towards the renewed international tax cooperation during his segment on “Making the Global Taxation System Work”
 
 ![Alt text for image on Isomer site](/images/Panel.jpg)
-Panel Discussion on “Fiscal Sustainability and Taxes in Post-Pandemic World” 
+Panel Discussion on “Fiscal Sustainability and Taxes in Post-Pandemic World”.
+
 Panelists, (from top left to right) Ms Doreen Tan, Mr Rajat Bansal, Mr Giammarco Cottani 
 (bottom left to right) Mr Chris Woo, Ms Chiam Yah Fang, Mr Harvey Koenig
