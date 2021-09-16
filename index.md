@@ -33,7 +33,6 @@ sections:
   - infopic:
       title: Taxes and Investments in a Post-Pandemic World, 3 Sep 2021
       subtitle: Signature Conference
-      description: "Coming Soon: Post Event Highlights!"
       button: Post event highlights
       alt: Image alt text
       image: /images/Picture_Sig%20Conference.jpg
