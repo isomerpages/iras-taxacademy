@@ -21,7 +21,7 @@ The 10% discount is applicable to the following programmes:
 * Feb 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **Executive Tax Programme Level II (International Tax)**
-* Oct 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
+* Oct 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
 * Sep 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#wu-ta-id)
@@ -51,7 +51,7 @@ This course provides in-depth knowledge in international tax principles and conc
 
 [Registration Form](https://docs.google.com/forms/d/1HuOgJePufQMRMnb3QSMimHI1vNo2UzKaa4zhVcXz1KU/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochure Int Tax L2 1 2021.pdf){:target="_blank"}
 
-**Registration is OPEN for Intake 1/2021**
+**Registration is CLOSED for Intake 1/2021**
 
 The next intake for the course will be held in Oct 2022. Registration will open six to eight weeks before the course commencement date.
 
