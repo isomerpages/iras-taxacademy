@@ -129,21 +129,6 @@ Attendees must complete the following eLearning modules and the respective quizz
 * [Registration Form](https://forms.gle/FTDU8EBsR6ss73qZ6)
 
 
-<a id="3Sep-ta-id"></a>
-#### **Signature Conference: Taxes and Investments in a Post-Pandemic World**
-**3 Sep**
-
-As countries emerge from the CoVID-19 pandemic, the fiscal costs incurred in supporting the economy during and post-pandemic will weigh on governments. Investments are needed to create jobs and provide revenues. The evolving international tax rules for a more digitalised world economy are also culminating in some form of the new international tax order. Companies and governments will have to manoeuvre through and emerge from these challenges.
-
-The conference offers keynotes and panel discussion by policy makers, tax and business professionals and academia to share insights on the emerging international tax rules and policies and discuss the fiscal and tax challenges so as to make sense of the imperatives in preparation for the post-pandemic fiscal and international tax order in a more digitalised economy.
-
-[Details](/files/seminars-brochures/TA Signature Conference Brochure 2021.pdf) - [About the Speakers and Panellists](/files/seminars-brochures/Website_Speakers Bios.pdf)
-
-Target Audience:
-Members of the business and tax community | Legal professionals | Academics | Policy makers and tax administrators
-
-
-
 
 
 
