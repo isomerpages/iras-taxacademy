@@ -9,129 +9,62 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
-#### **October 2021**
-* 14 Oct : [FasTax Webinar Series: Fundamentals of Corporate Tax Filing](/seminars-and-conferences/upcoming/#14Oct-ta-id)
+#### **November 2021**
+* 22 Nov : [Law 101 for Tax Professionals Webinar Series: Legal Powers and Duties of the Comptroller](/seminars-and-conferences/upcoming/#22Nov-ta-id)
 
-* 22 Oct : [TaxEdge Webinar Series: Stamp Duty 101 for Tax Professionals](/seminars-and-conferences/upcoming/#22Oct-ta-id)
+* 26 Nov : [Law 101 for Tax Professionals Webinar Series: Carbon Taxation](/seminars-and-conferences/upcoming/#26Nov-ta-id)
 
 
-#### **September 2021**
-* 3 Sep : [Signature Conference: Taxes and Investments in a Post-Pandemic World
-](/seminars-and-conferences/upcoming/#3Sep-ta-id)
+<a id="26Nov-ta-id"></a>
+#### **Law 101 for Tax Professionals Webinar Series: Carbon Taxation**
+**26 Nov | 3.00 p.m. to 4.15 p.m.**
 
-* 9 Sep : [FasTax Webinar Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#9Sep-ta-id)
+Join us in this webinar, where our speaker Mr Mark Addy from KPMG Singapore, provides an overview on Singapore carbon tax and its implications for businesses.
 
-* 24 Sep : [FasTax Webinar Series: Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#24Sep-ta-id)
-
-<a id="22Oct-ta-id"></a>
-#### **TaxEdge Webinar Series: Stamp Duty 101 for Tax Professionals**
-**22 Oct**
-
-Tax Academy is pleased to present this webinar on Stamp Duty 101 for Tax Professionals, conducted by Mr. Noel Wong (Manager, IRAS), Ms. Chang Lih Ning (Principal Tax Officer, IRAS) and Mr. Danny Quah (Counsel, Providence Law Asia). The session provides a brief introduction to Stamp Duty and its application on renting and purchasing/selling a property, shares, Property Holding Entities and treatment for VCC. Speakers will also discuss scenarios where Duty is exempted under S36 of SDA, anti-avoidance provisions under S33A and offences.
-
- **Admin details:**
-* The webinar will be conducted via Zoom
-* Date: 22 Oct 21
-* Time: 2.00pm to 5.00pm
-* Fees: $85.60 (incl. GST)
-* Closing date for registration: 11 Oct (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/sKAVWANdYJ6LCciEA)
-
-**About the Speakers**
-
-**Mr Noel Wong** is a Manager in Valuation & Stamp Duty Branch, IRAS. He oversees the Appeals, Assessment, Customer Service and Systems teams.  Noel has worked with the Ministry of Finance and Attorney General’s Chambers on the 2018 amendments to Stamp Duties Act to allow the application of stamp duty to electronic contracts, as well as allowing the e-payment of conveyancing stamp duties.  Prior to joining IRAS, Noel was with PwC handling audit and corporate tax.  He was also with the Ministry of Finance handling tax policies in the areas of tax policy, as well as reserves and investment where he worked with GIC, Temasek and MAS.  Noel is a Chartered Accountant of Singapore.
+ Agenda:
+* Overview on Singapore carbon tax
+* Carbon border tax adjustment and EU implementation of carbon border tax adjustment
+* What are the impact and implications for businesses
+* Q&A
  
-**Ms Chang Lih Ning** is a Principal Tax Officer in Valuation & Stamp Duty Branch, IRAS.  She joined Valuation & Stamp Duty branch around year 2006 and currently, she handles stamp duty assessment matters that are complex in nature. She was also involved in several notable stamp duty changes and implementation, which include the changes for Buyer’s Stamp Duty (BSD), Additional Buyer’s Stamp Duty (ABSD), Seller’s Stamp Duty (SSD) and Additional Conveyance Duty (ACD).  She works closely with the Ministry of Finance and Attorney General’s Office on legislation drafting for stamp duty matters.
-
-**Mr Danny Quah** is a commercial litigator with specialised expertise in complex tax disputes. He was recently recognised by the Singapore Academy of Law as an up-and-coming litigator and previously spent some time at the “magic circle” barristers chambers Pump Court Tax Chambers in London. Danny has acted in multi-million dollar income tax, GST and stamp duty disputes, rare GST tax avoidance disputes, and judicial reviews for and against IRAS. He was previously with Baker & McKenzie’s tax team and IRAS Law Division.
-
-
-<a id="14Oct-ta-id"></a>
-#### **FasTax Webinar Series: Fundamentals of Corporate Tax Filing**
-**14 Oct**
-
-As a company director, do you know whether your tax agent/staff are filing corporate tax correctly and what are the proper documentations to maintain? As a tax agent/practitioner, do you know what are the common pitfalls to avoid when filing corporate tax for your clients?
-
-Join us in this webinar as our speakers from IRAS’ Corporate Tax and Enforcement Divisions equip you with knowledge in the following areas:
-* Fundamentals of Singapore corporate taxation
-* Practical guidance and tips for preparing tax computation
-* Responsibilities of the company director
- 
-Target Audience: Company directors, tax agents/practitioners, finance and accounting professionals
-
 **Admin details:**
 * The webinar will be conducted via Zoom
-* Date: 14 Oct 21
-* Time: 2.00pm to 5.00pm
-* Fees: $85.60 (incl. GST)
-* Closing date for registration: 4 Oct (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/kmcUXctPNcm7XQBTA)
+* Date: 26 Nov 2021
+* Time: 3.00pm to 4.15pm
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 18 Nov (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/XXnzkC1WrGbL4ghz8)
+
+**About the Speaker**
+
+**Mr Mark Addy** is a Partner in the International Tax team at KPMG Singapore. Prior to moving to Singapore in 2014, he has worked in KPMG UK’s International Tax group for several years. Mark has extensive experience in advising multinational groups on cross-border tax matters and is also part of KPMG’s global ESG network, providing thought leadership on global and regional ESG matters and the related tax developments.
 
 
-<a id="24Sep-ta-id"></a>
-#### **FasTax Webinar Series: Transfer Pricing Essentials**
-**24 Sep**
+<a id="22Nov-ta-id"></a>
+#### **Law 101 for Tax Professionals Webinar Series: Legal Powers and Duties of the Comptroller**
+**22 Nov | 3.00 p.m. to 5.00 p.m.**
 
-Having a proper set of transfer pricing documentation is essential for businesses not only for reporting purpose, it will be useful in times of transfer pricing disputes with foreign tax authorities.
+Join us in this webinar, where our speakers Mr Yang Shi Yong and Mr Charles Li from Drew & Napier LLC, provide a brief overview of the powers and duties that the Comptrollers have under the Income Tax and Goods & Services Tax Acts. Recent legal developments such as the new information sharing and whistle-blower protection provisions in the 2021 Amendment Bills and the GST Board of Review’s observations in GDY v CGST [2021] SGGST 1 on the appropriateness of imposing legal conditions through e-Tax guides, will also be covered.
 
-Join us in this webinar, where our speakers from Deloitte, Mr Avik Bose (Tax Partner, Transfer Pricing) and Mr Tay Eng Hong (Senior Manager, Transfer Pricing), together with IRAS, Ms Balbir Kaur (Group Tax Specialist) and Ms Linda Cheng (Senior Manager), provide you with insights and experiences in the areas of  Singapore’s Transfer Pricing regime.
- 
 Agenda:
-* Overview of Singapore’s TP regime
-* TP documentation and mistakes to avoid
-* TP disputes—prevention and resolution
+* Introduction, Role and Duties of the Comptrollers
+* Powers of the Comptrollers
+* Issues and Oversight
+* Q&A
 
 **Admin details:**
 * The webinar will be conducted via Zoom
-* Date: 24 Sep 21
-* Time: 2.00 p.m. to 5.00 p.m.
-* Fees: $85.60 (incl. GST) *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 80, excluding GST.*
-* Closing date for registration: 16 Sep (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/qnSA6rWskBp9uNNJ7)
+* Date: 22 Nov 2021
+* Time: 3.00pm to 5.00pm
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 12 Nov (or when webinar is fully subscribed)
+* [Registration Form](https://forms.gle/Jai5ECRQ7nwD9usR9)
 
 **About the Speakers**
 
-**Mr Avik Bose** is a Tax Partner at Deloitte Singapore.  Avik has over 17 years of experience in transfer pricing.  This includes supply/value chain realignments, intellectual property valuation, structuring and pricing intercompany financial transactions, planning and executing global documentation projects for multinational corporations (MNCs). Avik assists MNCs in various industries to develop and implement commercially viable transfer pricing policies to achieve tax efficiencies across jurisdictions. He has represented his clients before revenue authorities in several Mutual Agreement Procedure (MAP) and Advanced Pricing Agreement (APA) cases, including representing before the Tax Courts. Avik is an active speaker at various transfer pricing discussion forums, authors articles in the public domain and conducted trainings with regional revenue authorities.
+**Mr Yang Shi Yong** is a Director at Drew & Napier LLC. Shi Yong advises on a wide spectrum of tax law with specialisation in enterprise tax risk management, tax audit and tax investigation matters. He has successfully resolved a large number of audit and investigation matters without prosecution. Shi Yong’s other key strength lies in oil and gas matters. He regularly advises national oil and gas companies on downstream, refinery infrastructure and assets, storage, production sharing, off-take and supply, corporate governance, and day-to-day commercial and operational matters.
 
-**Mr Tay Eng Hong** is a Transfer Pricing Senior Manager at Deloitte Singapore.  Eng Hong has 18 years of experience in advising multinational corporations (MNCs) on development and implementation of effective transfer pricing planning, and preparing supporting economic and financial analyses. He is also involved in Mutual Agreement Procedure (MAP) and Advanced Pricing Agreement (APA) assignments involving corporation with IRAS and overseas Competent Authorities. Eng Hong has assisted major MNCs in addressing their transfer pricing requirements, including companies involved in manufacturing, distribution, service provision, financial and licensing activities. Eng Hong has dealt with transfer pricing issues across a wide range of industries, including automotive, consumer goods, financial services, oil and gas. The majority of these assignments were global or regional projects, involving close collaboration with counterparts from other Deloitte transfer pricing practices.
-
-**Ms Linda Cheng** is the Senior Manager of the transfer pricing audit team in the Corporate Tax Division in IRAS. Prior to this, she was in the Transfer Pricing and Dispute Resolution branch handling transfer pricing mutual agreement procedure and advance pricing arrangement cases.
-
- **Ms Balbir Kaur** is a Group Tax Specialist from the Transfer Pricing and Dispute Resolution Branch in IRAS. She does transfer pricing policy formulation and Advanced Pricing Agreement and Mutual Agreement Procedure negotiation with the foreign tax authorities.
-
-<a id="9Sep-ta-id"></a>
-#### **FasTax Webinar Series: Fundamentals of GST Filing**
-**9 Sep**
-
-Join us in this webinar to hear from IRAS’ tax officers in the following areas:
-
-* Responsibilities of a GST-Registered Person
-* Key GST Concepts
-* Common GST Errors
-* Reimbursements vs Disbursement
-* Fringe Benefits
-* International Services
- 
-Target Audience: GST tax practitioners, including tax, finance, accounting and legal professionals
-
-Attendees must complete the following eLearning modules and the respective quizzes, before attending the webinar:
-
-* [Please access the E-Learning module on Registering for GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
-* [Please access the E-Learning module on Overview of GST here ](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
-
-**Admin details:**
-
-* The webinar will be conducted via Zoom
-* Date: 9 Sep 21
-* Time: 2.30 p.m. to 4.30 p.m.
-* Fees: $53.50 (incl. GST) *Overseas participants who in their business capacity belong overseas and are sponsored by overseas employers will pay SGD 50, excluding GST.*
-* Closing date for registration: 3 Sep (or when webinar is fully subscribed)
-* [Registration Form](https://forms.gle/FTDU8EBsR6ss73qZ6)
-
-
-
-
-
+**Mr Charles Li** is a Director at Drew & Napier LLC and an adjunct lecturer at SMU. He is qualified in law and accountancy and was previously a senior legal specialist and prosecutor with the IRAS. Charles advises on income tax, goods and services tax, property tax, stamp duties, customs and excise duties, carbon tax, gaming taxes, and financial crime. He represents clients in court and advises on the set up of structures such as family offices, trusts and charities.
 
 
 For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
