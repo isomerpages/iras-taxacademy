@@ -27,10 +27,10 @@ The 10% discount is applicable to the following programmes:
 * Sep 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
-* Nov 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#leiden-ta-id)
+* Nov 2021 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
-* Aug 2021 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
+* Aug 2021 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
@@ -81,7 +81,7 @@ Participants will learn thorough knowledge of the complex rules that govern tax 
 
 
 [Registration Form](https://forms.gle/17Q3xEXr8iaXUybw7) - [Details](/files/seminars-brochures/Website_ATT Brochure_Virtual.pdf)
-**Registration is OPEN for Nov 2021 intake.**
+**Registration is CLOSED for Nov 2021 intake.**
 
 
 <a id="itp-id"></a>
@@ -93,6 +93,6 @@ Dates of programme via virtual classroom: 10, 11, 19  &amp; 20 Aug 2021 (Each se
 
 [Registration Form](https://docs.google.com/forms/d/1PQvOVPINj7Ak7jPp-ypopLYlzmTYmba18oGg7-_lvmI/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochure Adv ITP 2021.pdf){:target="_blank"}
 
-**Registration is OPEN for 2021 intake**
+**Registration is CLOSED for 2021 intake**
 
 **Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
