@@ -80,7 +80,8 @@ The Advanced Tax Treaties Programme is a collaborative effort between Tax Academ
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts. Look forward to a new learning experience as we deliver the programme to you via virtual classroom.
 
 
-[Registration Form](https://forms.gle/17Q3xEXr8iaXUybw7) - [Details](/files/seminars-brochures/Website_ATT Brochure_Virtual.pdf)
+[Registration Form](https://forms.gle/17Q3xEXr8iaXUybw7) - [Details](/files/seminars-brochures/Website_ATT Brochure_Virtual.pdf){:target="_blank"}
+
 **Registration is CLOSED for Nov 2021 intake.**
 
 
