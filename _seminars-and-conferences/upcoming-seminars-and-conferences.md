@@ -10,7 +10,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 
 #### **November 2021**
-* 22 Nov : [Law 101 for Tax Professionals Webinar Series: Legal Powers and Duties of the Comptroller](/seminars-and-conferences/upcoming/#22Nov-ta-id)
+* 22 Nov : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](/seminars-and-conferences/upcoming/#22Nov-ta-id)
 
 * 26 Nov : [TaxEdge Webinar Series: Carbon Taxation](/seminars-and-conferences/upcoming/#26Nov-ta-id)
 
