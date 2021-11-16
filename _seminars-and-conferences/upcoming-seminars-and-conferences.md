@@ -41,7 +41,7 @@ Join us in this webinar, where our speaker Mr Mark Addy from KPMG Singapore, pro
 
 
 <a id="22Nov-ta-id"></a>
-#### **Law 101 for Tax Professionals Webinar Series: Legal Powers and Duties of the Comptroller**
+#### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**
 **22 Nov | 3.00 p.m. to 5.00 p.m.**
 
 Join us in this webinar, where our speakers Mr Yang Shi Yong and Mr Charles Li from Drew & Napier LLC, provide a brief overview of the powers and duties that the Comptrollers have under the Income Tax and Goods & Services Tax Acts. Recent legal developments such as the new information sharing and whistle-blower protection provisions in the 2021 Amendment Bills and the GST Board of Review’s observations in GDY v CGST [2021] SGGST 1 on the appropriateness of imposing legal conditions through e-Tax guides, will also be covered.
