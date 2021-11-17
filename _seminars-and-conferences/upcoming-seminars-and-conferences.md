@@ -12,11 +12,11 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 #### **November 2021**
 * 22 Nov : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](/seminars-and-conferences/upcoming/#22Nov-ta-id)
 
-* 26 Nov : [TaxEdge Webinar Series: Carbon Taxation](/seminars-and-conferences/upcoming/#26Nov-ta-id)
+* 26 Nov : [Law 101 for Tax Professionals: Carbon Taxation](/seminars-and-conferences/upcoming/#26Nov-ta-id)
 
 
 <a id="26Nov-ta-id"></a>
-#### **TaxEdge Webinar Series: Carbon Taxation**
+#### **Law 101 for Tax Professionals: Carbon Taxation**
 **26 Nov | 3.00 p.m. to 4.15 p.m.**
 
 Join us in this webinar, where our speaker Mr Mark Addy from KPMG Singapore, provides an overview on Singapore carbon tax and its implications for businesses.
