@@ -23,7 +23,7 @@ The 10% discount is applicable to the following programmes:
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate &amp; Business)**
 
-* Jan 2022 intake: [Registration is OPEN](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* Jul 2022 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Executive Tax Programme Level I (Income Tax - Individual)**
@@ -47,7 +47,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 [Registration Form](https://docs.google.com/forms/d/17a-qp7VnRffizgpCpkvpFwpoWknutgMtX3VOp1ai6q0/edit){:target="_blank"} -  [Details](/files/executive-tax-programmes/income-tax/L2 Income Tax course brochure 4 2021.pdf){:target="_blank"} 
 
-Registration is OPEN.  
+Registration is CLOSED.  
 
 The next intake for this course will be in Jul 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
