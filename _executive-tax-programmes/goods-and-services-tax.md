@@ -28,7 +28,7 @@ The 10% discount is applicable to the following programmes:
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
-[Registration Form](https://forms.gle/1ioSKgaY79jwczp87){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP%20L1%20GST%203-2021.pdf)){:target="_blank"}
+[Registration Form](https://forms.gle/1ioSKgaY79jwczp87){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP%20L1%20GST%203-2021.pdf){:target="_blank"}
 
 Registration is OPEN for intake 3/2021 (Feb 2022 intake).
 
@@ -39,7 +39,7 @@ The next intake for this course will be in May 2022. Registration will be availa
 
 This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services.
 
-[Registration Form](https://forms.gle/uQfLHwgJaua6aWWp9){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP%20L2%20%20GST%202%202021.pdf)){:target="_blank"}
+[Registration Form](https://forms.gle/uQfLHwgJaua6aWWp9){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP%20L2%20%20GST%202%202021.pdf){:target="_blank"}
 
 Registration is OPEN for intake 2/2021 (Feb 2022 intake).
 
