@@ -17,10 +17,10 @@ The 10% discount is applicable to the following programmes:
 
 ##### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (GST)**
-* Feb 2022 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* Feb 2022 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **Executive Tax Programme Level II (GST)**
-* Feb 2022 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* Feb 2022 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 
 <a id="etp1gst-ta-id"></a>
@@ -30,7 +30,7 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 [Registration Form](https://forms.gle/1ioSKgaY79jwczp87){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP%20L1%20GST%203-2021.pdf){:target="_blank"}
 
-Registration is OPEN for intake 3/2021 (Feb 2022 intake).
+Registration is CLOSED for intake 3/2021 (Feb 2022 intake).
 
 The next intake for this course will be in May 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
@@ -41,7 +41,7 @@ This course comprises one module on overall GST concepts and applications, and f
 
 [Registration Form](https://forms.gle/uQfLHwgJaua6aWWp9){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP%20L2%20%20GST%202%202021.pdf){:target="_blank"}
 
-Registration is OPEN for intake 2/2021 (Feb 2022 intake).
+Registration is CLOSED for intake 2/2021 (Feb 2022 intake).
 
 The next intake for this course will be in May 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
