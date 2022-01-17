@@ -13,6 +13,8 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 
 * 17 Feb : [FasTax Series: FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17Feb-ta-id)
 
+* 25 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#25Feb-ta-id)
+
 #### **January 2022**
 * 25 Jan : [Law 101 for Tax Professionals: Law of Partnerships](/seminars-and-conferences/upcoming/#25Jan-ta-id)
 
