@@ -9,6 +9,9 @@ Please tell us what it is, so that we can consider designing new events or enhan
 Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 #### **February 2022**
+* 10 Feb : [TaxEdge Series: Exploring the 2021 amendments to the Income Tax Act 1947](/seminars-and-conferences/upcoming/#10Feb-ta-id)
+
+* 17 Feb : [FasTax Series: FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17Feb-ta-id)
 
 #### **January 2022**
 * 25 Jan : [Law 101 for Tax Professionals: Law of Partnerships](/seminars-and-conferences/upcoming/#25Jan-ta-id)
