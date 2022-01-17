@@ -50,11 +50,6 @@ Join us in this webinar to hear from IRAS’ tax officers on the following areas
 * Reimbursements vs Disbursement
 * Fringe Benefits
 * International Services
- 
-Attendees must complete the following eLearning modules and the respective quizzes, before attending the webinar:
-
-* [Please access the E-Learning module on Registering for GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
-* [Please access the E-Learning module on Overview of GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
 
 **Admin details:**
 
