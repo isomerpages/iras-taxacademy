@@ -36,6 +36,14 @@ Attendees must complete the following eLearning modules and the respective quizz
 * [Please access the E-Learning module on Registering for GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
 * [Please access the E-Learning module on Overview of GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
 
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 17 Feb 22
+* Time: 2.30 p.m. to 4.30 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 11 Feb (or when webinar is fully subscribed)
+
 
 <a id="10Feb-ta-id"></a>
 #### **TaxEdge Series: Exploring the 2021 amendments to the Income Tax Act 1947**
@@ -59,7 +67,7 @@ Agenda:
 
 * The webinar will be conducted via Zoom
 * Date: 10 Feb 22
-* Time: 3.00pm to 4.30pm
+* Time: 3.00 p.m. to 4.30 p.m.
 * Fees: $53.50 (incl. GST)
 * Closing date for registration: 4 Feb (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/61e4e65e0d073a0012657ff7)
