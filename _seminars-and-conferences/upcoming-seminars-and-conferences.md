@@ -18,6 +18,26 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 #### **January 2022**
 * 25 Jan : [Law 101 for Tax Professionals: Law of Partnerships](/seminars-and-conferences/upcoming/#25Jan-ta-id)
 
+
+<a id="25Feb-ta-id"></a>
+#### **FasTax Series: Managing Tax Compliance**
+**25 Feb | 3.00 p.m. to 5.00 p.m.**
+
+This webinar aims to enhance companies’ understanding of IRAS’ compliance approach and how companies can better comply with their tax obligations. IRAS’ speakers from the Corporate Tax Division and Investigation & Forensics Division will share with you on:
+
+* IRAS’ audit and investigation approaches
+* Findings from its audits and investigations
+* Learn how to mitigate the common mistakes and improve tax compliance through internal controls and record keeping
+
+**Admin details:**
+
+* This webinar will be conducted via Zoom
+* Date: 25 Feb 22
+* Time: 3.00 p.m. to 5.00 p.m.
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 18 Feb (or when webinar is fully subscribed)
+* [Registration Form](https://form.gov.sg/61e5167cbdbbe60012f135e3)
+
 <a id="17Feb-ta-id"></a>
 #### **FasTax Series: Fundamentals of GST Filing**
 **17 Feb | 2.30 p.m. to 4.30 p.m.**
@@ -43,6 +63,7 @@ Attendees must complete the following eLearning modules and the respective quizz
 * Time: 2.30 p.m. to 4.30 p.m.
 * Fees: $53.50 (incl. GST)
 * Closing date for registration: 11 Feb (or when webinar is fully subscribed)
+* [Registration Form](https://form.gov.sg/61e512be63dd6a00137b9db1)
 
 
 <a id="10Feb-ta-id"></a>
