@@ -22,6 +22,20 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 #### **FasTax Series: Fundamentals of GST Filing**
 **17 Feb | 2.30 p.m. to 4.30 p.m.**
 
+Join us in this webinar to hear from IRAS’ tax officers on the following areas:
+
+* Responsibilities of a GST-Registered Person
+* Key GST Concepts
+* Common GST Errors
+* Reimbursements vs Disbursement
+* Fringe Benefits
+* International Services
+ 
+Attendees must complete the following eLearning modules and the respective quizzes, before attending the webinar:
+
+* [Please access the E-Learning module on Registering for GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=registeringforGST)
+* [Please access the E-Learning module on Overview of GST here](https://elearn.iras.gov.sg/iraslearning/web/courseware/viewCourse.aspx?cid=overviewofGST)
+
 
 <a id="10Feb-ta-id"></a>
 #### **TaxEdge Series: Exploring the 2021 amendments to the Income Tax Act 1947**
