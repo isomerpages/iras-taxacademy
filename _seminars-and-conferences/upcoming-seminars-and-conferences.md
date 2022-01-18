@@ -75,9 +75,9 @@ Agenda:
 
 1. Introduction of the new sections 10J and 32A, which stipulate the tax treatments for trading stock,
 
-* appropriated for non-trade or capital purposes, and
+	* appropriated for non-trade or capital purposes, and
 
-* converted from non-trade or capital assets
+	* converted from non-trade or capital assets
 
 2. Time limit for the claim of foreign tax credits made in Section 50.
 3. Enactment of Section 6(11B), which allow authorised persons to access IRAS records for specified audit purposes
