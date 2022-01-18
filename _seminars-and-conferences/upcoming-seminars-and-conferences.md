@@ -51,6 +51,10 @@ Join us in this webinar to hear from IRAS’ tax officers on the following areas
 * Fringe Benefits
 * International Services
 
+Attendees must complete the following eLearning before attending the webinar:
+[Overview of GST](https://elearn.iras.gov.sg/gst/overviewofgst/)
+
+
 **Admin details:**
 
 * The webinar will be conducted via Zoom
