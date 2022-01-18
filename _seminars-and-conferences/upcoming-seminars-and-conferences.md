@@ -105,7 +105,7 @@ Agenda:
 #### **Law 101 for Tax Professionals: Law of Partnerships**
 **25 Jan | 3.00 p.m. to 5.00 p.m.**
 
-Join us in this event where our speakers, Mr Charles Li (Director) and Mr Yang Shi Yong (Director) from Drew and Napier LLC, provides an overview on the law of general partnerships, limited partnerships (“LPs”) and limited liability partnerships in Singapore. They will cover income tax, GST and stamp duty issues in relation to these organisational forms, focusing on legal issues that may have a tax impact, such as whether the partnership exists in law and how unique types of partnership structures, e.g. foreign LPs that have separate legal personality, may or may not fit within Singapore tax laws.
+Join us in this event where our speakers, [Mr Charles Li (Director)](https://www.drewnapier.com/Our-Lawyers/Charles-Li) and [Mr Yang Shi Yong (Director)](https://www.drewnapier.com/Our-Lawyers/Yang-Shi-Yong) from Drew and Napier LLC, provides an overview on the law of general partnerships, limited partnerships (“LPs”) and limited liability partnerships in Singapore. They will cover income tax, GST and stamp duty issues in relation to these organisational forms, focusing on legal issues that may have a tax impact, such as whether the partnership exists in law and how unique types of partnership structures, e.g. foreign LPs that have separate legal personality, may or may not fit within Singapore tax laws.
 
 Agenda:
 * General Partnerships
@@ -121,15 +121,6 @@ Agenda:
 * Fees: $53.50 (incl. GST)
 * Closing date for registration: 17 Jan
 * [Registration Form](https://form.gov.sg/61d4111a3cff100012a46f49)
-
-
-**About the Speakers**
-
-**Mr Charles Li** is a Director at Drew & Napier LLC and an adjunct lecturer at SMU. He is qualified in law and accountancy and was previously a senior legal specialist and prosecutor with the IRAS. Charles advises on income tax, goods and services tax, property tax, stamp duties, customs and excise duties, carbon tax, gaming taxes, and financial crime. He represents clients in court and advises on the set up of structures such as family offices, trusts and charities.
-
-**Mr Yang Shi Yong** is a Director at Drew & Napier LLC. Shi Yong advises on a wide spectrum of tax law with specialisation in enterprise tax risk management, tax audit and tax investigation matters. He has successfully resolved a large number of audit and investigation matters without prosecution. Shi Yong’s other key strength lies in oil and gas matters. He regularly advises national oil and gas companies on downstream, refinery infrastructure and assets, storage, production sharing, off-take and supply, corporate governance, and day-to-day commercial and operational matters.
-
- 
 
 
 
