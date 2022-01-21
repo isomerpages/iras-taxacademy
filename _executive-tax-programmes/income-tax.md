@@ -56,13 +56,14 @@ The next intake for this course will be in Jul 2022. Registration will be availa
 
 The Advanced Tax Programme (ATP) is the foremost training programme for tax professionals. It offers rigorous training on a wide range of core subjects covering: Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax Planning and Goods and Services Tax. There is also an elective component offering modules on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and Investigation, and Stamp Duty.
 
-**Intake 17, April 2021 to Feb 2022:**
+**Intake 18, April 2022 to March 2023:**
 
-[Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLScOmVNz_yMOJwG7c8QPNRHwCpzk2vg7jIjfnF2-8BSVSTNP6Q/viewform?usp=sf_link) - [Details](/files/executive-tax-programmes/ATP (Intake 17) Info Package_v290421.pdf) - [Schedule](/files/executive-tax-programmes/ATP (Intake 17) schedule_30Apr.pdf)
+[Registration Form - Full Programme]
+(https://form.gov.sg/61e17addbdbbe60012a7afcd)
+
+[Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLScOmVNz_yMOJwG7c8QPNRHwCpzk2vg7jIjfnF2-8BSVSTNP6Q/viewform?usp=sf_link) - [Details](/files/executive-tax-programmes/ATP (Intake 18) Brochure_FINAL.pdf) - [Schedule](/files/executive-tax-programmes/ATP18 Schedule_website.pdf)
 
 Registration for individual modules will close 1 month before the commencement of the module.
-
-The next intake for this course will be in Apr 2022. Registration will be available in Jan/Feb 2022.
 
 
 ### **Book Prizes**
