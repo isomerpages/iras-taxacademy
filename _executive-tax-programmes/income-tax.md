@@ -54,7 +54,7 @@ The next intake for this course will be in Jul 2022. Registration will be availa
 <a id="atp-ta-id"></a>
 ### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme**
 
-The Advanced Tax Programme (ATP) is the foremost training programme for tax professionals. It offers rigorous training on a wide range of core subjects covering: Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax Planning and Goods and Services Tax. There is also an elective component offering modules on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and Investigation, and Stamp Duty.
+The Advanced Tax Programme (ATP) is the foremost training programme for tax professionals. It offers rigorous training on a wide range of core subjects covering: Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax Planning and Goods and Services Tax. The elective component offers modules on Regional (China & India) and US Tax, Tax Incentives, Tax Fraud and Investigation, and Stamp Duty.
 
 **Intake 18, April 2022 to March 2023:**
 
