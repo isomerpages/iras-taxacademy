@@ -58,8 +58,7 @@ The Advanced Tax Programme (ATP) is the foremost training programme for tax prof
 
 **Intake 18, April 2022 to March 2023:**
 
-[Registration Form - Full Programme]
-(https://form.gov.sg/61e17addbdbbe60012a7afcd)
+[Registration Form - Full Programme](https://form.gov.sg/61e17addbdbbe60012a7afcd)
 
 [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLScOmVNz_yMOJwG7c8QPNRHwCpzk2vg7jIjfnF2-8BSVSTNP6Q/viewform?usp=sf_link) - [Details](/files/executive-tax-programmes/ATP Intake 18 Brochure FINAL.pdf) - [Schedule](/files/executive-tax-programmes/ATP18 Schedule_website.pdf)
 
