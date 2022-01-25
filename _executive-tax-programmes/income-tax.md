@@ -60,7 +60,7 @@ The Advanced Tax Programme (ATP) is the foremost training programme for tax prof
 
 [Registration Form - Full Programme](https://form.gov.sg/61e17addbdbbe60012a7afcd)
 
-[Registration Form - Modular](https://form.gov.sg/61ea54e967949600147c4375) - [Details](/files/executive-tax-programmes/ATP Intake 18 Brochure FINAL.pdf) - [Schedule](/files/executive-tax-programmes/ATP18 Schedule_website.pdf)
+[Registration Form - Modular](https://form.gov.sg/61ea54e967949600147c4375) - [Details](/files/executive-tax-programmes/ATP Intake 18 Brochure FINAL.pdf) - [Schedule](/files/executive-tax-programmes/ATP Intake 18 Schedule.pdf)
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
