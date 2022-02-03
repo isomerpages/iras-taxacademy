@@ -11,12 +11,10 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 #### **February 2022**
 * 10 Feb : [TaxEdge Series: Exploring the 2021 amendments to the Income Tax Act 1947](/seminars-and-conferences/upcoming/#10Feb-ta-id)
 
-* 17 Feb : [FasTax Series: FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17Feb-ta-id)
+* 17 Feb : [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17Feb-ta-id)
 
 * 25 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#25Feb-ta-id)
 
-#### **January 2022**
-* 25 Jan : [Law 101 for Tax Professionals: Law of Partnerships](/seminars-and-conferences/upcoming/#25Jan-ta-id)
 
 
 <a id="25Feb-ta-id"></a>
@@ -37,6 +35,7 @@ This webinar aims to enhance companies’ understanding of IRAS’ compliance ap
 * Fees: $53.50 (incl. GST)
 * Closing date for registration: 18 Feb (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/61e5167cbdbbe60012f135e3)
+
 
 <a id="17Feb-ta-id"></a>
 #### **FasTax Series: Fundamentals of GST Filing**
@@ -99,28 +98,6 @@ Agenda:
 **Mr Jeremiah Soh** is a Senior Associate with the Tax and Trade practice group at Baker McKenzie Wong & Leow and has practised tax law for 9 years.  Jeremiah has assisted taxpayers in appeals before all levels of Singapore courts on complex and novel issues of tax law in several reported decisions. He is also experienced in tax advisory and consultancy work, having advised various domestic and multinational companies on a broad range of domestic and cross-border tax issues, particularly in the realm of business restructurings and legal entity rationalisations. Jeremiah has also been recognised as a Rising Star for Tax in the Legal 500.
 
 **Mr Justin Tan** holds an LLB (NUS, 1st Class Honors), BBA (NUS) and an LLM in tax (NYU, where he was a Vanderbilt scholar). He practised tax law at Baker & McKenzie.Wong & Leow, advising on the international tax aspects of cross-border transactions. He is now a Senior Lecturer in NUS Law and teaches cross-border taxation.
-
-
-<a id="25Jan-ta-id"></a>
-#### **Law 101 for Tax Professionals: Law of Partnerships**
-**25 Jan | 3.00 p.m. to 5.00 p.m.**
-
-Join us in this event where our speakers, [Mr Charles Li (Director)](https://www.drewnapier.com/Our-Lawyers/Charles-Li) and [Mr Yang Shi Yong (Director)](https://www.drewnapier.com/Our-Lawyers/Yang-Shi-Yong) from Drew and Napier LLC, provides an overview on the law of general partnerships, limited partnerships (“LPs”) and limited liability partnerships in Singapore. They will cover income tax, GST and stamp duty issues in relation to these organisational forms, focusing on legal issues that may have a tax impact, such as whether the partnership exists in law and how unique types of partnership structures, e.g. foreign LPs that have separate legal personality, may or may not fit within Singapore tax laws.
-
-Agenda:
-* General Partnerships
-* Limited Partnerships
-* Limited Liability Partnerships
-* General tax issues: income tax, goods and services tax, and stamp duties
-
-**Admin Details**
-
-* The webinar will be conducted via Zoom
-* Date: 25 Jan 2022
-* Time: 3.00pm to 5.00pm
-* Fees: $53.50 (incl. GST)
-* Closing date for registration: 17 Jan
-* [Registration Form](https://form.gov.sg/61d4111a3cff100012a46f49)
 
 
 
