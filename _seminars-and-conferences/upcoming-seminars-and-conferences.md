@@ -11,7 +11,7 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 #### **February 2022**
 * 10 Feb : [TaxEdge Series: Exploring the 2021 amendments to the Income Tax Act 1947](/seminars-and-conferences/upcoming/#10Feb-ta-id)
 
-* 17 Feb : [FasTax Series: FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17Feb-ta-id)
+* 17 Feb : [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#17Feb-ta-id)
 
 * 25 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#25Feb-ta-id)
 
