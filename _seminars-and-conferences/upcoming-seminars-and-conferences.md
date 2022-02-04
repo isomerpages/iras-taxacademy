@@ -68,7 +68,7 @@ Attendees must complete the following eLearning before attending the webinar:
 #### **TaxEdge Series: Exploring the 2021 amendments to the Income Tax Act 1947**
 **10 Feb | 3.00 p.m. to 4.30 p.m.**
 
-The latest amendments to the Income Tax Act 1947 came into force at the close of 2021, giving effect to the various tax measures introduced in Budget 2021, amongst other changes to Singapore's income tax framework. Join our speakers Mr Allen Tan (Principal, Baker McKenzie Wong & Leow), Mr Jeremiah Soh (Senior Associate, Baker McKenzie Wong & Leow) and Mr Justin Tan (Senior Lecturer, NUS), who will share on the notable developments.
+The latest amendments to the Income Tax Act 1947 came into force at the close of 2021, giving effect to the various tax measures introduced in Budget 2021, amongst other changes to Singapore's income tax framework. Join our speakers Mr Allen Tan (Principal, Baker McKenzie Wong & Leow), [Mr Jeremiah Soh](/seminars-and-conferences/upcoming/#Jeremiah-ta-id) (Senior Associate, Baker McKenzie Wong & Leow) and Mr Justin Tan (Senior Lecturer, NUS), who will share on the notable developments.
 
 Agenda:
 
@@ -95,6 +95,7 @@ Agenda:
 
 **Mr Allen Tan** has extensive experience working on both international and local tax issues, with special focus on regional tax aspects of the transactions he is involved in. His practice includes advising clients on tax issues arising from mergers and acquisitions, private equity transactions, transfer pricing, indirect taxes, transfer taxes, tax controversies, foreign direct investment, and cross-border tax planning issues. A regular speaker at various established tax conferences, Allen is ranked as a Band 1 lawyer in Chambers Asia Pacific and Legal 500 for his tax controversy and corporate tax work and in many other leading legal and tax directories.
 
+<a id="Jeremiah-ta-id"></a>
 **Mr Jeremiah Soh** is a Senior Associate with the Tax and Trade practice group at Baker McKenzie Wong & Leow and has practised tax law for 9 years.  Jeremiah has assisted taxpayers in appeals before all levels of Singapore courts on complex and novel issues of tax law in several reported decisions. He is also experienced in tax advisory and consultancy work, having advised various domestic and multinational companies on a broad range of domestic and cross-border tax issues, particularly in the realm of business restructurings and legal entity rationalisations. Jeremiah has also been recognised as a Rising Star for Tax in the Legal 500.
 
 **Mr Justin Tan** holds an LLB (NUS, 1st Class Honors), BBA (NUS) and an LLM in tax (NYU, where he was a Vanderbilt scholar). He practised tax law at Baker & McKenzie.Wong & Leow, advising on the international tax aspects of cross-border transactions. He is now a Senior Lecturer in NUS Law and teaches cross-border taxation.
