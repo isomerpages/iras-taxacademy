@@ -34,7 +34,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <a href="https://forms.gle/XNroaGguydKpDCyx6">To get updates on Tax
-          Academy’s programmes and events join our mailing list now.</a>
+      - other: <a href="https://go.gov.sg/fpfn96">To get updates on Tax Academy’s
+          programmes and events join our mailing list now.</a>
     title: Join  Mailing List
 ---
