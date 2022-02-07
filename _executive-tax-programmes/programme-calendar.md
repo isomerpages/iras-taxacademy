@@ -10,32 +10,32 @@ Please refer to the respective programme brochure for the programme dates.
 
 <table>
   <tr>
-    <td>Income Tax Programme Level 1 1/2021</td>
-    <td>From 10 May to 27 Jun 2021 (with e-learning)</td>
+    <td>Income Tax Programme Level 1 1/2022</td>
+    <td>From 10 May to 27 Jun 2022 (with e-learning)</td>
   </tr> 
   <tr>
-    <td>Income Tax Programme Level 1 2/2021</td>
+    <td>Income Tax Programme Level 1 2/2022</td>
     <td>From 31 Oct to 8 Dec 2022</td>
   </tr> 
   <tr>
-    <td>Goods and Services Tax 1/2021</td>
-    <td>From 5 to 18 May 2021 (with e-learning)<br></td>
+    <td>GST Programme Level 1 1/2022</td>
+    <td>From 19 May to 22 Jun 2022 (with e-learning)<br></td>
     </tr> 
   <tr>
-    <td>Goods and Services Tax 2/2021</td>
-    <td>Sep 2021</td>
+    <td>GST Programme Level 1 2/2022</td>
+    <td>Sep/Oct 2022</td>
   </tr>  
   <tr>
-    <td>Goods and Services Tax 3/2021</td>
-    <td>Feb 2022</td>
+    <td>GST Programme Level 1 3/2022</td>
+    <td>Feb/Mar 2023</td>
   </tr>  
   <tr>
-   <td>International Tax 1/2021</td>
-    <td>From 6 to 31 May 2021</td>
+   <td>International Tax Programme Level 1 1/2022</td>
+    <td>May 2022</td>
   </tr>  
   <tr>
-    <td>International Tax 2/2021</td>
-    <td>Feb 2022</td>
+    <td>International Tax Programme Level 1 2/2022</td>
+    <td>Feb 2023</td>
   </tr>  
 </table>
 
