@@ -15,7 +15,7 @@ Please refer to the respective programme brochure for the programme dates.
   </tr> 
   <tr>
     <td>Income Tax Programme Level I 2/2022</td>
-    <td>From 31 Oct to 8 Nov 2022</td>
+    <td>From 31 Oct to 8 Nov 2022 (with e-learning)</td>
   </tr> 
   <tr>
     <td>GST Programme Level I 1/2022</td>
@@ -23,11 +23,11 @@ Please refer to the respective programme brochure for the programme dates.
     </tr> 
   <tr>
     <td>GST Programme Level I 2/2022</td>
-    <td>Sep 2022</td>
+    <td>Sep 2022 (with e-learning)</td>
   </tr>  
   <tr>
     <td>GST Programme Level I 3/2022</td>
-    <td>Feb 2023</td>
+    <td>Feb 2023 (with e-learning)</td>
   </tr>  
   <tr>
     <td>Property Tax Programme Level I 1/2022</td>
