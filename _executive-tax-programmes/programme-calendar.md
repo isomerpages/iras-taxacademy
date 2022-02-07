@@ -6,7 +6,7 @@ permalink: /executive-tax-programmes/programme-calendar/
 
 Please refer to the respective programme brochure for the programme dates.
 
-##### **Executive Tax Programme Level I**
+##### **Level I**
 
 <table>
   <tr>
@@ -40,7 +40,7 @@ Please refer to the respective programme brochure for the programme dates.
 </table>
 
  
-##### **Executive Tax Programme Level II**
+##### **Level II**
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ Please refer to the respective programme brochure for the programme dates.
 </table>
 
  
-##### **Executive Tax Programme Level III**
+##### **Level III**
 
 <table>
   <tr>
