@@ -56,13 +56,13 @@ Please refer to the respective programme brochure for the programme dates.
       <td>Jan 2023</td> 
   </tr>  
   <tr>
-				  <td>Goods and Services Tax 1/2021
+		 <td>GST Programme Level 2 1/2022
 		  </td>
-      <td>From 2 to 27 Aug 2021</td>
+      <td>Aug 2022</td>
   </tr>  
   <tr>
-      <td>Goods and Services Tax 2/2021</td>
-      <td>Feb/Mar 2022</td> 
+      <td>GST Programme Level 2 2/2022</td>
+      <td>Feb 2023</td> 
   </tr>  
   <tr>
      <td>International Tax 1/2021</td>
