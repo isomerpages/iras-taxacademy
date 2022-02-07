@@ -44,20 +44,16 @@ Please refer to the respective programme brochure for the programme dates.
 
 <table>
   <tr>
-      <td>Income Tax - Business and Corporate 1/2021</td>
-      <td>From 1 to 29 Jul 2021</td> 
+      <td>Income Tax Programme Level 2 1/2022</td>
+      <td>Jul 2022</td> 
   </tr>  
   <tr>
-      <td>Income Tax - Business and Corporate 2/2021</td>
-      <td>From 6 Sep to 5 Oct 2021</td> 
+      <td>Income Tax Programme Level 2 2/2022</td>
+      <td>Sep 2022</td> 
   </tr>  
   <tr>
-     <td>Income Tax - Business and Corporate 3/2021</td>
-      <td>Nov 2021</td>
-  </tr>  
-  <tr>
-  <td>Income Tax - Business and Corporate 4/2021</td>
-      <td>Jan 2022</td> 
+     <td>Income Tax Programme Level 2 3/2022</td>
+      <td>Jan 2023</td> 
   </tr>  
   <tr>
 				  <td>Goods and Services Tax 1/2021
