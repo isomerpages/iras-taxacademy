@@ -10,12 +10,12 @@ Please refer to the respective programme brochure for the programme dates.
 
 <table>
   <tr>
-    <td>Income Tax - Individual 1/2021</td>
-    <td>From 12 Apr to 25 May 2021 (with e-learning)</td>
+    <td>Income Tax Programme Level 1 1/2021</td>
+    <td>From 10 May to 27 Jun 2021 (with e-learning)</td>
   </tr> 
   <tr>
-    <td>Income Tax - Individual 2/2021</td>
-    <td>Sep/Oct 2021</td>
+    <td>Income Tax Programme Level 1 2/2021</td>
+    <td>From 31 Oct to 8 Dec 2022</td>
   </tr> 
   <tr>
     <td>Goods and Services Tax 1/2021</td>
