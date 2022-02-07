@@ -30,7 +30,11 @@ Please refer to the respective programme brochure for the programme dates.
     <td>Feb 2023</td>
   </tr>  
   <tr>
-   <td>International Tax Programme Level 1 1/2022</td>
+    <td>Property Tax Programme Level 1 1/2022</td>
+    <td>Aug 2022</td>
+  </tr> 
+	<tr>
+   <td>Interational Tnax Programme Level 1 1/2022</td>
     <td>May 2022</td>
   </tr>  
   <tr>
