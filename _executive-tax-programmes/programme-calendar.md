@@ -65,8 +65,8 @@ Please refer to the respective programme brochure for the programme dates.
       <td>Feb 2023</td> 
   </tr>  
   <tr>
-     <td>International Tax 1/2021</td>
-      <td>Oct 2021</td>
+     <td>International Tax Programme Level 2 1/2022</td>
+      <td>Oct 2022</td>
    </tr>  
 </table>
 
@@ -75,27 +75,23 @@ Please refer to the respective programme brochure for the programme dates.
 
 <table>
   <tr>
-    <td>Advanced Tax Programme Intake 16</td>
-    <td>From Nov 2020 to Oct 2021 - Registration for specific modules is available.</td>
+    <td>Advanced Tax Programme Intake 18</td>
+    <td>From Apr 2022 to Mar 2023 - Registration for specific modules is available.</td> 
   </tr>  
   <tr>
-    <td>Advanced Tax Programme Intake 17</td>
-    <td>From Apr 2021 to Mar 2022 - Registration for specific modules is available</td> 
-  </tr>  
-  <tr>
-     <td>Advanced Goods and Services Tax 2022</td>
-    <td>To be confirmed</td> 
+     <td>Advanced GST 2022</td>
+    <td>Dec 2022</td> 
   </tr>  
   <tr>
     <td>Leiden-TA Advanced Tax Treaties Programme </td>
-    <td>Nov 2021 </td>
+    <td>Dec 2022</td>
  </tr>  
   <tr>
    <td>WU-TA Advanced Transfer Pricing Programme</td>
-    <td>From 6 to 16 Sep 2021 </td>
+    <td>From 3 to 13 Oct 2022 </td>
   </tr>  
   <tr>
    <td>Advanced International Tax Planning Programme</td>
-    <td>From 10 to 20 Aug 2021 </td>
+    <td>From 3 to 12 Aug 2022 </td>
   </tr>  
 </table>
