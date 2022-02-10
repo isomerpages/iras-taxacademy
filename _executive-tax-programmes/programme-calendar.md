@@ -34,7 +34,7 @@ Please refer to the respective programme brochure for the programme dates.
     <td>Aug 2022</td>
   </tr> 
 	<tr>
-   <td>Interational Tnax Programme Level I 1/2022</td>
+   <td>International Tax Programme Level I 1/2022</td>
     <td>May 2022</td>
   </tr>  
   <tr>
