@@ -28,11 +28,11 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 Join us in this webinar where speakers from IRAS will share on the Assisted Self-help Kit (ASK), a self-assessment package for you to manage your GST compliance in an effective manner. The workshop will feature practical examples illustrating the use of ASK to maintain good GST compliance. You can find out how ASK can be used to safeguard your business from making costly GST mistakes.
 
 **Admin details:**
-•	The webinar will be conducted via Zoom
-•	Date: 9 Mar 22
-•	Time: 2.00pm to 5.00pm
-•	Fees: Fees: $85.60 (incl. GST)
-•	Closing date for registration: 2 March (or when webinar is fully subscribed)
+* The webinar will be conducted via Zoom
+* Date: 9 Mar 22
+* Time: 2.00pm to 5.00pm
+* Fees: $85.60 (incl. GST)
+* Closing date for registration: 2 March (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/620a26f779acd60012f04c45)
 
 
