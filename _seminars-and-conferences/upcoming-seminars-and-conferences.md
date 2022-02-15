@@ -60,7 +60,21 @@ This webinar aims to enhance companies’ understanding of IRAS’ compliance ap
 #### **Law 101 for Tax Professionals: Law of Agency**
 **23 Feb | 3.00 p.m. to 5.00 p.m.**
 
+Join us in this webinar as our speakers, [Mr Yang Shi Yong (Director)](https://www.drewnapier.com/Our-Lawyers/Yang-Shi-Yong) and [Mr Charles Li (Director)](https://www.drewnapier.com/Our-Lawyers/Charles-Li) from Drew and Napier LLP, provide an overview of the main common law principles of agency, including the creation of agency, the types of authority that an agent can have, the concept of the undisclosed principal and the duties and liabilities of principals and agents. Speakers will also share broadly how common law agency may be relevant in the context of Income Tax and Goods and Services Tax (GST) and the types of statutory agency that may be created under the respective tax Acts.
 
+Agenda:
+* Introduction
+* Common law agency
+* Statutory agency
+* General income tax and GST issues
+
+**Admin details:**
+•	The webinar will be conducted via Zoom
+•	Date: 23 Feb 22
+•	Time: 3.00pm to 5.00pm
+•	Fees: $53.50 (incl. GST)
+•	Closing date for registration: 16 Feb (or when webinar is fully subscribed)
+* [Registration Form](https://form.gov.sg/620223012d513c0013249260)
 
 
 <a id="17Feb-ta-id"></a>
@@ -78,7 +92,6 @@ Join us in this webinar to hear from IRAS’ tax officers on the following areas
 
 Attendees must complete the following eLearning before attending the webinar:
 [Overview of GST](https://elearn.iras.gov.sg/gst/overviewofgst/)
-
 
 **Admin details:**
 
