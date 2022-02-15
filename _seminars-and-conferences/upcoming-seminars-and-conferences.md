@@ -69,11 +69,11 @@ Agenda:
 * General income tax and GST issues
 
 **Admin details:**
-•	The webinar will be conducted via Zoom
-•	Date: 23 Feb 22
-•	Time: 3.00pm to 5.00pm
-•	Fees: $53.50 (incl. GST)
-•	Closing date for registration: 16 Feb (or when webinar is fully subscribed)
+* The webinar will be conducted via Zoom
+* Date: 23 Feb 22
+* Time: 3.00pm to 5.00pm
+* Fees: $53.50 (incl. GST)
+* Closing date for registration: 16 Feb (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/620223012d513c0013249260)
 
 
