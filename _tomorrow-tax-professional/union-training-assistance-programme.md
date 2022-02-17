@@ -53,4 +53,4 @@ Please visit [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc
 
 Email : UTAP@e2i.com.sg
 
-Full Fee must be made to the Tax Academy of Singapore. Claims submission are to be made to ISCA under the ISCA Support Fund before 30 June 2022, after the completion of the programmes and payment of programmes. Funds will only be disbursed (on a reimbursement basis) to the company by ISCA upon receiving the supporting documents. Please visit the [ISCA Support Fund webpage] (https://isca.org.sg/covid-19-series/isca-support-fund/isca-support-fund-for-smps) for details on claim submission and disbursement.
+Full Fee must be made to the Tax Academy of Singapore. Claims submission are to be made to ISCA under the ISCA Support Fund before 30 June 2022, after the completion of the programmes and payment of programmes. Funds will only be disbursed (on a reimbursement basis) to the company by ISCA upon receiving the supporting documents. Please visit the [ISCA Support Fund webpage](https://isca.org.sg/covid-19-series/isca-support-fund/isca-support-fund-for-smps) for details on claim submission and disbursement.
