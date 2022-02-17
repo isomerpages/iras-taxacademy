@@ -5,7 +5,7 @@ breadcrumb: SkillsFuture Study Awards
 ---
 ### **SkillsFuture Study Awards**
 
-The SkillsFuture Study Awards equip Singaporeans with the skills needed to benefit from quality jobs created by our economy. As Singapore continues our transition to an innovation-driven economy, new skills and competencies among Singaporeans will be in demand. Jobs are also evolving with new functions and existing ones requiring updated skillsets. The SkillsFuture Study Awards encourage Singaporeans to develop and deepen specialist skills needed by future economic growth sectors or in areas of demand. It also supports Singaporeans who already have deep specialist skills to develop other competencies. 
+The SkillsFuture Study Awards equip Singaporeans with the skills needed to benefit from quality jobs created by our economy and encourage Singaporeans to develop and deepen specialist skills needed by future economic growth sectors or in areas of demand. It also supports Singaporeans who already have deep specialist skills to develop other competencies. 
 
 
 **How does it work?**<br>
@@ -15,7 +15,7 @@ Please visit [SkillsFuture Study Award for Accountancy](https://programmes.myski
 
 **The following courses offered by Tax Academy are eligible for the SkillsFuture Study Awards:**<br>
 
--	Executive Tax Programme Level 3 (Advanced Tax Programme)
--	Executive Tax Programme Level 3 (Advanced GST)
+-	Level III Advanced Tax Programme
+-	Level III Advanced GST
 
 Only applicable for full programme participants
