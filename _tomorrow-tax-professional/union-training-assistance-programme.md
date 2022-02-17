@@ -20,14 +20,14 @@ Please visit [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc
 **Courses**
 
 The following courses offered by Tax Academy are eligible for UTAP claims:
--	Executive Tax Programme Level 1 (Income Tax) 
-- Executive Tax Programme Level 2 (Business & Corporate Tax) 
-- Executive Tax Programme Level 3 (Advanced Tax Programme) 
-- Executive Tax Programme Level 1 (GST)
-- Executive Tax Programme Level 2 (GST) 
-- Executive Tax Programme Level 3 (Advanced GST) 
-- Executive Tax Programme Level 1 (International Tax)
-- Executive Tax Programme Level 2 (International Tax) 
+-	Level I Income Tax 
+- Level II Income Tax
+- Level III Advanced Tax Programme 
+- Level I GST
+- Level II GST 
+- Level III Advanced GST 
+- Level I International Tax
+- Level II International Tax 
 - Leiden – TA Advanced Tax Treaties Programme 
 - WU – TA Advanced Transfer Pricing Programme
 - Advanced International Tax Planning Programme
