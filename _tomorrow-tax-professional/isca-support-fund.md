@@ -42,5 +42,4 @@ Eligible companies and sponsored employees must meet the eligibility criteria es
 
 • Fees and submission of examination results must be incurred during the qualifying period (see above) to be eligible for the funding support.
 
-• Full Fee must be made to the Tax Academy of Singapore. Claims submission are to be made to ISCA under the ISCA Support Fund before 30 June 2022, after the completion of the programmes and payment of programmes. Funds will only be disbursed (on a reimbursement basis) to the company by ISCA upon receiving the supporting documents. 
-Please visit the [ISCA Support Fund webpage](https://isca.org.sg/covid-19-series/isca-support-fund/isca-support-fund---for-smps) for details on claim submission and disbursement.
+• Full Fee must be made to the Tax Academy of Singapore. Claims submission are to be made to ISCA under the ISCA Support Fund before 30 June 2022, after the completion of the programmes and payment of programmes. Funds will only be disbursed (on a reimbursement basis) to the company by ISCA upon receiving the supporting documents. Please visit the [ISCA Support Fund webpage](https://isca.org.sg/covid-19-series/isca-support-fund/isca-support-fund-for-smps) for details on claim submission and disbursement.
