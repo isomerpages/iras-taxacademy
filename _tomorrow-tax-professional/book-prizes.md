@@ -5,11 +5,6 @@ breadcrumb: Book Prizes
 ---
 Tax Academy of Singapore sponsors book prizes to students taking the taxation modules in the local universities and polytechnics. 
 
-
-### **Our Objective**
-
-To encourage students to achieve their academic goals and pursue a career in tax
-
 ### **2020/2021 Academic Year Tax Academy Book Prize Recipient from Nanyang Technological University**
 
 ![Image of Tax Academy Book Prize](/images/Wong Qi En.jpg)

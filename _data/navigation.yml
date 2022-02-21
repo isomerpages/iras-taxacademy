@@ -1,14 +1,14 @@
 logo: /images/tax-academy-logo.png
 links:
-    - title: 'Who We Are'
-      collection: who-we-are
-    - title: 'Structured Training'
-      collection: executive-tax-programmes
-    - title: Seminars/Conferences
-      collection: seminars-and-conferences
-    - title: 'Awards And Schemes'
-      collection: tomorrow-tax-professional
-    - title: Research
-      collection: research
-    - title: 'Contact Us'
-      url: /contact-us/
+  - title: Who We Are
+    collection: who-we-are
+  - title: Structured Tax Training
+    collection: structured-tax-training
+  - title: Seminars/Conferences
+    collection: seminars-and-conferences
+  - title: Awards And Schemes
+    collection: tomorrow-tax-professional
+  - title: Research
+    collection: research
+  - title: Contact Us
+    url: /contact-us/

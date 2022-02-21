@@ -20,21 +20,21 @@ Please visit [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc
 **Courses**
 
 The following courses offered by Tax Academy are eligible for UTAP claims:
--	Executive Tax Programme Level 1 (Income Tax) 
-- Executive Tax Programme Level 2 (Business & Corporate Tax) 
-- Executive Tax Programme Level 3 (Advanced Tax Programme) 
-- Executive Tax Programme Level 1 (GST)
-- Executive Tax Programme Level 2 (GST) 
-- Executive Tax Programme Level 3 (Advanced GST) 
-- Executive Tax Programme Level 1 (International Tax)
-- Executive Tax Programme Level 2 (International Tax) 
+-	Income Tax Level 1 
+- Income Tax Level 2
+- Advanced Tax Programme 
+- GST Level 1
+- GST Level 2 
+- Advanced GST Programme
+- International Tax Level 1
+- International Tax Level 2 
 - Leiden – TA Advanced Tax Treaties Programme 
 - WU – TA Advanced Transfer Pricing Programme
 - Advanced International Tax Planning Programme
 
 **Who can apply?**
 
-All NTUC members can apply for UTAP. However, the following criteria must be met to be eligible for UTAP:
+All NTUC members can apply for UTAP. The following criteria must be met:
 
 1.	Paid-up NTUC membership before course commenced, throughout whole course duration and at the point of claim
 2.	Course by training provider must be supported under UTAP, and training must commence within the supported period
@@ -44,16 +44,13 @@ All NTUC members can apply for UTAP. However, the following criteria must be met
 
 **How to apply for UTAP?**
 
-Access [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/)
+Please visit [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/) for more details.
 
-Step 1: Click on 'Search Course' under the "Skills Upgrade Available" tab to find out if the course and training provider is supported under UTAP.
-
-Step 2: Register for course with training provider and attend training. 
-
-Step 3: Login to the U Portal account to submit the UTAP application. NTUC Members should apply for their UTAP claim within 6 months after course ends. Late applications will be rejected.
 
 **Enquiry on UTAP Matters**
 
-Access [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/)
+Please visit [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc-education-and-training-fund/) for more details.
 
 Email : UTAP@e2i.com.sg
+
+Full Fee must be made to the Tax Academy of Singapore. Claims submission are to be made to ISCA under the ISCA Support Fund before 30 June 2022, after the completion of the programmes and payment of programmes. Funds will only be disbursed (on a reimbursement basis) to the company by ISCA upon receiving the supporting documents. Please visit the [ISCA Support Fund webpage](https://isca.org.sg/covid-19-series/isca-support-fund/isca-support-fund-for-smps) for details on claim submission and disbursement.
