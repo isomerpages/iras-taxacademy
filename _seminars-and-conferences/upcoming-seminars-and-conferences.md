@@ -12,9 +12,10 @@ Therefore, do share with us your learning needs through this [Learning Needs Req
 * 9 Mar : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#9Mar-ta-id)
 
 #### **February 2022**
-* 23 Feb : [Law 101 for Tax Professionals: Law of Agency](/seminars-and-conferences/upcoming/#23Feb-ta-id)
 
 * 25 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#25Feb-ta-id)
+
+* 23 Feb : [Law 101 for Tax Professionals: Law of Agency](/seminars-and-conferences/upcoming/#23Feb-ta-id)
 
 
 <a id="9Mar-ta-id"></a>
