@@ -3,6 +3,8 @@ title: Board of Directors
 permalink: /who-we-are/board-of-directors/
 breadcrumb: Board of Directors
 ---
+**The Tax Academy Board of directors is drawn from across the industry to provide strategic direction and guidance.**
+
 #### **Chairman**
 
 **Mr Tham Sai Choy** <br>
