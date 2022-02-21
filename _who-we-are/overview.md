@@ -22,4 +22,4 @@ The Tax Academy believes in supporting and undertaking policy-relevant and pract
 
 ##### **A Platform for Tax Exchange**
 
-Tax Academy creates opportunities for tax professionals to be updated on global tax developments through seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
+Tax Academy creates opportunities for tax professionals to be updatedstay current on global tax developments through its seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
