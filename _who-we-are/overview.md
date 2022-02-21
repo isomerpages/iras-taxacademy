@@ -18,8 +18,8 @@ Tax Academy offers a structured Tax Training Roadmap for tax professionals to at
 
 ##### **An Enabler for Thought Leadership in Taxation Matters**
 
-The Tax Academy believes in supporting and undertaking policy-relevant and practice-oriented research in international tax with particular focus on Asian economies and tax systems. After the end of Tax Academy’s collaboration with Singapore Management University in the Centre for Excellence in Taxation, it continues to invite research submissions on relevant topics that promotes critical thinking.
+The Tax Academy believes in supporting and undertaking policy-relevant and practice-oriented research in international tax with particular focus on Asian economies and tax systems.
 
 ##### **A Platform for Tax Exchange**
 
-Tax Academy creates opportunities for tax professionals to be updated on global tax developments through seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
+Tax Academy creates opportunities for tax professionals to be updatedstay current on global tax developments through its seminars and conferences. It brings together tax experts from the industry, academia and the government, both locally and from overseas, to engage in professional exchanges.
