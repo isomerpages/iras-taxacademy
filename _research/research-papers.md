@@ -3,7 +3,7 @@ title: Research Papers
 permalink: /research/research-papers/
 breadcrumb: Research Papers
 ---
-Titles of research papers:
+#Titles of research papers:
 
  1. [Taxpayers’ Right of Defence in the International Context: the Case of Exchange of Tax Information and a Proposal for the “English” Wednesbury Doctrine as the New OECD (BEPS) Standard](/research/research-papers/#1-ta-id)
 
