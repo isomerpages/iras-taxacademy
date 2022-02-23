@@ -6,14 +6,8 @@ breadcrumb: Research Papers
 Titles of research papers:
 
  * [Taxpayers’ Right of Defence in the International Context: the Case of Exchange of Tax Information and a Proposal for the “English” Wednesbury Doctrine as the New OECD (BEPS) Standard](/research/research-papers/#1-ta-id)
-* 9 Mar : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#9Mar-ta-id)
 
-#### **February 2022**
-
-* 25 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#25Feb-ta-id)
-
-* 23 Feb : [Law 101 for Tax Professionals: Law of Agency](/seminars-and-conferences/upcoming/#23Feb-ta-id)
-
+* [The Need for a New Australia Singapore Tax Treaty](/research/research-papers/#2-ta-id)
 
 <a id="9Mar-ta-id"></a>
 #### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
@@ -26,6 +20,7 @@ This paper is published in the World Tax Journal and can be accessed [here](http
 
 Dr Francesco Cannas, post-doctoral researcher at the University of Hasselt and Adjunct Professor at the University of Eastern Piedmont
 
+<a id="2-ta-id"></a>
 **The Need for a New Australia Singapore Tax Treaty** [Main Paper](/files/research-papers/The Need for a New Australia Singapore Tax Treaty.pdf){:target="_blank"}
 
 Prof John Taylor, Professor, University of New South Wales
