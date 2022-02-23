@@ -9,12 +9,9 @@ locations:
       - Singapore 307987
       - ""
     operating_hours:
-      - days: Mon - Thu
+      - days: Mon - Fri
         time: 8.30am to 6.00pm
-        description: ""
-      - days: Fri
-        time: 8.30am to 5.30pm
-        description: Closed on Weekends and Public Holidays
+        description: Office is open every Mondays & Tuesdays from 10.00 a.m. to 4.00 p.m.
     maps_link: https://goo.gl/maps/7Gi8xcXYZSzNhhi48
     title: Tax Academy of Singapore
 contacts:
