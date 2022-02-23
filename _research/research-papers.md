@@ -19,7 +19,7 @@ Titles of research papers:
 #### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
 **9 Mar | 2.00 p.m. to 5.00 p.m.**
 
-<a id='1-ta-id"></a>
+<a id="1-ta-id"></a>
 **Taxpayers’ Right of Defence in the International Context: the Case of Exchange of Tax Information and a Proposal for the “English” Wednesbury Doctrine as the New OECD (BEPS) Standard**
 
 This paper is published in the World Tax Journal and can be accessed [here](https://www.ibfd.org/IBFD-Products/Journal-Articles/World-Tax-Journal/collections/wtj/html/wtj_2020_02_o2_1.html){:target="_blank"}
