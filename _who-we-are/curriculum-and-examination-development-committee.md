@@ -67,7 +67,7 @@ National University<br> of Singapore
 <td>
 <p>
 
-**Ms Tan Hui Cheng** <br>
+<b>Ms Tan Hui Cheng</b><br>
 Tax Partner <br>
 PwC Singapore
 </p>
