@@ -13,26 +13,53 @@ Ernst & Young Solutions LLP  <br>
 
 #### **Members**
 
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: left">
+ 
+<p>
+       
 **Mrs Eng Li Ming** <br>
 Tax Advisor <br>
 LM APPS
-
+</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+ 
 **Mr Eugene Gay** <br>
 Head of Tax, Asia Pacific <br>
 Marsh & McLennan Companies
+</p>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: left">
+ 
+<p>
 
 **Mr Daniel Ho** <br>
 Tax Partner <br>
 Deloitte Singapore
-
+</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+<p>
+	
 **Ms Leow Lay Hwa** <br>
 Tax Director <br>
 Inland Revenue Authority of Singapore
+</p>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: left">
+ 
+<p>
 
 **Associate Professor Stephen Phua** <br>
 Associate Professor <br>
 National University of Singapore
+</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
 
 **Ms Tan Hui Cheng** <br>
 Tax Partner <br>
 PwC Singapore
+</p>
+</div>
