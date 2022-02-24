@@ -16,10 +16,11 @@ Ernst & Young Solutions LLP  <br>
 <table> 
 <tr>
 
-<td>
+<td style = "padding-left: 0">
 <p>
 
-**Mrs Eng Li Ming** <br>
+<b>Mrs Eng Li Ming</b>
+<br>
 Tax Advisor <br>
 LM APPS
 </p>
@@ -27,7 +28,7 @@ LM APPS
 <td>
 <p>
 
-**Mr Eugene Gay** <br>
+<b>Mr Eugene Gay</b><br>
 Head of Tax, Asia Pacific <br>
 Marsh & McLennan Companies
 </p>
@@ -35,10 +36,10 @@ Marsh & McLennan Companies
 </tr>
 
 <tr>
-<td>
+<td style = "padding-left: 0">
 <p>
 
-**Mr Daniel Ho** <br>
+<b>Mr Daniel Ho</b> <br>
 Tax Partner <br>
 Deloitte Singapore
 </p>
@@ -47,7 +48,7 @@ Deloitte Singapore
 <td>
 <p>
 
-**Ms Leow Lay Hwa** <br>
+<b>Ms Leow Lay Hwa</b> <br>
 Tax Director <br>
 Inland Revenue Authority of Singapore
 </p>
@@ -55,10 +56,10 @@ Inland Revenue Authority of Singapore
 </tr>
 
 <tr>
-<td>
+<td style = "padding-left: 0">
 <p>
 
-**Associate Professor<br>Stephen Phua** <br>
+<b>Associate Professor<br>Stephen Phua</b><br>
 Associate Professor <br>
 National University<br> of Singapore
 </p>
