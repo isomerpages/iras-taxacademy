@@ -5,8 +5,7 @@ breadcrumb: Upcoming Seminars and Conferences
 ---
 ##### **UPCOMING EVENTS**
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
-Please tell us what it is, so that we can consider designing new events or enhancing the existing ones.
-Therefore, do share with us your learning needs through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
+Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 #### **March 2022**
 * 9 Mar : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#9Mar-ta-id)
@@ -72,11 +71,5 @@ Agenda:
 * Fees: $53.50 (incl. GST)
 * Closing date for registration: 16 Feb (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/620223012d513c0013249260)
-
-
-
-
-For any clarifications, please submit your queries via [Clarifications on webinar](https://form.gov.sg/5ef1d081728ca60011ba9117), and we will attend to them as soon as possible.
-
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**

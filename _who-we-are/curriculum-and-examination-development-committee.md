@@ -13,26 +13,64 @@ Ernst & Young Solutions LLP  <br>
 
 #### **Members**
 
-**Mrs Eng Li Ming** <br>
+<table> 
+<tr>
+
+<td style = "padding-left: 0">
+<p>
+
+<b>Mrs Eng Li Ming</b>
+<br>
 Tax Advisor <br>
 LM APPS
+</p>
+</td>
+<td>
+<p>
 
-**Mr Eugene Gay** <br>
+<b>Mr Eugene Gay</b><br>
 Head of Tax, Asia Pacific <br>
 Marsh & McLennan Companies
+</p>
+</td>
+</tr>
 
-**Mr Daniel Ho** <br>
+<tr>
+<td style = "padding-left: 0">
+<p>
+
+<b>Mr Daniel Ho</b> <br>
 Tax Partner <br>
 Deloitte Singapore
+</p>
+</td>
 
-**Ms Leow Lay Hwa** <br>
+<td>
+<p>
+
+<b>Ms Leow Lay Hwa</b> <br>
 Tax Director <br>
 Inland Revenue Authority of Singapore
+</p>
+</td>
+</tr>
 
-**Associate Professor Stephen Phua** <br>
+<tr>
+<td style = "padding-left: 0">
+<p>
+
+<b>Associate Professor<br>Stephen Phua</b><br>
 Associate Professor <br>
-National University of Singapore
+National University<br> of Singapore
+</p>
+</td>
+<td>
+<p>
 
-**Ms Tan Hui Cheng** <br>
+<b>Ms Tan Hui Cheng</b><br>
 Tax Partner <br>
 PwC Singapore
+</p>
+</td>
+</tr>
+</table>
