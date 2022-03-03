@@ -19,8 +19,6 @@ Please visit [ISCA Support Fund webpage](https://isca.org.sg/covid-19-series/isc
 
 • International Tax Programme Level 1 – Intake 1/2021, 2/2021 & 1/2022
 
-• International Tax Programme Level 1 – Intake 1/2022
-
 • International Tax Programme Level 2 – Intake 1/2021
 
 • WU – TA Advanced Transfer Pricing Programme – Intake 2021
