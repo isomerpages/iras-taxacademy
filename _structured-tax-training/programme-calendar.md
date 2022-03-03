@@ -6,76 +6,81 @@ permalink: /executive-tax-programmes/programme-calendar/
 
 Please refer to the respective programme brochure for the programme dates.
 
-##### **Level I**
+##### **Level 1**
 
 <table>
   <tr>
-    <td>Income Tax Programme Level I 1/2022</td>
+    <td>Income Tax Programme Level 1 (Intake 1/2022)</td>
     <td>From 10 to 25 May 2022 (with e-learning)</td>
   </tr> 
   <tr>
-    <td>Income Tax Programme Level I 2/2022</td>
+    <td>Income Tax Programme Level 1 (Intake 2/2022)</td>
     <td>From 31 Oct to 8 Nov 2022 (with e-learning)</td>
   </tr> 
   <tr>
-    <td>GST Programme Level I 1/2022</td>
+    <td>GST Programme Level 1 (Intake 1/2022)</td>
     <td>From 19 May to 1 Jun 2022 (with e-learning)<br></td>
     </tr> 
   <tr>
-    <td>GST Programme Level I 2/2022</td>
+    <td>GST Programme Level 1 (Intake 2/2022)</td>
     <td>Sep 2022 (with e-learning)</td>
   </tr>  
   <tr>
-    <td>GST Programme Level I 3/2022</td>
+    <td>GST Programme Level 1 (Intake 3/2022)</td>
     <td>Feb 2023 (with e-learning)</td>
   </tr>  
   <tr>
-    <td>Property Tax Programme Level I 1/2022</td>
+    <td>Property Tax Programme Level 1 (Intake 1/2022)</td>
     <td>Aug 2022</td>
   </tr> 
 	<tr>
-   <td>International Tax Programme Level I 1/2022</td>
+   <td>International Tax Programme Level 1 (Intake 1/2022)</td>
     <td>May 2022</td>
   </tr>  
   <tr>
-    <td>International Tax Programme Level I 2/2022</td>
+    <td>International Tax Programme Level 1 (Intake 2/2022)</td>
     <td>Feb 2023</td>
   </tr>  
 </table>
 
  
-##### **Level II**
+##### **Level 2**
 
 <table>
   <tr>
-      <td>Income Tax Programme Level II 1/2022</td>
+      <td>Income Tax Programme Level 2 (Intake 1/2022)</td>
       <td>Jul 2022</td> 
   </tr>  
   <tr>
-      <td>Income Tax Programme Level II 2/2022</td>
+      <td>Income Tax Programme Level 2 (Intake 2/2022)</td>
       <td>Sep 2022</td> 
   </tr>  
   <tr>
-     <td>Income Tax Programme Level II 3/2022</td>
+     <td>Income Tax Programme Level 2 (Intake 3/2022)</td>
       <td>Jan 2023</td> 
   </tr>  
   <tr>
-		 <td>GST Programme Level II 1/2022
+		 <td>GST Programme Level 2 (Intake 1/2022)
+		  </td>
+      <td>May 2022</td>
+	</tr>  
+  <tr>
+		 <td>GST Programme Level 2 (Intake 2/2022)
 		  </td>
       <td>Aug 2022</td>
   </tr>  
   <tr>
-      <td>GST Programme Level II 2/2022</td>
+      <td>GST Programme Level 2 (Intake 3/2022)</td>
       <td>Feb 2023</td> 
   </tr>  
   <tr>
-     <td>International Tax Programme Level II 1/2022</td>
+     <td>International Tax Programme Level 2 (Intake 1/2022)</td>
       <td>Oct 2022</td>
    </tr>  
 </table>
 
  
-##### **Level III**
+##### **Level 3**
 
 <table>
   <tr>
