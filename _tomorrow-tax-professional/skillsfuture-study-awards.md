@@ -15,7 +15,7 @@ Please visit [SkillsFuture Study Award for Accountancy](https://programmes.myski
 
 **The following courses offered by Tax Academy are eligible for the SkillsFuture Study Awards:**<br>
 
--	Level III Advanced Tax Programme
--	Level III Advanced GST
+-	Advanced Tax Programme
+-	Advanced GST
 
 Only applicable for full programme participants
