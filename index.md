@@ -21,13 +21,13 @@ sections:
       button: Learn More
       url: /who-we-are/overview/
       key_highlights:
-        - title: INCOME TAX
-          description: Executive Tax Programme Levels I to III
+        - title: INCOME TAX PROGRAMME
+          description: Levels 1 to 3
           url: /executive-tax-programmes/income-tax/
-        - title: GOODS & SERVICES TAX
-          description: Executive Tax Programme Levels I to III
+        - title: GOODS & SERVICES TAX PROGRAMME
+          description: Levels 1 to 3
           url: /executive-tax-programmes/goods-and-services-tax/
-        - title: INTERNATIONAL TAX
-          description: Executive Tax Programme Levels I to III
+        - title: INTERNATIONAL TAX PROGRAMME
+          description: Levels 1 to 3
           url: /executive-tax-programmes/international-tax/
 ---

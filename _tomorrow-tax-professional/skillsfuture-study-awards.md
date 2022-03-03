@@ -11,11 +11,11 @@ The SkillsFuture Study Awards equip Singaporeans with the skills needed to benef
 **How does it work?**<br>
 
 You will receive a monetary award of S$5,000, which you can use to defray out-of-pocket expenses associated with the course that you will be taking. It can also be used on top of existing Government course fee subsidies. You do not need to serve a bond.
-Please visit [SkillsFuture Study Award for Accountancy](https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000032) to view details and apply for the award.
+Please visit [SkillsFuture Study Award for Accountancy](https://programmes.myskillsfuture.gov.sg/Portal/ProgramListing.aspx?source=SFSA) to view details and apply for the award.
 
 **The following courses offered by Tax Academy are eligible for the SkillsFuture Study Awards:**<br>
 
--	Level III Advanced Tax Programme
--	Level III Advanced GST
+-	Advanced Tax Programme
+-	Advanced GST
 
 Only applicable for full programme participants

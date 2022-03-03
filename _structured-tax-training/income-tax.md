@@ -19,7 +19,7 @@ The 10% discount is applicable to the following programmes:
 ### **UPCOMING PROGRAMMES**
 ##### **Executive Tax Programme Level I (Income Tax - Individual)**
 
-* Apr 2022 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
+* May 2022 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
 
 ##### **Executive Tax Programme Level II (Income Tax - Corporate &amp; Business)**
 
@@ -36,7 +36,7 @@ Participants will learn to compute income tax liability for individuals accurate
 
 Registration is CLOSED for Intake 2/2021.
 
-The next intake for this course will be in Apr 2022.  Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in May 2022.  Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp2sep-ta-id"></a>
 ### **Executive Tax Programme Level II (Income Tax – Corporate & Business)**

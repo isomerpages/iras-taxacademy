@@ -3,7 +3,7 @@ title: Board of Directors
 permalink: /who-we-are/board-of-directors/
 breadcrumb: Board of Directors
 ---
-**The Tax Academy Board of directors is drawn from across the industry to provide strategic direction and guidance.**
+**The Tax Academy Board of Directors is drawn from across the industry to provide strategic direction and guidance.**
 
 #### **Chairman**
 
