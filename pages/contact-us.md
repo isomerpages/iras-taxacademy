@@ -25,12 +25,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <a href="https://form.gov.sg/5d2c51283703d80011e52615">Enquiries and
-          Feedback Form</a>
-    title: Enquiries and Feedback
-  - content:
-      - phone: ""
-      - email: ""
       - other: <a href="https://go.gov.sg/fpfn96">To get updates on Tax Academy’s
           programmes and events join our mailing list now.</a>
     title: Join  Mailing List
