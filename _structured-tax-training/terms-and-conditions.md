@@ -7,9 +7,9 @@ breadcrumb: Terms and Conditions
 
 1.1 Participants may apply for the course online.
 
-1.2 All applications for Level I and II courses are subject to confirmation. Successful applicants will receive an email at least 1 week before the commencement of the course.
+1.2 All applications for Level 1 and 2 courses are subject to confirmation. Successful applicants will receive an email at least 1 week before the commencement of the course.
 
-1.3 All applications for Level III courses are subject to shortlisting. For full programme registration, participants will be notified of their application outcome 1 month before the commencement of the course. For modular registration, participants will be notified approximately 2 to 3 weeks before the commencement of the module.
+1.3 All applications for Level 3 courses are subject to shortlisting. For full programme registration, participants will be notified of their application outcome 1 month before the commencement of the course. For modular registration, participants will be notified approximately 2 to 3 weeks before the commencement of the module.
 
 **2. Attendance**
 
@@ -40,19 +40,19 @@ E.g. If the unit consists of 6 lessons, participants have to attend at least 4 l
 
 6.1 Rescheduling of exam is subject to approval on a case-by-case basis. Participants should inform the Programme Executive via email and attach the supporting documents (e.g.medical certificate, letter from supervisor or e-ticket for business travel).
 
-6.2 For Level I and II courses, participants will sit for the exam with the next intake, if the application to reschedule exam is approved.
+6.2 For Level 1 and 2 courses, participants will sit for the exam with the next intake, if the application to reschedule exam is approved.
 
-6.3 For Level III courses, the new exam date will be determined by Tax Academy, after the original exam has taken place, if the application is approved.
+6.3 For Level 3 courses, the new exam date will be determined by Tax Academy, after the original exam has taken place, if the application is approved.
 
 **7. Re-sit of exams**
 
 7.1 Participants who fail the exam can apply to re-sit for the exam by completing the exam registration form.
 
-7.2 A maximum of two re-sits will be allowed for each course (Level I and II) /module (Level III).
+7.2 A maximum of two re-sits will be allowed for each course (Level 1 and 2) /module (Level 3).
 
 **8. Deferment of module**
 
-8.1 Deferment of module to the next intake (applicable to Level III courses only) is subject to approval on a case-by-case basis. Participants should write to the Programme Executive at least 2 weeks before the course commencement date.
+8.1 Deferment of module to the next intake (applicable to Level 3 courses only) is subject to approval on a case-by-case basis. Participants should write to the Programme Executive at least 2 weeks before the course commencement date.
 
 **9. Course fees**
 
@@ -87,7 +87,7 @@ issued to participants.
 - Defer enrolment to the next intake, subject to approval; or
 - Nominate a replacement prior to course commencement.
 
-12.2 For Level III courses, participants who withdraw will bear a cancellation fee of:
+12.2 For Level 3 courses, participants who withdraw will bear a cancellation fee of:
 - $53.50, if cancellation notice is given more than 14 days before course starts; or
 - 20% of course fees, for cancellation notice given within 14 days of course commencement
 
