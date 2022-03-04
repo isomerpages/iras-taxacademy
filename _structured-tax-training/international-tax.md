@@ -23,7 +23,7 @@ The 10% discount is applicable to the following programmes:
 ##### **Executive Tax Programme Level II (International Tax)**
 * Oct 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
-##### **WU-TA Advanced Transfer Pricing Programme)**
+##### **WU-TA Advanced Transfer Pricing Programme**
 * Oct 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
