@@ -23,8 +23,8 @@ The 10% discount is applicable to the following programmes:
 ##### **Executive Tax Programme Level II (International Tax)**
 * Oct 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
-##### **Executive Tax Programme Level III (WU-TA Advanced Transfer Pricing Programme)**
-* Sep 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#wu-ta-id)
+##### **WU-TA Advanced Transfer Pricing Programme)**
+* Oct 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
 * Nov 2021 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
@@ -56,7 +56,7 @@ This course provides in-depth knowledge in international tax principles and conc
 The next intake for the course will be held in Oct 2022. Registration will open six to eight weeks before the course commencement date.
 
 <a id="wu-ta-id"></a>
-### **Executive Tax Programme Level III (International Tax): WU-TA Advanced Transfer Pricing Programme**
+### **WU-TA Advanced Transfer Pricing Programme**
 
 The WU – TA Advanced Transfer Pricing Programme is offered by the WU Transfer Pricing Centre at the Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business) and the Tax Academy of Singapore. 
 
@@ -66,11 +66,11 @@ The programme provides participants with the latest update on international tran
 
 Look forward to a new learning experience as we deliver the programme to you via virtual classroom. Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas virtually.
 
-Dates of programme via virtual classroom: 6, 7, 8, 9, 13, 14, 15, 16 Sep 2021 (Each session : 3p.m. to 6p.m.)
+Dates of programme via virtual classroom: 3, 4, 5, 6, 10, 11, 12, 13 Oct 2022 (Each session : 3p.m. to 6p.m. Singapore time)
 
-[Registration Form](https://forms.gle/mX5Ggpb3wpSQxsDYA){:target="_blank"} - [Details](/files/executive-tax-programmes/WU Programme 2021.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/fgnacs){:target="_blank"} - [Details](/files/executive-tax-programmes/WU TA Advanced TP Programme Brochure 2022.pdf){:target="_blank"}
 
-**Registration is CLOSED for 2021 intake.**
+**Registration is OPEN for 2022 intake.**
 
 <a id="leiden-ta-id"></a>
 ### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**

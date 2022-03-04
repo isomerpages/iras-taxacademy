@@ -3,30 +3,17 @@ title: Income Tax
 permalink: /executive-tax-programmes/income-tax/
 breadcrumb: Income Tax
 ---
-To support the tax community, Tax Academy is offering a 10% discount for the registration of tax courses commencing on 1 April 2021 to 31 March 2022.  
-
-The 10% discount is applicable to the following programmes: 
-- Executive Tax Programme Level I (Income Tax-Individual) – Intake 1/2021 and 2/2021
-- Executive Tax Programme Level I (GST) – Intake 1/2021, 2/2021 and 3/2021
-- Executive Tax Programme Level I (International Tax) – Intake 1/2021 and 2/2021
-- Executive Tax Programme Level II (Income Tax – Corporate &amp; Business) – Intake 1/2021, 2/2021 and 3/2021
-- Executive Tax Programme Level II (GST) – Intake 1/2021 and 2/2021
-- Executive Tax Programme Level II (International Tax) – Intake 1/2021
-- Executive Tax Programme Level III (Income Tax) Advanced Tax Programme Intake 17
-- Advanced International Tax Planning Programme
-
-
 ### **UPCOMING PROGRAMMES**
-##### **Executive Tax Programme Level I (Income Tax - Individual)**
+##### **Income Tax Programme Level 1**
 
 * May 2022 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
 
-##### **Executive Tax Programme Level II (Income Tax - Corporate &amp; Business)**
+##### **Income Tax Programme Level 2**
 
 * Jul 2022 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
-### **Executive Tax Programme Level I (Income Tax - Individual)**
+### **Income Tax Programme Level 1**
 
 This course covers interpretation of the primary provisions in the Income Tax Act, distinction between income and capital receipts, principles governing the deduction of expenses and conditions for claim of reliefs.
 
@@ -39,7 +26,7 @@ Registration is CLOSED for Intake 2/2021.
 The next intake for this course will be in May 2022.  Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp2sep-ta-id"></a>
-### **Executive Tax Programme Level II (Income Tax – Corporate & Business)**
+### **Income Tax Programme Level 2**
 
 This course provides in-depth knowledge in income tax principles and covers concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies.
 
@@ -52,7 +39,7 @@ Registration is CLOSED.
 The next intake for this course will be in Jul 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="atp-ta-id"></a>
-### **Executive Tax Programme Level III (Income Tax): Advanced Tax Programme**
+### **Income Tax Programme Level 3 : Advanced Tax Programme**
 
 The Advanced Tax Programme (ATP) is the foremost training programme for tax professionals. It offers rigorous training on a wide range of core subjects covering: Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax Planning and Goods and Services Tax. The elective component offers modules on Regional (China & India) and US Tax, Tax Incentives, Tax Fraud and Investigation, and Stamp Duty.
 
