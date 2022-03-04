@@ -68,7 +68,7 @@ Look forward to a new learning experience as we deliver the programme to you via
 
 Dates of programme via virtual classroom: 3, 4, 5, 6, 10, 11, 12, 13 Oct 2022 (Each session : 3p.m. to 6p.m. Singapore time)
 
-[Registration Form](https://go.gov.sg/fgnacs){:target="_blank"} - [Details](/files/executive-tax-programmes/WU Programme 2021.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/fgnacs){:target="_blank"} - [Details](/files/executive-tax-programmes/WU TA Advanced TP Programme Brochure 2022.pdf){:target="_blank"}
 
 **Registration is OPEN for 2022 intake.**
 
