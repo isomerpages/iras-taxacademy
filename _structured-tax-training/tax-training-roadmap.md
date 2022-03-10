@@ -29,7 +29,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 ##### Income Tax Programme Level I
   <tr>
     <td>Programme Overview</td>
-    <td>• Individual Income Tax<br>
+		<td>• Individual Income Tax<br>
     	• Provide a firm foundation in income tax principles, Singapore Income Tax Act and case laws<br>
     	• Provide a basic knowledge of tax law application and practice
     </td> 
