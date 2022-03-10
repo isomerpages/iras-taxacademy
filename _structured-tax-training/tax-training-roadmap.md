@@ -26,7 +26,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-  ##### Income Tax Programme Level 1
+<b>Income Tax Programme level 1</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Individual Income Tax<br>
