@@ -23,20 +23,33 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 
 # **Income Tax**
-##### Income Tax Programme Level 1
-<table class="table-v">
-	<td>Programme Overview</td>
-	<td>• Individual Income Tax<br>
-			• Provide a firm foundation in income tax principles, Singapore Income Tax Act and case laws<br>
-			• Provide a basic knowledge of tax law application and practice</td>
-	</tr><td>Programme Admission Requirements</td>
-	<td>• Participants with little or no knowledge in income tax</td>
-	</tr><td>Accreditation by the Singapore Chartered Tax Professionals</td>
-	<td>NIL</td>
-	</tr><td>Advanced Diploma in International Taxation (ADIT)</td>
-	<td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
-	</tr></table>
 
+<table class="table-v">
+	
+##### Income Tax Programme Level I
+  <tr>
+    <td>Programme Overview</td>
+    <td>• Individual Income Tax<br>
+    	• Provide a firm foundation in income tax principles, Singapore Income Tax Act and case laws<br>
+    	• Provide a basic knowledge of tax law application and practice
+    </td> 
+  </tr>
+  <tr>
+    <td>Recommended Years of Experience in Tax</td>
+    <td>• 0 to 1 year</td>
+  </tr>
+  <tr>
+    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
+    <td>NIL</td>
+  </tr>
+  <tr>
+    <td>Advanced Diploma in International Taxation (ADIT)</td>
+    <td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
+  </tr>
+</table>
+
+
+<table class="table-v">
 
 
 ##### Income Tax Programme Level 2
