@@ -26,7 +26,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-##### Income Tax Programme Level I
+  ##### Income Tax Programme Level 1
   <tr>
     <td>Programme Overview</td>
 		<td>• Individual Income Tax<br>
@@ -35,8 +35,8 @@ Students will achieve a high level of understanding in tax and be able to work i
     </td> 
   </tr>
   <tr>
-    <td>Recommended Years of Experience in Tax</td>
-    <td>• 0 to 1 year</td>
+    <td>Programme Admission Requirements</td>
+    <td>• Participants with little or no knowledge in income tax</td>
   </tr>
   <tr>
     <td>Accreditation by the Singapore Chartered Tax Professionals</td>
@@ -60,7 +60,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 		• Provide in-depth treatment of concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies<br>
 		• Provide in-depth knowledge of Singapore Income Tax Act and case laws<br>• Provide an introduction to the Goods and Services Tax and tax treaties</td>
 	<tr><td>Programme Admission Requirements</td>
-		<td>• Participants with little or no knowledge in income tax</td>
+		<td>• Participants have completed Tax Academy’s Income Tax Programme Level 1 and have 1-2 years of relevant working experience in taxation </td>
 	<tr><td>Accreditation by the Singapore Chartered Tax Professionals</td>
 		<td>• Accredited Tax Practitioners (Provisional)<br>
 			• Accredited Tax Practitioners</td>
