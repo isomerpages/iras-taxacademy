@@ -75,22 +75,35 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
 </table>
 
-##### Income Tax Programme Level 3 - Advanced Tax Programme
+
 
 <table class="table-v">
+	
+<b>Income Tax Programme Level 3 - Advanced Tax Programme</b>
+  <tr>
     <td>Programme Overview</td>
     <td>• Provide rigorous training on wide range of core subjects covering Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing and Goods and Services Tax<br>
 			• Broaden knowledge through elective modules in Regional Tax, Tax Incentives, Tax Fraud and Investigation, Stamp Duty<br>
-			• Suited for candidates seeking a specialist career in income tax</td>
-    <tr><td>Programme Admission Requirements</td>
+			• Suited for candidates seeking a specialist career in income tax
+    </td> 
+  </tr>
+  <tr>
+    <td>Programme Admission Requirements</td>
     <td>• Participants have passed Tax Academy’s Income Tax Programme Level 2 and have at least 3 years of relevant working experience in taxation<br>
 			• Admission will be subject to approval by the Academy on a case-by-case basis.<br>
 			• The ATP modules may also be taken individually.  Applications will be considered by the Academy on a case-by-case basis.</td>
-    <tr><td>Accreditation by the Singapore Chartered Tax Professionals</td>
+  </tr>
+  <tr>
+    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
     <td>• Accredited Tax Advisor</td>
-	<tr><td>Advanced Diploma in International Taxation (ADIT)</td>
+  </tr>
+  <tr>
+    <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• This course is suitable for candidates who wish to take Paper 1, 2 & 3 of the ADIT exam</td>
-  </tr></table>
+  </tr>
+</table>
+
+
 
 
  # **Goods & Services Tax**
