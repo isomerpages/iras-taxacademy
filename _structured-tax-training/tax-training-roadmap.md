@@ -95,7 +95,8 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Accreditation by the Singapore Chartered Tax Professionals</td>
-    <td>• Accredited Tax Advisor</td>
+    <td>• Accredited Tax Advisor<br>
+			• Accredited Tax Practitioners</td>
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
@@ -105,19 +106,19 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 
 
-
- # **Goods & Services Tax**
-##### GST Programme Level 1
+# **Goods & Services Tax**
 
 <table class="table-v">
+	
+<b>GST Programme Level 1</b>
   <tr>
     <td>Programme Overview</td>
-    <td>• Provide a firm foundation in GST concepts, and Singapore Goods and Services Act and case laws <br>
+		<td>• Provide a firm foundation in GST concepts, and Singapore Goods and Services Act and case laws <br>
 			• Provide treatment of practical case studies and analysis of GST obligations
     </td> 
   </tr>
   <tr>
-  <td>Programme Admission Requirements</td>
+    <td>Programme Admission Requirements</td>
     <td>• Participants with little or no knowledge in GST</td>
   </tr>
   <tr>
@@ -128,7 +129,9 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
   </tr>
- </table>
+</table>
+
+
 
  
 ##### GST Programme Level 2
