@@ -26,7 +26,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>Income Tax Programme level 1</b>
+<b>Income Tax Programme Level 1</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Individual Income Tax<br>
@@ -49,24 +49,31 @@ Students will achieve a high level of understanding in tax and be able to work i
 </table>
 
 
-<table class="table-v">
-
-
-##### Income Tax Programme Level 2
 
 <table class="table-v">
+	
+<b>Income Tax Programme Level 2</b>
+  <tr>
     <td>Programme Overview</td>
-	<td>• Business and Corporate Tax<br>
-		• Provide in-depth treatment of concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies<br>
-		• Provide in-depth knowledge of Singapore Income Tax Act and case laws<br>• Provide an introduction to the Goods and Services Tax and tax treaties</td>
-	<tr><td>Programme Admission Requirements</td>
-		<td>• Participants have completed Tax Academy’s Income Tax Programme Level 1 and have 1-2 years of relevant working experience in taxation </td>
-	<tr><td>Accreditation by the Singapore Chartered Tax Professionals</td>
-		<td>• Accredited Tax Practitioners (Provisional)<br>
+		<td>• Business and Corporate Tax<br>
+    	• Provide in-depth treatment of concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies<br>
+    	• Provide in-depth knowledge of Singapore Income Tax Act and case laws<br>• Provide an introduction to the Goods and Services Tax and tax treaties
+    </td> 
+  </tr>
+  <tr>
+    <td>Programme Admission Requirements</td>
+    <td>• Participants have completed Tax Academy’s Income Tax Programme Level 1 and have 1-2 years of relevant working experience in taxation </td>
+  </tr>
+  <tr>
+    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
+    <td>• Accredited Tax Practitioners (Provisional)<br>
 			• Accredited Tax Practitioners</td>
-	<tr><td>Advanced Diploma in International Taxation (ADIT)</td>
-		<td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
-	</tr></table>
+  </tr>
+  <tr>
+    <td>Advanced Diploma in International Taxation (ADIT)</td>
+    <td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
+  </tr>
+</table>
 
 ##### Income Tax Programme Level 3 - Advanced Tax Programme
 
