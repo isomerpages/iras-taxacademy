@@ -231,42 +231,32 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 
 
-
-
-
-##### International Tax Programme Level 3
-
 <table class="table-v">
-	</tr>
 	
-     Leidon - TA Advanced Tax Treaties Programme
-	
-</tr>
+<b>International Tax Programme Level 3 - Leidon - TA Advanced Tax Treaties Programme</b>
+  <tr>
     <td>Programme Overview</td>
-    <td>• Provide advanced treatment of tax treaties concepts and rules <br>
-	• In-depth examination of the rules and structure of the OECD Model Tax Convention 
+		<td>• Provide advanced treatment of tax treaties concepts and rules <br>
+	• In-depth examination of the rules and structure of the OECD Model Tax Convention
     </td> 
-		
+  </tr>
   <tr>
     <td>Programme Admission Requirements</td>
     <td>• Participants have completed Tax Academy’s International Tax Programme Level 1 or 2 and have at least 3 years of relevant working experience in taxation</td>
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
-    <td> • The Leiden – TA Advanced Tax Treaties Programme is suitable for candidates who wish to take Paper 1 of the ADIT exam<br>  
-
+    <td>• The Leiden – TA Advanced Tax Treaties Programme is suitable for candidates who wish to take Paper 1 of the ADIT exam</td>
   </tr>
- </table>
- 
+</table>
+
+
 <table class="table-v">
 	
-		
-     WU – TA Advanced Transfer Pricing Programme
-	
-</tr>
+<b>International Tax Programme Level 3 - WU – TA Advanced Transfer Pricing Programme</b>
   <tr>
     <td>Programme Overview</td>
-   <td>• Provide latest update on international transfer pricing developments <br>
+		<td>• Provide latest update on international transfer pricing developments <br>
 	• Knowledge and insights to handle transfer pricing issues in industries that are of relevance to the Asia-Pacific region
     </td> 
   </tr>
@@ -276,19 +266,17 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
-    <td> • The WU – TA Advanced Transfer Pricing Programme is suitable for candidates who wish to take Paper 3 of the ADIT exam</td>
-
+    <td>• The WU – TA Advanced Transfer Pricing Programme is suitable for candidates who wish to take Paper 3 of the ADIT exam</td>
   </tr>
- </table>
- 
- <table class="table-v">
+</table>
+
+
+<table class="table-v">
 	
-		
-     Advanced International Tax Planning Programme	
-</tr>
+<b>International Tax Programme Level 3 - Advanced International Tax Planning Programme</b>
   <tr>
     <td>Programme Overview</td>
-   <td>• Takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia <br>
+		<td>• Takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia <br>
 	• Covers the key concepts of international tax planning and assesses the impact of recent developments in international taxation through technical learning and interactive case studies for MNCs
     </td> 
   </tr>
@@ -296,9 +284,9 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Programme Admission Requirements</td>
     <td>• Participants have completed Tax Academy’s International Tax Programme Level 1 or 2 and have at least 3 years of relevant working experience in taxation</td>
   </tr>
-	<tr>
+  <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
-    <td> • The Advanced International Tax Planning Programme is suitable for candidates who wish to take Paper 1 of the ADIT exam</td>
-
+    <td>• The Advanced International Tax Planning Programme is suitable for candidates who wish to take Paper 1 of the ADIT exam</td>
   </tr>
- </table>
+</table> 
+	
