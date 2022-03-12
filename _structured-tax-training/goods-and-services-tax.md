@@ -4,15 +4,15 @@ permalink: /executive-tax-programmes/goods-and-services-tax/
 breadcrumb: Goods and Services Tax
 ---
 ##### **UPCOMING PROGRAMMES**
-##### **Executive Tax Programme Level I (GST)**
+##### **GST Programme Level 1**
 * May 2022 intake: [Stay tuned for more information in Apr 2022](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
-##### **Executive Tax Programme Level II (GST)**
+##### **GST Programme Level 2**
 * May 2022 intake: [Stay tuned for more information in Apr 2022](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 
 <a id="etp1gst-ta-id"></a>
-### **Executive Tax Programme Level I (Goods and Services Tax)**
+### **GST Programme Level 1**
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
@@ -23,7 +23,7 @@ Registration is CLOSED for intake 3/2021 (Feb 2022 intake).
 The next intake for this course will be in May 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp2gst-ta-id"></a>
-### **Executive Tax Programme Level II (Goods and Services Tax)**
+### **GST Programme Level 2**
 
 This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services.
 
@@ -34,7 +34,7 @@ Registration is CLOSED for intake 2/2021 (Feb 2022 intake).
 The next intake for this course will be in May 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp3gst-ta-id"></a>
-### **Executive Tax Programme Level III (Goods and Services Tax): Advanced GST**
+### **GST Programme Level 3 : Advanced GST Programme**
 
 This is the foremost training programme in Goods and Services Tax for the tax professionals in Singapore. The curriculum offers rigorous training in advanced GST concepts and relevant case laws. There are two components to this programme: the coursework component and the research component.
 

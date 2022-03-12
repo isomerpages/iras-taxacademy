@@ -4,24 +4,24 @@ permalink: /executive-tax-programmes/international-tax/
 breadcrumb: International Tax
 ---
 ##### **UPCOMING PROGRAMMES**
-##### **Executive Tax Programme Level I (International Tax)**
+##### **International Tax Programme Level 1**
 * Feb 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
-##### **Executive Tax Programme Level II (International Tax)**
+##### **International Tax Programme Level 2**
 * Oct 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
-##### **WU-TA Advanced Transfer Pricing Programme**
+##### **International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme**
 * Oct 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
 
-##### **Executive Tax Programme Level III (Leiden-TA Advanced Tax Treaties Programme)**
+##### **International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties Programme**
 * Nov 2021 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
-##### **Executive Tax Programme Level III (Advanced International Tax Planning Programme)**
+##### **International Tax Programme Level 3 : Advanced International Tax Planning Programme**
 * Aug 2021 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
-### **Executive Tax Programme Level I (International Tax)**
+### **International Tax Programme Level 1**
 
 This course will enable participants to acquire basic knowledge in tax treaties and transfer pricing.
 
@@ -32,7 +32,7 @@ This course will enable participants to acquire basic knowledge in tax treaties 
 The next intake for this course will be in May 2022. Registration will open six weeks before the course commencement date.
 
 <a id="etp2IT-ta-id"></a>
-### **Executive Tax Programme Level II (International Tax)**
+### **International Tax Programme Level 2**
 
 This course provides in-depth knowledge in international tax principles and concepts, with focus on specific issues on tax treaty and transfer pricing.
 
@@ -43,7 +43,7 @@ This course provides in-depth knowledge in international tax principles and conc
 The next intake for the course will be held in Oct 2022. Registration will open six to eight weeks before the course commencement date.
 
 <a id="wu-ta-id"></a>
-### **WU-TA Advanced Transfer Pricing Programme**
+### **International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme**
 
 The WU – TA Advanced Transfer Pricing Programme is offered by the WU Transfer Pricing Centre at the Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business) and the Tax Academy of Singapore. 
 
@@ -60,7 +60,7 @@ Dates of programme via virtual classroom: 3, 4, 5, 6, 10, 11, 12, 13 Oct 2022 (E
 **Registration is OPEN for 2022 intake.**
 
 <a id="leiden-ta-id"></a>
-### **Executive Tax Programme Level III (International Tax): Leiden-TA Advanced Tax Treaties**
+### **International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties**
 
 The Advanced Tax Treaties Programme is a collaborative effort between Tax Academy of Singapore and International Tax Center Leiden, Netherlands. The programme is aimed at tax professionals who have at least 3 years' tax experience and who are seeking to deepen their insight and expertise in tax treaties.
 
@@ -73,7 +73,7 @@ Participants will learn thorough knowledge of the complex rules that govern tax 
 
 
 <a id="itp-id"></a>
-### **Advanced International Tax Planning Programme**
+### **International Tax Programme Level 3 : Advanced International Tax Planning Programme**
 
 The programme takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia. It covers the key concepts of international tax planning and assesses the impact of recent developments in international taxation through technical learning and interactive case studies for MNCs.  
 
