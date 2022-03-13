@@ -64,8 +64,8 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Accreditation by the Singapore Chartered Tax Professionals</td>
-    <td>• Accredited Tax Practitioners (Provisional)<br>
-			• Accredited Tax Practitioners</td>
+    <td>• Accredited Tax Practitioner (Provisional)<br>
+			• Accredited Tax Practitioner</td>
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
@@ -94,7 +94,7 @@ Students will achieve a high level of understanding in tax and be able to work i
   <tr>
     <td>Accreditation by the Singapore Chartered Tax Professionals</td>
     <td>• Accredited Tax Advisor<br>
-			• Accredited Tax Practitioners</td>
+			• Accredited Tax Practitioner</td>
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
@@ -145,8 +145,8 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Accreditation by the Singapore Chartered Tax Professionals</td>
-    <td>• Accredited Tax Practitioners (Provisional)<br>
-         • Accredited Tax Practitioners</td>
+    <td>• Accredited Tax Practitioner (Provisional)<br>
+         • Accredited Tax Practitioner</td>
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
