@@ -29,8 +29,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 <b>Income Tax Programme Level 1</b>
   <tr>
     <td>Programme Overview</td>
-		<td>• Individual Income Tax<br>
-    	• Provide a firm foundation in income tax principles, Singapore Income Tax Act and case laws<br>
+		<td>• Provide a firm foundation in income tax principles, Singapore Income Tax Act and case laws<br>
     	• Provide a basic knowledge of tax law application and practice
     </td> 
   </tr>
@@ -55,8 +54,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 <b>Income Tax Programme Level 2</b>
   <tr>
     <td>Programme Overview</td>
-		<td>• Business and Corporate Tax<br>
-    	• Provide in-depth treatment of concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies<br>
+		<td>• Provide in-depth treatment of concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies<br>
     	• Provide in-depth knowledge of Singapore Income Tax Act and case laws<br>• Provide an introduction to the Goods and Services Tax and tax treaties
     </td> 
   </tr>
@@ -288,5 +286,4 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• The Advanced International Tax Planning Programme is suitable for candidates who wish to take Paper 1 of the ADIT exam</td>
   </tr>
-</table> 
-	
+</table>
