@@ -77,7 +77,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>Income Tax Programme Level 3 - Advanced Tax Programme</b>
+<b>Income Tax Programme Level 3 : Advanced Tax Programme</b>
   <tr>
     <td>Programme Overview</td>
     <td>• Provide rigorous training on wide range of core subjects covering Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing and Goods and Services Tax<br>
@@ -158,7 +158,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>GST Programme Level 3 - Advanced GST Programme</b>
+<b>GST Programme Level 3 : Advanced GST Programme</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide rigorous training in GST advanced concepts and case laws<br>
@@ -231,7 +231,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 3 - Leidon - TA Advanced Tax Treaties Programme</b>
+<b>International Tax Programme Level 3 : Leidon - TA Advanced Tax Treaties Programme</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide advanced treatment of tax treaties concepts and rules <br>
@@ -251,7 +251,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 3 - WU – TA Advanced Transfer Pricing Programme</b>
+<b>International Tax Programme Level 3 : WU – TA Advanced Transfer Pricing Programme</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide latest update on international transfer pricing developments <br>
@@ -271,7 +271,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 3 - Advanced International Tax Planning Programme</b>
+<b>International Tax Programme Level 3 : Advanced International Tax Planning Programme</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia <br>
