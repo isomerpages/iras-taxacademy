@@ -24,10 +24,10 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 # **Income Tax**
 
-<table class="table-v">
+<b size="+2">Income Tax Programme Level 1
+  </b><table class="table-v">
 	
-<b>Income Tax Programme Level 1</b>
-  <tr>
+<tbody><tr>
     <td>Programme Overview</td>
 		<td>• Provide a firm foundation in income tax principles, Singapore Income Tax Act and case laws<br>
     	• Provide a basic knowledge of tax law application and practice
@@ -45,14 +45,14 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table><b size="+2">
 
 
 
-<table class="table-v">
+<b>Income Tax Programme Level 2</b><table class="table-v">
 	
-<b>Income Tax Programme Level 2</b>
-  <tr>
+
+  <tbody><tr>
     <td>Programme Overview</td>
 		<td>• Provide in-depth treatment of concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies<br>
     	• Provide in-depth knowledge of Singapore Income Tax Act and case laws<br>• Provide an introduction to the Goods and Services Tax and tax treaties
@@ -71,14 +71,14 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table>
 
 
 
-<table class="table-v">
+<b>Income Tax Programme Level 3 : Advanced Tax Programme</b><table class="table-v">
 	
-<b>Income Tax Programme Level 3 : Advanced Tax Programme</b>
-  <tr>
+
+  <tbody><tr>
     <td>Programme Overview</td>
     <td>• Provide rigorous training on wide range of core subjects covering Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing and Goods and Services Tax<br>
 			• Broaden knowledge through elective modules in Regional Tax, Tax Incentives, Tax Fraud and Investigation, Stamp Duty<br>
@@ -98,18 +98,18 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
-    <td>• This course is suitable for candidates who wish to take Paper 1, 2 & 3 of the ADIT exam</td>
+    <td>• This course is suitable for candidates who wish to take Paper 1, 2 &amp; 3 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table>
 
 
 
-# **Goods & Services Tax**
+# **Goods &amp; Services Tax**
 
-<table class="table-v">
+<b>GST Programme Level 1</b><table class="table-v">
 	
-<b>GST Programme Level 1</b>
-  <tr>
+
+  <tbody><tr>
     <td>Programme Overview</td>
 		<td>• Provide a firm foundation in GST concepts, and Singapore Goods and Services Act and case laws <br>
 			• Provide treatment of practical case studies and analysis of GST obligations
@@ -127,13 +127,13 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table>
 
 
-<table class="table-v">
+<b>GST Programme Level 2</b><table class="table-v">
 	
-<b>GST Programme Level 2</b>
-  <tr>
+
+  <tbody><tr>
     <td>Programme Overview</td>
 		<td>• Provide in-depth treatment of the general GST rules and application <br>
 			• Provide study of GST rules for five industry-specific modules of Finance, Real Estate and Construction, Manufacturing, Imports and Exports, Logistics and Various Service Sectors
@@ -152,14 +152,14 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table>
  
 
 
-<table class="table-v">
+<b>GST Programme Level 3 : Advanced GST Programme</b><table class="table-v">
 	
-<b>GST Programme Level 3 : Advanced GST Programme</b>
-  <tr>
+
+  <tbody><tr>
     <td>Programme Overview</td>
 		<td>• Provide rigorous training in GST advanced concepts and case laws<br>
 	• Consist of two components - the coursework and the research paper<br>
@@ -180,7 +180,7 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table>
 
 
 
@@ -188,10 +188,10 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 # **International Tax**
 
-<table class="table-v">
+<b>International Tax Programme Level 1</b><table class="table-v">
 	
-<b>International Tax Programme Level 1</b>
-  <tr>
+
+  <tbody><tr>
     <td>Programme Overview</td>
 		<td>• Provide foundation on general concepts of tax treaty and introduction to the OECD and Singapore treaty models <br>
 		• Provide basic understanding of transfer pricing and the Singapore transfer pricing guidelines
@@ -203,15 +203,15 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
-    <td>• This course is suitable for candidates who wish to take Paper 1 & 3 of the ADIT exam</td>
+    <td>• This course is suitable for candidates who wish to take Paper 1 &amp; 3 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table>
 
 
-<table class="table-v">
+<b>International Tax Programme Level 2</b><table class="table-v">
 	
-<b>International Tax Programme Level 2</b>
-  <tr>
+
+  <tbody><tr>
     <td>Programme Overview</td>
 		<td>• Provide in-depth treatment of the key treaty Articles, application of the Articles to case studies and specific current issues<br>
 		• Learn the conduct and practice of transfer pricing study for selected business models and arrangements and the defence of transfer price
@@ -223,16 +223,16 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
-    <td>• This course is suitable for candidates who wish to take Paper 1 & 3 of the ADIT exam</td>
+    <td>• This course is suitable for candidates who wish to take Paper 1 &amp; 3 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table>
 
 
 
-<table class="table-v">
+<b>International Tax Programme Level 3 : Leidon - TA Advanced Tax Treaties Programme</b><table class="table-v">
 	
-<b>International Tax Programme Level 3 : Leidon - TA Advanced Tax Treaties Programme</b>
-  <tr>
+
+  <tbody><tr>
     <td>Programme Overview</td>
 		<td>• Provide advanced treatment of tax treaties concepts and rules <br>
 	• In-depth examination of the rules and structure of the OECD Model Tax Convention
@@ -246,13 +246,13 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• The Leiden – TA Advanced Tax Treaties Programme is suitable for candidates who wish to take Paper 1 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table>
 
 
-<table class="table-v">
+<b>International Tax Programme Level 3 : WU – TA Advanced Transfer Pricing Programme</b><table class="table-v">
 	
-<b>International Tax Programme Level 3 : WU – TA Advanced Transfer Pricing Programme</b>
-  <tr>
+
+  <tbody><tr>
     <td>Programme Overview</td>
 		<td>• Provide latest update on international transfer pricing developments <br>
 	• Knowledge and insights to handle transfer pricing issues in industries that are of relevance to the Asia-Pacific region
@@ -266,13 +266,13 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• The WU – TA Advanced Transfer Pricing Programme is suitable for candidates who wish to take Paper 3 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table>
 
 
-<table class="table-v">
+<b>International Tax Programme Level 3 : Advanced International Tax Planning Programme</b><table class="table-v">
 	
-<b>International Tax Programme Level 3 : Advanced International Tax Planning Programme</b>
-  <tr>
+
+  <tbody><tr>
     <td>Programme Overview</td>
 		<td>• Takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia <br>
 	• Covers the key concepts of international tax planning and assesses the impact of recent developments in international taxation through technical learning and interactive case studies for MNCs
@@ -286,4 +286,4 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• The Advanced International Tax Planning Programme is suitable for candidates who wish to take Paper 1 of the ADIT exam</td>
   </tr>
-</table>
+</tbody></table></b>
