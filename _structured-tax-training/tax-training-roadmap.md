@@ -45,11 +45,12 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• This course is suitable for candidates who wish to take Paper 2 of the ADIT exam</td>
   </tr>
-</tbody></table><b size="+2">
+</tbody></table><b size="+2"></b>
 
 
 
 <b>Income Tax Programme Level 2</b>
+
 	<table class="table-v">
 	  <tbody><tr>
     <td>Programme Overview</td>
