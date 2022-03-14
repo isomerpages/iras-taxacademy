@@ -49,10 +49,9 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 
 
-<b>Income Tax Programme Level 2</b><table class="table-v">
-	
-
-  <tbody><tr>
+<b>Income Tax Programme Level 2</b>
+	<table class="table-v">
+	  <tbody><tr>
     <td>Programme Overview</td>
 		<td>• Provide in-depth treatment of concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies<br>
     	• Provide in-depth knowledge of Singapore Income Tax Act and case laws<br>• Provide an introduction to the Goods and Services Tax and tax treaties
