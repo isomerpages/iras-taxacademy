@@ -29,8 +29,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 <b>Income Tax Programme Level 1</b>
   <tr>
     <td>Programme Overview</td>
-		<td>• Individual Income Tax<br>
-    	• Provide a firm foundation in income tax principles, Singapore Income Tax Act and case laws<br>
+		<td>• Provide a firm foundation in income tax principles, Singapore Income Tax Act and case laws<br>
     	• Provide a basic knowledge of tax law application and practice
     </td> 
   </tr>
@@ -55,8 +54,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 <b>Income Tax Programme Level 2</b>
   <tr>
     <td>Programme Overview</td>
-		<td>• Business and Corporate Tax<br>
-    	• Provide in-depth treatment of concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies<br>
+		<td>• Provide in-depth treatment of concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies<br>
     	• Provide in-depth knowledge of Singapore Income Tax Act and case laws<br>• Provide an introduction to the Goods and Services Tax and tax treaties
     </td> 
   </tr>
@@ -66,8 +64,8 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Accreditation by the Singapore Chartered Tax Professionals</td>
-    <td>• Accredited Tax Practitioners (Provisional)<br>
-			• Accredited Tax Practitioners</td>
+    <td>• Accredited Tax Practitioner (Provisional)<br>
+			• Accredited Tax Practitioner</td>
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
@@ -79,7 +77,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>Income Tax Programme Level 3 - Advanced Tax Programme</b>
+<b>Income Tax Programme Level 3 : Advanced Tax Programme</b>
   <tr>
     <td>Programme Overview</td>
     <td>• Provide rigorous training on wide range of core subjects covering Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing and Goods and Services Tax<br>
@@ -96,7 +94,7 @@ Students will achieve a high level of understanding in tax and be able to work i
   <tr>
     <td>Accreditation by the Singapore Chartered Tax Professionals</td>
     <td>• Accredited Tax Advisor<br>
-			• Accredited Tax Practitioners</td>
+			• Accredited Tax Practitioner</td>
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
@@ -147,8 +145,8 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Accreditation by the Singapore Chartered Tax Professionals</td>
-    <td>• Accredited Tax Practitioners (Provisional)<br>
-         • Accredited Tax Practitioners</td>
+    <td>• Accredited Tax Practitioner (Provisional)<br>
+         • Accredited Tax Practitioner</td>
   </tr>
   <tr>
     <td>Advanced Diploma in International Taxation (ADIT)</td>
@@ -160,7 +158,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>GST Programme Level 3 - Advanced GST Programme</b>
+<b>GST Programme Level 3 : Advanced GST Programme</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide rigorous training in GST advanced concepts and case laws<br>
@@ -233,7 +231,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 3 - Leidon - TA Advanced Tax Treaties Programme</b>
+<b>International Tax Programme Level 3 : Leidon - TA Advanced Tax Treaties Programme</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide advanced treatment of tax treaties concepts and rules <br>
@@ -253,7 +251,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 3 - WU – TA Advanced Transfer Pricing Programme</b>
+<b>International Tax Programme Level 3 : WU – TA Advanced Transfer Pricing Programme</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide latest update on international transfer pricing developments <br>
@@ -273,7 +271,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 3 - Advanced International Tax Planning Programme</b>
+<b>International Tax Programme Level 3 : Advanced International Tax Planning Programme</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia <br>
@@ -288,5 +286,4 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Advanced Diploma in International Taxation (ADIT)</td>
     <td>• The Advanced International Tax Planning Programme is suitable for candidates who wish to take Paper 1 of the ADIT exam</td>
   </tr>
-</table> 
-	
+</table>
