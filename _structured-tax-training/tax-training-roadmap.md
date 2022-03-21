@@ -26,7 +26,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b><font size="+2">Income Tax Programme Level 1</font></b>
+<b><font size="+3">Income Tax Programme Level 1</font></b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide a firm foundation in income tax principles, Singapore Income Tax Act and case laws<br>
