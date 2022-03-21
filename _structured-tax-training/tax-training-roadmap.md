@@ -231,7 +231,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b><font size="+3">International Tax Programme Level 3 : Leiden - TA Advanced Tax Treaties Programme</b>
+<b><font size="+3">International Tax Programme Level 3 : Leiden - TA Advanced Tax Treaties Programme</font></b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide advanced treatment of tax treaties concepts and rules <br>
