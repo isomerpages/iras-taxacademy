@@ -51,7 +51,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>Income Tax Programme Level 2</b>
+<b><font size="+3">Income Tax Programme Level 2</font></b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide in-depth treatment of concepts on taxability, deductibility and capital allowances relating to sole-proprietorships, partnerships and companies<br>
@@ -77,7 +77,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>Income Tax Programme Level 3 : Advanced Tax Programme</b>
+<b><font size="+3">Income Tax Programme Level 3 : Advanced Tax Programme</font></b>
   <tr>
     <td>Programme Overview</td>
     <td>• Provide rigorous training on wide range of core subjects covering Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing and Goods and Services Tax<br>
@@ -108,7 +108,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>GST Programme Level 1</b>
+<b><font size="+3">GST Programme Level 1</font></b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide a firm foundation in GST concepts, and Singapore Goods and Services Act and case laws <br>
@@ -132,7 +132,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>GST Programme Level 2</b>
+<b><font size="+3">GST Programme Level 2</font></b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide in-depth treatment of the general GST rules and application <br>
@@ -158,7 +158,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>GST Programme Level 3 : Advanced GST Programme</b>
+<b><font size="+3">GST Programme Level 3 : Advanced GST Programme</font></b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide rigorous training in GST advanced concepts and case laws<br>
@@ -190,7 +190,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 1</b>
+<b><font size="+3">International Tax Programme Level 1</font></b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide foundation on general concepts of tax treaty and introduction to the OECD and Singapore treaty models <br>
@@ -210,7 +210,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 2</b>
+<b><font size="+3">International Tax Programme Level 2</font></b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide in-depth treatment of the key treaty Articles, application of the Articles to case studies and specific current issues<br>
@@ -231,7 +231,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 3 : Leiden - TA Advanced Tax Treaties Programme</b>
+<b><font size="+3">International Tax Programme Level 3 : Leiden - TA Advanced Tax Treaties Programme</b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide advanced treatment of tax treaties concepts and rules <br>
@@ -251,7 +251,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 3 : WU – TA Advanced Transfer Pricing Programme</b>
+<b><font size="+3">International Tax Programme Level 3 : WU – TA Advanced Transfer Pricing Programme</font></b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Provide latest update on international transfer pricing developments <br>
@@ -271,7 +271,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 
 <table class="table-v">
 	
-<b>International Tax Programme Level 3 : Advanced International Tax Planning Programme</b>
+<b><font size="+3">International Tax Programme Level 3 : Advanced International Tax Planning Programme</font></b>
   <tr>
     <td>Programme Overview</td>
 		<td>• Takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia <br>
