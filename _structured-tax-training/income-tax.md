@@ -6,7 +6,7 @@ breadcrumb: Income Tax
 ### **UPCOMING PROGRAMMES**
 ##### **Income Tax Programme Level 1**
 
-* May 2022 intake: [Stay tuned for registration](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
+* May 2022 intake: [Registration is OPEN](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
 
 ##### **Income Tax Programme Level 2**
 
@@ -19,11 +19,11 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Registration Form](https://docs.google.com/forms/d/1qlROg7tvmBHK1uGxUPWOXmus2_emrH-2rgB-VY0KJdU/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Course brochure L1 Individual Income Tax 2 2021.pdf){:target="_blank"} 
+[Registration Form](https://docs.google.com/forms/d/1qlROg7tvmBHK1uGxUPWOXmus2_emrH-2rgB-VY0KJdU/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ L1 IT 2022-1 new v3.pdf){:target="_blank"} 
 
-Registration is CLOSED for Intake 2/2021.
+Registration is OPEN for Intake 1/2022.
 
-The next intake for this course will be in May 2022.  Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in Nov 2022.  Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp2sep-ta-id"></a>
 ### **Income Tax Programme Level 2**
