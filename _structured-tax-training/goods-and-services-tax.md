@@ -40,7 +40,7 @@ The next intake for this course will be in Sep 2022. Registration will be availa
 
 This is the foremost training programme in Goods and Services Tax for the tax professionals in Singapore. The curriculum offers rigorous training in advanced GST concepts and relevant case laws. There are two components to this programme: the coursework component and the research component.
 
-Please note that all applications will be subjected to short-listing. Participants must also have completed and passed the GST Programmer Level 2.
+Please note that all applications will be subjected to short-listing. Participants must also have completed and passed the GST Programme Level 2.
 
 Registration may be for the full course or for specific modules. For the full course, participants will have to complete three modules and one research paper over a ten-month period.
 
