@@ -68,8 +68,9 @@ In this webinar, participants will learn:
 * Closing Date for registration: 11 April (or when seats are fully subscribed)
 * [Registration Form](https://form.gov.sg/624a62edb691890015723674)
 
-**About the Speaker**
+[**About the Speaker**](/seminars-and-conferences/upcoming/#29Aprspeakers-ta-id)
 
+<a id="29Aprspeakers-ta-id"></a>
 **Mr Larry Low** is a Partner in the Business Tax practice of Deloitte Singapore. He has more than 19 years of experience in tax compliance and tax consulting, and has served both local and multinational corporations in various sectors such as manufacturing and trading, fund management, shipping, aircraft leasing and consumer products.
 
 
