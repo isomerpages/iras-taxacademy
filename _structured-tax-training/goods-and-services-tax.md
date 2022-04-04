@@ -5,10 +5,10 @@ breadcrumb: Goods and Services Tax
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **GST Programme Level 1**
-* May 2022 intake: [Stay tuned for more information in Apr 2022](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* May 2022 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **GST Programme Level 2**
-* May 2022 intake: [Stay tuned for more information in Apr 2022](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* May 2022 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 
 <a id="etp1gst-ta-id"></a>
