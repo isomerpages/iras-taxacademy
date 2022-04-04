@@ -18,9 +18,9 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 [Registration Form](https://forms.gle/1ioSKgaY79jwczp87){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP%20L1%20GST%203-2021.pdf){:target="_blank"}
 
-Registration is CLOSED for intake 3/2021 (Feb 2022 intake).
+Registration is OPENED for intake 1/2022 (May 2022 intake).
 
-The next intake for this course will be in May 2022. Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in Sep 2022. Registration will be available four to six weeks prior to the course commencement date.
 
 <a id="etp2gst-ta-id"></a>
 ### **GST Programme Level 2**
@@ -29,9 +29,9 @@ This course comprises one module on overall GST concepts and applications, and f
 
 [Registration Form](https://forms.gle/uQfLHwgJaua6aWWp9){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/ETP%20L2%20%20GST%202%202021.pdf){:target="_blank"}
 
-Registration is CLOSED for intake 2/2021 (Feb 2022 intake).
+Registration is OPENED for intake 1/2022 (May 2022 intake).
 
-The next intake for this course will be in May 2022. Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in Sep 2022. Registration will be available four to six weeks prior to the course commencement date.
 
 <a id="etp3gst-ta-id"></a>
 ### **GST Programme Level 3 : Advanced GST Programme**
