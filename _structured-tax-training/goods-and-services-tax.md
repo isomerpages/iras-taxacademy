@@ -31,6 +31,8 @@ This course comprises one module on overall GST concepts and applications, and f
 
 Registration is OPENED for intake 1/2022 (May 2022 intake).
 
+Please note participants will have to complete Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation prior to taking the GST Programme Level 2.
+
 The next intake for this course will be in Sep 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp3gst-ta-id"></a>
