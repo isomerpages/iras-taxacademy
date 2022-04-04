@@ -36,8 +36,9 @@ Agenda:
 * Closing Date for registration: 11 Apr (or when seats are fully subscribed)
 * [Registration Form](https://form.gov.sg/624a6f22639e1e00140ae171)
 
-**About the Speakers**
+[**About the Speakers**](/seminars-and-conferences/upcoming/#6Mayspeakers-ta-id)
 
+<a id="6Mayspeakers-ta-id"></a>
 **Mr Yap Hsien Yew** has more than 18 years of tax experience and has worked for many companies in Singapore and Asia-Pacific. He currently serves local, multinational, and listed companies in the technology and consumer sectors. He is often involved in tax advice and planning, including corporate restructurings and cross-border transactions.
 
 **Mr Chua Kong Ping** has substantial experience in Singapore and cross-border tax consultancy. He has worked in Deloitte’s New York office where he advised US MNCs on their outbound transactions into Singapore. Kong Ping also leads a team that is responsible for keeping Deloitte’s tax practitioners and its clients abreast of Singapore tax developments.
