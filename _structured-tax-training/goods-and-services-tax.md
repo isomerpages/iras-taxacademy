@@ -20,7 +20,7 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 Registration is OPENED for intake 1/2022 (May 2022 intake).
 
-The next intake for this course will be in Sep 2022. Registration will be available four to six weeks prior to the course commencement date.
+The next intake for this course will be in Sep 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp2gst-ta-id"></a>
 ### **GST Programme Level 2**
@@ -31,7 +31,7 @@ This course comprises one module on overall GST concepts and applications, and f
 
 Registration is OPENED for intake 1/2022 (May 2022 intake).
 
-The next intake for this course will be in Sep 2022. Registration will be available four to six weeks prior to the course commencement date.
+The next intake for this course will be in Sep 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp3gst-ta-id"></a>
 ### **GST Programme Level 3 : Advanced GST Programme**
