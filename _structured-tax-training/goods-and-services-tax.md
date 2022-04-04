@@ -18,7 +18,7 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 [Registration Form](https://go.gov.sg/fxgbmf){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/GST L1_1-2022.pdf){:target="_blank"}
 
-Registration is OPENED for intake 1/2022 (May 2022 intake).
+Registration is OPEN for intake 1/2022 (May 2022 intake).
 
 The next intake for this course will be in Sep 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
@@ -29,7 +29,7 @@ This course comprises one module on overall GST concepts and applications, and f
 
 [Registration Form](https://go.gov.sg/dyl8q2){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/GST L2_1-2022.pdf){:target="_blank"}
 
-Registration is OPENED for intake 1/2022 (May 2022 intake).
+Registration is OPEN for intake 1/2022 (May 2022 intake).
 
 Please note participants will have to complete Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation prior to taking the GST Programme Level 2.
 
