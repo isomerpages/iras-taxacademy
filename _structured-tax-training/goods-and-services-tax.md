@@ -18,7 +18,7 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 [Registration Form](https://go.gov.sg/fxgbmf){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/GST L1_1-2022.pdf){:target="_blank"}
 
-Registration is OPEN for intake 1/2022 (May 2022 intake).
+Registration is CLOSED for intake 1/2022 (May 2022 intake).
 
 The next intake for this course will be in Sep 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
