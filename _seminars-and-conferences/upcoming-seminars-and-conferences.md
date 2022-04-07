@@ -9,9 +9,9 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 
 
-* 6 May : [FasTax Series: Fundamentals of Withholding Tax - Implications of Tax Treaties](/seminars-and-conferences/upcoming/#6May-ta-id)
+* 6 May : [FasTax Series: Fundamentals of Withholding Tax - Implications of Tax Treaties **FULLY SUBSCRIBED**](/seminars-and-conferences/upcoming/#6May-ta-id)
 
-* 29 Apr : [FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#29Apr-ta-id)
+* 29 Apr : [FasTax Series: Fundamentals of Withholding Tax **FULLY SUBSCRIBED**](/seminars-and-conferences/upcoming/#29Apr-ta-id)
 
 
 <a id="6May-ta-id"></a>
