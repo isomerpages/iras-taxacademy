@@ -18,11 +18,13 @@ Mr Tham is a Fellow of the Institute of Singapore Chartered Accountants, the Ins
 
 #### **Members**
 
-**Mrs Eng-Tay Geok Lee** <br>
-Chief Executive Officer <br>
-Tax Academy of Singapore <br>
+**Ms Chiam Yah Fang** <br>
+Chief Executive Officer, Tax Academy of Singapore <br>
+Deputy Commissioner (Business Group)/ Chief Compliance Officer, Inland Revenue Authority of Singapore <br>
 
-Mrs Eng-Tay Geok Lee is the Chief Executive Officer of the Tax Academy of Singapore. She has more than thirty years of experience in tax administration and tax policy formulation, and has previously held  appointments as Senior Advisor and Deputy Commissioner (Business) of Inland Revenue Authority of Singapore, and Chief Tax Policy Officer of Ministry of Finance Singapore. <br>
+Yah Fang is the Deputy Commissioner (Business Group)/Chief Compliance Officer of IRAS, providing strategic leadership to IRAS divisions in domestic income tax policies and driving compliance activities aligned with IRAS-wide corporate plans.   
+
+Prior to her appointment as Deputy Commissioner, Yah Fang had held key appointments in IRAS, including as Assistant Commissioner of the Corporate Tax Division and Assistant Commissioner of the Taxpayer Services Division. She has also served in the Singapore Ministry of Finance as the Chief Tax Policy Officer. <br>
 
 **Mr Low Hwee Chua** <br>
 Regional Managing Partner <br>
