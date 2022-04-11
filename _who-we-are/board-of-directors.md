@@ -20,7 +20,7 @@ Mr Tham is a Fellow of the Institute of Singapore Chartered Accountants, the Ins
 
 **Ms Chiam Yah Fang** <br>
 Chief Executive Officer, Tax Academy of Singapore <br>
-Deputy Commissioner (Business Group)/ Chief Compliance Officer, Inland Revenue of Singapore <br>
+Deputy Commissioner (Business Group)/ Chief Compliance Officer, Inland Revenue Authority of Singapore <br>
 
 Yah Fang is the Deputy Commissioner (Business Group)/Chief Compliance Officer of IRAS, providing strategic leadership to IRAS divisions in domestic income tax policies and driving compliance activities aligned with IRAS-wide corporate plans.   
 
