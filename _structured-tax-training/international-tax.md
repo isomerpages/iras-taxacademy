@@ -25,7 +25,7 @@ breadcrumb: International Tax
 
 This course will enable participants to acquire basic knowledge in tax treaties and transfer pricing.
 
-[Registration Form](https://form.gov.sg/620b56931575d400157f524e){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L1 Int Tax 2 2021 brochure.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/620b56931575d400157f524e){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/coursebrochureIntTaxLevel112022.pdf){:target="_blank"}
 
 **Registration is OPEN for intake 1/2022**
 
