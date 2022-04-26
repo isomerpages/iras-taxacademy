@@ -5,7 +5,7 @@ breadcrumb: International Tax
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **International Tax Programme Level 1**
-* May 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
+* Feb 2023 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **International Tax Programme Level 2**
 * Oct 2022 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
@@ -27,7 +27,7 @@ This course will enable participants to acquire basic knowledge in tax treaties 
 
 [Registration Form](https://form.gov.sg/620b56931575d400157f524e){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/coursebrochureIntTaxLevel112022.pdf){:target="_blank"}
 
-**Registration is OPEN for intake 1/2022**
+**Registration is CLOSED for intake 1/2022**
 
 The next intake for this course will be in Feb 2023. Registration will open six weeks before the course commencement date.
 
