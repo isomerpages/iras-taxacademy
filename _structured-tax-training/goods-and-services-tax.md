@@ -29,7 +29,7 @@ This course comprises one module on overall GST concepts and applications, and f
 
 [Registration Form](https://go.gov.sg/dyl8q2){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/GST L2_1-2022.pdf){:target="_blank"}
 
-Registration is OPEN for intake 1/2022 (May 2022 intake).
+Registration is CLOSED for intake 1/2022 (May 2022 intake).
 
 Please note participants will have to complete Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation prior to taking the GST Programme Level 2.
 
