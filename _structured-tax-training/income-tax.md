@@ -58,6 +58,6 @@ Registration for individual modules will close 1 month before the commencement o
 
 Full programme participants who achieve the highest score for selected modules of the Advanced Tax Programme will be presented with a Book Prize. The Book Prizes are sponsored by Tax Academy’s stakeholders – Inland Revenue Authority of Singapore, Ernst &amp; Young Solutions LLP, KPMG Services Pte Ltd, Deloitte &amp; Touche LLP and PricewaterhouseCoopers Singapore Pte Ltd.
 
-[Book Prize Winners]({{"/files/executive-tax-programmes/ATP Book Prize Winners - Intake 15_1.pdf"}}){:target="_blank"}
+[Book Prize Winners]({{"/files/executive-tax-programmes/ATP (Intake 16) Book Prize Winners.pdf"}}){:target="_blank"}
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
