@@ -5,9 +5,9 @@ description: Tax Academy of Singapore is a not-for-profit institution set up by
   the Inland Revenue Authority of Singapore to raise the professional competency
   of the tax community.
 permalink: /
-notification: Our office is open every Monday to Wednesday from 10a.m. to 4p.m.
-  You may also wish to refer to the respective pages on this website for latest
-  updates on our programmes.  For enquiries, please contact us via <a
+notification: Our office is open every Monday to Wednesday from 9.00a.m. to
+  5.00p.m. You may also wish to refer to the respective pages on this website
+  for latest updates on our programmes.  For enquiries, please contact us via <a
   href="https://form.gov.sg/#!/5d2c51283703d80011e52615">Enquiries and Feedback
   Form.</a>
 sections:
