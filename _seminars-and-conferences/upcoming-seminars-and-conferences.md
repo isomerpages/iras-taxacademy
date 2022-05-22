@@ -19,11 +19,11 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 This webinar will feature practical examples illustrating the use of ASK for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
 
 Admin details:
-•	The webinar will be conducted via Zoom
-•	Date: 2 June 2022
-•	Time: 2.00pm to 5.00pm
-•	Fees: SGD 69.55 (incl. GST)
-•	Closing date for registration: 18 May (or when webinar is fully subscribed)
+* The webinar will be conducted via Zoom
+* Date: 2 June 2022
+* Time: 2.00pm to 5.00pm
+* Fees: SGD 69.55 (incl. GST)
+* Closing date for registration: 18 May (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/627c79952177ad0012018308)
 
 
