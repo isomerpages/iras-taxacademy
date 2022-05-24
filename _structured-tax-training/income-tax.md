@@ -34,9 +34,9 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 [Registration Form](https://form.gov.sg/628ae0c03778d8001158cbdb){:target="_blank"} -  [Details](/files/executive-tax-programmes/income-tax/coursebrochureL2IT12022.pdf){:target="_blank"} 
 
-Registration is CLOSED.  
+Registration is OPEN.  
 
-The next intake for this course will be in Jul 2022. Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in Sep 2022. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="atp-ta-id"></a>
 ### **Income Tax Programme Level 3 : Advanced Tax Programme**
