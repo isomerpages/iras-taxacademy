@@ -8,8 +8,8 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
-* 2 June : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance **FULLY SUBSCRIBED**](/seminars-and-conferences/upcoming/#2Jun-ta-id)
-
+* 2 June : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#2Jun-ta-id)
+(FULLY SUBSCRIBED)
 
 
 <a id="2Jun-ta-id"></a>
