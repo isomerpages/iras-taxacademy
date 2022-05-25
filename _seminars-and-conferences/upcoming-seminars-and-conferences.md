@@ -38,6 +38,7 @@ Admin details:
 * Time: 3.00pm to 5.00pm
 * Fees: SGD 42.80 (include GST)
 * Closing date for registration: 2 June (or when webinar is fully subscribed)
+* [Registration Form](https://form.gov.sg/62834615c27fbc00121675dd)
 * Speakers from Baker Mckenzie Wong & Leow:
 	1. Mr Ng Zhao Yang, Local Principal
 	2. Ms Leng Harn Szuan, Senior Associate
