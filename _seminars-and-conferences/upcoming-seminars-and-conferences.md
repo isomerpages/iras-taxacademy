@@ -7,7 +7,7 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
-* 10 June : [Law 101 for Tax Professionals Series: Employment Law 101](/seminars-and-conferences/upcoming/#10Jun-ta-id)
+* 10 June : [Law 101 for Tax Professionals Series: Employment Law 101](/seminars-and-conferences/upcoming/#10Jun-ta-id) (FULLY SUBSCRIBED)
 
 * 2 June : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#2Jun-ta-id)
 (FULLY SUBSCRIBED)
