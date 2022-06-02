@@ -35,6 +35,12 @@ Agenda:
 * Next steps
 * Q&A
 
+**Admin details**
+* The webinar will be conducted via Zoom
+* Date: 29 June 2022
+* Time: 3.30pm to 5.00pm
+* Closing date for registration: 22 June (or when webinar is fully subscribed)
+
 
 
 
