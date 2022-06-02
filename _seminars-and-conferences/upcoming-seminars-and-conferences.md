@@ -7,10 +7,35 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+* 29 June : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#29Jun-ta-id)
+
 * 10 June : [Law 101 for Tax Professionals Series: Employment Law 101](/seminars-and-conferences/upcoming/#10Jun-ta-id) (FULLY SUBSCRIBED)
 
 * 2 June : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#2Jun-ta-id)
 (FULLY SUBSCRIBED)
+
+
+<a id="29Jun-ta-id"></a>
+#### **Budget Clinic: Navigating the GST rate change**
+**29 June | 3.30 p.m. to 5.00 p.m.**
+
+This webinar will dive into the 'ART' of navigating the essentials to prepare for GST rate change:
+
+* **A**djustments to your price displays, systems and processes to take into account the GST rate increase
+* **R**e-evaluate voluntary GST registration (if you are not GST registered)
+* **T**ransitional time of supply rules for transactions spanning the GST rate increase
+
+Agenda:
+* Practical tips and considerations arising from a GST rate increase
+  1. **T**ransitional issues
+  2. **I**rrecoverable GST
+  3. **P**ricing consideration
+  4. **S**ystems and processes changes
+* Transitional rules and concessions
+* Next steps
+* Q&A
+
+
 
 
 <a id="10Jun-ta-id"></a>
