@@ -40,8 +40,7 @@ Agenda:
 * Date: 29 June 2022
 * Time: 3.30pm to 5.00pm
 * Closing date for registration: 22 June (or when webinar is fully subscribed)
-
-
+* [Registration Form](https://form.gov.sg/62982250204d74001320c462)
 
 
 <a id="10Jun-ta-id"></a>
