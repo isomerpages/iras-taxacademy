@@ -42,6 +42,10 @@ Agenda:
 * Closing date for registration: 22 June (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/62982250204d74001320c462)
 
+**About the Speaker**
+
+**Mr Kor Bing Keong** is a GST Partner with PricewaterhouseCoopers Singapore Pte. Ltd. Bing Keong has over 25 years of experience specializing in Goods and Services Tax (GST) (equivalent of Value Added Tax). His GST experience covers a wide spectrum of work including, offering GST advice on diverse issues and industries, assisting clients with dispute resolution, conducting GST reviews (e.g. Assisted Self-Help Kit and Assisted Compliance Assurance Program) and GST training. Bing Keong was heavily involved in the implementation of GST in Singapore and Malaysia.
+
 
 <a id="10Jun-ta-id"></a>
 #### **Law 101 for Tax Professionals Series: Employment Law 101**
