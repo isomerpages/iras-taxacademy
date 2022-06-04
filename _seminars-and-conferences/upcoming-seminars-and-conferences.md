@@ -7,7 +7,7 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
-* 29 June : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#29Jun-ta-id)
+* 29 June : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#29Jun-ta-id) (FULLY SUBSCRIBED)
 
 * 10 June : [Law 101 for Tax Professionals Series: Employment Law 101](/seminars-and-conferences/upcoming/#10Jun-ta-id) (FULLY SUBSCRIBED)
 
@@ -39,6 +39,7 @@ Agenda:
 * The webinar will be conducted via Zoom
 * Date: 29 June 2022
 * Time: 3.30pm to 5.00pm
+* Fees: SGD 42.80 (incl. GST)
 * Closing date for registration: 22 June (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/62982250204d74001320c462)
 
