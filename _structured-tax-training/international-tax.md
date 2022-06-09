@@ -79,7 +79,7 @@ The programme takes a commercial and practical approach to addressing main issue
 
 Dates of programme via virtual classroom: 3, 4, 16  &amp; 17 Aug 2022 (Each session : 9.00 a.m. to 12.30 p.m.)
 
-[Registration Form](https://docs.google.com/forms/d/1PQvOVPINj7Ak7jPp-ypopLYlzmTYmba18oGg7-_lvmI/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochure Adv ITP 2021.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/yg1voh){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Advanced ITP 2022 Programme Brochure.pdf){:target="_blank"}
 
 **Registration is OPEN for 2022 intake**
 
