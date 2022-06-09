@@ -17,7 +17,7 @@ breadcrumb: International Tax
 * Nov 2021 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **International Tax Programme Level 3 : Advanced International Tax Planning Programme**
-* Aug 2021 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#itp-id)
+* Aug 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
@@ -77,10 +77,10 @@ Participants will learn thorough knowledge of the complex rules that govern tax 
 
 The programme takes a commercial and practical approach to addressing main issues faced by multinational corporations (MNCs) in Asia. It covers the key concepts of international tax planning and assesses the impact of recent developments in international taxation through technical learning and interactive case studies for MNCs.  
 
-Dates of programme via virtual classroom: 10, 11, 19  &amp; 20 Aug 2021 (Each session : 9.00 a.m. to 12.30 p.m.)
+Dates of programme via virtual classroom: 3, 4, 16  &amp; 17 Aug 2022 (Each session : 9.00 a.m. to 12.30 p.m.)
 
 [Registration Form](https://docs.google.com/forms/d/1PQvOVPINj7Ak7jPp-ypopLYlzmTYmba18oGg7-_lvmI/edit){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochure Adv ITP 2021.pdf){:target="_blank"}
 
-**Registration is CLOSED for 2021 intake**
+**Registration is OPEN for 2022 intake**
 
 **Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
