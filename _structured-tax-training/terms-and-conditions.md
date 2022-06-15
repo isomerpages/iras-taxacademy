@@ -64,7 +64,7 @@ E.g. If the unit consists of 6 lessons, participants have to attend at least 4 l
 
 9.3 For webinar, payment is to be made within 2 working days from the date of registration. Confirmation and Receipt will be emailed to registrant within 5 working days upon receiving payment. No invoice will be issued for webinar fees less than $600.
 
-9.4 Course/webinar fees are non-refundable upon issuance of invoice.
+9.4 Course fees are non-refundable upon issuance of invoice.
 
 9.5 Receipt will be issued upon request.
 
@@ -83,11 +83,11 @@ issued to participants.
 - Duplicate hardcopy of Certificate of Achievement (with grading)
 - Deferment of course/module/exams
 
-**12. Withdrawal from course**
+**12. Withdrawal from course/webinar**
 
-12.1 Withdrawal from course is not allowed upon receipt of payment. Instead, participants may either:
+12.1 Withdrawal from course/webinar is not allowed upon receipt of payment. Instead, participants may either:
 - Defer enrolment to the next intake, subject to approval; or
-- Nominate a replacement prior to course commencement.
+- Nominate a replacement prior to course/webinar commencement.
 
 12.2 For Level 3 courses, participants who withdraw will bear a cancellation fee of:
 - $53.50, if cancellation notice is given more than 14 days before course starts; or
