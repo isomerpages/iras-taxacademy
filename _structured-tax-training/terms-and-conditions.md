@@ -30,11 +30,11 @@ E.g. If the unit consists of 6 lessons, participants have to attend at least 4 l
 
 4.1 No audio or video recording is allowed during class.
 
-**5. Course cancellation/changes**
+**5. Course and Webinar cancellation/changes**
 
-5.1 Tax Academy’s course schedules, course trainer, course fees and course availability are subject to change.
+5.1 Tax Academy’s course/webinar schedules, trainer, fees and course/webinar availability are subject to change.
 
-5.2 Tax Academy reserves the right to cancel or postpone any course at short notice. In the event that the participant’s chosen course is cancelled prior to its commencement, Tax Academy will make a full refund of course fees paid by the participant.
+5.2 Tax Academy reserves the right to cancel or postpone any course at short notice. In the event that the participant’s chosen course/webinar is cancelled prior to its commencement, Tax Academy will make a full refund of course/webinar fees paid by the participant.
 
 **6. Reschedule of exams**
 
@@ -54,7 +54,7 @@ E.g. If the unit consists of 6 lessons, participants have to attend at least 4 l
 
 8.1 Deferment of module to the next intake (applicable to Level 3 courses only) is subject to approval on a case-by-case basis. Participants should write to the Programme Executive at least 2 weeks before the course commencement date.
 
-**9. Course fees**
+**9. Course/Webinar fees**
 
 9.1 Acceptable modes of payment are as follows:
 - Internet banking/Bank transfers/GIRO/Paynow
@@ -62,9 +62,11 @@ E.g. If the unit consists of 6 lessons, participants have to attend at least 4 l
 
 9.2 Payment is to be made within 7 days from date of invoice or before the commencement of the course, whichever is earlier.
 
-9.3 Course fees are non-refundable upon issuance of invoice.
+9.3 For webinar, payment is to be made within 2 working days from the date of registration. Confirmation and Receipt will be emailed to registrant within 5 working days upon receiving payment. No invoice will be issued for webinar fees less than $600.
 
-9.4 Receipt will be issued upon request.
+9.4 Course/webinar fees are non-refundable upon issuance of invoice.
+
+9.5 Receipt will be issued upon request.
 
 **10. Certificates/Letter of Completion/Transcript**
 
