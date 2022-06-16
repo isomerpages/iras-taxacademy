@@ -7,7 +7,22 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+* 30 June : [Law 101 for Tax Professionals: IP 101 - An Introduction to Selected Intellectual Property Rights (Patents and Trademarks)](/seminars-and-conferences/upcoming/#30Jun-ta-id)
+
+
 * 29 June : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#29Jun-ta-id) (FULLY SUBSCRIBED)
+
+
+<a id="30Jun-ta-id"></a>
+#### **Law 101 for Tax Professionals: IP 101 - An Introduction to Selected Intellectual Property Rights (Patents and Trademarks)**
+**30 June | 3.00 p.m. to 5.00 p.m.**
+
+In this webinar, we will cover:
+
+* Introduction to Patents and Trademarks
+* How to obtain such IP rights
+* Managing such IP rights
+* Enforcement
 
 
 <a id="29Jun-ta-id"></a>
