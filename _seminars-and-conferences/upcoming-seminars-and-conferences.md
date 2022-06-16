@@ -24,6 +24,18 @@ In this webinar, we will cover:
 * Managing such IP rights
 * Enforcement
 
+Admin details
+
+* The webinar will be conducted via Zoom
+* Date: 30 June 2022
+* Fee:  SGD 42.80 (incl. GST)
+* Time: 3.00pm to 5.00pm
+* Closing date for registration: 23 June (or when webinar is fully subscribed)
+* [Registration Form](https://form.gov.sg/62aa8f39855cba0012c3d0af)
+
+**About the speaker**
+
+**Mr Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin & Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
 
 <a id="29Jun-ta-id"></a>
 #### **Budget Clinic: Navigating the GST rate change**
