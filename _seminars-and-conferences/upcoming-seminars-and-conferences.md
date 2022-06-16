@@ -29,7 +29,7 @@ Admin details
 * The webinar will be conducted via Zoom
 * Date: 30 June 2022
 * Fee:  SGD 42.80 (incl. GST)
-* Time: 3.00pm to 5.00pm
+* Time: 3.00pm to 5.00pm (incl. Q&A)
 * Closing date for registration: 23 June (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/62aa8f39855cba0012c3d0af)
 
@@ -60,7 +60,7 @@ Agenda:
 **Admin details**
 * The webinar will be conducted via Zoom
 * Date: 29 June 2022
-* Time: 3.30pm to 5.00pm
+* Time: 3.30pm to 5.00pm (incl. Q&A)
 * Fees: SGD 42.80 (incl. GST)
 * Closing date for registration: 22 June (or when webinar is fully subscribed)
 * [Join Waiting List](https://form.gov.sg/62a48ce829946c001229d6c1)
