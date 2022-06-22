@@ -59,15 +59,12 @@ Agenda:
 
 **Admin details**
 * The webinar will be conducted via Zoom
-* Date: 29 June 2022
+* Date: 29 June 2022 (Fully Subscribed)
 * Time: 3.30pm to 5.00pm (incl. Q&A)
 * Fees: SGD 42.80 (incl. GST)
 * Closing date for registration: 22 June (or when webinar is fully subscribed)
-* [Join Waiting List](https://form.gov.sg/62a48ce829946c001229d6c1)
+* [Next intake will be on 2 Aug, 3pm to 4.30pm](https://form.gov.sg/62b29f4bf75c200012082707)
 
-**About the Speaker**
-
-**Mr Kor Bing Keong** is a GST Partner with PricewaterhouseCoopers Singapore Pte. Ltd. Bing Keong has over 25 years of experience specializing in Goods and Services Tax (GST) (equivalent of Value Added Tax). His GST experience covers a wide spectrum of work including, offering GST advice on diverse issues and industries, assisting clients with dispute resolution, conducting GST reviews (e.g. Assisted Self-Help Kit and Assisted Compliance Assurance Program) and GST training. Bing Keong was heavily involved in the implementation of GST in Singapore and Malaysia.
 
 
 
