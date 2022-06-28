@@ -2,7 +2,7 @@ collections:
   structured-tax-training:
     output: true
     order:
-      - Goods and Services Tax/Example Title.md
+      - Goods and Services Tax/Goods and Services Tax.md
       - Goods and Services Tax/.keep
       - Property Tax.md
       - tax-training-roadmap.md
