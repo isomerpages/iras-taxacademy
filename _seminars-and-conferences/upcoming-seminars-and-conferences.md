@@ -46,15 +46,18 @@ Admin details
 *   Time: 3.00pm to 4.30pm
 *   Fees: SGD 42.80 (include GST)
 *   Closing date for registration: 14 July (or when webinar is fully subscribed)
-*   [Registration form 21 July](https://form.gov.sg/62bb0050b45f4f00126fb928)
+*   [Registration form](https://form.gov.sg/62bb0050b45f4f00126fb928)
+
+* Speakers from Baker & Mckenzie. Wong & Leow
+
 
 **About the speakers**
 
-**Mr Ng Zhao Yang** specialises in employment law and immigration issues in Singapore. He is experienced in assisting clients through the life cycle of employment from both the legal and the commercial perspectives. Further, he also advises clients with respect to the various immigration issues relating to their foreign workforce in order to assist clients in achieving the desired outcome in an increasingly tricky space.
+**Mr Ng Zhao Yang** (Local Principal) specialises in employment law and immigration issues in Singapore. He is experienced in assisting clients through the life cycle of employment from both the legal and the commercial perspectives. Further, he also advises clients with respect to the various immigration issues relating to their foreign workforce in order to assist clients in achieving the desired outcome in an increasingly tricky space.
 
-**Ms Leng Harn Szuan** advises on tax covering cross-border transactions, tax incentive applications, group restructuring and tax controversy. In 2015, Harn Szuan spent a year in the US where she focused on developing Singapore-inbound opportunities. Before joining Baker McKenzie Wong & Leow, Harn Szuan worked in one of the Big Four accounting firms in Singapore. Harn Szuan has advised on tax considerations arising from employee incentive schemes, allowances due to the pandemic, dual employment matters as well as secondment arrangements.
+**Ms Leng Harn Szuan** (Senior Associate) advises on tax covering cross-border transactions, tax incentive applications, group restructuring and tax controversy. In 2015, Harn Szuan spent a year in the US where she focused on developing Singapore-inbound opportunities. Before joining Baker McKenzie Wong & Leow, Harn Szuan worked in one of the Big Four accounting firms in Singapore. Harn Szuan has advised on tax considerations arising from employee incentive schemes, allowances due to the pandemic, dual employment matters as well as secondment arrangements.
 
-**Ms Esther Pang** specialises in employment and immigration issues in Singapore. She assists clients with all aspects of employment law which includes employment to the termination of employment, and other employee management issues. Esther's experience includes negotiating employment agreements and separation agreements, performance review and other employee incentive plans, and handling employment issues arising from restructuring or mergers and acquisitions. Esther also assisted clients on new trends in the workplace such as employees working remotely and flexible time-off policies.
+**Ms Esther Pang** (Associate) specialises in employment and immigration issues in Singapore. She assists clients with all aspects of employment law which includes employment to the termination of employment, and other employee management issues. Esther's experience includes negotiating employment agreements and separation agreements, performance review and other employee incentive plans, and handling employment issues arising from restructuring or mergers and acquisitions. Esther also assisted clients on new trends in the workplace such as employees working remotely and flexible time-off policies.
 
 <a id="30Jun-ta-id"></a>
 #### **Law 101 for Tax Professionals: IP 101 - An Introduction to Selected Intellectual Property Rights (Patents and Trademarks)**
