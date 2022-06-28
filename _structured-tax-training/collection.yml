@@ -2,9 +2,6 @@ collections:
   structured-tax-training:
     output: true
     order:
-      - Goods and Services Tax/.keep
-      - Goods and Services Tax/Property Tax.md
-      - Goods and Services Tax/Goods and Services Tax.md
       - tax-training-roadmap.md
       - programme-calendar.md
       - income-tax.md
