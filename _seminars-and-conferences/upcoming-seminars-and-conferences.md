@@ -7,8 +7,10 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**JULY**
 * 21 July : [Law 101 for Tax Professionals: IP 101 - Employment Law 101](/seminars-and-conferences/upcoming/#21Jul-ta-id)
 
+**JUNE**
 * 30 June : [Law 101 for Tax Professionals: IP 101 - An Introduction to Selected Intellectual Property Rights (Patents and Trademarks)](/seminars-and-conferences/upcoming/#30Jun-ta-id)
 
 
