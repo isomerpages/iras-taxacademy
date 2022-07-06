@@ -13,7 +13,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 
 **JULY**
-* 21 July : [Law 101 for Tax Professionals: IP 101 - Employment Law 101](/seminars-and-conferences/upcoming/#21Jul-ta-id) (FULLY SUBSCRIBED)
+
+* 28 July : [Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information (including Data)](/seminars-and-conferences/upcoming/#28Jul-ta-id)
+
+* 21 July : [Law 101 for Tax Professionals: Employment Law 101](/seminars-and-conferences/upcoming/#21Jul-ta-id) (FULLY SUBSCRIBED)
 
 
 <a id="2Aug-ta-id"></a>
@@ -43,6 +46,29 @@ Agenda:
 * Fees: SGD 42.80 (incl. GST)
 * Closing date for registration: 26 July (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/62b29f4bf75c200012082707)
+
+
+<a id="28Jul-ta-id"></a>
+#### **Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information (including Data)**
+**28 Jul | 3.00 p.m. to 5.00 p.m.**
+
+This webinar will cover:
+
+*   Introduction to Copyright and Confidential Information
+*   How to obtain such IP rights
+*   Managing such IP rights
+*   Enforcement
+
+Admin details:
+
+* The webinar will be conducted via Zoom
+* Date: 28 July 2022
+* Time: 3.00pm to 5.00pm
+* Closing date for registration: 20 July (or when webinar is fully subscribed)
+* RSVP Form
+
+**About the speaker**
+**Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin & Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
 
 
 <a id="21Jul-ta-id"></a>
