@@ -68,6 +68,7 @@ Admin details:
 * [Registration Form](https://form.gov.sg/62c564c2bbb7a20012889027)
 
 **About the speaker**
+
 **Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin & Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
 
 
