@@ -7,14 +7,42 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+
+**AUGUST**
+* 2 Aug : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#2Aug-ta-id)
+
+
 **JULY**
-* 21 July : [Law 101 for Tax Professionals: IP 101 - Employment Law 101](/seminars-and-conferences/upcoming/#21Jul-ta-id)
-
-**JUNE**
-* 30 June : [Law 101 for Tax Professionals: IP 101 - An Introduction to Selected Intellectual Property Rights (Patents and Trademarks)](/seminars-and-conferences/upcoming/#30Jun-ta-id)
+* 21 July : [Law 101 for Tax Professionals: IP 101 - Employment Law 101](/seminars-and-conferences/upcoming/#21Jul-ta-id) (FULLY SUBSCRIBED)
 
 
-* 29 June : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#29Jun-ta-id) (FULLY SUBSCRIBED)
+<a id="2Aug-ta-id"></a>
+#### **Budget Clinic: Navigating the GST rate change**
+**2 Aug | 3.00 p.m. to 4.30 p.m.**
+
+This webinar will dive into the 'ART' of navigating the essentials to prepare for GST rate change:
+
+* **A**djustments to your price displays, systems and processes to take into account the GST rate increase
+* **R**e-evaluate voluntary GST registration (if you are not GST registered)
+* **T**ransitional time of supply rules for transactions spanning the GST rate increase
+
+Agenda:
+* Practical tips and considerations arising from a GST rate increase
+  1. **T**ransitional issues
+  2. **I**rrecoverable GST
+  3. **P**ricing consideration
+  4. **S**ystems and processes changes
+* Transitional rules and concessions
+* Next steps
+* Q&A
+
+**Admin details**
+* The webinar will be conducted via Zoom
+* Date: 2 Aug 2022
+* Time: 3.00pm to 4.30pm (incl. Q&A)
+* Fees: SGD 42.80 (incl. GST)
+* Closing date for registration: 26 July (or when webinar is fully subscribed)
+* [Registration Form](https://form.gov.sg/62b29f4bf75c200012082707)
 
 
 <a id="21Jul-ta-id"></a>
@@ -61,57 +89,6 @@ Admin details
 
 **Ms Esther Pang** (Associate) specialises in employment and immigration issues in Singapore. She assists clients with all aspects of employment law which includes employment to the termination of employment, and other employee management issues. Esther's experience includes negotiating employment agreements and separation agreements, performance review and other employee incentive plans, and handling employment issues arising from restructuring or mergers and acquisitions. Esther also assisted clients on new trends in the workplace such as employees working remotely and flexible time-off policies.
 
-<a id="30Jun-ta-id"></a>
-#### **Law 101 for Tax Professionals: IP 101 - An Introduction to Selected Intellectual Property Rights (Patents and Trademarks)**
-**30 June | 3.00 p.m. to 5.00 p.m.**
-
-In this webinar, we will cover:
-
-* Introduction to Patents and Trademarks
-* How to obtain such IP rights
-* Managing such IP rights
-* Enforcement
-
-Admin details
-
-* The webinar will be conducted via Zoom
-* Date: 30 June 2022
-* Fee:  SGD 42.80 (incl. GST)
-* Time: 3.00pm to 5.00pm (incl. Q&A)
-* Closing date for registration: 23 June (or when webinar is fully subscribed)
-* [Registration Form](https://form.gov.sg/62aa8f39855cba0012c3d0af)
-
-**About the speaker**
-
-**Mr Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin & Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
-
-<a id="29Jun-ta-id"></a>
-#### **Budget Clinic: Navigating the GST rate change**
-**29 June | 3.30 p.m. to 5.00 p.m.**
-
-This webinar will dive into the 'ART' of navigating the essentials to prepare for GST rate change:
-
-* **A**djustments to your price displays, systems and processes to take into account the GST rate increase
-* **R**e-evaluate voluntary GST registration (if you are not GST registered)
-* **T**ransitional time of supply rules for transactions spanning the GST rate increase
-
-Agenda:
-* Practical tips and considerations arising from a GST rate increase
-  1. **T**ransitional issues
-  2. **I**rrecoverable GST
-  3. **P**ricing consideration
-  4. **S**ystems and processes changes
-* Transitional rules and concessions
-* Next steps
-* Q&A
-
-**Admin details**
-* The webinar will be conducted via Zoom
-* Date: 29 June 2022 (Fully Subscribed)
-* Time: 3.30pm to 5.00pm (incl. Q&A)
-* Fees: SGD 42.80 (incl. GST)
-* Closing date for registration: 22 June (or when webinar is fully subscribed)
-* [Next intake will be on 2 Aug, 3pm to 4.30pm](https://form.gov.sg/62b29f4bf75c200012082707)
 
 
 
