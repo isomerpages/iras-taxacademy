@@ -6,12 +6,7 @@ description: ""
 ##### **UPCOMING PROGRAMMES**
 
 
-##### **Property Tax Programme Level 1**
 
-* Aug 2022 intake: [Stay Tuned for updates\](/executive-tax-programmes/Property Tax/#etp1pt-ta-id)
-
-
-<a id="etp1pt-ta-id"></a>
 
 ### **Property Tax Programme Level 1**
 
