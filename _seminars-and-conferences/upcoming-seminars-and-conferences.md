@@ -102,9 +102,7 @@ Admin details
 *   Date: 21 July 2022
 *   Time: 3.00pm to 4.30pm
 *   Fees: SGD 42.80 (include GST)
-*   Closing date for registration: 14 July (or when webinar is fully subscribed)
-*   [Registration form](https://form.gov.sg/62bb0050b45f4f00126fb928)
-
+*   Webinar is fully subscribed
 * Speakers from Baker & Mckenzie. Wong & Leow
 
 
