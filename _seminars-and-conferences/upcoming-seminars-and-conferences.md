@@ -19,7 +19,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 <a id="2Aug-ta-id"></a>
 #### **Budget Clinic: Navigating the GST rate change**
-**2 Aug | 3.00 p.m. to 4.30 p.m.**
+**2 Aug | 3.00 p.m. to 5.00 p.m.**
 
 This webinar will dive into the 'ART' of navigating the essentials to prepare for GST rate change:
 
@@ -40,10 +40,11 @@ Agenda:
 **Admin details**
 * The webinar will be conducted via Zoom
 * Date: 2 Aug 2022
-* Time: 3.00pm to 4.30pm (incl. Q&A)
+* Time: 3.00pm to 5.00pm (incl. Q&A)
 * Fees: SGD 42.80 (incl. GST)
 * Closing date for registration: 26 July (or when webinar is fully subscribed)
 * [Registration Form](https://form.gov.sg/62b29f4bf75c200012082707)
+* Speaker: Ms Rushan Lee, Partner, PricewaterhouseCoopers Singapore Pte Ltd
 
 
 <a id="28Jul-ta-id"></a>
