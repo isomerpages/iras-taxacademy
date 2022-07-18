@@ -7,13 +7,48 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
-
+**AUGUST**
+* 2 Aug : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#2Aug-ta-id)
 
 **JULY**
 
 * 28 July : [Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information (including Data)](/seminars-and-conferences/upcoming/#28Jul-ta-id)
 
 * 21 July : [Law 101 for Tax Professionals: Employment Law 101](/seminars-and-conferences/upcoming/#21Jul-ta-id) (FULLY SUBSCRIBED)
+
+
+<a id="2Aug-ta-id"></a>
+#### **Budget Clinic: Navigating the GST rate change**
+**2 Aug | 3.00 p.m. to 5.00 p.m.**
+
+This webinar will dive into the 'ART' of navigating the essentials to prepare for GST rate change:
+
+* **A**djustments to your price displays, systems and processes to take into account the GST rate increase
+* **R**e-evaluate voluntary GST registration (if you are not GST registered)
+* **T**ransitional time of supply rules for transactions spanning the GST rate increase
+
+Agenda:
+* Practical tips and considerations arising from a GST rate increase
+  1. **T**ransitional issues
+  2. **I**rrecoverable GST
+  3. **P**ricing consideration
+  4. **S**ystems and processes changes
+* Transitional rules and concessions
+* Next steps
+* Q&A
+
+**Admin details**
+* The webinar will be conducted via Zoom
+* Date: 2 Aug 2022
+* Time: 3.00pm to 5.00pm (incl. Q&A)
+* Fees: SGD 42.80 (incl. GST)
+* Closing date for registration: 26 July (or when webinar is fully subscribed)
+* [Registration Form](https://form.gov.sg/62b29f4bf75c200012082707)
+* Speaker: Ms Rushan Lee, Partner, PricewaterhouseCoopers Singapore Pte Ltd
+
+**About the speaker**
+
+**Ms Rushan Lee** is a Partner in PwC Singapore dedicated to indirect taxes. Over the years, she has assisted clients across diverse industries with different indirect tax challenges, which enables her to provide practical guidance to businesses on how to manage their GST risks and comply with GST rules. Rushan also conducts in-house GST training for clients and is one of the trainers for GST workshops held by PwC Academy.
 
 
 <a id="28Jul-ta-id"></a>
