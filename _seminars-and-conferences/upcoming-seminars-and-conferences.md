@@ -46,6 +46,10 @@ Agenda:
 * [Registration Form](https://form.gov.sg/62b29f4bf75c200012082707)
 * Speaker: Ms Rushan Lee, Partner, PricewaterhouseCoopers Singapore Pte Ltd
 
+**About the speaker**
+
+**Ms Rushan Lee** is a Partner in PwC Singapore dedicated to indirect taxes. Over the years, she has assisted clients across diverse industries with different indirect tax challenges, which enables her to provide practical guidance to businesses on how to manage their GST risks and comply with GST rules. Rushan also conducts in-house GST training for clients and is one of the trainers for GST workshops held by PwC Academy.
+
 
 <a id="28Jul-ta-id"></a>
 #### **Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information (including Data)**
