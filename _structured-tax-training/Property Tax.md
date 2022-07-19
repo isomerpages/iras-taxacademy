@@ -12,4 +12,4 @@ description: ""
 
 This course provides basic knowledge on the principles and practices of property tax assessment, reinforces basic property tax principles and concepts through lectures, discussions, and practical cases
 
-Stay tuned for updates !
+[Registration Form](https://form.gov.sg/62d55ae9e2359e0013cdb09a) -  [Details](https://cms.isomer.gov.sg/sites/isomerpages-taxacademy/media/files/mediaDirectory/files%2Fexecutive-tax-programmes)
