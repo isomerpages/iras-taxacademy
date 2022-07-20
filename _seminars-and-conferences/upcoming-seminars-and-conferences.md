@@ -9,13 +9,19 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **AUGUST**
 * 5 Aug : [TaxEdge Series: Update on Indonesia Tax Systems](/seminars-and-conferences/upcoming/#5Aug-ta-id)
-* 2 Aug : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#2Aug-ta-id)
+* 2 Aug : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#2Aug-ta-id)  (FULLY SUBSCRIBED)
 
 **JULY**
 
 * 28 July : [Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information (including Data)](/seminars-and-conferences/upcoming/#28Jul-ta-id)
 
 * 21 July : [Law 101 for Tax Professionals: Employment Law 101](/seminars-and-conferences/upcoming/#21Jul-ta-id) (FULLY SUBSCRIBED)
+
+
+<a id="5Aug-ta-id"></a>
+#### **TaxEdge Series: Update on Indonesia Tax Systems**
+**5 Aug | 3.00 p.m. to 5.00 p.m.**
+
 
 
 <a id="2Aug-ta-id"></a>
