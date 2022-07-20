@@ -50,7 +50,7 @@ Agenda:
 * Time: 3.00pm to 5.00pm (incl. Q&A)
 * Fees: SGD 42.80 (incl. GST)
 * Closing date for registration: 26 July (or when webinar is fully subscribed)
-* [Registration Form](https://form.gov.sg/62b29f4bf75c200012082707)
+* Webinar is fully subscribed
 * Speaker: Ms Rushan Lee, Partner, PricewaterhouseCoopers Singapore Pte Ltd
 
 **About the speaker**
