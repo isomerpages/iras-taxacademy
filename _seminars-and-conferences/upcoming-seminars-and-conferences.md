@@ -8,6 +8,7 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **AUGUST**
+* 5 Aug : [TaxEdge Series: Update on Indonesia Tax Systems](/seminars-and-conferences/upcoming/#5Aug-ta-id)
 * 2 Aug : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#2Aug-ta-id)
 
 **JULY**
