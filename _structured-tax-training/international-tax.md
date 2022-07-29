@@ -17,7 +17,7 @@ breadcrumb: International Tax
 * Nov 2021 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **International Tax Programme Level 3 : Advanced International Tax Planning Programme**
-* Aug 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
+* Aug 2022 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
@@ -81,6 +81,6 @@ Dates of programme via virtual classroom: 3, 4, 16  &amp; 17 Aug 2022 (Each sess
 
 [Registration Form](https://go.gov.sg/yg1voh){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Advanced ITP 2022 Programme Brochure.pdf){:target="_blank"}
 
-**Registration is OPEN for 2022 intake**
+**Registration is CLOSED for 2022 intake**
 
 **Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
