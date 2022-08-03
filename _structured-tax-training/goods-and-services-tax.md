@@ -5,7 +5,7 @@ breadcrumb: Goods and Services Tax
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **GST Programme Level 1**
-* Sep 2022 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* Sep 2022 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **GST Programme Level 2**
 * Sep 2022 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
@@ -17,6 +17,8 @@ breadcrumb: Goods and Services Tax
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
 [Registration Form](https://go.gov.sg/f1tnjh){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Course Programme GST L1_2-2022.pdf){:target="_blank"}
+
+Registration is CLOSED for intake 2/2022 (Sep 2022 intake).
 
 The next intake for this course will be in Feb 2023. Registration will be available six to eight weeks prior to the course commencement date.
 
