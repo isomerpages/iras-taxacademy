@@ -15,7 +15,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 <a id="25Aug-ta-id"></a>
 #### **FasTax Series: Withholding Tax - Implications of Tax Treaties**
-**25 Aug | 3.00 p.m. to 5.00 p.m.**
+**25 Aug | 2.00 p.m. to 5.00 p.m.**
 
 **At the end of the session, participants will:**
 
