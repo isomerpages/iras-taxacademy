@@ -29,6 +29,20 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
 * Worked examples and case studies
 
+**Admin details**
+* The webinar will be conducted via Zoom
+* Date: 25 Aug 2022
+* Time: 2.00pm to 5.00pm
+* Fee :  SGD 69.55 (incl. GST)
+* Closing date for registration: 18 Aug or when webinar is fully subscribed 
+* [Registration form](https://form.gov.sg/62f9276d4493800012083545)
+
+**About the Speakers** 
+
+**Mr Yap Hsien Yew** has more than 18 years of tax experience and has worked for many companies in Singapore and Asia-Pacific. He currently serves local, multinational, and listed companies in the technology and consumer sectors. He is often involved in tax advice and planning, including corporate restructurings and cross-border transactions.
+
+**Mr Chua Kong Ping** has substantial experience in Singapore and cross-border tax consultancy. He has worked in Deloitte’s New York office where he advised US MNCs on their outbound transactions into Singapore. Kong Ping also leads a team that is responsible for keeping Deloitte’s tax practitioners and its clients abreast of Singapore tax developments
+
 
 <a id="5Aug-ta-id"></a>
 #### **TaxEdge Series: Update on Indonesia Tax Systems**
