@@ -7,10 +7,42 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**SEPTEMBER**
+
+* 6 Sep : [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#6Sep-ta-id)
+
+
 **AUGUST**
 * 25 Aug : [FasTax Series: Withholding Tax - Implications of Tax Treaties](/seminars-and-conferences/upcoming/#25Aug-ta-id)
 * 5 Aug : [TaxEdge Series: Update on Indonesia Tax Systems](/seminars-and-conferences/upcoming/#5Aug-ta-id)
 * 2 Aug : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#2Aug-ta-id)  (FULLY SUBSCRIBED)
+
+
+<a id="6Sep-ta-id"></a>
+#### **FasTax Series: Fundamentals of GST Filing**
+**6 Sep | 3.00 p.m. to 5.00 p.m.**
+
+Join us in this webinar to hear from IRAS’ tax officers on the following areas:
+
+*   Responsibilities of a GST-Registered Person
+*   Key GST Concepts
+*   Common GST Errors
+*   Reimbursements vs Disbursement
+*   Fringe Benefits
+*   International Services
+
+Target audience: GST tax practitioners, including tax, finance, accounting and legal professionals
+
+Attendees **must** complete this eLearning before attending the webinar: [Overview of GST](https://elearn.iras.gov.sg/gst/overviewofgst/)
+
+**Admin details:**
+
+*   The webinar will be conducted via Zoom
+*   Date: 6 Sep 22
+*   Time: 3.00 p.m. to 5.00 p.m.
+*   Fee :  SGD 42.80 (incl. GST)
+*   Closing date for registration: 30 Aug (or when webinar is fully subscribed)
+*   [Registration Form](https://form.gov.sg/6305ddaa08b16f0013db1eed)
 
 
 <a id="25Aug-ta-id"></a>
