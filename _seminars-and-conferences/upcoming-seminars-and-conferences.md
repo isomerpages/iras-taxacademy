@@ -22,7 +22,26 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **FasTax Series: Fundamentals of GST Filing**
 **6 Sep | 3.00 p.m. to 5.00 p.m.**
 
+Join us in this webinar to hear from IRAS’ tax officers on the following areas:
 
+*   Responsibilities of a GST-Registered Person
+*   Key GST Concepts
+*   Common GST Errors
+*   Reimbursements vs Disbursement
+*   Fringe Benefits
+*   International Services
+
+Target audience: GST tax practitioners, including tax, finance, accounting and legal professionals
+
+Attendees **must** complete this eLearning before attending the webinar: [Overview of GST](https://elearn.iras.gov.sg/gst/overviewofgst/)
+
+**Admin details:**
+
+*   The webinar will be conducted via Zoom
+*   Date: 6 Sep 22
+*   Time: 3.00 p.m. to 5.00 p.m.
+*   Closing date for registration: 30 Aug (or when webinar is fully subscribed)
+*   [Registration Form](https://form.gov.sg/6305ddaa08b16f0013db1eed)
 
 
 <a id="25Aug-ta-id"></a>
