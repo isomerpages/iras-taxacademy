@@ -40,6 +40,7 @@ Attendees **must** complete this eLearning before attending the webinar: [Overvi
 *   The webinar will be conducted via Zoom
 *   Date: 6 Sep 22
 *   Time: 3.00 p.m. to 5.00 p.m.
+*   Fee :  SGD 42.80 (incl. GST)
 *   Closing date for registration: 30 Aug (or when webinar is fully subscribed)
 *   [Registration Form](https://form.gov.sg/6305ddaa08b16f0013db1eed)
 
