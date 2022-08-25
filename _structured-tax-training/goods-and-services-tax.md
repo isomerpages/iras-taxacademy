@@ -8,7 +8,7 @@ breadcrumb: Goods and Services Tax
 * Sep 2022 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **GST Programme Level 2**
-* Sep 2022 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* Sep 2022 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 
 <a id="etp1gst-ta-id"></a>
