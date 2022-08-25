@@ -27,7 +27,7 @@ Join us in this webinar to hear from IRAS’ tax officers on the following areas
 *   Responsibilities of a GST-Registered Person
 *   Key GST Concepts
 *   Common GST Errors
-*   Reimbursements vs Disbursement
+*   Reimbursement vs Disbursement
 *   Fringe Benefits
 *   International Services
 
