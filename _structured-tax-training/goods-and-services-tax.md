@@ -25,7 +25,7 @@ The next intake for this course will be in Feb 2023. Registration will be availa
 <a id="etp2gst-ta-id"></a>
 ### **GST Programme Level 2**
 
-This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services..
+This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services.
 
 [Registration Form](https://go.gov.sg/qqbg6l){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Course Programme GST L2_2-2022.pdf){:target="_blank"}
 
