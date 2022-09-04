@@ -22,28 +22,25 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **TaxEdge Series: Stamp Duty 101**
 **20 Sep | 2.00 p.m. to 5.00 p.m.**
 
-The session will provide:
+**The session will provide:**
 
 * Basic Principles of Stamp Duty and types of Stamp Duty
-
 * Who should/is liable to pay stamp duty and when to pay
-
 * Common Stamp Duty Remissions and Exemptions
-
 * Stamp Duty Relief
-
 
 **Admin details:**
 
 * The webinar will be conducted via Zoom
-
 * Date: 20 Sep 22
-
 * Time: 2.00 p.m. to 5.00 p.m.
-
+* Fee : SGD 69.55 (incl. GST)
 * Closing date for registration: 12 Sep (or when webinar is fully subscribed)
-
 * [Registration form](https://form.gov.sg/63146d7be74b820011c71e08)
+
+**About the speaker**
+
+**Ms Seah Huaikuan** is a Principal Tax Officer of the Stamp Duty Branch under the Property Tax Division in IRAS. Her experience includes handling stamp duty assessment, remission, refunds, Section 15 relief and appeals.
 
 <a id="6Sep-ta-id"></a>
 #### **FasTax Series: Fundamentals of GST Filing**
