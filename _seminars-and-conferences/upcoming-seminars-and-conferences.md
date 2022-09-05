@@ -30,8 +30,7 @@ Admin details:
 * Time: 2.00pm to 5.00pm
 * Fee: SGD 69.55 (incl. GST)
 * Closing date for registration: 13 Sep (or when webinar is fully subscribed)
-
-
+* [Registration form](https://form.gov.sg/6315ef46214e700011a22bb3)
 
 
 <a id="21Sep-ta-id"></a>
