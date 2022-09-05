@@ -38,8 +38,8 @@ Agenda:
 * Time: 2.00 p.m. to 5.00 p.m.
 * Closing date for registration:
 * Fee : SGD 69.55 (incl. GST)
-* Closing date for registration: 12 Sep (or when webinar is fully subscribed)
-
+* Closing date for registration: 13 Sep (or when webinar is fully subscribed)
+* [Registration form](https://form.gov.sg/6315e861214e700011a1e4e9)
 
 
 <a id="20Sep-ta-id"></a>
@@ -59,7 +59,7 @@ Agenda:
 * Date: 20 Sep 22
 * Time: 2.00 p.m. to 5.00 p.m.
 * Fee : SGD 69.55 (incl. GST)
-* Closing date for registration: 12 Sep (or when webinar is fully subscribed)
+* Closing date for registration: 13 Sep (or when webinar is fully subscribed)
 * [Registration form](https://form.gov.sg/63146d7be74b820011c71e08)
 
 **About the speaker**
