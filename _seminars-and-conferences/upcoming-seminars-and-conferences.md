@@ -18,6 +18,21 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 6 Sep : [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#6Sep-ta-id)
 
 
+<a id="22Sep-ta-id"></a>
+#### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
+**22 Sep | 2.00 p.m. to 5.00 p.m.**
+
+This webinar will feature practical examples illustrating the use of ASK for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
+
+Admin details:
+* The webinar will be conducted via Zoom
+* Date: 22 Sep 2022
+* Time: 2.00pm to 5.00pm
+* Fee: SGD 69.55 (incl. GST)
+* Closing date for registration: 13 Sep (or when webinar is fully subscribed)
+
+
+
 
 <a id="21Sep-ta-id"></a>
 #### **FasTax Series: Transfer Pricing Essentials**
@@ -36,8 +51,7 @@ Agenda:
 * The webinar will be conducted via Zoom
 * Date: 21 Sep 22
 * Time: 2.00 p.m. to 5.00 p.m.
-* Closing date for registration:
-* Fee : SGD 69.55 (incl. GST)
+* Fee: SGD 69.55 (incl. GST)
 * Closing date for registration: 13 Sep (or when webinar is fully subscribed)
 * [Registration form](https://form.gov.sg/6315e861214e700011a1e4e9)
 
@@ -58,7 +72,7 @@ Agenda:
 * The webinar will be conducted via Zoom
 * Date: 20 Sep 22
 * Time: 2.00 p.m. to 5.00 p.m.
-* Fee : SGD 69.55 (incl. GST)
+* Fee: SGD 69.55 (incl. GST)
 * Closing date for registration: 13 Sep (or when webinar is fully subscribed)
 * [Registration form](https://form.gov.sg/63146d7be74b820011c71e08)
 
