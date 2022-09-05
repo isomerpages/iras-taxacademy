@@ -9,13 +9,37 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **SEPTEMBER**
 
-* 22 Sep : [FasTax Webinar Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#22Sep-ta-id)
+* 22 Sep : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#22Sep-ta-id)
 
-* 21 Sep : [FasTax Webinar Series: Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#21Sep-ta-id)
+* 21 Sep : [FasTax Series: Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#21Sep-ta-id)
 
 * 20 Sep : [TaxEdge Series: Stamp Duty 101](/seminars-and-conferences/upcoming/#20Sep-ta-id)
 
 * 6 Sep : [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#6Sep-ta-id)
+
+
+
+<a id="21Sep-ta-id"></a>
+#### **FasTax Series: Transfer Pricing Essentials**
+**21 Sep | 2.00 p.m. to 5.00 p.m.**
+
+This webinar is back by popular demand!
+
+Having a proper set of transfer pricing documentation is essential for businesses not only for reporting purpose, it will be useful in times of transfer pricing disputes with foreign tax authorities. Join us in this webinar, where our speakers from Deloitte and IRAS provide you with insights and experiences in the areas of Singapore’s Transfer Pricing regime.
+
+Agenda:
+* Overview of Singapore’s TP regime
+* TP documentation and mistakes to avoid
+* TP disputes - prevention and resolution
+
+**Admin details:**
+* The webinar will be conducted via Zoom
+* Date: 21 Sep 22
+* Time: 2.00 p.m. to 5.00 p.m.
+* Closing date for registration:
+* Fee : SGD 69.55 (incl. GST)
+* Closing date for registration: 12 Sep (or when webinar is fully subscribed)
+
 
 
 <a id="20Sep-ta-id"></a>
@@ -41,6 +65,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **About the speaker**
 
 **Ms Seah Huaikuan** is a Principal Tax Officer of the Stamp Duty Branch under the Property Tax Division in IRAS. Her experience includes handling stamp duty assessment, remission, refunds, Section 15 relief and appeals.
+
 
 <a id="6Sep-ta-id"></a>
 #### **FasTax Series: Fundamentals of GST Filing**
