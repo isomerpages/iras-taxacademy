@@ -9,13 +9,75 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **SEPTEMBER**
 
+* 22 Sep : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#22Sep-ta-id)
+
+* 21 Sep : [FasTax Series: Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#21Sep-ta-id)
+
+* 20 Sep : [TaxEdge Series: Stamp Duty 101](/seminars-and-conferences/upcoming/#20Sep-ta-id)
+
 * 6 Sep : [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#6Sep-ta-id)
 
 
-**AUGUST**
-* 25 Aug : [FasTax Series: Withholding Tax - Implications of Tax Treaties](/seminars-and-conferences/upcoming/#25Aug-ta-id)
-* 5 Aug : [TaxEdge Series: Update on Indonesia Tax Systems](/seminars-and-conferences/upcoming/#5Aug-ta-id)
-* 2 Aug : [Budget Clinic: Navigating the GST rate change](/seminars-and-conferences/upcoming/#2Aug-ta-id)  (FULLY SUBSCRIBED)
+<a id="22Sep-ta-id"></a>
+#### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
+**22 Sep | 2.00 p.m. to 5.00 p.m.**
+
+This webinar will feature practical examples illustrating the use of ASK for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
+
+Admin details:
+* The webinar will be conducted via Zoom
+* Date: 22 Sep 2022
+* Time: 2.00pm to 5.00pm
+* Fee: SGD 69.55 (incl. GST)
+* Closing date for registration: 13 Sep (or when webinar is fully subscribed)
+* [Registration form](https://form.gov.sg/6315ef46214e700011a22bb3)
+
+
+<a id="21Sep-ta-id"></a>
+#### **FasTax Series: Transfer Pricing Essentials**
+**21 Sep | 2.00 p.m. to 5.00 p.m.**
+
+This webinar is back by popular demand!
+
+Having a proper set of transfer pricing documentation is essential for businesses not only for reporting purpose, it will be useful in times of transfer pricing disputes with foreign tax authorities. Join us in this webinar, where our speakers from Deloitte and IRAS provide you with insights and experiences in the areas of Singapore’s Transfer Pricing regime.
+
+Agenda:
+* Overview of Singapore’s TP regime
+* TP documentation and mistakes to avoid
+* TP disputes - prevention and resolution
+
+**Admin details:**
+* The webinar will be conducted via Zoom
+* Date: 21 Sep 22
+* Time: 2.00 p.m. to 5.00 p.m.
+* Fee: SGD 69.55 (incl. GST)
+* Closing date for registration: 13 Sep (or when webinar is fully subscribed)
+* [Registration form](https://form.gov.sg/6315e861214e700011a1e4e9)
+
+
+<a id="20Sep-ta-id"></a>
+#### **TaxEdge Series: Stamp Duty 101**
+**20 Sep | 2.00 p.m. to 5.00 p.m.**
+
+**The session will provide:**
+
+* Basic Principles of Stamp Duty and types of Stamp Duty
+* Who should/is liable to pay stamp duty and when to pay
+* Common Stamp Duty Remissions and Exemptions
+* Stamp Duty Relief
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 20 Sep 22
+* Time: 2.00 p.m. to 5.00 p.m.
+* Fee: SGD 69.55 (incl. GST)
+* Closing date for registration: 13 Sep (or when webinar is fully subscribed)
+* [Registration form](https://form.gov.sg/63146d7be74b820011c71e08)
+
+**About the speaker**
+
+**Ms Seah Huaikuan** is a Principal Tax Officer of the Stamp Duty Branch under the Property Tax Division in IRAS. Her experience includes handling stamp duty assessment, remission, refunds, Section 15 relief and appeals.
 
 
 <a id="6Sep-ta-id"></a>
@@ -43,107 +105,6 @@ Attendees **must** complete this eLearning before attending the webinar: [Overvi
 *   Fee :  SGD 42.80 (incl. GST)
 *   Closing date for registration: 30 Aug (or when webinar is fully subscribed)
 *   [Registration Form](https://form.gov.sg/6305ddaa08b16f0013db1eed)
-
-
-<a id="25Aug-ta-id"></a>
-#### **FasTax Series: Withholding Tax - Implications of Tax Treaties**
-**25 Aug | 2.00 p.m. to 5.00 p.m.**
-
-**At the end of the session, participants will:**
-
-* Understand the requirements of withholding tax, implications of tax treaties and regulations on businesses
-* Be able to apply tax treaties to common cross-border payments through worked examples and case studies
-
-**Agenda**
-
-* Fundamentals of treaty interpretation
-* Introduction to common DTA provisions
-* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
-* Worked examples and case studies
-
-**Admin details**
-* The webinar will be conducted via Zoom
-* Date: 25 Aug 2022
-* Time: 2.00pm to 5.00pm
-* Fee :  SGD 69.55 (incl. GST)
-* Closing date for registration: 18 Aug or when webinar is fully subscribed 
-* [Registration form](https://form.gov.sg/62f9276d4493800012083545)
-
-**About the Speakers** 
-
-**Mr Yap Hsien Yew** has more than 18 years of tax experience and has worked for many companies in Singapore and Asia-Pacific. He currently serves local, multinational, and listed companies in the technology and consumer sectors. He is often involved in tax advice and planning, including corporate restructurings and cross-border transactions.
-
-**Mr Chua Kong Ping** has substantial experience in Singapore and cross-border tax consultancy. He has worked in Deloitte’s New York office where he advised US MNCs on their outbound transactions into Singapore. Kong Ping also leads a team that is responsible for keeping Deloitte’s tax practitioners and its clients abreast of Singapore tax developments
-
-
-<a id="5Aug-ta-id"></a>
-#### **TaxEdge Series: Update on Indonesia Tax Systems**
-**5 Aug | 3.00 p.m. to 5.00 p.m.**
-
-This webinar will cover:
-
-1) Overview of Indonesia’s tax policy and administration
-* Common forms of doing business in Indonesia
-* Fundamental Indonesia tax system (CIT, WHT, VAT)
-* General framework of Tax Audit and Tax Disputes procedures
-* Tax Incentives
-
-2) Trend in Tax Administration on a post-covid environment
-* 1st tax reform – 2020 – Job Creation Law
-* 2nd tax reform – 2021 – Harmonization of Tax Regulations Law
-
-3) Brief Impact of International Tax developments
-* BEPS & MLI
-* Pillar 1 and Pillar 2
-
-4) Impact of Indonesia-SG tax treaty
-* Some major differences under the new Indonesia-SG tax treaty
-
-**Admin details**
-* The webinar will be conducted via Zoom
-* Date: 5 Aug 2022
-* Time: 3.00pm to 5.00pm
-* Fee :  SGD 42.80 (incl. GST)
-* Closing date for registration: 28 July or when webinar is fully subscribed 
-* [Registration form](https://form.gov.sg/62d77a7b7eb714001264ca19)
-* Speaker: Mr Cindy Sukiman, Partner, Deloitte Touche Solutions, Indonesia
-
-**About the speaker**
-
-**Mr Cindy Sukiman** has over 22 years experience as a tax consultant and he has extensive experience in serving a broad range of multinational and large national clients, energy & resources, manufacturing, consumer and services companies. He has been involved in various advisory work on restructurings, M&A, tax planning projects, and tax dispute/tax audit resolutions. In particular, he has been involved in undertaking various tax reviews and due diligence projects, and acting as a legal proxy for appeals and lawsuits before the Tax Court. Cindy is the Deloitte Indonesia Energy and Resources Tax Leader, Business Tax, International Tax and M&A Tax specialist. He is also a frequent public and keynote speaker at seminars and trainings.
-
-<a id="2Aug-ta-id"></a>
-#### **Budget Clinic: Navigating the GST rate change**
-**2 Aug | 3.00 p.m. to 5.00 p.m.**
-
-This webinar will dive into the 'ART' of navigating the essentials to prepare for GST rate change:
-
-* **A**djustments to your price displays, systems and processes to take into account the GST rate increase
-* **R**e-evaluate voluntary GST registration (if you are not GST registered)
-* **T**ransitional time of supply rules for transactions spanning the GST rate increase
-
-Agenda:
-* Practical tips and considerations arising from a GST rate increase
-  1. **T**ransitional issues
-  2. **I**rrecoverable GST
-  3. **P**ricing consideration
-  4. **S**ystems and processes changes
-* Transitional rules and concessions
-* Next steps
-* Q&A
-
-**Admin details**
-* The webinar will be conducted via Zoom
-* Date: 2 Aug 2022
-* Time: 3.00pm to 5.00pm (incl. Q&A)
-* Fees: SGD 42.80 (incl. GST)
-* Closing date for registration: 26 July (or when webinar is fully subscribed)
-* Webinar is fully subscribed
-* Speaker: Ms Rushan Lee, Partner, PricewaterhouseCoopers Singapore Pte Ltd
-
-**About the speaker**
-
-**Ms Rushan Lee** is a Partner in PwC Singapore dedicated to indirect taxes. Over the years, she has assisted clients across diverse industries with different indirect tax challenges, which enables her to provide practical guidance to businesses on how to manage their GST risks and comply with GST rules. Rushan also conducts in-house GST training for clients and is one of the trainers for GST workshops held by PwC Academy.
 
 
 
