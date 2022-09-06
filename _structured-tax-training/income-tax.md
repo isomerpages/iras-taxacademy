@@ -10,7 +10,7 @@ breadcrumb: Income Tax
 
 ##### **Income Tax Programme Level 2**
 
-* Sep 2022 intake: [Registration is OPEN](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* Sep 2022 intake: [Registration is CLOSED](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 <a id="etp1oct-ta-id"></a>
 ### **Income Tax Programme Level 1**
@@ -34,7 +34,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 [Registration Form](https://go.gov.sg/l2it22022registration){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2IT22022coursebrochure.pdf){:target="_blank"} 
 
-Registration is OPEN.  
+Registration is CLOSED.  
 
 The next intake for this course will be in Jan 2023. Registration will be available six to eight weeks prior to the course commencement date.
 
