@@ -60,7 +60,15 @@ Agenda:
 
 Avik assists MNCs in various industries to develop and implement commercially viable transfer pricing policies to achieve tax efficiencies across jurisdictions. He has represented his clients before revenue authorities in several Mutual Agreement Procedure (MAP) and Advanced Pricing Agreement (APA) cases, including representing before the Tax Courts.  Avik is an active speaker at various transfer pricing discussion forums, authors articles in the public domain and conducted trainings with regional revenue authorities. 
 
+**Mr Tay Eng Hong** is a Transfer Pricing Director at Deloitte Singapore.  Eng Hong has 19 years of experience in advising multinational corporations (MNCs) on development and implementation of effective transfer pricing planning, and preparing supporting economic and financial analyses.
 
+He is also involved in Mutual Agreement Procedure (MAP) and Advanced Pricing Agreement (APA) assignments involving corporation with IRAS and overseas Competent Authorities. Eng Hong has assisted major MNCs in addressing their transfer pricing requirements, including companies involved in manufacturing, distribution, service provision, financial and licensing activities.
+
+Eng Hong has dealt with transfer pricing issues across a wide range of industries, including automotive, consumer goods, financial services, oil and gas. The majority of these assignments were global or regional projects, involving close collaboration with counterparts from other Deloitte transfer pricing practices.
+
+**Ms Julia Chew** is the Senior Manager of the transfer pricing audit team in the Corporate Tax Division in IRAS. She manages the team in conducting transfer pricing audit of companies.
+
+**Mr Looi Kah Ming** is a Tax Specialist (Accredited) in the Transfer Pricing and Dispute Resolution branch and his scope of work include transfer pricing mutual agreement procedure and advance pricing arrangement cases. Prior to this, he was in the Corporate Tax Division handling corporate tax compliance, assessments and objections etc.
 
 
 <a id="20Sep-ta-id"></a>
