@@ -54,6 +54,14 @@ Agenda:
 * Closing date for registration: 13 Sep (or when webinar is fully subscribed)
 * [Registration form](https://form.gov.sg/6315e861214e700011a1e4e9)
 
+**About the Speakers**
+
+**Mr Avik Bose** is a Tax Partner at Deloitte Singapore.  Avik has over 18 years of experience in transfer pricing.  This includes supply/value chain realignments, intellectual property valuation, structuring and pricing intercompany financial transactions (including inter-company loans, corporate guarantees, cash pooling, debt factoring, leasing arrangements, thin-capitalisation analysis), planning and executing global documentation projects for multinational corporations (MNCs).
+
+Avik assists MNCs in various industries to develop and implement commercially viable transfer pricing policies to achieve tax efficiencies across jurisdictions. He has represented his clients before revenue authorities in several Mutual Agreement Procedure (MAP) and Advanced Pricing Agreement (APA) cases, including representing before the Tax Courts.  Avik is an active speaker at various transfer pricing discussion forums, authors articles in the public domain and conducted trainings with regional revenue authorities. 
+
+
+
 
 <a id="20Sep-ta-id"></a>
 #### **TaxEdge Series: Stamp Duty 101**
