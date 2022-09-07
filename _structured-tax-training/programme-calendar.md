@@ -20,7 +20,7 @@ Please refer to the respective programme brochure for the programme dates.
   <tr>
     <td>Income Tax Programme Level 1 (Intake 3/2022)</td>
     <td>From 1 to 29 Nov 2022 (with e-learning)
-</tr> 
+</td> 
   <tr>
 	<tr>
 		<td>GST Programme Level 1 (Intake 1/2022)</td>
