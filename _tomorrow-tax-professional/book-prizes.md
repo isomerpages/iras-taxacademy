@@ -25,7 +25,7 @@ Best Performance in Advanced Taxation<br>
 Khor Wan Xuan<br>
 Best Performance in Taxation Module<br>
 
-![Image of Tax Academy Book Prize](/images/brennan.jpeg)
+![Image of Tax Academy Book Prize](/images/brennan.jpg)
 Brennan Jermaine Loh<br>
 Best Performance in Taxation Module<br>
 
