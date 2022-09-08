@@ -19,19 +19,19 @@ Best Performance in International Tax and Trading Law<br>
 Low Wei Ming Kendrick<br>
 Best Performance in Advanced Taxation<br>
 
-### **2020/2021 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
+### **2021/2022 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
 
-![Image of Tax Academy Book Prize](/images/Calyn.jpg)
-Calyn Sng Shu Min<br>
+![Image of Tax Academy Book Prize](/images/khorwanxuan.jpg)
+Khor Wan Xuan<br>
 Best Performance in Taxation Module<br>
 
-![Image of Tax Academy Book Prize](/images/NgYiShan.jpeg)
-Ng Yi Shan<br>
+![Image of Tax Academy Book Prize](/images/brennan.jpeg)
+Brennan Jermaine Loh<br>
 Best Performance in Taxation Module<br>
 
 
-![Image of Tax Academy Book Prize](/images/Adrian.jpg)
-Adrian Galen Teng<br>
+![Image of Tax Academy Book Prize](/images/jonathan.jpg)
+Jonathan Yong Hon Zhe <br>
 Best Performance in Taxation Module<br>
 
 
