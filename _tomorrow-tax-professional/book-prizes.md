@@ -13,10 +13,10 @@ Best Performance in International Tax and Trading Law<br>
 
 
 
-### **2020/2021 Academic Year Tax Academy Book Prize Recipient from Singapore Management University**
+### **2021/2022 Academic Year Tax Academy Book Prize Recipient from Singapore Management University**
 
-![Image of Tax Academy Book Prize](/images/KENDRICK.jpg)
-Low Wei Ming Kendrick<br>
+![Image of Tax Academy Book Prize](/images/timothy.jpg)
+Tay Le Xuan Timothy<br>
 Best Performance in Advanced Taxation<br>
 
 ### **2021/2022 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
