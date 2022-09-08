@@ -30,7 +30,7 @@ Brennan Jermaine Loh<br>
 Best Performance in Taxation Module<br>
 
 
-![Image of Tax Academy Book Prize](/images/jonathan.jpg)
+![Image of Tax Academy Book Prize](/images/jonathan.jpeg)
 Jonathan Yong Hon Zhe <br>
 Best Performance in Taxation Module<br>
 
