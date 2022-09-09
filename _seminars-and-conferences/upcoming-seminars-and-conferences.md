@@ -68,7 +68,7 @@ Eng Hong has dealt with transfer pricing issues across a wide range of industrie
 
 **Ms Julia Chew** is the Senior Manager of the transfer pricing audit team in the Corporate Tax Division in IRAS. She manages the team in conducting transfer pricing audit of companies.
 
-**Mr Looi Kah Ming** is a Tax Specialist (Accredited) in the Transfer Pricing and Dispute Resolution branch and his scope of work include transfer pricing mutual agreement procedure and advance pricing arrangement cases. Prior to this, he was in the Corporate Tax Division handling corporate tax compliance, assessments and objections etc.
+**Ms Maurine Lee** is a Tax Specialist (Accredited) in the Transfer Pricing and Dispute Resolution branch and her scope of work include transfer pricing mutual agreement procedure and advance pricing arrangement case.
 
 
 <a id="20Sep-ta-id"></a>
