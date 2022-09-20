@@ -6,7 +6,7 @@ breadcrumb: Income Tax
 ### **UPCOMING PROGRAMMES**
 ##### **Income Tax Programme Level 1**
 
-* Aug 2022 intake: [Registration is CLOSED](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
+* Nov 2022 intake: [Registration is OPEN](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
 
 ##### **Income Tax Programme Level 2**
 
@@ -19,11 +19,11 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Registration Form](https://form.gov.sg/62b97b4f375a2d00121ede74) [Details](/files/executive-tax-programmes/income-tax/brochureIncomeTaxL122022.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/631008a3aeb8ea0012b7bde0){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/course brochureL1IT20223.pdf){:target="_blank"} 
 
-Registration is CLOSED for Intake 2/2022.
+Registration is OPEN for Intake 3/2022.
 
-The next intake for this course will be in Nov 2022.  Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in May 2023.  Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp2sep-ta-id"></a>
 ### **Income Tax Programme Level 2**
