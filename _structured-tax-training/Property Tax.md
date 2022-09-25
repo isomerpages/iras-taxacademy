@@ -1,6 +1,6 @@
 ---
 title: Property Tax
-permalink: /structured-tax-training/permalink
+permalink: /structured-tax-training/permalink/
 description: ""
 ---
 ##### **UPCOMING PROGRAMMES**
@@ -15,3 +15,10 @@ This course provides basic knowledge on the principles and practices of property
 [Registration Form](https://form.gov.sg/62d55ae9e2359e0013cdb09a) -  [Details](/files/executive-tax-programmes/Property Tax Level 1 Brochure Updated2.pdf){:target="_blank"}
 
 Registration is CLOSED for intake 1/2022 (Aug 2022 intake)
+
+
+### **Programme on Property Tax Valuation**
+
+This programme provides an appreciation on how the Annual Values for the different types of properties
+are valued or assessed using various valuation methods and the statutorily prescribed
+bases of assessment.
