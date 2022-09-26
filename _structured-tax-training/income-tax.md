@@ -19,9 +19,9 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Registration Form](https://form.gov.sg/631008a3aeb8ea0012b7bde0){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/course brochureL1IT20223.pdf){:target="_blank"} 
+[Registration Form](https://form.gov.sg/632a73425abb57001283b157){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/course brochureL1IT20224.pdf){:target="_blank"} 
 
-Registration is OPEN for Intake 3/2022.
+Registration is OPEN for Intake 4/2022.
 
 The next intake for this course will be in May 2023.  Registration will be available six to eight weeks prior to the course commencement date.
 
