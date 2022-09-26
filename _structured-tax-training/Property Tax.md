@@ -22,3 +22,5 @@ Registration is CLOSED for intake 1/2022 (Aug 2022 intake)
 This programme provides an appreciation on how the Annual Values for the different types of properties
 are valued or assessed using various valuation methods and the statutorily prescribed
 bases of assessment.
+
+[Registration Form]() -  [Details](/files/executive-tax-programmes/Property Tax Valuation Brochure_website.pdf){:target="_blank"}
