@@ -23,4 +23,4 @@ This programme provides an appreciation on how the Annual Values for the differe
 are valued or assessed using various valuation methods and the statutorily prescribed
 bases of assessment.
 
-[Registration Form]() -  [Details](/files/executive-tax-programmes/Property Tax Valuation Brochure_website.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/632b0d5e634d17001223676f)) -  [Details](/files/executive-tax-programmes/Property Tax Valuation Brochure_website.pdf){:target="_blank"}
