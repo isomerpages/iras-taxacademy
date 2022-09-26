@@ -8,7 +8,7 @@ breadcrumb: International Tax
 * Feb 2023 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **International Tax Programme Level 2**
-* Sep/Oct 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
+* Sep/Oct 2022 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme**
 * Oct 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
