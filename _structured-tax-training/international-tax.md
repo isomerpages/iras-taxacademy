@@ -8,7 +8,7 @@ breadcrumb: International Tax
 * Feb 2023 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **International Tax Programme Level 2**
-* Sep/Oct 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
+* Sep/Oct 2023 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme**
 * Oct 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
@@ -38,7 +38,7 @@ This course provides in-depth knowledge in international tax principles and conc
 
 [Registration Form](   https://go.gov.sg/l2int12022registration){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/brochureIntTaxL212022.pdf){:target="_blank"}
 
-**Registration is OPEN for Intake 1/2022**
+**Registration is CLOSED for Intake 1/2022**
 
 The next intake for the course will be held in Oct 2023. Registration will open six to eight weeks before the course commencement date.
 
