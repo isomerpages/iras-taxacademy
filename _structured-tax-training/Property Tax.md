@@ -24,3 +24,10 @@ are valued or assessed using various valuation methods and the statutorily presc
 bases of assessment.
 
 [Registration Form](https://form.gov.sg/632b0d5e634d17001223676f) -  [Details](/files/executive-tax-programmes/Property Tax Valuation Brochure_website.pdf){:target="_blank"}
+
+
+### **Programme on Stamp Duty 101 for Conveyancing Secretaries**
+
+A programme specially designed for conveyancing secretaries.
+
+Join us in this programme on Stamp Duty 101 for Conveyancing Secretaries to gain essential stamp duty knowledge and to acquire insights on e-stamping, common mistakes and errors to avoid.
