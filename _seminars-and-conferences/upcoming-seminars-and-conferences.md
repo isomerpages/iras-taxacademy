@@ -18,20 +18,20 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Join us in the upcoming webinar on US Tax Updates where Mr David Allgaier (Tax Partner, Deloitte China) will share with you on:
 
-**Recent law changes**
+**1) Recent law changes**
 
 * Recap of legislative activity
 * Overview of recently enacted provisions
 * Legislative outlook
 
-2.  Practice views
+**2) Practice views**
 
-1.  US taxable presence
-2.  Internal restructuring – potential withholding tax
-3.  M&A – electing basis step up
-4.  FIRPTA – presumption of real property interest status
+* US taxable presence
+* Internal restructuring – potential withholding tax
+* M&A – electing basis step up
+* FIRPTA – presumption of real property interest status
 
-3.  Q&A session
+**3) Q&A session**
 
 Admin details:
 * The webinar will be conducted via Zoom
@@ -39,7 +39,7 @@ Admin details:
 * Time: 2.30pm to 5.00pm
 * Fee: SGD 69.55 (incl. GST)
 * Closing date for registration: 20 Oct (or when webinar is fully subscribed)
-* [Registration form](https://form.gov.sg/6343c8e8d800b7001229ed4b))
+* [Registration form](https://form.gov.sg/6343c8e8d800b7001229ed4b)
 
 
 **About the speaker**
