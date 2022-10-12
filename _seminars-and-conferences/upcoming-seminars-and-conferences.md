@@ -16,7 +16,22 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **TaxEdge Series: US Tax Updates**
 **3 Nov | 2.30 p.m. to 5.00 p.m.**
 
-T
+Join us in the upcoming webinar on US Tax Updates where Mr David Allgaier (Tax Partner, Deloitte China) will share with you on:
+
+**Recent law changes**
+
+* Recap of legislative activity
+* Overview of recently enacted provisions
+* Legislative outlook
+
+2.  Practice views
+
+1.  US taxable presence
+2.  Internal restructuring – potential withholding tax
+3.  M&A – electing basis step up
+4.  FIRPTA – presumption of real property interest status
+
+3.  Q&A session
 
 Admin details:
 * The webinar will be conducted via Zoom
