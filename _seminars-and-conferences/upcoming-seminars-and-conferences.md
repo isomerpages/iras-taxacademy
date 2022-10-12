@@ -7,15 +7,10 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
-**SEPTEMBER**
+**NOVEMBER**
 
-* 22 Sep : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#22Sep-ta-id)
+* 3 Nov : [TaxEdge Series: US Tax Updates](/seminars-and-conferences/upcoming/#3Nov-ta-id)
 
-* 21 Sep : [FasTax Series: Transfer Pricing Essentials](/seminars-and-conferences/upcoming/#21Sep-ta-id)
-
-* 20 Sep : [TaxEdge Series: Stamp Duty 101](/seminars-and-conferences/upcoming/#20Sep-ta-id)
-
-* 6 Sep : [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#6Sep-ta-id)
 
 
 <a id="22Sep-ta-id"></a>
