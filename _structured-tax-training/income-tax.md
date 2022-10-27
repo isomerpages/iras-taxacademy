@@ -6,7 +6,7 @@ breadcrumb: Income Tax
 ### **UPCOMING PROGRAMMES**
 ##### **Income Tax Programme Level 1**
 
-* Nov 2022 intake 4: [Registration is OPEN](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
+* Nov 2022 intake 4: [Registration is CLOSED](/executive-tax-programmes/income-tax/#etp1oct-ta-id) 
 
 ##### **Income Tax Programme Level 2**
 
