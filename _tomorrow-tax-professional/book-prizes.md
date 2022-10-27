@@ -35,10 +35,10 @@ Jonathan Yong Hon Zhe <br>
 Best Performance in Taxation Module<br>
 
 
-### **2019/2020 Academic Year Tax Academy Book Prize Recipient from Temasek Polytechnic**
+### **2021/2022 Academic Year Tax Academy Book Prize Recipient from Temasek Polytechnic**
 
-![Image of Tax Academy Book Prize](/images/Hai Qing.jpeg)
-Liang Hai Qing<br>
+![Image of Tax Academy Book Prize](/images/Villiammai.jpeg)
+Villiammai d/o Lakshmanan<br>
 Top Student in Taxation Module<br>
 
 
