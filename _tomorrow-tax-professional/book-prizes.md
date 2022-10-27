@@ -37,7 +37,7 @@ Best Performance in Taxation Module<br>
 
 ### **2021/2022 Academic Year Tax Academy Book Prize Recipient from Temasek Polytechnic**
 
-![Image of Tax Academy Book Prize]/images/Valliammai.jpg)
+![Image of Tax Academy Book Prize](/images/Valliammai.jpg)
 Valliammai d/o Lakshmanan<br>
 Top Student in Taxation Module<br>
 
