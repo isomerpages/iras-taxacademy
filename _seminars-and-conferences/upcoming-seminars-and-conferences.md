@@ -20,6 +20,25 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Join us in this webinar, where our speakers Mr Yang Shi Yong from Drew & Napier LLC and Mr Charles Li from IRAS, provide an overview of the powers and duties that the Comptrollers have under the Income Tax and Goods & Services Tax Acts. The webinar will cover the role of the Comptrollers, their express and implied powers and their duty of confidentiality.
 
+Agenda:
+•	Introduction, Role and Duties of the Comptrollers
+•	Powers of the Comptrollers
+•	Issues and Oversight
+•	Q&A
+
+**Admin details**
+* The webinar will be conducted via Zoom
+* Date: 17 Nov 2022
+* Time: 3.00pm to 5.00pm
+* Fee: SGD 42.80 (incl. GST)
+* Closing date for registration: 10 Nov (or when webinar is fully subscribed)
+* [Registration form](https://form.gov.sg/635fed7ad3c4cd00122b0f35)
+
+**About the speakers**
+
+Mr Yang Shi Yong is a Director at Drew & Napier LLC. Shi Yong advises on a wide spectrum of tax law with specialization in enterprise tax risk management, tax audit and tax investigation matters. He has successfully resolved a large number of audit and investigation matters without prosecution. 
+
+Mr Charles Li is the Deputy Director of Advisory & Litigation Branch 2 in the Law Division of the IRAS. He is a dual-qualified lawyer and accountant with broad experience in tax advisory, litigation and prosecution.
 
 
 <a id="3Nov-ta-id"></a>
