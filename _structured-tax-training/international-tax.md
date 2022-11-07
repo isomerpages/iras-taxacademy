@@ -66,10 +66,6 @@ The Advanced Tax Treaties Programme is a collaborative effort between Tax Academ
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-**For Singapore based participants:**
-[Registration Form](https://forms.gle/17Q3xEXr8iaXUybw7) - [Details](/files/seminars-brochures/Website_ATT Brochure_Virtual.pdf){:target="_blank"}
-
-**For participants based overseas:**
 [Registration Form](https://forms.gle/17Q3xEXr8iaXUybw7) - [Details](/files/seminars-brochures/Website_ATT Brochure_Virtual.pdf){:target="_blank"}
 
 
