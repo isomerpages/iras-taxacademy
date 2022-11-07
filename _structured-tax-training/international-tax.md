@@ -64,12 +64,13 @@ Dates of programme via virtual classroom: 3, 4, 5, 6, 10, 11, 12, 13 Oct 2022 (E
 
 The Advanced Tax Treaties Programme is a collaborative effort between Tax Academy of Singapore and International Tax Center Leiden, Netherlands. The programme is aimed at tax professionals who have at least 3 years' tax experience and who are seeking to deepen their insight and expertise in tax treaties.
 
-Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts. Look forward to a new learning experience as we deliver the programme to you via virtual classroom.
+Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-
+**For Singapore based participants:**
 [Registration Form](https://forms.gle/17Q3xEXr8iaXUybw7) - [Details](/files/seminars-brochures/Website_ATT Brochure_Virtual.pdf){:target="_blank"}
 
-**Registration is CLOSED for Nov 2021 intake.**
+**For participants based overseas:**
+[Registration Form](https://forms.gle/17Q3xEXr8iaXUybw7) - [Details](/files/seminars-brochures/Website_ATT Brochure_Virtual.pdf){:target="_blank"}
 
 
 <a id="itp-id"></a>
