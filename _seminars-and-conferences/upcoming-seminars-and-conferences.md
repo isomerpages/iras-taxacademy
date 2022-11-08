@@ -25,6 +25,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 Join us in the upcoming webinar on Thailand Tax System Updates where speakers from Baker & McKenzie Ltd. will share with you on:
 
 Agenda:
+
 Tax
 * Overview of Thai corporate income tax for foreign investors
 * Common Investment Structure
@@ -51,6 +52,23 @@ Customs
 Integrated Case Study
 * Case study with Thai tax, VAT, transfer pricing, and customs implications.
 
+Admin details
+* The webinar will be conducted via Zoom
+* Date: 23 Nov 2022
+* Time: 2.30pm to 5.00pm
+* Fee:  SGD 69.55 (incl. GST)
+* Closing date for registration: 16 Nov (or when webinar is fully subscribed)
+* [Registration form](https://form.gov.sg/636a7578657fbb001213b5f8)
+
+**About the speakers**
+
+**Panya Sittisakonsin** is a partner in the Tax Practice Group. During his 20 years of practice with the Firm, Panya is exceptionally fluent in international tax law, indirect taxes, and international trade law. He is highly regarded in Customs by ITR World Tax and was named a leading individual in Tax, Customs, and International Trade by the Legal 500 Asia Pacific.
+
+**Geoffrey Soh** is the Head of Transfer Pricing. He has over 24 years of experience in transfer pricing in both Singapore and Canada. Geoffrey was the Head of Transfer Pricing in Singapore for a Big Four audit firm and also served on the Steering Committee of their global transfer pricing practice. He is highly regarded in Transfer Pricing by International Tax Review World Tax.
+
+**Keerati Saneewong Na Ayudthaya** is a partner in the Tax Practice Group. He specializes in International Commercial & Trade Practice. Keerati’s 10-year practice in tax, customs, and trade controversies provides clients with a comprehensive range of services, including post-reviews, post-clearance audits, negotiation, settlement with relevant authorities, appeals, and litigation.
+
+**Thanissorn Masuchand** has over ten years of experience in domestic and international taxation areas. As a member of the Tax Practice Group, she is skilled in providing comprehensive legal advice on tax planning and restructuring, mergers & acquisitions, wealth management, transfer pricing and tax dispute & litigation. In addition to her broad experience in taxation, Thanissorn is also a co-lecturer in a tax seminar class for the Bachelor of Laws Program at Chulalongkorn University
 
 
 <a id="17Nov-ta-id"></a>
