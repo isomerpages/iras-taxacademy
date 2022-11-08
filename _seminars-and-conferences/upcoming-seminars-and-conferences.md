@@ -18,6 +18,41 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 3 Nov : [TaxEdge Series: US Tax Updates](/seminars-and-conferences/upcoming/#3Nov-ta-id)
 
 
+<a id="23Nov-ta-id"></a>
+#### **TaxEdge Series: Thailand Tax System Updates**
+**23 Nov | 2.30 p.m. to 5.00 p.m.**
+
+Join us in the upcoming webinar on Thailand Tax System Updates where speakers from Baker & McKenzie Ltd. will share with you on:
+
+Agenda:
+Tax
+* Overview of Thai corporate income tax for foreign investors
+* Common Investment Structure
+* Recent Thai tax schemes 2022
+* Outlook for 2023: tax audit trends and key developments
+* Key takeaways from tax cases 
+
+Transfer Pricing
+* The transfer pricing landscape in Thailand
+* The related-party disclosure form and implications
+* Supporting transfer pricing and legal documentation
+* Leveraging off your global documentation
+* Thai "specials" -  Tips and traps
+* Developments on the horizon
+* Case studies
+
+Customs
+* Overview of the customs system in Thailand
+* Key customs implications and risks for importers/exporters
+* Main benefits and privileges for customs and trade matters
+* Recent updates and trends on customs audit
+* Interaction between customs and transfer pricing
+
+Integrated Case Study
+* Case study with Thai tax, VAT, transfer pricing, and customs implications.
+
+
+
 <a id="17Nov-ta-id"></a>
 #### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**
 **17 Nov | 3.00 p.m. to 5.00 p.m.**
