@@ -9,6 +9,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **NOVEMBER**
 
+* 29 Nov : [Budget Clinic: GST Rate Change](/seminars-and-conferences/upcoming/#29Nov-ta-id)
+
+* 23 Nov : [TaxEdge Series: Thailand Tax System Updates](/seminars-and-conferences/upcoming/#23Nov-ta-id)
+
 * 17 Nov : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](/seminars-and-conferences/upcoming/#17Nov-ta-id)
 
 * 3 Nov : [TaxEdge Series: US Tax Updates](/seminars-and-conferences/upcoming/#3Nov-ta-id)
