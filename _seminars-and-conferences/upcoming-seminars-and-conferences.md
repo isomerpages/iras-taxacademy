@@ -42,6 +42,11 @@ Admin details
 * Closing date for registration: 22 Nov (or when webinar is fully subscribed)
 * [Registration form](https://form.gov.sg/636a78f161875f0011772f66)
 
+**About the speakers**
+
+**Mr Richard Mackender** is the Leader of the Deloitte Singapore GST service line who has more than 20 years of experience in the area of indirect tax with primary focus in advising on the indirect tax aspects of a business’s activities, and serves a number of clients in the financial services industry.
+
+**Ms Ng Gek Teng** is a GST Partner with Deloitte Singapore who has vast experience in assisting clients from various industries to manage their GST compliance obligations by providing GST advisory services on specific business arrangements, performing reviews on GST returns using the IRAS’ GST ACAP and ASK programmes and conducting customized GST trainings, etc.
 
 
 <a id="23Nov-ta-id"></a>
