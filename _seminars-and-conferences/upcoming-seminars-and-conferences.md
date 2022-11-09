@@ -18,6 +18,24 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 3 Nov : [TaxEdge Series: US Tax Updates](/seminars-and-conferences/upcoming/#3Nov-ta-id)
 
 
+<a id="29Nov-ta-id"></a>
+#### **Budget Clinic: GST Rate Change**
+**29 Nov | 2.30 p.m. to 4.30 p.m.**
+
+Join us in the upcoming webinar on GST Rate Change where speakers from Deloitte will share with you on:
+
+1.	The GST hike
+
+2.	The impact to GST-registered businesses 
+* Preparing for the GST Hike 
+* Transitional rules for GST rate change
+
+3.	The impact to non-GST registered businesses 
+* Mitigating the potential increase in business cost 
+* Considering to register for GST on a voluntary basis
+
+
+
 <a id="23Nov-ta-id"></a>
 #### **TaxEdge Series: Thailand Tax System Updates**
 **23 Nov | 2.30 p.m. to 5.00 p.m.**
