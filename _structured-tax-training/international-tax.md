@@ -14,7 +14,7 @@ breadcrumb: International Tax
 * Oct 2022 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties Programme**
-* Nov 2021 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
+* Jan 2023 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **International Tax Programme Level 3 : Advanced International Tax Planning Programme**
 * Aug 2022 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#itp-id)
@@ -66,7 +66,7 @@ The Advanced Tax Treaties Programme is a collaborative effort between Tax Academ
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-[Registration Form](https://forms.gle/17Q3xEXr8iaXUybw7) - [Details](/files/seminars-brochures/Website_ATT Brochure_Virtual.pdf){:target="_blank"}
+[Registration Form](https://forms.gle/17Q3xEXr8iaXUybw7) - [Details](/files/seminars-brochures/LeidenTA ATT 2023 brochure Final Circulation.pdf){:target="_blank"}
 
 
 <a id="itp-id"></a>
