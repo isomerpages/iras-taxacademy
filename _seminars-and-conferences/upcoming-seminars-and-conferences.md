@@ -34,6 +34,14 @@ Join us in the upcoming webinar on GST Rate Change where speakers from Deloitte 
 * Mitigating the potential increase in business cost 
 * Considering to register for GST on a voluntary basis
 
+Admin details
+* The webinar will be conducted via Zoom
+* Date: 29 Nov 2022
+* Time: 2.30pm to 4.30pm
+* Fee: SGD 42.80 (incl. GST)
+* Closing date for registration: 22 Nov (or when webinar is fully subscribed)
+* [Registration form](https://form.gov.sg/636a78f161875f0011772f66)
+
 
 
 <a id="23Nov-ta-id"></a>
