@@ -56,7 +56,7 @@ Admin details
 
 <a id="29Nov-ta-id"></a>
 #### **Budget Clinic: GST Rate Change**
-**29 Nov | 2.30 p.m. to 4.30 p.m.**
+**29 Nov (FULLY SUBSCRIBED) | 2.30 p.m. to 4.30 p.m.**
 
 Join us in the upcoming webinar on GST Rate Change where speakers from Deloitte will share with you on:
 
@@ -78,11 +78,6 @@ Admin details
 * Webinar is fully subscribed
 
 
-**About the speakers**
-
-**Mr Richard Mackender** is the Leader of the Deloitte Singapore GST service line who has more than 20 years of experience in the area of indirect tax with primary focus in advising on the indirect tax aspects of a business’s activities, and serves a number of clients in the financial services industry.
-
-**Ms Ng Gek Teng** is a GST Partner with Deloitte Singapore who has vast experience in assisting clients from various industries to manage their GST compliance obligations by providing GST advisory services on specific business arrangements, performing reviews on GST returns using the IRAS’ GST ACAP and ASK programmes and conducting customized GST trainings, etc.
 
 
 <a id="23Nov-ta-id"></a>
