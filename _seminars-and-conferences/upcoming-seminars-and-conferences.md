@@ -9,7 +9,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **DECEMBER**
 
-* 12 Dec : [Budget Clinic: GST Rate Change](/seminars-and-conferences/upcoming/#22Dec-ta-id)
+* 12 Dec : [Budget Clinic: GST Rate Change](/seminars-and-conferences/upcoming/#12Dec-ta-id)
 
 
 **NOVEMBER**
@@ -26,7 +26,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 <a id="12Dec-ta-id"></a>
 #### **Budget Clinic: GST Rate Change**
-**12 Dec | 2.30 p.m. to 4.30 p.m.**
+**12 Dec (FULLY SUBSCRIBED) | 2.30 p.m. to 4.30 p.m.**
 
 Join us in the upcoming webinar on GST Rate Change where speakers from Deloitte will share with you on:
 
@@ -45,7 +45,7 @@ Admin details
 * Date: 12 Dec 2022
 * Time: 2.30pm to 4.30pm
 * Fee: SGD 42.80 (incl. GST)
-* [Registration form](https://form.gov.sg/63760d29f4d1ea0012142c19)
+* Webinar is fully subscribed
 
 **About the speakers**
 
