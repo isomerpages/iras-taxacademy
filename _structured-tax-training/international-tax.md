@@ -66,7 +66,7 @@ The 6-day Advanced Tax Treaties Programme is a collaborative effort between Tax 
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-[Registration Form](https://form.gov.sg/63317d4657c5a7001209efac) - [Details](/files/seminars-brochures/LeidenTA ATT 2023 brochure Final Circulation.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/63317d4657c5a7001209efac) - [Details](/files/seminars-brochures/LeidenTA ATT 2023 brochure Final Circulation v2.pdf){:target="_blank"}
 
 
 <a id="itp-id"></a>
