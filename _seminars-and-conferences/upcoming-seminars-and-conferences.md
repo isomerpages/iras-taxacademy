@@ -18,6 +18,25 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **Law 101 for Tax Professionals: Tax Crimes under the Tax Acts, Penal Code and the CDSA**
 **20 Dec | 3.00 p.m. to 5.00 p.m.**
 
+Join us in this webinar, where our speakers Mr Charles Li (Deputy Director, Law Division, IRAS) and Mr Yang Shi Yong (Director, Drew & Napier LLC), provide an overview of the offences and penalties under the tax Acts for tax evasion. Recent prosecutions in Singapore under the Penal Code and the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (CDSA) for tax crimes will be discussed and measures to combat international tax evasion will also be covered. 
+
+Agenda:
+* Introduction
+* Offences under the Income Tax Act, Goods and Services Tax Act and Stamp Duties Act
+* Cheating, forgery and falsification-of-accounts offences under the Penal Code
+* Tax-related money laundering offences under the CDSA
+* Exchange of information and mutual legal assistance regimes
+
+**Admin details**
+* The webinar will be conducted via Zoom
+* Date: 20 Dec 2022
+* Time: 3.00pm to 5.00pm
+* Fee: SGD 42.80 (incl. GST)
+* Closing date for registration: When webinar is fully subscribed
+* [Registration form]()
+
+
+
 
 <a id="12Dec-ta-id"></a>
 #### **Budget Clinic: GST Rate Change**
