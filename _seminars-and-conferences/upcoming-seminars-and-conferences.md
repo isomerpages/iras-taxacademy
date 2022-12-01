@@ -9,6 +9,8 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **DECEMBER**
 
+* 20 Dec : [Law 101 for Tax Professionals: Tax Crimes under the Tax Acts, Penal Code and the CDSA](/seminars-and-conferences/upcoming/#20Dec-ta-id)
+
 * 12 Dec : [Budget Clinic: GST Rate Change](/seminars-and-conferences/upcoming/#12Dec-ta-id)
 
 
