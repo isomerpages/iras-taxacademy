@@ -32,10 +32,14 @@ Agenda:
 * Date: 20 Dec 2022
 * Time: 3.00pm to 5.00pm
 * Fee: SGD 42.80 (incl. GST)
-* Closing date for registration: When webinar is fully subscribed
+* Registration will close when webinar is fully subscribed
 * [Registration form](https://form.gov.sg/6384a8c0db5dd20012fa5bc3)
 
+**About the Speakers**
 
+Mr Charles Li is the Deputy Director of Advisory & Litigation Branch 2 in the Law Division of the IRAS. He is a dual-qualified lawyer and accountant with broad experience in tax advisory, litigation and prosecution.
+
+Mr Yang Shi Yong is a Director at Drew & Napier LLC. Shi Yong advises on a wide spectrum of tax law with specialization in enterprise tax risk management, tax audit and tax investigation matters. He has successfully resolved a large number of audit and investigation matters without prosecution.
 
 
 <a id="12Dec-ta-id"></a>
