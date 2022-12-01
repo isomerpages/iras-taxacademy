@@ -14,6 +14,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 12 Dec : [Budget Clinic: GST Rate Change](/seminars-and-conferences/upcoming/#12Dec-ta-id)
 
 
+<a id="20Dec-ta-id"></a>
+#### **Law 101 for Tax Professionals: Tax Crimes under the Tax Acts, Penal Code and the CDSA**
+**20 Dec | 3.00 p.m. to 5.00 p.m.**
+
 
 <a id="12Dec-ta-id"></a>
 #### **Budget Clinic: GST Rate Change**
