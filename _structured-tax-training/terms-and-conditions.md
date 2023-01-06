@@ -77,7 +77,7 @@ issued to participants.
 
 **11. Administrative fee**
 
-11.1 The following requests are subject to an administrative fee of $53.50 (GST inclusive) each:
+11.1 The following requests are subject to an administrative fee of $54.00 (8% GST inclusive) each:
 - Updated set of course materials
 - Re-sitting of exam
 - Duplicate hardcopy of Certificate of Achievement (with grading)
@@ -90,7 +90,7 @@ issued to participants.
 - Nominate a replacement prior to course/webinar commencement.
 
 12.2 For Level 3 courses, participants who withdraw will bear a cancellation fee of:
-- $53.50, if cancellation notice is given more than 14 days before course starts; or
+- $54.00, if cancellation notice is given more than 14 days before course starts; or
 - 20% of course fees, for cancellation notice given within 14 days of course commencement
 
 **13. Continuing Professional Education (CPE)**
