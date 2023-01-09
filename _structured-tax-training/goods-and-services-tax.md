@@ -27,7 +27,7 @@ The next intake for this course will be in May 2023. Registration will be availa
 
 This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate & Construction, Manufacturing, Logistics, Hotel, Travel & Various Services.
 
-[Registration Form](https://go.gov.sg/gstlevel2){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Course%20Programme%20GST%20L2_2-2022.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/gstlevel2){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Course%20Programme%20GST%20L2_3-2022.pdf){:target="_blank"}
 
 Please note participants will have to complete Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation prior to taking the GST Programme Level 2.
 
