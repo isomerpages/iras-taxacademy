@@ -10,41 +10,45 @@ Please refer to the respective programme brochure for the programme dates.
 
 <table>
   <tr>
-    <td>Income Tax Programme Level 1 (Intake 1/2022)</td>
-    <td>From 10 to 25 May 2022 (with e-learning)</td>
+    <td>Income Tax Programme Level 1 (Intake 1/2023)</td>
+    <td>From 27 Apr to 9 May 2023 (with e-learning)</td>
   </tr> 
   <tr>
-    <td>Income Tax Programme Level 1 (Intake 2/2022)</td>
-    <td>From 1 to 30 Aug 2022 (with e-learning)</td>
+    <td>Income Tax Programme Level 1 (Intake 2/2023)</td>
+    <td>From 4 to 12 May 2023 (with e-learning)</td>
   </tr> 
   <tr>
-    <td>Income Tax Programme Level 1 (Intake 3/2022)</td>
-    <td>From 1 to 29 Nov 2022 (with e-learning)
+    <td>Income Tax Programme Level 1 (Intake 3/2023)</td>
+    <td>From 12 to 20 Oct 2023 (with e-learning)
 </td> 
+		  <tr>
+    <td>Income Tax Programme Level 1 (Intake 4/2023)</td>
+    <td>From 16 to 24 Oct 2023 (with e-learning)</td>
+  </tr> 
   </tr>
-	<tr>
-		<td>GST Programme Level 1 (Intake 1/2022)</td>
-    <td>From 19 May to 1 Jun 2022 (with e-learning)<br></td>
-    </tr> 
   <tr>
-    <td>GST Programme Level 1 (Intake 2/2022)</td>
-    <td>Sep 2022 (with e-learning)</td>
+    <td>GST Programme Level 1 (Intake 1/2023)</td>
+    <td>May 2023 (with e-learning)</td>
   </tr>  
   <tr>
-    <td>GST Programme Level 1 (Intake 3/2022)</td>
-    <td>Feb 2023 (with e-learning)</td>
+    <td>GST Programme Level 1 (Intake 2/2023)</td>
+    <td>Sep 2023 (with e-learning)</td>
+  </tr>  
+	  <tr>
+    <td>GST Programme Level 1 (Intake 3/2023)</td>
+    <td>Feb 2024 (with e-learning)</td>
   </tr>  
   <tr>
-    <td>Property Tax Programme Level 1 (Intake 1/2022)</td>
-    <td>Aug 2022</td>
+    <td>Property Tax Programme Level 1 (Intake 1/2023)</td>
+    <td>Aug 2023</td>
   </tr> 
 	<tr>
-   <td>International Tax Programme Level 1 (Intake 1/2022)</td>
-    <td>May 2022</td>
+   <td>International Tax Programme Level 1 (Intake 1/2023)</td>
+    <td>May 2023</td>
   </tr>  
   <tr>
-    <td>International Tax Programme Level 1 (Intake 2/2022)</td>
-    <td>Feb 2023</td>
+    <td>International Tax Programme Level 1 (Intake 2/2023)</td>
+    <td>Feb 2024</td>
   </tr>  
 </table>
 
@@ -53,34 +57,38 @@ Please refer to the respective programme brochure for the programme dates.
 
 <table>
   <tr>
-      <td>Income Tax Programme Level 2 (Intake 1/2022)</td>
-      <td>Jul 2022</td> 
+      <td>Income Tax Programme Level 2 (Intake 1/2023)</td>
+      <td>May 2023</td> 
   </tr>  
   <tr>
-      <td>Income Tax Programme Level 2 (Intake 2/2022)</td>
-      <td>Sep 2022</td> 
+      <td>Income Tax Programme Level 2 (Intake 2/2023)</td>
+      <td>Jul 2023</td> 
   </tr>  
   <tr>
-     <td>Income Tax Programme Level 2 (Intake 3/2022)</td>
-      <td>Jan 2023</td> 
+     <td>Income Tax Programme Level 2 (Intake 3/2023)</td>
+      <td>Sep 2023</td> 
+  </tr>  
+	 <tr>
+     <td>Income Tax Programme Level 2 (Intake 4/2023)</td>
+      <td>Jan 2024</td> 
   </tr>  
   <tr>
-		 <td>GST Programme Level 2 (Intake 1/2022)
+		 <td>GST Programme Level 2 (Intake 1/2023)
 		  </td>
-      <td>May 2022</td>
+      <td>May 2023</td>
 	</tr>  
   <tr>
-		 <td>GST Programme Level 2 (Intake 2/2022)
+		 <td>GST Programme Level 2 (Intake 2/2023)
 		  </td>
-      <td>Aug 2022</td>
+      <td>Sep 2023</td>
   </tr>  
   <tr>
-      <td>GST Programme Level 2 (Intake 3/2022)</td>
-      <td>Feb 2023</td> 
+      <td>GST Programme Level 2 (Intake 3/2023)</td>
+      <td>Feb 2024</td> 
   </tr>  
   <tr>
-     <td>International Tax Programme Level 2 (Intake 1/2022)</td>
-      <td>Oct 2022</td>
+     <td>International Tax Programme Level 2 (Intake 1/2023)</td>
+      <td>Sep/Oct 2023</td>
    </tr>  
 </table>
 
@@ -89,19 +97,19 @@ Please refer to the respective programme brochure for the programme dates.
 
 <table>
   <tr>
-    <td>Advanced Tax Programme Intake 18</td>
-    <td>From Apr 2022 to Mar 2023 - Registration for specific modules is available.</td> 
+    <td>Advanced Tax Programme (1/2023)</td>
+    <td>From Apr 2023 to Mar 2024 - Registration for specific modules is available.</td> 
   </tr>  
   <tr>
     <td>Leiden-TA Advanced Tax Treaties Programme </td>
-    <td>Dec 2022</td>
+    <td>Jan 2024</td>
  </tr>  
   <tr>
    <td>WU-TA Advanced Transfer Pricing Programme</td>
-    <td>From 3 to 13 Oct 2022 </td>
+    <td>TBC </td>
   </tr>  
   <tr>
    <td>Advanced International Tax Planning Programme</td>
-    <td>From 3 to 12 Aug 2022 </td>
+    <td>Aug 2023 </td>
   </tr>  
 </table>
