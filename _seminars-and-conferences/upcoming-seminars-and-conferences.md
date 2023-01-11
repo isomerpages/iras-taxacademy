@@ -10,7 +10,31 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **FEBRUARY**
 
+* 23 Feb : [Law 101 for Tax Professionals: Law of Partnerships](/seminars-and-conferences/upcoming/#23feb-ta-id)
+
 * 10 Feb : [Law 101 for Tax Professionals: Law of Partnerships](/seminars-and-conferences/upcoming/#10feb-ta-id)
+
+
+<a id="23feb-ta-id"></a>
+#### **Law 101 for Tax Professionals: Law of Agency**
+**23 Feb | 3.00 p.m. to 5.00 p.m.**
+
+Join us in this webinar as our speakers, Mr Yang Shi Yong (Director, Drew & Napier LLC) and Mr Charles Li (Deputy Director, Law Division, IRAS), provide an overview of the main common law principles of agency, including the creation of agency, the types of authority that an agent can have, the concept of the undisclosed principal and the duties and liabilities of principals and agents. Speakers will also share broadly how common law agency may be relevant in the context of Income Tax and Goods and Services Tax (GST) and the types of statutory agency that may be created under the respective tax Acts.
+
+Agenda:
+* Introduction
+* Common law agency
+* Statutory agency
+* General income tax and GST issues
+
+**Admin Details**
+* The webinar will be conducted via Zoom
+* Date: 23 Feb 2023
+* Time: 3.00pm to 5.00pm
+* Fees: $43.20 (incl. 8% GST)
+* Registration will close when the webinar is fully subscribed.
+* * [Registration form]()
+
 
 <a id="10feb-ta-id"></a>
 #### **Law 101 for Tax Professionals: Law of Partnerships**
