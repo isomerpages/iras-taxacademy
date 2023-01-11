@@ -25,12 +25,12 @@ Agenda:
 * General tax issues: income tax, goods and services tax, and stamp duties 
 
 **Admin Details**
-•	The webinar will be conducted via Zoom
-•	Date: 10 Feb 2023
-•	Time: 3.00pm to 5.00pm
-•	Fees: $43.20 (incl. 8% GST)
-•	Registration will close when the webinar is fully subscribed.
-
+* The webinar will be conducted via Zoom
+* Date: 10 Feb 2023
+* Time: 3.00pm to 5.00pm
+* Fees: $43.20 (incl. 8% GST)
+* Registration will close when the webinar is fully subscribed.
+* [Registration form](https://form.gov.sg/63be427fe400ab001297cf31)
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
