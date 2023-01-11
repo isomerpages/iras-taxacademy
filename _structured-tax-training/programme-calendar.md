@@ -106,7 +106,7 @@ Please refer to the respective programme brochure for the programme dates.
  </tr>  
   <tr>
    <td>WU-TA Advanced Transfer Pricing Programme</td>
-    <td>TBC </td>
+    <td>Oct 2023 </td>
   </tr>  
   <tr>
    <td>Advanced International Tax Planning Programme</td>
