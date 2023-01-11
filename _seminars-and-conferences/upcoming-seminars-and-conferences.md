@@ -33,7 +33,7 @@ Agenda:
 * Time: 3.00pm to 5.00pm
 * Fees: $43.20 (incl. 8% GST)
 * Registration will close when the webinar is fully subscribed.
-* * [Registration form]()
+* [Registration form](https://form.gov.sg/63be5c6ef4876f00137946ab)
 
 
 <a id="10feb-ta-id"></a>
