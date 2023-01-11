@@ -14,8 +14,9 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 <a id="10feb-ta-id"></a>
 #### **Law 101 for Tax Professionals: Law of Partnerships**
-**20 Dec | 3.00 p.m. to 5.00 p.m.**
+**10 Feb | 3.00 p.m. to 5.00 p.m.**
 
+Join us in this event where our speakers, Mr Charles Li (Deputy Director, Law Division, IRAS) and Mr Yang Shi Yong (Director, Drew & Napier LLC), provides an overview on the law of general partnerships, limited partnerships (“LPs”) and limited liability partnerships in Singapore. They will cover income tax, GST and stamp duty issues in relation to these organisational forms, focusing on legal issues that may have a tax impact, such as whether the partnership exists in law and how unique types of partnership structures, e.g. foreign LPs that have separate legal personality, may or may not fit within Singapore tax laws.
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
