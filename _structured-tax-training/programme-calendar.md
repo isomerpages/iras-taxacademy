@@ -110,6 +110,6 @@ Please refer to the respective programme brochure for the programme dates.
   </tr>  
   <tr>
    <td>Advanced International Tax Planning Programme</td>
-    <td>Aug 2023 </td>
+    <td>From Jul 2023 to Aug 2023 </td>
   </tr>  
 </table>
