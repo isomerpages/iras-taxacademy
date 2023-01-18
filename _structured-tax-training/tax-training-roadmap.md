@@ -173,7 +173,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 			• The coursework modules may also be taken individually.  Applications will be considered by the Academy on a case-by-case basis.</td>
   </tr>
   <tr>
-    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
+    <td>[Accreditation by the Singapore Chartered Tax Professionals](https://sctp.org.sg/)</td>
     <td>• Accredited Tax Advisor</td>
   </tr>
   <tr>
