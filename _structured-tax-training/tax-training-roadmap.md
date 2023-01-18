@@ -63,7 +63,7 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>• Participants have completed Tax Academy’s Income Tax Programme Level 1 and have 1-2 years of relevant working experience in taxation </td>
   </tr>
   <tr>
-    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
+    <td>[Accreditation by the Singapore Chartered Tax Professionals](https://sctp.org.sg/)</td>
     <td>• Accredited Tax Practitioner (Provisional)<br>
 			• Accredited Tax Practitioner</td>
   </tr>
@@ -92,7 +92,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 			• The ATP modules may also be taken individually.  Applications will be considered by the Academy on a case-by-case basis.</td>
   </tr>
   <tr>
-    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
+    <td>[Accreditation by the Singapore Chartered Tax Professionals](https://sctp.org.sg/)</td>
     <td>• Accredited Tax Advisor<br>
 			• Accredited Tax Practitioner</td>
   </tr>
@@ -144,7 +144,7 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>• Participants have completed Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation</td>
   </tr>
   <tr>
-    <td>Accreditation by the Singapore Chartered Tax Professionals</td>
+    <td>[Accreditation by the Singapore Chartered Tax Professionals](https://sctp.org.sg/)</td>
     <td>• Accredited Tax Practitioner (Provisional)<br>
          • Accredited Tax Practitioner</td>
   </tr>
