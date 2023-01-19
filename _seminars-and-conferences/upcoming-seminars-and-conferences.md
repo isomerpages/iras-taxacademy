@@ -12,6 +12,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 23 Feb : [Law 101 for Tax Professionals: Law of Partnerships](/seminars-and-conferences/upcoming/#23feb-ta-id)
 
+* 17 Feb : [TaxEdge Series:Examining the 2022 amendments to the Income Tax Act 1947](/seminars-and-conferences/upcoming/#17feb-ta-id)
+
+* 16 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#16feb-ta-id)
+
 * 10 Feb : [Law 101 for Tax Professionals: Law of Partnerships](/seminars-and-conferences/upcoming/#10feb-ta-id)
 
 
@@ -34,6 +38,49 @@ Agenda:
 * Fees: $43.20 (incl. 8% GST)
 * Registration will close when the webinar is fully subscribed.
 * [Registration form](https://form.gov.sg/63be5c6ef4876f00137946ab)
+
+<a id="17feb-ta-id"></a>
+#### **TaxEdge Series: Examining the 2022 amendments to the Income Tax Act 1947**
+**17 Feb | 3.00 p.m. to 4.30 p.m.**
+
+The latest amendments to the Income Tax Act 1947 entered into force in November 2022. These amendments implement the various tax measures introduced as part of the Budget 2022, amongst other changes to Singapore's income tax framework.  Join our speakers from Baker McKenzie Wong & Leow, Mr Allen Tan, Principal, and Ms Desiree Sim, Tax Associate, who will share on the key developments.
+
+Agenda:
+
+* Review of provisions on the Income Tax Board of Review appeal process
+
+* Expanded definition of "local employee" condition for the Mergers & Acquisitions Allowance
+
+* Concessionary measures relating to non-resident arbitration and mediation services
+
+* Other notable amendments to the official secrecy provisions, tax treatment of corporate amalgamations by licensed insurers, etc.
+
+**Admin Details**
+* The webinar will be conducted via Zoom
+* Date: 17 Feb 2023
+* Time: 3.00pm to 4.30pm
+* Fees: $43.20 (incl. 8% GST)
+* Registration will close when the webinar is fully subscribed.
+* [Registration form](https://form.gov.sg/63c7cd5dd4e11c001225746c)
+
+
+<a id="16feb-ta-id"></a>
+#### **FasTax Series: Managing Tax Compliance**
+**16 Feb | 3.00 p.m. to 5.00 p.m.**
+
+This webinar aims to enhance companies’ understanding of IRAS’ compliance approach and how companies can better comply with their tax obligations. IRAS’ speakers from the Corporate Tax Division and Investigation & Forensics Division will share with you on:
+
+*   IRAS’ audit and investigation approaches
+*   Findings from its audits and investigations
+* Learn how to mitigate the common mistakes and improve tax compliance through internal controls and record keeping.
+
+**Admin Details**
+* The webinar will be conducted via Zoom
+* Date: 16 Feb 2023
+* Time: 3.00pm to 5.00pm
+* Fees: $43.20 (incl. 8% GST)
+* Registration will close when the webinar is fully subscribed.
+* [Registration form](https://form.gov.sg/63c7c8edbef23b00118f6b91)
 
 
 <a id="10feb-ta-id"></a>
