@@ -57,7 +57,7 @@ This webinar aims to enhance companies’ understanding of IRAS’ compliance ap
 
 **Admin Details**
 * The webinar will be conducted via Zoom
-* Date: 26 Feb 2023
+* Date: 16 Feb 2023
 * Time: 3.00pm to 5.00pm
 * Fees: $43.20 (incl. 8% GST)
 * Registration will close when the webinar is fully subscribed.
