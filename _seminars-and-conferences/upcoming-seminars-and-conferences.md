@@ -39,6 +39,16 @@ Agenda:
 * Registration will close when the webinar is fully subscribed.
 * [Registration form](https://form.gov.sg/63be5c6ef4876f00137946ab)
 
+<a id="17feb-ta-id"></a>
+#### **TaxEdge Series: Examining the 2022 amendments to the Income Tax Act 1947**
+**17 Feb | 3.00 p.m. to 4.30 p.m.**
+
+
+
+<a id="16feb-ta-id"></a>
+#### **FasTax Series: Managing Tax Compliance**
+**16 Feb | 3.00 p.m. to 5.00 p.m.**
+
 
 <a id="10feb-ta-id"></a>
 #### **Law 101 for Tax Professionals: Law of Partnerships**
