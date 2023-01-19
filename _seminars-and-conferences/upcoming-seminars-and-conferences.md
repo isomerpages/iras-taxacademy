@@ -49,6 +49,12 @@ Agenda:
 #### **FasTax Series: Managing Tax Compliance**
 **16 Feb | 3.00 p.m. to 5.00 p.m.**
 
+This webinar aims to enhance companies’ understanding of IRAS’ compliance approach and how companies can better comply with their tax obligations. IRAS’ speakers from the Corporate Tax Division and Investigation & Forensics Division will share with you on:
+
+*   IRAS’ audit and investigation approaches
+*   Findings from its audits and investigations
+* Learn how to mitigate the common mistakes and improve tax compliance through internal controls and record keeping.
+
 
 <a id="10feb-ta-id"></a>
 #### **Law 101 for Tax Professionals: Law of Partnerships**
