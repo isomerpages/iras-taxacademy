@@ -45,6 +45,13 @@ Agenda:
 
 The latest amendments to the Income Tax Act 1947 entered into force in November 2022. These amendments implement the various tax measures introduced as part of the Budget 2022, amongst other changes to Singapore's income tax framework.  Join our speakers from Baker McKenzie Wong & Leow, Mr Allen Tan, Principal, and Ms Desiree Sim, Tax Associate, who will share on the key developments.
 
+**Admin Details**
+* The webinar will be conducted via Zoom
+* Date: 17 Feb 2023
+* Time: 3.00pm to 4.30pm
+* Fees: $43.20 (incl. 8% GST)
+* Registration will close when the webinar is fully subscribed.
+* [Registration form](https://form.gov.sg/63c7cd5dd4e11c001225746c)
 
 
 <a id="16feb-ta-id"></a>
