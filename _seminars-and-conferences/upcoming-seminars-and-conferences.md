@@ -55,6 +55,14 @@ This webinar aims to enhance companies’ understanding of IRAS’ compliance ap
 *   Findings from its audits and investigations
 * Learn how to mitigate the common mistakes and improve tax compliance through internal controls and record keeping.
 
+**Admin Details**
+* The webinar will be conducted via Zoom
+* Date: 26 Feb 2023
+* Time: 3.00pm to 5.00pm
+* Fees: $43.20 (incl. 8% GST)
+* Registration will close when the webinar is fully subscribed.
+* [Registration form](https://form.gov.sg/63c7c8edbef23b00118f6b91)
+
 
 <a id="10feb-ta-id"></a>
 #### **Law 101 for Tax Professionals: Law of Partnerships**
