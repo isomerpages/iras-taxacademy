@@ -43,6 +43,8 @@ Agenda:
 #### **TaxEdge Series: Examining the 2022 amendments to the Income Tax Act 1947**
 **17 Feb | 3.00 p.m. to 4.30 p.m.**
 
+The latest amendments to the Income Tax Act 1947 entered into force in November 2022. These amendments implement the various tax measures introduced as part of the Budget 2022, amongst other changes to Singapore's income tax framework.  Join our speakers from Baker McKenzie Wong & Leow, Mr Allen Tan, Principal, and Ms Desiree Sim, Tax Associate, who will share on the key developments.
+
 
 
 <a id="16feb-ta-id"></a>
