@@ -5,7 +5,7 @@ breadcrumb: International Tax
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **International Tax Programme Level 1**
-* May 2023 intake: [Stay tuned for more information(/executive-tax-programmes/international-tax/#etp1IT-ta-id)
+* May 2023 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **International Tax Programme Level 2**
 * Sep/Oct 2023 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
