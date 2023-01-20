@@ -27,7 +27,7 @@ This course will enable participants to acquire basic knowledge in tax treaties 
 
 [Registration Form](https://go.gov.sg/reglevel1int22022){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L1 Int tax course brochure 2 2022.pdf){:target="_blank"}
 
-**Registration is CLOSED for intake 1/2022**
+**Registration is CLOSED for intake 2/2022**
 
 The next intake for this course will be in May 2023. Registration will open six weeks before the course commencement date.
 
