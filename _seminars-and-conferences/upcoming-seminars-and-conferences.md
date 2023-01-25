@@ -10,7 +10,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **FEBRUARY**
 
-* 23 Feb : [Law 101 for Tax Professionals: Law of Partnerships](/seminars-and-conferences/upcoming/#23feb-ta-id)
+* 23 Feb : [Law 101 for Tax Professionals: Law of Agency](/seminars-and-conferences/upcoming/#23feb-ta-id)
 
 * 17 Feb : [TaxEdge Series:Examining the 2022 amendments to the Income Tax Act 1947](/seminars-and-conferences/upcoming/#17feb-ta-id)
 
