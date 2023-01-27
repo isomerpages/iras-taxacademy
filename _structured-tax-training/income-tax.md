@@ -54,7 +54,22 @@ Registration is CLOSED for intake 18.  Registration for next intake is expected 
 
 Registration for individual modules will close 1 month before the commencement of the module.
 
-**Please note: Under the new admission requirement for intakes commencing from 1 Apr 2023 onwards, participants are required to complete and pass the exam for Income Tax Programme Level 2 prior to taking the Level 3 Advanced Tax Programme. Participants should also possess at least 3 years of relevant working experience in taxation and a degree from a recognized university or relevant professional qualification. All applications will be subject to shortlisting.**
+**Please note: Under the new admission requirement for intakes commencing from 1 Apr 2023 onwards, participants are required to:**
+
+**(i) complete and pass the exam for Income Tax Programme Level 2**
+
+**(ii) possess at least 3 years of relevant working experience in taxation and;**
+
+**(iii) a degree from a recognised university or relevant professional qualification.**
+
+**All applications will be subject to shortlisting.**
+
+**Tax Academy will consider for exemptions on a case-to-case basis if participants have met the following criteria:**
+
+**- at least 8 years working experience in tax**
+
+**- Accredited Tax Practitioner with SCTP**
+
 
 
 ### **Book Prizes**
