@@ -64,7 +64,7 @@ Registration for individual modules will close 1 month before the commencement o
 
 **All applications will be subject to shortlisting.**
 
-**Tax Academy will consider for exemptions on a case-to-case basis if participants have met the following criteria:**
+**Tax Academy will consider exemptions for (i), on a case-to-case basis if participants have met the following criteria:**
 
 **- at least 8 years working experience in tax**
 
