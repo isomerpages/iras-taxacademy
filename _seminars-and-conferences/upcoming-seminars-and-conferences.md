@@ -21,6 +21,16 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 16 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#16feb-ta-id)
 
 
+<a id="2mar-ta-id"></a>
+#### **FasTax Series: Tax Governance and Tax Risk Management**
+**2 Mar | 10.00 a.m. to 12.00 p.m.**
+
+ Join us in this webinar as speakers from the IRAS Goods and Services Tax and Corporate Tax Divisions share on Tax Governance Framework (TGF) and Tax Risk Management and Control Framework for Corporate Income Tax (CTRM), both of which were introduced in 2022 to help companies establish robust governance and effective controls for more accurate tax returns.
+
+
+
+
+
 <a id="23feb-ta-id"></a>
 #### **Law 101 for Tax Professionals: Law of Agency**
 **23 Feb | 3.00 p.m. to 5.00 p.m.**
