@@ -37,6 +37,13 @@ Agenda:
 *  3 building blocks and key practices
 3. Benefits of adopting the TGF
 
+###### Tax Risk Management and Control Framework for Corporate Income Tax (CTRM)
+* Overview
+* Understand the different levels of controls as prescribed in the framework
+* Be aware of the application process including meeting the pre-requisites to participate in the CTRM 
+* Know how the CTRM is applied from a reviewer’s perspective
+* Be aware of the requirements for screening of first-time CTRM reviewers
+* Know the benefits of adopting the CTRM
 
 
 
