@@ -51,7 +51,7 @@ Agenda:
 * Time: 10.00 a.m. to 12.00 p.m.
 * Fees: SGD 43.20 (incl. 8% GST)
 * Closing date for registration is 23 Feb (or when the webinar is fully subscribed)
-* * [Registration form](https://form.gov.sg/63e9c910beaeb1001276ae6b)
+* [Registration form](https://form.gov.sg/63e9c910beaeb1001276ae6b)
 
 
 <a id="23feb-ta-id"></a>
