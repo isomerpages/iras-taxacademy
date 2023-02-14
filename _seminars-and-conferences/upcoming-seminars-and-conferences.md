@@ -31,13 +31,13 @@ The TGF guides companies in setting a top-down approach towards tax compliance, 
 
 Agenda:
 
-###### Tax Governance Framework (TGF)
+#### Tax Governance Framework (TGF)
 1. Overview
 2. Essentials of tax governance framework for better oversight of a company’s tax risks
 *  3 building blocks and key practices
 3. Benefits of adopting the TGF
 
-###### Tax Risk Management and Control Framework for Corporate Income Tax (CTRM)
+#### Tax Risk Management and Control Framework for Corporate Income Tax (CTRM)
 * Overview
 * Understand the different levels of controls as prescribed in the framework
 * Be aware of the application process including meeting the pre-requisites to participate in the CTRM 
