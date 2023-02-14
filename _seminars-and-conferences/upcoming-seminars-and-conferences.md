@@ -29,6 +29,15 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 The TGF guides companies in setting a top-down approach towards tax compliance, while CTRM guides companies to evaluate the adequacy and effectiveness of their internal controls for Corporate Income Tax.
 
+Agenda:
+
+###### Tax Governance Framework (TGF)
+1. Overview
+2. Essentials of tax governance framework for better oversight of a company’s tax risks
+*  3 building blocks and key practices
+3. Benefits of adopting the TGF
+
+
 
 
 
