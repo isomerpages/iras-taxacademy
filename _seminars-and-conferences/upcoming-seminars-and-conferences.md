@@ -8,6 +8,10 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+**MARCH**
+
+* 2 Mar : [FasTax Series: Tax Governance and Tax Risk Management](/seminars-and-conferences/upcoming/#2mar-ta-id)
+
 **FEBRUARY**
 
 * 23 Feb : [Law 101 for Tax Professionals: Law of Agency](/seminars-and-conferences/upcoming/#23feb-ta-id)
