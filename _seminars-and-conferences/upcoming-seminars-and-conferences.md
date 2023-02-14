@@ -27,6 +27,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
  Join us in this webinar as speakers from the IRAS Goods and Services Tax and Corporate Tax Divisions share on Tax Governance Framework (TGF) and Tax Risk Management and Control Framework for Corporate Income Tax (CTRM), both of which were introduced in 2022 to help companies establish robust governance and effective controls for more accurate tax returns.
 
+The TGF guides companies in setting a top-down approach towards tax compliance, while CTRM guides companies to evaluate the adequacy and effectiveness of their internal controls for Corporate Income Tax.
 
 
 
