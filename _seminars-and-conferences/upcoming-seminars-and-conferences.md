@@ -31,6 +31,8 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **FasTax: GST ASK – A Self-help Tool for GST Compliance**
 **16 Mar | 2.00 p.m. to 5.00 p.m.**
 
+This webinar will feature practical examples illustrating the use of Assisted Self-help Kit (ASK) for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
+
 
 
 
