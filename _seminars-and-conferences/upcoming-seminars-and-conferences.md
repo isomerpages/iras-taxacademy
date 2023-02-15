@@ -10,6 +10,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **MARCH**
 
+* 16 Mar : [FasTax: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#16mar-ta-id)
 
 * 10 Mar : [Budget Clinic: GST Rate Change](/seminars-and-conferences/upcoming/#10mar-ta-id)
 
