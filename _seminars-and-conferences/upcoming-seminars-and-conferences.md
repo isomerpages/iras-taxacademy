@@ -10,6 +10,11 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **MARCH**
 
+
+* 10 Mar : [Budget Clinic: GST Rate Change](/seminars-and-conferences/upcoming/#10mar-ta-id)
+
+* 7 Mar : [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#7mar-ta-id)
+
 * 2 Mar : [FasTax Series: Tax Governance and Tax Risk Management](/seminars-and-conferences/upcoming/#2mar-ta-id)
 
 **FEBRUARY**
