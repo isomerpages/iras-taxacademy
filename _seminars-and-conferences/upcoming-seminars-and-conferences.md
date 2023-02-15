@@ -39,9 +39,7 @@ This webinar will feature practical examples illustrating the use of Assisted Se
 * Time: 2.00pm to 5.00pm
 * Fees: SGD 70.20 (incl. GST)
 * Closing date for registration: 8 Mar (or when webinar is fully subscribed)
-
-
-
+* [Registration form](https://form.gov.sg/63eb658f13cac100128b31d4)
 
 
 <a id="10mar-ta-id"></a>
