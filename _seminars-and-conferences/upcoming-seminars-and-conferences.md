@@ -26,6 +26,15 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 16 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#16feb-ta-id)
 
+
+<a id="16mar-ta-id"></a>
+#### **FasTax: GST ASK – A Self-help Tool for GST Compliance**
+**16 Mar | 2.00 p.m. to 5.00 p.m.**
+
+
+
+
+
 <a id="10mar-ta-id"></a>
 #### **Budget Clinic: GST Rate Change**
 **10 Mar | 3.00 p.m. to 5.00 p.m.**
@@ -42,12 +51,12 @@ Join us in the upcoming webinar on GST Rate Change where speaker from EY will sh
 
 3. Sharing of common issues faced by businesses
 
-Admin details:
-•	The webinar will be conducted via Zoom
-•	Date: 7 Mar 23
-•	Time: 3.00 p.m. to 5.00 p.m.
-•	Fee: SGD 43.20 (incl. GST)
-•	Closing date for registration: 2 Mar (or when webinar is fully subscribed)
+**Admin details:**
+* The webinar will be conducted via Zoom
+* Date: 7 Mar 23
+* Time: 3.00 p.m. to 5.00 p.m.
+* Fee: SGD 43.20 (incl. GST)
+* Closing date for registration: 2 Mar (or when webinar is fully subscribed)
 * [Registration form](https://form.gov.sg/63eb6823beaeb100129ead6b)
 
 
