@@ -33,6 +33,13 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 This webinar will feature practical examples illustrating the use of Assisted Self-help Kit (ASK) for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
 
+**Admin details:**
+* The webinar will be conducted via Zoom
+* Date: 16 Mar 2023
+* Time: 2.00pm to 5.00pm
+* Fees: SGD 70.20 (incl. GST)
+* Closing date for registration: 8 Mar (or when webinar is fully subscribed)
+
 
 
 
