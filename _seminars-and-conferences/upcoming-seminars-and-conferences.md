@@ -26,6 +26,12 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 16 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#16feb-ta-id)
 
+<a id="10mar-ta-id"></a>
+#### **Budget Clinic: GST Rate Change**
+**10 Mar | 3.00 p.m. to 5.00 p.m.**
+
+
+
 <a id="7mar-ta-id"></a>
 #### **FasTax Series: Fundamentals of GST Filing**
 **7 Mar | 3.00 p.m. to 5.00 p.m.**
