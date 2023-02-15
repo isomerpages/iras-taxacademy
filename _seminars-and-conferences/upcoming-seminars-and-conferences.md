@@ -8,6 +8,10 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+**MARCH**
+
+* 2 Mar : [FasTax Series: Tax Governance and Tax Risk Management](/seminars-and-conferences/upcoming/#2mar-ta-id)
+
 **FEBRUARY**
 
 * 23 Feb : [Law 101 for Tax Professionals: Law of Agency](/seminars-and-conferences/upcoming/#23feb-ta-id)
@@ -16,7 +20,38 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 16 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#16feb-ta-id)
 
-* 10 Feb : [Law 101 for Tax Professionals: Law of Partnerships](/seminars-and-conferences/upcoming/#10feb-ta-id)
+
+<a id="2mar-ta-id"></a>
+#### **FasTax Series: Tax Governance and Tax Risk Management**
+**2 Mar | 10.00 a.m. to 12.00 p.m.**
+
+ Join us in this webinar as speakers from the IRAS Goods and Services Tax and Corporate Tax Divisions share on Tax Governance Framework (TGF) and Tax Risk Management and Control Framework for Corporate Income Tax (CTRM), both of which were introduced in 2022 to help companies establish robust governance and effective controls for more accurate tax returns.
+
+The TGF guides companies in setting a top-down approach towards tax compliance, while CTRM guides companies to evaluate the adequacy and effectiveness of their internal controls for Corporate Income Tax.
+
+Agenda:
+
+#### Tax Governance Framework (TGF)
+1. Overview
+2. Essentials of tax governance framework for better oversight of a company’s tax risks
+*  3 building blocks and key practices
+3. Benefits of adopting the TGF
+
+#### Tax Risk Management and Control Framework for Corporate Income Tax (CTRM)
+* Overview
+* Understand the different levels of controls as prescribed in the framework
+* Be aware of the application process including meeting the pre-requisites to participate in the CTRM 
+* Know how the CTRM is applied from a reviewer’s perspective
+* Be aware of the requirements for screening of first-time CTRM reviewers
+* Know the benefits of adopting the CTRM
+
+**Admin details:**
+* This webinar will be conducted via Zoom
+* Date: 2 Mar 2023
+* Time: 10.00 a.m. to 12.00 p.m.
+* Fees: SGD 43.20 (incl. 8% GST)
+* Closing date for registration is 23 Feb (or when the webinar is fully subscribed)
+* [Registration form](https://form.gov.sg/63e9c910beaeb1001276ae6b)
 
 
 <a id="23feb-ta-id"></a>
@@ -81,27 +116,6 @@ This webinar aims to enhance companies’ understanding of IRAS’ compliance ap
 * Fees: $43.20 (incl. 8% GST)
 * Registration will close when the webinar is fully subscribed.
 * [Registration form](https://form.gov.sg/63c7c8edbef23b00118f6b91)
-
-
-<a id="10feb-ta-id"></a>
-#### **Law 101 for Tax Professionals: Law of Partnerships**
-**10 Feb | 3.00 p.m. to 5.00 p.m.**
-
-Join us in this event where our speakers, Mr Charles Li (Deputy Director, Law Division, IRAS) and Mr Yang Shi Yong (Director, Drew & Napier LLC), provides an overview on the law of general partnerships, limited partnerships (“LPs”) and limited liability partnerships in Singapore. They will cover income tax, GST and stamp duty issues in relation to these organisational forms, focusing on legal issues that may have a tax impact, such as whether the partnership exists in law and how unique types of partnership structures, e.g. foreign LPs that have separate legal personality, may or may not fit within Singapore tax laws.
-
-Agenda:
-* General Partnerships
-* Limited Partnerships
-* Limited Liability Partnerships
-* General tax issues: income tax, goods and services tax, and stamp duties 
-
-**Admin Details**
-* The webinar will be conducted via Zoom
-* Date: 10 Feb 2023
-* Time: 3.00pm to 5.00pm
-* Fees: $43.20 (incl. 8% GST)
-* Registration will close when the webinar is fully subscribed.
-* [Registration form](https://form.gov.sg/63be427fe400ab001297cf31)
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
