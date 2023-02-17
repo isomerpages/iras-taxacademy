@@ -287,4 +287,4 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>• The Advanced International Tax Planning Programme is suitable for candidates who wish to take Paper 1 of the ADIT exam</td>
   </tr>
 </table>
-For more details on TA Programme Admission Requirement, please refer to [Frequently Asked Questions on Programme Admission](/files/TA Programme Admission Requirements Information Package_TA Website_Feb2023.pdf)
+For more details on TA Programme Admission Requirement, please refer to [Frequently Asked Questions on Programme Admission] (/files/TA Programme Admission Requirements Information Package_TA Website_Feb2023.pdf)
