@@ -9,7 +9,7 @@ breadcrumb: Terms and Conditions
 
 1.2 All applications for Level 1 and 2 courses are subject to confirmation. Successful applicants will receive an email at least 1 week before the commencement of the course.
 
-1.3 All applications for Level 3 courses are subject to shortlisting. For full programme registration, participants will be notified of their application outcome 1 month before the commencement of the course. For modular registration, participants will be notified approximately 2 to 3 weeks before the commencement of the module.
+1.3 All applications for Level 3 courses are subject to shortlisting. For full programme registration, participants will be notified of their application status, approximately 3-4 weeks before the commencement of the course. 
 
 **2. Attendance**
 
@@ -17,10 +17,7 @@ breadcrumb: Terms and Conditions
 
 2.2 Participants need to achieve a per unit module attendance of at least 60% (rounded up to the nearest session) in order to sit for the written assessment (i.e. assignment/exam).
 
-2.3 For the Advanced Tax Programme, modules 1, 3 and 9 consist of 2 units each. The minimum attendance requirement will apply to each unit (i.e. ATP101, ATP102, ATP104, ATP105, ATP111 and ATP112).
-E.g. If the unit consists of 6 lessons, participants have to attend at least 4 lessons (60% of 6 sessions rounded up to nearest session) to fulfill the minimum attendance requirement to attempt the written assessment.
-
-2.4 There is no exemption for attendance.
+2.3 There is no exemption for attendance.
 
 **3. Replacement of missed classes**
 

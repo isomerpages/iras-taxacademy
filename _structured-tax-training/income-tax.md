@@ -12,6 +12,9 @@ breadcrumb: Income Tax
 
 * Jan 2023 intake: [Registration is CLOSED](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
+##### **Income Tax Programme Level 3**
+* Intake 1/2023 (April 2023 to March 2024): [Registration is now OPEN](/executive-tax-programmes/income-tax/#atp-ta-id)
+
 <a id="etp1oct-ta-id"></a>
 ### **Income Tax Programme Level 1**
 
@@ -32,8 +35,7 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Registration Form](  
-https://form.gov.sg/62df57bfff86280013a6bbc5){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2 IT 3 2022 course brochure.pdf){:target="_blank"} 
+[Registration Form](https://form.gov.sg/62df57bfff86280013a6bbc5){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2 IT 3 2022 course brochure.pdf){:target="_blank"} 
 
 Registration is CLOSED.  
 
@@ -44,15 +46,12 @@ The next intake for this course will be in Jul 2023. Registration will be availa
 
 The Advanced Tax Programme (ATP) is the foremost training programme for tax professionals. It offers rigorous training on a wide range of core subjects covering: Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax Planning and Goods and Services Tax. The elective component offers modules on Regional (China & India) and US Tax, Tax Incentives, Tax Fraud and Investigation, and Stamp Duty.
 
-**Intake 18, April 2022 to March 2023:**
+**Intake 1/2023, April 2023 to March 2024:**
 
-[Registration Form - Full Programme](https://form.gov.sg/61e17addbdbbe60012a7afcd)
+[Registration Form - Full Programme (https://form.gov.sg/63eb41e7cdd5090011717097){:target="\_blank"} -[Schedule](/files/executive-tax-programmes/ATP 1-2023 Schedule - Publicity.pdf){:target="\_blank"}
 
-Registration is CLOSED for intake 18.  Registration for next intake is expected to commence in Jan/Feb 2023.
+**Registration closes on 10 March 2023.**
 
-[Registration Form - Modular](https://form.gov.sg/61ea54e967949600147c4375) - [Details](/files/executive-tax-programmes/ATP Intake 18 Brochure FINAL.pdf) - [Schedule](/files/executive-tax-programmes/ATP Intake 18 Schedule.pdf)
-
-Registration for individual modules will close 1 month before the commencement of the module.
 
 **Please note: Under the new admission requirement for intakes commencing from 1 Apr 2023 onwards, participants are required to:**
 
@@ -70,7 +69,7 @@ Registration for individual modules will close 1 month before the commencement o
 
 **- Accredited Tax Practitioner with SCTP**
 
-
+For more details on TA Programme Admission Requirement, please refer to [Frequently Asked Questions on Programme Admission] (/files/TA Programme Admission Requirements Information Package_TA Website_Feb2023.pdf)
 
 ### **Book Prizes**
 
