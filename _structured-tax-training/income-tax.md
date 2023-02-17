@@ -13,7 +13,7 @@ breadcrumb: Income Tax
 * Jan 2023 intake: [Registration is CLOSED](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 ##### **Income Tax Programme Level 3**
-* Intake 1/2023: [Registration is now OPEN](/executive-tax-programmes/income-tax/#atp-ta-id)
+* Intake 1/2023 (April 2023 to March 2023): [Registration is now OPEN](/executive-tax-programmes/income-tax/#atp-ta-id)
 
 <a id="etp1oct-ta-id"></a>
 ### **Income Tax Programme Level 1**
