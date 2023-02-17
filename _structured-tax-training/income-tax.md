@@ -70,7 +70,7 @@ The Advanced Tax Programme (ATP) is the foremost training programme for tax prof
 
 **- Accredited Tax Practitioner with SCTP**
 
-For more details on TA Programme Admission Requirement, please refer to [Frequently Asked Questions on Programme Admission](/files/TA Programme Admission Requirements Information Package_TA Website_Feb2023.pdf)
+For more details on TA Programme Admission Requirement, please refer to [Frequently Asked Questions on Programme Admission] (/files/TA Programme Admission Requirements Information Package_TA Website_Feb2023.pdf)
 
 ### **Book Prizes**
 
