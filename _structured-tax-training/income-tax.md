@@ -35,7 +35,7 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Registration Form](https://form.gov.sg/62df57bfff86280013a6bbc5){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2 IT 3 2022 course brochure.pdf){:target="_blank"} 
+[Registration Form (https://form.gov.sg/62df57bfff86280013a6bbc5){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2 IT 3 2022 course brochure.pdf){:target="_blank"} 
 
 Registration is CLOSED.  
 
@@ -48,7 +48,7 @@ The Advanced Tax Programme (ATP) is the foremost training programme for tax prof
 
 **Intake 1/2023, April 2023 to March 2024:**
 
-[Registration Form - Full Programme (https://form.gov.sg/63eb41e7cdd5090011717097){:target="\_blank"} -[Schedule](/files/executive-tax-programmes/ATP 1-2023 Schedule - Publicity.pdf){:target="\_blank"}
+[Registration Form - Full Programme] (https://form.gov.sg/63eb41e7cdd5090011717097){:target="\_blank"} -[Schedule](/files/executive-tax-programmes/ATP 1-2023 Schedule - Publicity.pdf){:target="\_blank"}
 
 **Registration closes on 10 March 2023.**
 
@@ -69,7 +69,7 @@ The Advanced Tax Programme (ATP) is the foremost training programme for tax prof
 
 **- Accredited Tax Practitioner with SCTP**
 
-For more details on TA Programme Admission Requirement, please refer to [Frequently Asked Questions on Programme Admission] (/files/TA Programme Admission Requirements Information Package_TA Website_Feb2023.pdf)
+For more details on TA Programme Admission Requirement, please refer to [Frequently Asked Questions on Programme Admission](/files/TA Programme Admission Requirements Information Package_TA Website_Feb2023.pdf)
 
 ### **Book Prizes**
 
