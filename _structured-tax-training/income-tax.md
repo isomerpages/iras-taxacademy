@@ -12,6 +12,9 @@ breadcrumb: Income Tax
 
 * Jan 2023 intake: [Registration is CLOSED](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
+##### **Income Tax Programme Level 3**
+* Intake 1/2023: [Registration is now OPEN](executive-tax-programmes/income-tax/#atp-ta-id)
+
 <a id="etp1oct-ta-id"></a>
 ### **Income Tax Programme Level 1**
 
@@ -46,9 +49,8 @@ The Advanced Tax Programme (ATP) is the foremost training programme for tax prof
 
 **Intake 1/2023, April 2023 to March 2024:**
 
-[Registration Form - Full Programme](https://form.gov.sg/63eb41e7cdd5090011717097https://form.gov.sg/61e17addbdbbe60012a7afcd) 
-[Schedule]
-(
+[Registration Form - Full Programme](https://form.gov.sg/63eb41e7cdd5090011717097https://form.gov.sg/61e17addbdbbe60012a7afcd) [Schedule]
+(/files/executive-tax-programmes/ATP 1-2023 Schedule - Publicity)
 
 **Registration closes on 10 March 2023.**
 
