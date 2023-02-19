@@ -18,14 +18,6 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 2 Mar : [FasTax Series: Tax Governance and Tax Risk Management](/seminars-and-conferences/upcoming/#2mar-ta-id)
 
-**FEBRUARY**
-
-* 23 Feb : [Law 101 for Tax Professionals: Law of Agency](/seminars-and-conferences/upcoming/#23feb-ta-id)
-
-* 17 Feb : [TaxEdge Series:Examining the 2022 amendments to the Income Tax Act 1947](/seminars-and-conferences/upcoming/#17feb-ta-id)
-
-* 16 Feb : [FasTax Series: Managing Tax Compliance](/seminars-and-conferences/upcoming/#16feb-ta-id)
-
 
 <a id="16mar-ta-id"></a>
 #### **FasTax: GST ASK – A Self-help Tool for GST Compliance**
@@ -64,7 +56,12 @@ Join us in the upcoming webinar on GST Rate Change where speaker from EY will sh
 * Time: 3.00 p.m. to 5.00 p.m.
 * Fee: SGD 43.20 (incl. GST)
 * Closing date for registration: 2 Mar (or when webinar is fully subscribed)
+
 * [Registration form](https://form.gov.sg/63eb6823beaeb100129ead6b)
+
+**About the speaker**
+
+Ms Monica Sum is a Director specialising in GST at EY Corporate Advisors Pte. Ltd.. She has over 15 years of experience in the field of GST covering compliance and advisory work in various industries for local and multinational companies. Monica also conducts external and customized GST workshops.
 
 
 <a id="7mar-ta-id"></a>
@@ -119,72 +116,9 @@ Agenda:
 * Date: 2 Mar 2023
 * Time: 10.00 a.m. to 12.00 p.m.
 * Fees: SGD 43.20 (incl. 8% GST)
-* Closing date for registration is 23 Feb (or when the webinar is fully subscribed)
+* The webinar is fully subscribed
 * [Registration form](https://form.gov.sg/63e9c910beaeb1001276ae6b)
 
-
-<a id="23feb-ta-id"></a>
-#### **Law 101 for Tax Professionals: Law of Agency**
-**23 Feb | 3.00 p.m. to 5.00 p.m.**
-
-Join us in this webinar as our speakers, Mr Yang Shi Yong (Director, Drew & Napier LLC) and Mr Charles Li (Deputy Director, Law Division, IRAS), provide an overview of the main common law principles of agency, including the creation of agency, the types of authority that an agent can have, the concept of the undisclosed principal and the duties and liabilities of principals and agents. Speakers will also share broadly how common law agency may be relevant in the context of Income Tax and Goods and Services Tax (GST) and the types of statutory agency that may be created under the respective tax Acts.
-
-Agenda:
-* Introduction
-* Common law agency
-* Statutory agency
-* General income tax and GST issues
-
-**Admin Details**
-* The webinar will be conducted via Zoom
-* Date: 23 Feb 2023
-* Time: 3.00pm to 5.00pm
-* Fees: $43.20 (incl. 8% GST)
-* Registration will close when the webinar is fully subscribed.
-* [Registration form](https://form.gov.sg/63be5c6ef4876f00137946ab)
-
-<a id="17feb-ta-id"></a>
-#### **TaxEdge Series: Examining the 2022 amendments to the Income Tax Act 1947**
-**17 Feb | 3.00 p.m. to 4.30 p.m.**
-
-The latest amendments to the Income Tax Act 1947 entered into force in November 2022. These amendments implement the various tax measures introduced as part of the Budget 2022, amongst other changes to Singapore's income tax framework.  Join our speakers from Baker McKenzie Wong & Leow, Mr Allen Tan, Principal, and Ms Desiree Sim, Tax Associate, who will share on the key developments.
-
-Agenda:
-
-* Review of provisions on the Income Tax Board of Review appeal process
-
-* Expanded definition of "local employee" condition for the Mergers & Acquisitions Allowance
-
-* Concessionary measures relating to non-resident arbitration and mediation services
-
-* Other notable amendments to the official secrecy provisions, tax treatment of corporate amalgamations by licensed insurers, etc.
-
-**Admin Details**
-* The webinar will be conducted via Zoom
-* Date: 17 Feb 2023
-* Time: 3.00pm to 4.30pm
-* Fees: $43.20 (incl. 8% GST)
-* Registration will close when the webinar is fully subscribed.
-* [Registration form](https://form.gov.sg/63c7cd5dd4e11c001225746c)
-
-
-<a id="16feb-ta-id"></a>
-#### **FasTax Series: Managing Tax Compliance**
-**16 Feb | 3.00 p.m. to 5.00 p.m.**
-
-This webinar aims to enhance companies’ understanding of IRAS’ compliance approach and how companies can better comply with their tax obligations. IRAS’ speakers from the Corporate Tax Division and Investigation & Forensics Division will share with you on:
-
-*   IRAS’ audit and investigation approaches
-*   Findings from its audits and investigations
-* Learn how to mitigate the common mistakes and improve tax compliance through internal controls and record keeping.
-
-**Admin Details**
-* The webinar will be conducted via Zoom
-* Date: 16 Feb 2023
-* Time: 3.00pm to 5.00pm
-* Fees: $43.20 (incl. 8% GST)
-* Registration will close when the webinar is fully subscribed.
-* [Registration form](https://form.gov.sg/63c7c8edbef23b00118f6b91)
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
