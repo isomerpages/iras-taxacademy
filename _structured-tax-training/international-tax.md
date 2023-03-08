@@ -11,7 +11,7 @@ breadcrumb: International Tax
 * Sep/Oct 2023 intake: [Stay tuned for more information](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme**
-* Oct 2022 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#wu-ta-id)
+* Oct 2023 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties Programme**
 * Jan 2023 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
@@ -51,13 +51,13 @@ The 8 half-day programme is facilitated by a team of professors from the WU Tran
 
 The programme provides participants with the latest update on international transfer pricing developments, and knowledge and insights to handle transfer pricing issues in specialised industries that are of relevance to the Asia-Pacific region. Workshops will be provided for all topics enabling opportunities for discussions.
 
-Look forward to a new learning experience as we deliver the programme to you via virtual classroom. Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas virtually.
+Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas virtually.
 
-Dates of programme via virtual classroom: 3, 4, 5, 6, 10, 11, 12, 13 Oct 2022 (Each session : 3p.m. to 6p.m. Singapore time)
+Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12, Oct 2023 (Each session : 3p.m. to 6p.m. Singapore time)
 
-[Registration Form](https://go.gov.sg/fgnacs){:target="_blank"} - [Details](/files/executive-tax-programmes/D220002-Tax Academy of Singapore_Brochure_PRINT B.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/fgnacs){:target="_blank"} - [Details](/files/executive-tax-programmes/WU TA Advanced Transfer Pricing Programme 2023.pdf){:target="_blank"}
 
-**Registration is CLOSED for 2022 intake.**
+**Registration is OPEN for 2023 intake.**
 
 <a id="leiden-ta-id"></a>
 ### **International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties**
