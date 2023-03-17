@@ -89,7 +89,7 @@ Students will achieve a high level of understanding in tax and be able to work i
     <td>Programme Admission Requirements</td>
     <td>• Participants have passed Tax Academy’s Income Tax Programme Level 2, have at least 3 years of relevant working experience in taxation, as well as a Bachelor's degree or professional certification (ACCA, CPA)<br>
 			• Admission will be subject to approval by the Academy on a case-by-case basis.<br>
-			• The ATP modules may also be taken individually.  Applications will be considered by the Academy on a case-by-case basis.</td>
+		</td>
   </tr>
   <tr>
     <td>[Accreditation by the Singapore Chartered Tax Professionals](https://sctp.org.sg/)</td>
