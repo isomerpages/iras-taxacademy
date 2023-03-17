@@ -9,7 +9,7 @@ breadcrumb: Terms and Conditions
 
 1.2 All applications for Level 1 and 2 courses are subject to confirmation. Successful applicants will receive an email at least 1 week before the commencement of the course.
 
-1.3 All applications for Level 3 courses are subject to shortlisting. For full programme registration, participants will be notified of their application status, approximately 3-4 weeks before the commencement of the course. 
+1.3 All applications for Level 3 courses are subject to shortlisting. Participants will be notified of their application status, approximately 3-4 weeks before the commencement of the course. 
 
 **2. Attendance**
 
