@@ -74,12 +74,16 @@ Previously, Eugene was based in Hong Kong and China for 11 years before moving t
 Eugene is recognised by leading legal directories such as The Legal 500 Asia Pacific and International Tax Review, with Chambers Asia Pacific noting that “clients prize the practical nature of Eugene Lim’s advice, and particularly appreciate his ability ‘to analyse, find solutions and add value - not just as a legal counsel but as a business consultant too’.” Who’s Who Legal commented that Eugene is the “first port of call” for clients in the trade and customs field. <br>
 
 **Mr Darren Tan Siew Peng** <br>
-Chief Financial Officer <br>
-OCBC Bank <br>
+Chief Investment Officer <br>
+Raffles Medical Group<br>
 
-Mr Darren Tan was appointed Executive Vice President and Chief Financial Officer (CFO) of OCBC Bank (OCBC) in December 2011. As CFO of OCBC, he oversees financial, regulatory and management accounting, tax, treasury financial control, corporate treasury, funding and capital management, corporate planning and development and investor relations. He joined OCBC Bank in March 2007 as Head of Asset Liability Management in Global Treasury and assumed the role of Deputy CFO in May 2011. Prior to joining OCBC, Mr Tan worked for 13 years in the Government of Singapore Investment Corporation (GIC) with his last position in GIC as Head of Money Markets. 
+Mr Tan joined Raffles Medical Group (RMG) in March 2023 as Chief Investment Officer to develop and execute its business and investment strategy.
 
-Mr Tan graduated with First Class Honours in Accountancy from Nanyang Technological University (NTU) and is a Chartered Financial Analyst and a Fellow Chartered Accountant of Singapore. Mr Tan is currently an Adjunct Professor with the Nanyang Business School at NTU and is a Council member of the Institute of Singapore Chartered Accountants (ISCA). Mr Tan was awarded the Singapore Corporate Awards Best CFO in 2017 and FinanceAsia Singapore Best CFO in 2016. 
+Prior to joining RMG, Mr Tan was the Chief Financial Officer (CFO) of OCBC Bank from 2011 to 2022. Mr Tan joined OCBC Bank in 2007 as Head of Asset & Liability in Global Treasury and assumed the role of Deputy CFO in 2011. Before this, Mr Tan worked for 13 years in the Government of Singapore Investment Corporation (GIC) with his last position in GIC as Head of Money Markets. 
+
+Mr Tan serves on the Board of Inland Revenue Authority of Singapore, Tax Academy of Singapore and Singapore Management University’s School of Accountancy. Mr Tan is a Council member of the Institute of Singapore Chartered Accountants and serves as Chairman of its Investment Committee. Mr Tan had previously served on the Boards of OCBC Bank (China), OCBC Bank (Malaysia), Bank of Ningbo (China), Lion Global Investors (Singapore) and MaxWealth Asset Management (China). Mr Tan had also served as a member of the Alumni Advisory Board and Adjunct Professor of Nanyang Business School.
+
+Mr Tan is a Chartered Financial Analyst (CFA) and Fellow Chartered Accountant of Singapore. Mr Tan was named “Best CFO” at FinanceAsia Awards 2016, Singapore Corporate Awards 2017, Corporate Governance Asia 2018 and Corporate Treasurer Awards 2021. Mr Tan graduated with First Class Honours in Accountancy from Nanyang Technological University and is an alumni member of Stanford Graduate Business School.
 
 **Professor Sum Yee Loong** <br>
 Professor of Accounting (Practice) <br>
