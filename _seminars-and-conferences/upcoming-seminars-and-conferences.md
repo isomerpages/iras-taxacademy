@@ -8,15 +8,11 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
-**MARCH**
+**APRIL**
 
-* 16 Mar : [FasTax: GST ASK – A Self-help Tool for GST Compliance](/seminars-and-conferences/upcoming/#16mar-ta-id)
+* 28 Apr : [TaxEdge Series: European Tax Governance and State Aid Law Developments](/seminars-and-conferences/upcoming/#28apr-ta-id)
 
-* 10 Mar : [Budget Clinic: GST Rate Change](/seminars-and-conferences/upcoming/#10mar-ta-id)
-
-* 7 Mar : [FasTax Series: Fundamentals of GST Filing](/seminars-and-conferences/upcoming/#7mar-ta-id)
-
-* 2 Mar : [FasTax Series: Tax Governance and Tax Risk Management](/seminars-and-conferences/upcoming/#2mar-ta-id)
+* 27 Apr : [TaxEdge Series: International Tax Developments: A European Perspective](/seminars-and-conferences/upcoming/#27apr-ta-id)
 
 
 <a id="16mar-ta-id"></a>
