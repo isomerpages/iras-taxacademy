@@ -28,11 +28,11 @@ Please refer to the respective programme brochure for the programme dates.
   </tr>
   <tr>
     <td>GST Programme Level 1 (Intake 1/2023)</td>
-    <td>May 2023 (with e-learning)</td>
+    <td>From 17 to 26 May 2023 (with e-learning)</td>
   </tr>  
   <tr>
     <td>GST Programme Level 1 (Intake 2/2023)</td>
-    <td>Sep 2023 (with e-learning)</td>
+    <td>From 13 Sep to 22 Sep 2023 (with e-learning)</td>
   </tr>  
 	  <tr>
     <td>GST Programme Level 1 (Intake 3/2023)</td>
@@ -44,7 +44,7 @@ Please refer to the respective programme brochure for the programme dates.
   </tr> 
 	<tr>
    <td>International Tax Programme Level 1 (Intake 1/2023)</td>
-    <td>May 2023</td>
+    <td>From 10 to 24 May 2023</td>
   </tr>  
   <tr>
     <td>International Tax Programme Level 1 (Intake 2/2023)</td>
@@ -58,7 +58,7 @@ Please refer to the respective programme brochure for the programme dates.
 <table>
   <tr>
       <td>Income Tax Programme Level 2 (Intake 1/2023)</td>
-      <td>May 2023</td> 
+      <td>From 17 May to 2 Jun 2023</td> 
   </tr>  
   <tr>
       <td>Income Tax Programme Level 2 (Intake 2/2023)</td>
@@ -75,12 +75,12 @@ Please refer to the respective programme brochure for the programme dates.
   <tr>
 		 <td>GST Programme Level 2 (Intake 1/2023)
 		  </td>
-      <td>May 2023</td>
+      <td>From 9 May to 8 Jun 2023</td>
 	</tr>  
   <tr>
 		 <td>GST Programme Level 2 (Intake 2/2023)
 		  </td>
-      <td>Sep 2023</td>
+      <td>From 30 Aug to 27 Sep 2023</td>
   </tr>  
   <tr>
       <td>GST Programme Level 2 (Intake 3/2023)</td>
@@ -106,7 +106,7 @@ Please refer to the respective programme brochure for the programme dates.
  </tr>  
   <tr>
    <td>WU-TA Advanced Transfer Pricing Programme</td>
-    <td>TBC</td>
+    <td>2, 3, 4, 5, 9, 10, 11, 12 Oct 2023</td>
   </tr>  
   <tr>
    <td>Advanced International Tax Planning Programme</td>
