@@ -53,7 +53,7 @@ The programme provides participants with the latest update on international tran
 
 Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas virtually.
 
-Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12, Oct 2023 (Each session : 3p.m. to 6p.m. Singapore time)
+Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12, Oct 2023
 
 [Registration Form](https://go.gov.sg/fgnacs){:target="_blank"} - [Details](/files/executive-tax-programmes/WU TA Advanced Transfer Pricing Programme 2023.pdf){:target="_blank"}
 
