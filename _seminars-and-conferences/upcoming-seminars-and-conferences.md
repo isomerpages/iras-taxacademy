@@ -19,14 +19,14 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **TaxEdge Series: European Tax Governance and State Aid Law Developments**
 **28 Apr | 3.00 p.m. to 5.00 p.m.**
 
-**SAVE THE DATE !  More details coming soon !**
+**SAVE THE DATE !  Stay tuned for more details !**
 
 
 <a id="27apr-ta-id"></a>
 #### **TaxEdge Series: International Tax Developments: A European Perspective**
 **27 Apr | 3.00 p.m. to 5.00 p.m.**
 
-**SAVE THE DATE !  More details coming soon !**
+**SAVE THE DATE ! Stay tuned for More details !**
 
 
 
