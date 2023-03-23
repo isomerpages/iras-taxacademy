@@ -14,7 +14,6 @@ We have tailored programmes for both public and private sector organisations. Yo
 * Cost-efficient for large groups as can save on travel and accommodation expenses
 * Lessons can be delivered via interactive group discussions and case studies
 * Comprehensive training materials will be provided
-* Clock Continuing Professional Education (CPE) hours for relevant topics
 
 To find out more on Customised Programme, please fill up the [FORM](https://form.gov.sg/5ef062461b667a001194317c) and we will get in touch with you shortly.
 
