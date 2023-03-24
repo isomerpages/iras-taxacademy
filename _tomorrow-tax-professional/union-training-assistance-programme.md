@@ -15,7 +15,7 @@ Please visit [e2i’s website](https://e2i.com.sg/individuals/employability/ntuc
 
 \*Unfunded course fee refers to the balance course fee payable after applicable government subsidy. This excludes GST, registration fees, miscellaneous fees, etc.
 
-\**This is only applicable to courses attended between 1 July 2020 to 31 December 2022.
+\**This is only applicable to courses attended between 1 July 2020 to 31 December 2025.
 
 **Courses**
 
