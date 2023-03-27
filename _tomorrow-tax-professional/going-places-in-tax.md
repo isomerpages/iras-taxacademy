@@ -40,7 +40,7 @@ CPA Australia and Tax Academy of Singapore are proud to present you a series of 
 
 **Be Passionate about Tax**<br>
 **Ms Sim Siew Moon**<br>
-**Retired Singapore Tax Partner, Ernst & Young Solutions LLP**
+**Head of Tax, Baker Tilly Singapore**
 
 <div class="bp-youtube">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/9o5CsFuKUzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

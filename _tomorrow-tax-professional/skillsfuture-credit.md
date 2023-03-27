@@ -11,7 +11,7 @@ For more information on SkillsFuture Credit claims, please visit [SkillsFuture S
 
 **Claiming Your SkillsFuture Credit**<br>
 
-You can use your SkillsFuture Credit to pay or offset course fees by applying for claims starting January 2016. Eligible Singaporeans may access their SFC account via [SkillsFuture Singapore Portal](https://www.skillsfuture.gov.sg/credit){:target="_blank"}
+You can use your SkillsFuture Credit to pay or offset course fees by applying for claims starting January 2016. Eligible Singaporeans may access their SFC account via [SkillsFuture Singapore Portal](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture_Credit){:target="_blank"}
 
 **The following courses offered by Tax Academy are eligible for the SkillsFuture Credit claims:**<br>
 
@@ -19,7 +19,6 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 -	Advanced Tax Programme* - TGS-2019507226
 -	GST Level 2* - TGS-2019507223
 -	Advanced GST Programme* - TGS-2019507225
--	International Tax Level 1 - TGS-2019507221
 -	International Tax Level 2 - TGS-2019507224
 -	Leiden – TA Advanced Tax Treaties Programme - TGS-2019507229
 -	WU – TA Advanced Transfer Pricing Programme - TGS-2019507228
@@ -33,7 +32,7 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 - Email the following to Tax Academy within 3 working days from the date of registration: 
   - Full Name (as per NRIC)
   - last 4 digits of your NRIC number including the alphabet
-  - screenshot showing the available skillscredit in your Skillsfuture portal and 
+  - screenshot showing the available Skillsfuture Credit in your Skillsfuture portal and 
   - amount of SkillsFuture Credit to be claimed
 - Tax Academy will issue an invoice reflecting the nett programme fee payable after deducting the SkillsFuture Credit claimable
 - Please make payment within 7 days upon receiving the invoice so that Tax Academy can issue a programme confirmation

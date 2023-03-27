@@ -35,11 +35,11 @@ breadcrumb: Terms and Conditions
 
 **6. Reschedule of exams**
 
-6.1 Rescheduling of exam is subject to approval on a case-by-case basis. Participants should inform the Programme Executive via email and attach the supporting documents (e.g.medical certificate, letter from supervisor or e-ticket for business travel).
+6.1 Rescheduling of exam is subject to approval on a case-by-case basis. Participants should inform the Programme Manager via email and attach the supporting documents (e.g.medical certificate, letter from supervisor or e-ticket for business travel).
 
 6.2 For Level 1 and 2 courses, participants will sit for the exam with the next intake, if the application to reschedule exam is approved.
 
-6.3 For Level 3 courses, the new exam date will be determined by Tax Academy, after the original exam has taken place, if the application is approved.
+6.3 For Level 3 courses, the new exam date will be determined by Tax Academy if the application is approved.
 
 **7. Re-sit of exams**
 
@@ -49,7 +49,7 @@ breadcrumb: Terms and Conditions
 
 **8. Deferment of module**
 
-8.1 Deferment of module to the next intake (applicable to Level 3 courses only) is subject to approval on a case-by-case basis. Participants should write to the Programme Executive at least 2 weeks before the course commencement date.
+8.1 Deferment of module to the next intake (applicable to Level 3 courses only) is subject to approval on a case-by-case basis. Participants should write to the Programme Manager at least 2 weeks before the course commencement date.
 
 **9. Course/Webinar fees**
 
@@ -75,7 +75,7 @@ issued to participants.
 **11. Administrative fee**
 
 11.1 The following requests are subject to an administrative fee of $54.00 (8% GST inclusive) each:
-- Updated set of course materials
+- Purchase of course materials
 - Re-sitting of exam
 - Duplicate hardcopy of Certificate of Achievement (with grading)
 - Deferment of course/module/exams

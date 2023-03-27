@@ -14,7 +14,7 @@ This course provides basic knowledge on the principles and practices of property
 
 [Registration Form](https://form.gov.sg/62d55ae9e2359e0013cdb09a) -  [Details](/files/executive-tax-programmes/Property Tax Level 1 Brochure Updated2.pdf){:target="_blank"}
 
-Registration is CLOSED for intake 1/2022 (Aug 2022 intake)
+Registration is CLOSED for 2022 intake.
 
 
 ### **Programme on Property Tax Valuation**
@@ -23,13 +23,4 @@ This programme provides an appreciation on how the Annual Values for the differe
 are valued or assessed using various valuation methods and the statutorily prescribed
 bases of assessment.
 
-[Registration Form](https://form.gov.sg/632b0d5e634d17001223676f) -  [Details](/files/executive-tax-programmes/Property Tax Valuation Brochure_website.pdf){:target="_blank"}
-
-
-### **Programme on Stamp Duty 101 for Conveyancing Secretaries**
-
-A programme specially designed for conveyancing secretaries.
-
-Join us in this programme on Stamp Duty 101 for Conveyancing Secretaries to gain essential stamp duty knowledge and to acquire insights on e-stamping, common mistakes and errors to avoid.
-
-[Registration Form](https://form.gov.sg/628a1285ebc1f70012e762d7) -  [Details](/files/executive-tax-programmes/Stamp Duty for Conveyancing Secretaires_Brochure v2.pdf){:target="_blank"}
+Registration is CLOSED for 2022 Intake.
