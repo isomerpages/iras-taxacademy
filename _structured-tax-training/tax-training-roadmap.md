@@ -60,11 +60,11 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Programme Admission Requirements</td>
-    <td>• Participants have completed Tax Academy’s Income Tax Programme Level 1 and have 1-2 years of relevant working experience in taxation<br><br>*Participants with more than 5 years of relevant working experience in taxation may be considered on a case-by-case basis for direct admission into the Income Tax Programme Level 2*
+    <td>• Participants have completed Tax Academy’s Income Tax Programme Level 1 and have 1-2 years of relevant working experience in taxation<br><br><em>Participants with more than 5 years of relevant working experience in taxation may be considered on a case-by-case basis for direct admission into the Income Tax Programme Level 2</em>
 			</td>
   </tr>
   <tr>
-    <td>[Accreditation by the Singapore Chartered Tax Professionals](https://sctp.org.sg/)</td>
+    <td><a href="https://sctp.org.sg/">Accreditation by the Singapore Chartered Tax Professionals</a></td>
     <td>• Accredited Tax Practitioner (Provisional)<br>
 			• Accredited Tax Practitioner</td>
   </tr>
@@ -89,11 +89,11 @@ Students will achieve a high level of understanding in tax and be able to work i
   <tr>
     <td>Programme Admission Requirements</td>
     <td>• Participants have passed Tax Academy’s Income Tax Programme Level 2, have at least 3 years of relevant working experience in taxation, as well as a Bachelor's degree or professional certification (ACCA, CPA)<br>
-			• Admission will be subject to approval by the Academy on a case-by-case basis.<br><br>*Participants with more than 8 years of relevant working experience in taxation may be considered on a case-by-case basis for direct admission into the Advanced Tax Programme*
+			• Admission will be subject to approval by the Academy on a case-by-case basis.<br><br><em>Participants with more than 8 years of relevant working experience in taxation may be considered on a case-by-case basis for direct admission into the Advanced Tax Programme</em>
 		</td>
   </tr>
   <tr>
-    <td>[Accreditation by the Singapore Chartered Tax Professionals](https://sctp.org.sg/)</td>
+    <td><a href="https://sctp.org.sg/">Accreditation by the Singapore Chartered Tax Professionals</a></td>
     <td>• Accredited Tax Advisor<br>
 			• Accredited Tax Practitioner</td>
   </tr>
@@ -142,10 +142,11 @@ Students will achieve a high level of understanding in tax and be able to work i
   </tr>
   <tr>
     <td>Programme Admission Requirements</td>
-    <td>• Participants have completed Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation<br><br>*Participants with more than 5 years of relevant working experience in GST may be considered on a case-by-case for direct admission into the GST Programme Level 2*</td>
+    <td>• Participants have completed Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation<br><br><em>Participants with more than 5 years of relevant working experience in GST may be considered on a case-by-case for direct admission into the GST Programme Level 2</em>
+		</td>
   </tr>
   <tr>
-    <td>[Accreditation by the Singapore Chartered Tax Professionals](https://sctp.org.sg/)</td>
+    <td><a href="https://sctp.org.sg/">Accreditation by the Singapore Chartered Tax Professionals</a></td>
     <td>• Accredited Tax Practitioner (Provisional)<br>
          • Accredited Tax Practitioner</td>
   </tr>
@@ -174,7 +175,7 @@ Students will achieve a high level of understanding in tax and be able to work i
 			• The coursework modules may also be taken individually.  Applications will be considered by the Academy on a case-by-case basis.</td>
   </tr>
   <tr>
-    <td>[Accreditation by the Singapore Chartered Tax Professionals](https://sctp.org.sg/)</td>
+    <td><a href="https://sctp.org.sg/">Accreditation by the Singapore Chartered Tax Professionals</a></td>
     <td>• Accredited Tax Advisor</td>
   </tr>
   <tr>
