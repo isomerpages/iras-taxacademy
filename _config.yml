@@ -3,7 +3,6 @@ description: 'Tax Academy of Singapore is a not-for-profit institution set up by
 url: 'https://www.taxacademy.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-resources_name: resources
 colors:
   primary-color: '#033a66'
   secondary-color: '#827546'
