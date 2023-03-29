@@ -53,5 +53,11 @@ Agenda:
 * The European standpoint on Pillar 1
 * Digital Services Taxes in Europe: EU legal implications
 
+**Admin Details:**
+* This webinar will be conducted via Zoom
+* Date: 27 Apr 2023
+* Time: 3pm to 5pm
+* Fees: SGD 43.20 (incl. 8% GST)
+* Registration is on first-come-first served. Registration form will close when webinar is fully subscribed.
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
