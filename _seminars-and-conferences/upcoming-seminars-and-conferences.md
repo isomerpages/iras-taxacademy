@@ -45,9 +45,13 @@ Dr Leopoldo Parada is an Associate Professor in Tax Law and Deputy Director of t
 #### **TaxEdge Series: International Tax Developments: A European Perspective**
 **27 Apr | 3.00 p.m. to 5.00 p.m.**
 
+This webinar provides an analysis on the recent OECD development of Pillar 1 and 2. The speaker will address the details of the recent European Directive on Pillar 2, as well as its implications beyond Europe. In addition, the current debate regarding Pillar 1 and the EU position on this matter would also be covered in the session.
 
-
-
+Agenda:
+* Overview of the OECD Pillars 1 and 2
+* The EU Proposal for a Directive on Pillar 2 (Minimum Taxation)
+* The European standpoint on Pillar 1
+* Digital Services Taxes in Europe: EU legal implications
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
