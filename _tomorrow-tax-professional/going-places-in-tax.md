@@ -16,7 +16,7 @@ CPA Australia and Tax Academy of Singapore are proud to present you a series of 
 
 **Make a Positive Impact in Your Career**<br>
 **Ms Yong Sing Yuan**<br>
-**Tax Director, Inland Revenue Authority of Singapore**
+
  
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/9gzxBNC3U8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
