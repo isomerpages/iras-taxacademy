@@ -34,7 +34,7 @@ Agenda:
 * Time: 3pm to 5pm
 * Fees: SGD 43.20 (incl. 8% GST)
 * Registration is on first-come-first served. Registration form will close when webinar is fully subscribed.
-* [Registration form]()
+* [Registration form](https://form.gov.sg/642254104422e900124bd84a)
 
 
 
