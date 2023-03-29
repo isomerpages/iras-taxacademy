@@ -36,6 +36,8 @@ Agenda:
 * Registration is on first-come-first served. Registration form will close when webinar is fully subscribed.
 * [Registration form](https://form.gov.sg/642254104422e900124bd84a)
 
+**About the Speaker** 
+Dr Leopoldo Parada is an Associate Professor in Tax Law and Deputy Director of the Centre for Business Law and Practice (CBLP) at the University of Leeds in the United Kingdom. He is also an associate fellow at the Jean Monnet Centre of Excellence on Digital Governance (Digov).
 
 
 <a id="27apr-ta-id"></a>
