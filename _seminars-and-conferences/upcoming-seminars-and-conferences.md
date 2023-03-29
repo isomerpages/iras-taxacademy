@@ -19,7 +19,23 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **TaxEdge Series: European Tax Governance and State Aid Law Developments**
 **28 Apr | 3.00 p.m. to 5.00 p.m.**
 
-**SAVE THE DATE !  Stay tuned for more details !**
+This webinar provides a general overview of the European tax governance, as well as to analyse some of the recent landmark cases in the context of State Aid. This includes the cases of FIAT, Apple, and Amazon, covering both the implications within and outside Europe.
+
+Agenda:
+* EU law and the role of EU directives 
+* How EU directives are enacted in tax matters
+* How directives interact with member states’ domestic laws
+* Overview of EU State Aid Law
+* Analysis of the main recent cases on State Aid (Apple, Amazon, and FIAT)
+
+**Admin Details:**
+* This webinar will be conducted via Zoom
+* Date: 28 Apr 2023
+* Time: 3pm to 5pm
+* Fees: SGD 43.20 (incl. 8% GST)
+* Registration is on first-come-first served. Registration form will close when webinar is fully subscribed.
+* [Registration form]()
+
 
 
 <a id="27apr-ta-id"></a>
