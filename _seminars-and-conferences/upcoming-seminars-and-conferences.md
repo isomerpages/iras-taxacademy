@@ -59,5 +59,7 @@ Agenda:
 * Time: 3pm to 5pm
 * Fees: SGD 43.20 (incl. 8% GST)
 * Registration is on first-come-first served. Registration form will close when webinar is fully subscribed.
+* [Registration form](https://form.gov.sg/64224ecbf714450012c79b25)
+
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
