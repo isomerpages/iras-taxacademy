@@ -45,7 +45,7 @@ Dr Leopoldo Parada is an Associate Professor in Tax Law and Deputy Director of t
 #### **TaxEdge Series: International Tax Developments: A European Perspective**
 **27 Apr | 3.00 p.m. to 5.00 p.m.**
 
-**SAVE THE DATE ! Stay tuned for More details !**
+
 
 
 
