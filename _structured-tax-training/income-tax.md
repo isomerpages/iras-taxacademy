@@ -10,7 +10,7 @@ breadcrumb: Income Tax
 
 ##### **Income Tax Programme Level 2**
 
-* Jan 2023 intake: [Registration is CLOSED](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* May 2023 intake: [Registration is OPEN](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 ##### **Income Tax Programme Level 3**
 * Intake 1/2023 (April 2023 to March 2024): [Registration is CLOSED](/executive-tax-programmes/income-tax/#atp-ta-id)
@@ -44,7 +44,7 @@ The next intake for this course will be in Jul 2023. Registration will be availa
 <a id="atp-ta-id"></a>
 ### **Income Tax Programme Level 3 : Advanced Tax Programme**
 
-The Advanced Tax Programme (ATP) is the foremost training programme for tax professionals. It offers rigorous training on a wide range of core subjects covering: Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax Planning and Goods and Services Tax. The elective component offers modules on Regional (China & India) and US Tax, Tax Incentives, Tax Fraud and Investigation, and Stamp Duty.
+The Advanced Tax Programme (ATP) is the foremost training programme for tax professionals. It offers rigorous training on a wide range of core subjects covering: Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax Planning and Goods and Services Tax. The elective component offers modules on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and Investigation, and Stamp Duty.
 
 **Intake 1/2023, April 2023 to March 2024:**
 
