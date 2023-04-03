@@ -5,3 +5,6 @@ description: ""
 ---
 ##### **UPCOMING PROGRAMMES**
 
+
+### **Accounting Standards and Tax Adjustments (Intake 2023)**
+
