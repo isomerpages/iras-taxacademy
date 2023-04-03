@@ -10,7 +10,7 @@ breadcrumb: Income Tax
 
 ##### **Income Tax Programme Level 2**
 
-* Jan 2023 intake: [Registration is CLOSED](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* May 2023 intake: [Registration is CLOSED](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 ##### **Income Tax Programme Level 3**
 * Intake 1/2023 (April 2023 to March 2024): [Registration is CLOSED](/executive-tax-programmes/income-tax/#atp-ta-id)
@@ -35,7 +35,7 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Registration Form](https://form.gov.sg/62df57bfff86280013a6bbc5){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/L2 IT 3 2022 course brochure.pdf){:target="_blank"} 
+[Registration Form](https://form.gov.sg/641188164d531c001137b854){:target="_blank"} - [Details](/files/executive-tax-programmes/l2 it 1 2023 course brochure.pdf){:target="_blank"} 
 
 Registration is CLOSED.  
 
@@ -44,7 +44,7 @@ The next intake for this course will be in Jul 2023. Registration will be availa
 <a id="atp-ta-id"></a>
 ### **Income Tax Programme Level 3 : Advanced Tax Programme**
 
-The Advanced Tax Programme (ATP) is the foremost training programme for tax professionals. It offers rigorous training on a wide range of core subjects covering: Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax Planning and Goods and Services Tax. The elective component offers modules on Regional (China & India) and US Tax, Tax Incentives, Tax Fraud and Investigation, and Stamp Duty.
+The Advanced Tax Programme (ATP) is the foremost training programme for tax professionals. It offers rigorous training on a wide range of core subjects covering: Tax Policy, Legal Framework, Singapore Individual and Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax Planning and Goods and Services Tax. The elective component offers modules on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and Investigation, and Stamp Duty.
 
 **Intake 1/2023, April 2023 to March 2024:**
 
