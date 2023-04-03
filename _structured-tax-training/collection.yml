@@ -2,6 +2,7 @@ collections:
   structured-tax-training:
     output: true
     order:
+      - Other Tax Related Programmes.md
       - tax-training-roadmap.md
       - programme-calendar.md
       - income-tax.md
