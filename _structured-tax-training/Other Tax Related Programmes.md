@@ -10,4 +10,4 @@ description: ""
 
 Join us in this workshop if you would like to learn about the impact of financial accounting on tax computations. This workshop will be facilitated by Mr Khoo Teng Aun, Former Associate Professor of Accounting at Singapore Management University.
 
-[Registration Form](https://form.gov.sg/642271cdb69f6400120014f5) -  [Details](/files/executive-tax-programmes/Property Tax Level 1 Brochure Updated2.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/642271cdb69f6400120014f5) -  [Details](/files/executive-tax-programmes/accounting standards and tax adjustments programme brochure.pdf){:target="_blank"}
