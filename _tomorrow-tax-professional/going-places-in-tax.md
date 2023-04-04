@@ -8,18 +8,18 @@ CPA Australia and Tax Academy of Singapore are proud to present you a series of 
 
 **Unlock Your Potential for a Global Career in Tax**<br>
 **Ms Sharon Tan**<br>
-**International Tax Partner, Deloitte & Touche LLP**
+**International Tax Partner, Deloitte &amp; Touche LLP**
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/QpO_yCXvtR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/QpO_yCXvtR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
       </div>
 
 **Make a Positive Impact in Your Career**<br>
 **Ms Yong Sing Yuan**<br>
-
+**Partner, Transfer Pricing Consulting, KPMG**
  
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/9gzxBNC3U8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/9gzxBNC3U8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
       </div>
 
 **Tax Career Opens Door to a Wealth of Opportunities**<br>
@@ -27,7 +27,7 @@ CPA Australia and Tax Academy of Singapore are proud to present you a series of 
 **Tax Partner, Deloitte Singapore**
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/QSfY13ArG1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/QSfY13ArG1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
       </div>
 
 **How do You Build a Career in Tax?**<br>
@@ -35,7 +35,7 @@ CPA Australia and Tax Academy of Singapore are proud to present you a series of 
 **Tax Partner, PricewaterhouseCoopers Singapore Pte Ltd**
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/NeoiQmAx9LE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/NeoiQmAx9LE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
       </div>
 
 **Be Passionate about Tax**<br>
@@ -43,5 +43,5 @@ CPA Australia and Tax Academy of Singapore are proud to present you a series of 
 **Head of Tax, Baker Tilly Singapore**
 
 <div class="bp-youtube">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/9o5CsFuKUzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/9o5CsFuKUzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
       </div>
