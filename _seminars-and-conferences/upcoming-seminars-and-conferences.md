@@ -8,11 +8,23 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 
+**MAY**
+
+* 3 May : [Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs](/seminars-and-conferences/upcoming/#3may-ta-id)
+
 **APRIL**
 
 * 28 Apr : [TaxEdge Series: European Tax Governance and State Aid Law Developments](/seminars-and-conferences/upcoming/#28apr-ta-id)
 
 * 27 Apr : [TaxEdge Series: International Tax Developments: A European Perspective](/seminars-and-conferences/upcoming/#27apr-ta-id)
+
+
+<a id="3may-ta-id"></a>
+#### **Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs**
+**3 May | 10.00 a.m. to 12.00 p.m.**
+
+Join us in this webinar where speakers from IRAS will share with you on tax measures announced in the Singapore Budget 2023, particularly those benefiting the SMEs such as the Enterprise Innovation Scheme.
+
 
 
 <a id="28apr-ta-id"></a>
