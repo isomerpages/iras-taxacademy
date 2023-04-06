@@ -37,7 +37,7 @@ Admin Details:
 * Time: 10am to 12pm
 * Fees: SGD 43.20 (incl. 8% GST)
 * Registration is on first-come-first served. Registration form will close when webinar is fully subscribed.
-* [Registration form](https://form.gov.sg/642254104422e900124bd84a)
+* [Registration form](https://form.gov.sg/64226ff887c4320012880570)
 
 
 <a id="28apr-ta-id"></a>
