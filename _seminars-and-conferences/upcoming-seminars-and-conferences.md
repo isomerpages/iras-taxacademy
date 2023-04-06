@@ -25,6 +25,13 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Join us in this webinar where speakers from IRAS will share with you on tax measures announced in the Singapore Budget 2023, particularly those benefiting the SMEs such as the Enterprise Innovation Scheme.
 
+Tax measures covered during the webinar include:
+* Enterprise Innovation Scheme
+* Enhancement of the Double Tax Deduction for Internationalisation Scheme
+* Option to accelerate the write-off of the cost of acquiring plant and machinery
+* Option to accelerate the deduction of renovation or refurbishment expenditure
+
+
 
 
 <a id="28apr-ta-id"></a>
