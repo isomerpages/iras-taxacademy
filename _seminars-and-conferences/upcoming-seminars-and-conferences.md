@@ -36,7 +36,14 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 6. Filing and paying withholding tax
 7. Penalties for late payment/recovery actions
 
+**Admin details**
 
+* The webinar will be conducted via Zoom
+* Date: 8 May 2023
+* Time: 3pm to 5pm
+* Fees: SGD 43.20 (incl. GST)
+* Registration is on first-come-first serve basis and will close when the webinar is fully subscribed.
+* [Registration form](https://form.gov.sg/642275524422e90012527efe)
 
 <a id="3may-ta-id"></a>
 #### **Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs**
