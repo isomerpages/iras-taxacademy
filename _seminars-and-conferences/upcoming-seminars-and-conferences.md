@@ -10,6 +10,8 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **MAY**
 
+* 8 May : [FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#8May-ta-id)
+
 * 3 May : [Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs](/seminars-and-conferences/upcoming/#3may-ta-id)
 
 **APRIL**
@@ -17,6 +19,23 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 28 Apr : [TaxEdge Series: European Tax Governance and State Aid Law Developments](/seminars-and-conferences/upcoming/#28apr-ta-id)
 
 * 27 Apr : [TaxEdge Series: International Tax Developments: A European Perspective](/seminars-and-conferences/upcoming/#27apr-ta-id)
+
+
+<a id="8may-ta-id"></a>
+#### **FasTax Series: Fundamentals of Withholding Tax**
+**8 May | 3.00 p.m. to 5.00 p.m.**
+
+**In this webinar, participants will learn:**
+1. Basics of Singapore withholding tax, including charging section, deemed source provisions and withholding tax rates
+2. Common payments subject to withholding tax, including the following:
+- Interest and other payments in connection with loan or indebtedness
+- Royalties, technical fees, management fees, rent or other payments for the use of moveable property and technical fees
+3. Common exemptions from withholding tax under the Income Tax Act
+4. Tax treaty considerations where Singapore has a tax treaty with the country that the non-resident recipient is resident in
+5. Date of payment for withholding tax purposes
+6. Filing and paying withholding tax
+7. Penalties for late payment/recovery actions
+
 
 
 <a id="3may-ta-id"></a>
