@@ -45,6 +45,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * Registration is on first-come-first serve basis and will close when the webinar is fully subscribed.
 * [Registration form](https://form.gov.sg/642275524422e90012527efe)
 
+**About the Speaker**
+
+Mr Larry Low is a Partner in the Business Tax practice of Deloitte Singapore. He has more than 19 years of experience in tax compliance and tax consulting, and has served both local and multinational corporations in various sectors such as manufacturing and trading, fund management, shipping, aircraft leasing and consumer products.
+
 <a id="3may-ta-id"></a>
 #### **Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs**
 **3 May | 10.00 a.m. to 12.00 p.m.**
