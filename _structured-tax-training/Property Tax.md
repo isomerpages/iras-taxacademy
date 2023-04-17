@@ -23,4 +23,6 @@ This programme provides an appreciation on how the Annual Values for the differe
 are valued or assessed using various valuation methods and the statutorily prescribed
 bases of assessment.
 
-Registration is CLOSED for 2022 Intake.
+[Registration Form](https://form.gov.sg/64391a89005a840011056aaf) -  [Details](/files/executive-tax-programmes/){:target="_blank"}
+
+Registration is OPEN for 2023 Intake.
