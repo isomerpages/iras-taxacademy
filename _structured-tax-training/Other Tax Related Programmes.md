@@ -1,6 +1,6 @@
 ---
 title: Other Tax Related Programmes
-permalink: /structured-tax-training/permalink/
+permalink: /structured-tax-training/other-tax-related-programmes/
 description: ""
 ---
 ##### **UPCOMING PROGRAMMES**

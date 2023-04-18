@@ -1,6 +1,6 @@
 ---
 title: Property Tax
-permalink: /structured-tax-training/permalink/
+permalink: /structured-tax-training/property-tax/
 description: ""
 ---
 ##### **UPCOMING PROGRAMMES**
