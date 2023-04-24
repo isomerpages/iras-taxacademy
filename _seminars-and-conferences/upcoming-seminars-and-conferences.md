@@ -21,7 +21,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 27 Apr : [TaxEdge Series: International Tax Developments: A European Perspective](/seminars-and-conferences/upcoming/#27apr-ta-id)
 
 
-<a name="8may-ta-id"></a>
+<a id="8may-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**
 **8 May | 3.00 p.m. to 5.00 p.m.**
 
