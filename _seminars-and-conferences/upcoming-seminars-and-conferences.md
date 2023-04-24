@@ -10,7 +10,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **MAY**
 
-* 8 May : [FasTax Series: Fundamentals of Withholding Tax](#8May-ta-id)
+* 8 May : [FasTax Series: Fundamentals of Withholding Tax](#8may-ta-id)
 
 * 3 May : [Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs](/seminars-and-conferences/upcoming/#3may-ta-id)
 
