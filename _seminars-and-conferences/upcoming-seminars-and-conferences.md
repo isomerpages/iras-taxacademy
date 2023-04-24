@@ -16,9 +16,9 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **APRIL**
 
-* 28 Apr : [TaxEdge Series: European Tax Governance and State Aid Law Developments](/seminars-and-conferences/upcoming/#28apr-ta-id)
+* 28 Apr : [TaxEdge Series: European Tax Governance and State Aid Law Developments](#28apr-ta-id)
 
-* 27 Apr : [TaxEdge Series: International Tax Developments: A European Perspective](/seminars-and-conferences/upcoming/#27apr-ta-id)
+* 27 Apr : [TaxEdge Series: International Tax Developments: A European Perspective](#27apr-ta-id)
 
 
 <a id="8may-ta-id"></a>
