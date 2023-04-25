@@ -10,15 +10,15 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **MAY**
 
-* 8 May : [FasTax Series: Fundamentals of Withholding Tax](/seminars-and-conferences/upcoming/#8May-ta-id)
+* 8 May : [FasTax Series: Fundamentals of Withholding Tax](#8may-ta-id)
 
 * 3 May : [Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs](/seminars-and-conferences/upcoming/#3may-ta-id)
 
 **APRIL**
 
-* 28 Apr : [TaxEdge Series: European Tax Governance and State Aid Law Developments](/seminars-and-conferences/upcoming/#28apr-ta-id)
+* 28 Apr : [TaxEdge Series: European Tax Governance and State Aid Law Developments](#28apr-ta-id)
 
-* 27 Apr : [TaxEdge Series: International Tax Developments: A European Perspective](/seminars-and-conferences/upcoming/#27apr-ta-id)
+* 27 Apr : [TaxEdge Series: International Tax Developments: A European Perspective](#27apr-ta-id)
 
 
 <a id="8may-ta-id"></a>
