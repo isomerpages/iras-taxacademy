@@ -8,3 +8,4 @@ Tax Academy provides a research grant of up to SGD7,500 for accepted research pr
 Tax Academy invites submissions for,
 -	AI & It’s Impact on Tax
 -	Digital Economy & Tax
+-	BEPS 2.0
