@@ -19,6 +19,11 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 3 May : [Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs](/seminars-and-conferences/upcoming/#3may-ta-id)
 
+<a id="21jun-ta-id"></a>
+#### **FasTax Series: Fundamentals of Withholding Tax**
+**21 June | 3.00 p.m. to 5.00 p.m.**
+
+
 
 <a id="8jun-ta-id"></a>
 #### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
