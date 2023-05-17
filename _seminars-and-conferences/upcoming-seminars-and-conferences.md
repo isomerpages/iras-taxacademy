@@ -25,6 +25,11 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **Law 101 for Tax Professionals: An introduction to Patents, Registered Designs and Trademarks**
 **27 June | 3.00 p.m. to 5.00 p.m.**
 
+In this webinar, we will cover:
+* Introduction to Patents, Registered Designs and Trademarks
+* How to obtain such IP rights
+* Managing such IP rights
+* Enforcement
 
 
 
