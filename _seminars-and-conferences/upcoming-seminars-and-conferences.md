@@ -23,7 +23,25 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **FasTax Series: Fundamentals of Withholding Tax**
 **21 June | 3.00 p.m. to 5.00 p.m.**
 
+**In this webinar, participants will learn:**
+1. Basics of Singapore withholding tax, including charging section, deemed source provisions and withholding tax rates
+2. Common payments subject to withholding tax, including the following:
+- Interest and other payments in connection with loan or indebtedness
+- Royalties, technical fees, management fees, rent or other payments for the use of moveable property and technical fees
+3. Common exemptions from withholding tax under the Income Tax Act
+4. Tax treaty considerations where Singapore has a tax treaty with the country that the non-resident recipient is resident in
+5. Date of payment for withholding tax purposes
+6. Filing and paying withholding tax
+7. Penalties for late payment/recovery actions
 
+**Admin details:**
+
+*   The webinar will be conducted via Zoom
+*   Date: 21 Jun 2023
+*   Time: 3.00pm to 5.00pm
+*   Fees: SGD 43.20 (incl. GST)
+*   Registration is on first-come-first served
+*   [Registration form](https://form.gov.sg/645cbf441a3d9500125a9973)
 
 <a id="8jun-ta-id"></a>
 #### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
