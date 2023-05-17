@@ -9,6 +9,8 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **JUNE**
 
+* 27 Jun : [Law 101 for Tax Professionals: An introduction to Patents, Registered Designs and Trademarks](#27jun-ta-id)
+
 * 21 Jun : [FasTax Series:Fundamentals of Withholding Tax](#21jun-ta-id)
 
 * 8 Jun : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](#8jun-ta-id)
@@ -18,6 +20,13 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 8 May : [FasTax Series: Fundamentals of Withholding Tax](#8may-ta-id)
 
 * 3 May : [Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs](/seminars-and-conferences/upcoming/#3may-ta-id)
+
+<a id="27jun-ta-id"></a>
+#### **Law 101 for Tax Professionals: An introduction to Patents, Registered Designs and Trademarks**
+**27 June | 3.00 p.m. to 5.00 p.m.**
+
+
+
 
 <a id="21jun-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**
