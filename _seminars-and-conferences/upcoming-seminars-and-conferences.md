@@ -7,6 +7,9 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**JUNE**
+
+* 8 Jun : [FasTax Series: FasTax Series: GST ASK – A Self-help Tool for GST Compliance](#8jun-ta-id)
 
 **MAY**
 
@@ -14,6 +17,21 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 3 May : [Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs](/seminars-and-conferences/upcoming/#3may-ta-id)
 
+
+<a id="8jun-ta-id"></a>
+#### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
+**8 June | 2.00 p.m. to 5.00 p.m.**
+
+This webinar will feature practical examples illustrating the use of Assisted Self-help Kit (ASK) for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
+
+**Admin details:**
+
+*   The webinar will be conducted via Zoom
+*   Date: 8 Jun 2023
+*   Time: 2.00pm to 5.00pm
+*   Fees: SGD 70.20 (incl. GST)
+*   Registration is on first-come-first served
+*   [Registration form](https://form.gov.sg/645cb60bb2c6d50013986e66)
 
 <a id="8may-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**
