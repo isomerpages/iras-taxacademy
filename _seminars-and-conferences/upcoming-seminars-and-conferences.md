@@ -43,6 +43,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 *   Registration is on first-come-first served
 *   [Registration form](https://form.gov.sg/645cbf441a3d9500125a9973)
 
+
 <a id="8jun-ta-id"></a>
 #### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
 **8 June | 2.00 p.m. to 5.00 p.m.**
@@ -57,6 +58,7 @@ This webinar will feature practical examples illustrating the use of Assisted Se
 *   Fees: SGD 70.20 (incl. GST)
 *   Registration is on first-come-first served
 *   [Registration form](https://form.gov.sg/645cb60bb2c6d50013986e66)
+
 
 <a id="8may-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**
@@ -85,6 +87,7 @@ This webinar will feature practical examples illustrating the use of Assisted Se
 **About the Speaker**
 
 Mr Larry Low is a Partner in the Business Tax practice of Deloitte Singapore. He has more than 19 years of experience in tax compliance and tax consulting, and has served both local and multinational corporations in various sectors such as manufacturing and trading, fund management, shipping, aircraft leasing and consumer products.
+
 
 <a id="3may-ta-id"></a>
 #### **Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs**
