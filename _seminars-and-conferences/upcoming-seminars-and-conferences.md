@@ -40,6 +40,11 @@ In this webinar, we will cover:
 *   Registration is on first-come-first served
 *   [Registration form](https://form.gov.sg/645ccbb1337d54001251f88e)
 
+**About the speaker**
+
+**Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
+
+
 <a id="21jun-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**
 **21 June | 3.00 p.m. to 5.00 p.m.**
