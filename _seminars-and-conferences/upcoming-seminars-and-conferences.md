@@ -30,8 +30,15 @@ In this webinar, we will cover:
 * How to obtain such IP rights
 * Managing such IP rights
 * Enforcement
+ 
+**Admin details:**
 
-
+*   The webinar will be conducted via Zoom
+*   Date: 27 Jun 2023
+*   Time: 3.00pm to 5.00pm
+*   Fees: SGD 43.20 (incl. GST)
+*   Registration is on first-come-first served
+*   [Registration form](https://form.gov.sg/645ccbb1337d54001251f88e)
 
 <a id="21jun-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**
