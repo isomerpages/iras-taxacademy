@@ -25,18 +25,32 @@ Ms Tan Shet Ni is a Senior Tax Specialist in the Corporate Tax Division of IRAS.
 Assistant Commissioner <br>
 Corporate Tax Division, IRAS <br>
 
-To be added.
-
 
 **Mr Tay Ang SIm** <br>
 Group Tax Specialist <br>
 Corporate Tax Division, IRAS <br>
 
-To be added.
 
 #### **Session 2 on 27 June 2023**
 
-Speakers bios to be confirmed.
+**Mr Harvey Koenig** <br>
+Tax Partner <br>
+KPMG Singapore <br>
+
+
+**Ms Rebecca Liang** <br>
+Tax Specialist <br>
+Corporate Tax Division, IRAS <br>
+
+
+**Ms Leow Lay Hwa** <br>
+Tax Director <br>
+Corporate Tax Division, IRAS <br>
+
+
+**Ms Karen Goh** <br>
+Group Tax Specialist <br>
+Corporate Tax Division, IRAS <br>
 
 
 #### **Session 3 on 27 July 2023**
@@ -50,3 +64,7 @@ Deloitte Singapore <br>
 Ms Liew Li Mei leads the International Tax service line in Singapore. She is a Tax Partner at Deloitte Singapore, and an Accredited Tax Advisor (Income Tax) with the Singapore Chartered Tax Professionals. She has more than 22 years of experience serving multinational, local and Singapore listed companies in various industries on Singapore corporate income tax matters.
 
 She is well versed in Singapore income tax law and practice and provides advisory on a wide range of issues including cross-border taxation, double tax treaties, BEPS, MLI, Permanent Establishment. Li Mei graduated with a Bachelor of Commerce from Bond University in Australia and is a member of both CPA Australia and the Malaysian Institute of Accountants.
+
+**Ms Stella Tay** <br>
+Manager <br>
+Corporate Tax Division, IRAS <br>
