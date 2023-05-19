@@ -28,3 +28,6 @@ Speakers bios to be confirmed.
 
 #### **Session 3 on 27 July 2023**
 
+s Liew Li Mei leads the International Tax service line in Singapore. She is a Tax Partner at Deloitte Singapore, and an Accredited Tax Advisor (Income Tax) with the Singapore Chartered Tax Professionals. She has more than 22 years of experience serving multinational, local and Singapore listed companies in various industries on Singapore corporate income tax matters.
+
+She is well versed in Singapore income tax law and practice and provides advisory on a wide range of issues including cross-border taxation, double tax treaties, BEPS, MLI, Permanent Establishment. Li Mei graduated with a Bachelor of Commerce from Bond University in Australia and is a member of both CPA Australia and the Malaysian Institute of Accountants.
