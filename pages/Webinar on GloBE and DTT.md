@@ -1,8 +1,10 @@
 ---
-title: Webinar on GloBE and DTT (About the Speakers and Panellists)
+title: Webinar on GloBE and DTT
 permalink: /about-the-speakers/
 description: ""
 ---
+### **About The Speakers And Panellists**
+
 #### **Session 1 on 23 June 2023**
 
 
