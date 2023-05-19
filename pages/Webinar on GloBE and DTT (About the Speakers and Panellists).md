@@ -68,3 +68,11 @@ She is well versed in Singapore income tax law and practice and provides advisor
 **Ms Stella Tay** <br>
 Manager <br>
 Corporate Tax Division, IRAS <br>
+
+**Ms Joanne Tan** <br>
+Tax Director <br>
+Corporate Tax Division, IRAS <br>
+
+**Ms Wong Chew Lee** <br>
+Group Tax Specialist <br>
+Corporate Tax Division, IRAS <br>
