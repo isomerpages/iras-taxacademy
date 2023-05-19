@@ -19,7 +19,7 @@ Allen has extensive experience advising on both international and local/regional
 Senior Tax Specialist <br>
 Corporate Tax Division, IRAS <br>
 
-Shet Ni is a Senior Tax Specialist in the Corporate Tax Division of IRAS. She is currently with a team that looks into implementing Pillar 2 taxes in Singapore. Shet Ni has over 12 years of experience in Corporate Tax. She is also one of the trainers for the Singapore Taxation module of the CPA Program, conducted jointly by CPA Australia and the Tax Academy of Singapore.
+Ms Tan Shet Ni is a Senior Tax Specialist in the Corporate Tax Division of IRAS. She is currently with a team that looks into implementing Pillar 2 taxes in Singapore. Shet Ni has over 12 years of experience in Corporate Tax. She is also one of the trainers for the Singapore Taxation module of the CPA Program, conducted jointly by CPA Australia and the Tax Academy of Singapore.
 
 #### **Session 2 on 27 June 2023**
 
