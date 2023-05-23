@@ -38,7 +38,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 [Waiting List Form]
 (https://form.gov.sg/646c2870df92fa0012787eab){:target="_blank"} - [Details](/files/executive-tax-programmes/L2IT22023coursebrochure.pdf) {:target="_blank"} 
 
-Registration is OPEN.  
+Registration is CLOSED.  
 
 The next intake for this course will be in Sep 2023. Registration will be available six to eight weeks prior to the course commencement date.
 
