@@ -47,7 +47,7 @@ Please note that all applications will be subjected to short-listing. Participan
 
 Registration may be for the full course or for specific modules. For the full course, participants will have to complete three modules and one research paper over a ten-month period.
 
-[Registration Form - Full Programme](https://form.gov.sg/64705e8f2306170012a4a722){:target="_blank"} - [Registration Form - Modular](https://form.gov.sg/64705a9f251701001295f82b){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/adv GST (2023-24) Info Package_final.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/adv GST (2023-24) Schedule.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form - Full Programme](https://form.gov.sg/64705e8f2306170012a4a722){:target="_blank"} - [Registration Form - Modular](https://form.gov.sg/64705a9f251701001295f82b){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/adv gst (2023-24) info package\_final.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/adv gst (2023-24) schedule.pdf" | absolute_url }}){:target="_blank"}
 
 Registration will close on 26 June 2023.
 
