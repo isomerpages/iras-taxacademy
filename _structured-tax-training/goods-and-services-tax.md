@@ -10,6 +10,8 @@ breadcrumb: Goods and Services Tax
 ##### **GST Programme Level 2**
 * May 2023 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
+##### **GST Programme Level 3**
+* Advanced GST Programme 2023/24: [Registration is now OPEN](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
 
 <a id="etp1gst-ta-id"></a>
 ### **GST Programme Level 1**
@@ -45,10 +47,9 @@ Please note that all applications will be subjected to short-listing. Participan
 
 Registration may be for the full course or for specific modules. For the full course, participants will have to complete three modules and one research paper over a ten-month period.
 
-[Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLSeSs-gHSMLzE5jSiH7A5xauZVrLOqpmb760XA3BS3FST9qbCg/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSddGUOU-rBhQWCsECNSxLz1jPwBdvdzMkqOj0XFlb-dgS8D5Q/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/Adv GST (2020-21) Info Package_v2.0.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/Adv GST (2020-21) schedule_v1.0.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLSeSs-gHSMLzE5jSiH7A5xauZVrLOqpmb760XA3BS3FST9qbCg/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSddGUOU-rBhQWCsECNSxLz1jPwBdvdzMkqOj0XFlb-dgS8D5Q/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/Adv GST (2023-24) Info Package_final.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/Adv GST (2023-24) Schedule.pdf" | absolute_url }}){:target="_blank"}
 
-Registration is CLOSED for Intake 2020/21.
+Registration will close on 26 June 2023.
 
-This programme is currently under review. Details will be available in May 2023 and registration will commence in Jun 2023.
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
