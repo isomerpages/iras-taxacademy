@@ -49,7 +49,7 @@ Registration may be for the full course or for specific modules. For the full co
 
 [Registration Form - Full Programme](https://form.gov.sg/64705e8f2306170012a4a722){:target="_blank"} - [Registration Form - Modular](https://form.gov.sg/64705a9f251701001295f82b){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/adv gst (2023-24) info package_final.pdf){:target="_blank"} - [Schedule](/files/executive-tax-programmes/income-tax/adv gst (2023-24) schedule.pdf){:target="_blank"}
 
-Registration will close on 26 June 2023.
+Registration will close on 23 June 2023.
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
