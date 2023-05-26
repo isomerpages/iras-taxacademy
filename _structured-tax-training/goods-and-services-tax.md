@@ -47,7 +47,7 @@ Please note that all applications will be subjected to short-listing. Participan
 
 Registration may be for the full course or for specific modules. For the full course, participants will have to complete three modules and one research paper over a ten-month period.
 
-[Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLSeSs-gHSMLzE5jSiH7A5xauZVrLOqpmb760XA3BS3FST9qbCg/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSddGUOU-rBhQWCsECNSxLz1jPwBdvdzMkqOj0XFlb-dgS8D5Q/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/Adv GST (2023-24) Info Package_final.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/Adv GST (2023-24) Schedule.pdf" | absolute_url }}){:target="_blank"}
+[Registration Form - Full Programme](https://docs.google.com/forms/d/e/1FAIpQLSeSs-gHSMLzE5jSiH7A5xauZVrLOqpmb760XA3BS3FST9qbCg/viewform?usp=sf_link){:target="_blank"} - [Registration Form - Modular](https://docs.google.com/forms/d/e/1FAIpQLSddGUOU-rBhQWCsECNSxLz1jPwBdvdzMkqOj0XFlb-dgS8D5Q/viewform?usp=sf_link){:target="_blank"} - [Details]({{"/files/executive-tax-programmes/income-tax/adv GST (2023-24) Info Package_final.pdf" | absolute_url }}){:target="_blank"} - [Schedule]({{"/files/executive-tax-programmes/income-tax/adv GST (2023-24) Schedule.pdf" | absolute_url }}){:target="_blank"}
 
 Registration will close on 26 June 2023.
 
