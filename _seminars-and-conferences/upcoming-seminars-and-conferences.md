@@ -70,7 +70,7 @@ In this webinar, we will cover:
 *   [Registration form](https://form.gov.sg/645cbf441a3d9500125a9973)
 
 
-<a id="8jun-ta-id"></a>
+<a id="15jun-ta-id"></a>
 #### **Law 101 for Tax Professionals: Employment Law**
 **15 June | 3.00 p.m. to 5.00 p.m.**
 
