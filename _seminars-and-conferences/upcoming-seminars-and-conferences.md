@@ -72,6 +72,49 @@ In this webinar, we will cover:
 
 
 <a id="8jun-ta-id"></a>
+#### **Law 101 for Tax Professionals: Employment Law**
+**15 June | 3.00 p.m. to 5.00 p.m.**
+
+**This webinar will cover:**
+
+Hiring of employees:
+* An introduction into the requirements that employers should keep in mind when hiring employees in Singapore.
+ 
+Managing employees:
+* A brief discussion on the common issues that arise during an employment relationship, including performance issues and misconduct.
+ 
+Termination of employment:
+* An introduction on how an employer should go about terminating the employment of an employee in Singapore. 
+ 
+Tax applications in the employment context - common issues that arise:
+* Labelling termination payments as "ex-gratia" or "severance"
+* Issues relating to employees working remotel
+
+**Admin details:**
+
+*   The webinar will be conducted via Zoom
+*   Date: 15 Jun 2023
+*   Time: 3.00pm to 5.00pm
+*   Fees: SGD 40.20 (incl. GST)
+*   Registration is on first-come-first served
+*   [Registration form](https://form.gov.sg/6470934f6e3d810011fe206a)
+
+**About the Speakers**
+
+Ms Wenyu Wu <br>
+Senior Associate <br>
+Baker McKenzie Wong &amp; Leow
+
+Wenyu provides strategic tax advice to multinational corporations (MNCs) and Singapore-headquartered companies in various industries, and has experience in advising clients on a wide range of cross-border transactions including mergers and acquisitions, internal reorganizations, IP migration, supply chain restructurings, join-ventures, and foreign direct investment. Wenyu also advises High Net Worth (HNW) individuals and families on their tax and wealth management issues, with a special focus on Chinese clients. Wenyu's practice focuses on tax advisory for both MNCs and HNW individuals, with a special focus on Chinese clients.
+
+Ms Esther Pang <br>
+Associate <br>
+Baker McKenzie Wong &amp; Leow
+
+Esther is an associate in the Employment Practice Group at Baker McKenzie's Singapore office. She specialises in employment and immigration issues in Singapore. She assist clients with all aspects of employment law from the start of an employment relationship through to the termination of employment, and other employee management issues in between. Esther's experience includes negotiating employment and separation agreements, reviewing of employee policies and cash/equity incentive plans, handling employment issues arising from restructuring or mergers and acquisitions as well as employee performance issues.
+
+
+<a id="8jun-ta-id"></a>
 #### **FasTax Series: GST ASK – A Self-help Tool for GST Compliance**
 **8 June | 2.00 p.m. to 5.00 p.m.**
 
