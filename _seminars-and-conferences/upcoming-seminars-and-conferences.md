@@ -12,6 +12,8 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 27 Jun : [Law 101 for Tax Professionals: An introduction to Patents, Registered Designs and Trademarks](#27jun-ta-id)
 
 * 21 Jun : [FasTax Series:Fundamentals of Withholding Tax](#21jun-ta-id)
+* 15 Jun : [Law 101 for Tax Professionals: Employment Law](#15jun-ta-id)
+
 
 * 8 Jun : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](#8jun-ta-id)
 
