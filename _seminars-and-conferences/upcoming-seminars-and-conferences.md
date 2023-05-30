@@ -42,7 +42,11 @@ In this webinar, we will cover:
 
 **About the speaker**
 
-**Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
+Mr Jevon Louis <br>
+Partner <br>
+ShookLin &amp; Bok
+
+Jevon Louis heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
 
 
 <a id="21jun-ta-id"></a>
@@ -87,7 +91,7 @@ Termination of employment:
  
 Tax applications in the employment context - common issues that arise:
 * Labelling termination payments as "ex-gratia" or "severance"
-* Issues relating to employees working remotel
+* Issues relating to employees working remotely
 
 **Admin details:**
 
