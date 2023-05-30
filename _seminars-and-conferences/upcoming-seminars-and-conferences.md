@@ -87,7 +87,7 @@ Termination of employment:
  
 Tax applications in the employment context - common issues that arise:
 * Labelling termination payments as "ex-gratia" or "severance"
-* Issues relating to employees working remotel
+* Issues relating to employees working remotely
 
 **Admin details:**
 
