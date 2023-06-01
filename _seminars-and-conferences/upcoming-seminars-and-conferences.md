@@ -98,7 +98,7 @@ Tax applications in the employment context - common issues that arise:
 *   The webinar will be conducted via Zoom
 *   Date: 15 Jun 2023
 *   Time: 3.00pm to 5.00pm
-*   Fees: SGD 40.20 (incl. GST)
+*   Fees: SGD 43.20 (incl. GST)
 *   Registration is on first-come-first served
 *   [Registration form](https://form.gov.sg/6470934f6e3d810011fe206a)
 
