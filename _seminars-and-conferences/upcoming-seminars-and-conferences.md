@@ -44,7 +44,7 @@ This webinar will cover:
 * Time: 3.00pm to 5.00pm
 * Fees: SGD 43.20 (incl. GST)
 * Registration is on first-come-first served
-* [Registration form]https://form.gov.sg/648082b806c814001291d677
+* [Registration form](https://form.gov.sg/648082b806c814001291d677)
 
 
 <a id="6july-ta-id"></a>
