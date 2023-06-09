@@ -27,6 +27,13 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 8 Jun : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](#8jun-ta-id)
 
 
+<a id="13july-ta-id"></a>
+#### **Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information**
+**13 July | 3.00 p.m. to 5.00 p.m.**
+
+
+
+
 <a id="6july-ta-id"></a>
 #### **Law 101 for Tax Professionals: Employment Law**
 **6 July (2nd intake) | 3.00 p.m. to 5.00 p.m.**
@@ -59,6 +66,7 @@ Tax applications in the employment context - common issues that arise:
 * Fees: SGD 43.20 (incl. GST)
 * Registration is on first-come-first served
 * [Registration form](https://form.gov.sg/64807faf577a9b0011998308)
+
 
 <a id="27jun-ta-id"></a>
 #### **Law 101 for Tax Professionals: An introduction to Patents, Registered Designs and Trademarks**
