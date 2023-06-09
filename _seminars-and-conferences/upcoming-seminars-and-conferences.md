@@ -31,9 +31,34 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **Law 101 for Tax Professionals: Employment Law**
 **6 July (2nd intake) | 3.00 p.m. to 5.00 p.m.**
 
+This webinar will cover:
 
+Hiring of employees:
 
+* An introduction into the requirements that employers should keep in mind when hiring employees in Singapore
 
+Managing employees:
+
+* A brief discussion on the common issues that arise during an employment relationship, including performance issues and misconduct
+
+Termination of employment:
+
+* An introduction on how an employer should go about terminating the employment of an employee in Singapore
+
+Tax applications in the employment context - common issues that arise:
+
+* Labelling termination payments as "ex-gratia" or "severance"
+
+* Issues relating to employees working remotely
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 6 July 2023
+* Time: 3.00pm to 5.00pm
+* Fees: SGD 43.20 (incl. GST)
+* Registration is on first-come-first served
+* [Registration form](https://form.gov.sg/64807faf577a9b0011998308)
 
 <a id="27jun-ta-id"></a>
 #### **Law 101 for Tax Professionals: An introduction to Patents, Registered Designs and Trademarks**
