@@ -142,6 +142,13 @@ Tax applications in the employment context - common issues that arise:
 * Registration is on first-come-first served
 * [Registration form](https://form.gov.sg/64807faf577a9b0011998308)
 
+**About the Speakers**
+
+**Ms Wu Wenyu** provides strategic tax advice to multinational corporations (MNCs) and Singapore-headquartered companies in various industries, and has experience in advising clients on a wide range of cross-border transactions including mergers and acquisitions, internal reorganizations, IP migration, supply chain restructurings, join-ventures, and foreign direct investment. Wenyu also advises High Net Worth (HNW) individuals and families on their tax and wealth management issues, with a special focus on Chinese clients. Wenyu's practice focuses on tax advisory for both MNCs and HNW individuals, with a special focus on Chinese clients.
+
+
+**Ms Esther Pang** is an associate in the Employment Practice Group at Baker McKenzie's Singapore office. She specialises in employment and immigration issues in Singapore. She assist clients with all aspects of employment law from the start of an employment relationship through to the termination of employment, and other employee management issues in between. Esther's experience includes negotiating employment and separation agreements, reviewing of employee policies and cash/equity incentive plans, handling employment issues arising from restructuring or mergers and acquisitions as well as employee performance issues.
+
 
 <a id="27jun-ta-id"></a>
 #### **Law 101 for Tax Professionals: An introduction to Patents, Registered Designs and Trademarks**
@@ -164,11 +171,7 @@ In this webinar, we will cover:
 
 **About the speaker**
 
-Mr Jevon Louis <br>
-Partner <br>
-ShookLin &amp; Bok
-
-Jevon Louis heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
+**Mr Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
 
 
 <a id="21jun-ta-id"></a>
@@ -203,13 +206,13 @@ Jevon Louis heads the Intellectual Property (IP), Technology and Data practice a
 **This webinar will cover:**
 
 Hiring of employees:
-* An introduction into the requirements that employers should keep in mind when hiring employees in Singapore.
+* An introduction into the requirements that employers should keep in mind when hiring employees in Singapore
  
 Managing employees:
-* A brief discussion on the common issues that arise during an employment relationship, including performance issues and misconduct.
+* A brief discussion on the common issues that arise during an employment relationship, including performance issues and misconduct
  
 Termination of employment:
-* An introduction on how an employer should go about terminating the employment of an employee in Singapore. 
+* An introduction on how an employer should go about terminating the employment of an employee in Singapore 
  
 Tax applications in the employment context - common issues that arise:
 * Labelling termination payments as "ex-gratia" or "severance"
@@ -226,17 +229,9 @@ Tax applications in the employment context - common issues that arise:
 
 **About the Speakers**
 
-Ms Wenyu Wu <br>
-Senior Associate <br>
-Baker McKenzie Wong &amp; Leow
+**Ms Wu Wenyu** provides strategic tax advice to multinational corporations (MNCs) and Singapore-headquartered companies in various industries, and has experience in advising clients on a wide range of cross-border transactions including mergers and acquisitions, internal reorganizations, IP migration, supply chain restructurings, join-ventures, and foreign direct investment. Wenyu also advises High Net Worth (HNW) individuals and families on their tax and wealth management issues, with a special focus on Chinese clients. Wenyu's practice focuses on tax advisory for both MNCs and HNW individuals, with a special focus on Chinese clients.
 
-Wenyu provides strategic tax advice to multinational corporations (MNCs) and Singapore-headquartered companies in various industries, and has experience in advising clients on a wide range of cross-border transactions including mergers and acquisitions, internal reorganizations, IP migration, supply chain restructurings, join-ventures, and foreign direct investment. Wenyu also advises High Net Worth (HNW) individuals and families on their tax and wealth management issues, with a special focus on Chinese clients. Wenyu's practice focuses on tax advisory for both MNCs and HNW individuals, with a special focus on Chinese clients.
-
-Ms Esther Pang <br>
-Associate <br>
-Baker McKenzie Wong &amp; Leow
-
-Esther is an associate in the Employment Practice Group at Baker McKenzie's Singapore office. She specialises in employment and immigration issues in Singapore. She assist clients with all aspects of employment law from the start of an employment relationship through to the termination of employment, and other employee management issues in between. Esther's experience includes negotiating employment and separation agreements, reviewing of employee policies and cash/equity incentive plans, handling employment issues arising from restructuring or mergers and acquisitions as well as employee performance issues.
+**Ms Esther Pang** is an associate in the Employment Practice Group at Baker McKenzie's Singapore office. She specialises in employment and immigration issues in Singapore. She assist clients with all aspects of employment law from the start of an employment relationship through to the termination of employment, and other employee management issues in between. Esther's experience includes negotiating employment and separation agreements, reviewing of employee policies and cash/equity incentive plans, handling employment issues arising from restructuring or mergers and acquisitions as well as employee performance issues.
 
 
 <a id="8jun-ta-id"></a>
