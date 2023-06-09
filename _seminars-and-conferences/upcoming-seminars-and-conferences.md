@@ -27,6 +27,12 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 8 Jun : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](#8jun-ta-id)
 
 
+<a id="24july-ta-id"></a>
+#### **FasTax Series: Withholding Tax - Implications of Tax Treaties**
+**24 July | 2.00 p.m. to 5.00 p.m.**
+
+
+
 <a id="20july-ta-id"></a>
 #### **Law 101 for Tax Professionals: Assessment of Damages in IP Disputes – Case studies**
 **20 July | 3.00 p.m. to 5.00 p.m.**
