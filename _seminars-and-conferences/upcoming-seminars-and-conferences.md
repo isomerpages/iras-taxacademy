@@ -27,6 +27,37 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 8 Jun : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](#8jun-ta-id)
 
 
+<a id="20july-ta-id"></a>
+#### **Law 101 for Tax Professionals: Assessment of Damages in IP Disputes – Case studies**
+**20 July | 3.00 p.m. to 5.00 p.m.**
+
+This webinar will cover:
+
+Case-studies on determination (or lack) of liability for IP infringement:
+
+* Cases covered will include those related to patent, trademark and copyright infringement
+* Breach of confidence
+
+Hypothetical approach towards calculating damages:
+
+* Understanding the general principles and models typically employed for calculating damages arising from IP infringement
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 20 July 2023
+* Time: 3.00pm to 5.00pm
+* Fees: SGD 43.20 (incl. GST)
+* Registration is on first-come-first served
+* [Registration form](https://form.gov.sg/64808428c80b3a00113580ed)
+
+**About the Speakers**
+
+**Dr. Devalina Chatterjee** has over 10 years of experience in consulting and academia. She specialises in estimation of damages, with a focus on intellectual property. Her expertise lies in applying economic theory, statistics, and econometrics tools to analyze damages, calculating reasonable royalties, and lost profits in wide range of industries.
+
+**Mr Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
+
+
 <a id="13july-ta-id"></a>
 #### **Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information**
 **13 July | 3.00 p.m. to 5.00 p.m.**
