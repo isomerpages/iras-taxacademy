@@ -31,6 +31,18 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **FasTax Series: Withholding Tax - Implications of Tax Treaties**
 **24 July | 2.00 p.m. to 5.00 p.m.**
 
+At the end of the session, participants will:
+
+*   Understand the requirements of withholding tax, implications of tax treaties and regulations on businesses
+
+* Be able to apply tax treaties to common cross-border payments through worked examples and case studies
+
+Agenda:
+* Fundamentals of treaty interpretation
+* Introduction to common DTA provisions
+* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
+* Worked examples and case studies
+
 
 
 <a id="20july-ta-id"></a>
