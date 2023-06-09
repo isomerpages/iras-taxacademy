@@ -7,6 +7,17 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**JULY**
+
+* 24 July : [FasTax Series: Withholding Tax - Implications of Tax Treaties](#24july-ta-id)
+
+* 20 July : [Law 101 for Tax Professionals: Assessment of Damages in IP Disputes – Case studies](#20july-ta-id)
+
+* 13 July : [Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information](#13july-ta-id)
+
+* 6 July : [Law 101 for Tax Professionals: Employment Law](#6july-ta-id)
+
+
 **JUNE**
 
 * 27 Jun : [Law 101 for Tax Professionals: An introduction to Patents, Registered Designs and Trademarks](#27jun-ta-id)
