@@ -45,7 +45,7 @@ Agenda:
 
 **Admin details:**
 * The webinar will be conducted via Zoom
-* Date: 20 July 2023
+* Date: 24 July 2023
 * Time: 2.00pm to 5.00pm
 * Fees: SGD 70.20 (incl. GST)
 * Registration is on first-come-first served
