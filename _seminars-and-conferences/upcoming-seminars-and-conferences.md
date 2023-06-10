@@ -7,6 +7,17 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**JULY**
+
+* 24 July : [FasTax Series: Withholding Tax - Implications of Tax Treaties](#24july-ta-id)
+
+* 20 July : [Law 101 for Tax Professionals: Assessment of Damages in IP Disputes – Case studies](#20july-ta-id)
+
+* 13 July : [Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information](#13july-ta-id)
+
+* 6 July : [Law 101 for Tax Professionals: Employment Law](#6july-ta-id)
+
+
 **JUNE**
 
 * 27 Jun : [Law 101 for Tax Professionals: An introduction to Patents, Registered Designs and Trademarks](#27jun-ta-id)
@@ -15,11 +26,133 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 15 Jun : [Law 101 for Tax Professionals: Employment Law](#15jun-ta-id)
 * 8 Jun : [FasTax Series: GST ASK – A Self-help Tool for GST Compliance](#8jun-ta-id)
 
-**MAY**
 
-* 8 May : [FasTax Series: Fundamentals of Withholding Tax](#8may-ta-id)
+<a id="24july-ta-id"></a>
+#### **FasTax Series: Withholding Tax - Implications of Tax Treaties**
+**24 July | 2.00 p.m. to 5.00 p.m.**
 
-* 3 May : [Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs](/seminars-and-conferences/upcoming/#3may-ta-id)
+At the end of the session, participants will:
+
+*   Understand the requirements of withholding tax, implications of tax treaties and regulations on businesses
+
+* Be able to apply tax treaties to common cross-border payments through worked examples and case studies
+
+Agenda:
+* Fundamentals of treaty interpretation
+* Introduction to common DTA provisions
+* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
+* Worked examples and case studies
+
+**Admin details:**
+* The webinar will be conducted via Zoom
+* Date: 20 July 2023
+* Time: 2.00pm to 5.00pm
+* Fees: SGD 70.20 (incl. GST)
+* Registration is on first-come-first served
+* [Registration form](https://form.gov.sg/647ee71082fb210012bd9024)
+
+**About the Speakers**
+
+**Mr Yap Hsien Yew** has more than 18 years of tax experience and has worked for many companies in Singapore and Asia-Pacific. He currently serves local, multinational, and listed companies in the technology and consumer sectors. He is often involved in tax advice and planning, including corporate restructurings and cross-border transactions.
+
+**Mr Chua Kong Ping** has substantial experience in Singapore and cross-border tax consultancy. He has worked in Deloitte’s New York office where he advised US MNCs on their outbound transactions into Singapore. Kong Ping also leads a team that is responsible for keeping Deloitte’s tax practitioners and its clients abreast of Singapore tax developments.
+
+
+<a id="20july-ta-id"></a>
+#### **Law 101 for Tax Professionals: Assessment of Damages in IP Disputes – Case studies**
+**20 July | 3.00 p.m. to 5.00 p.m.**
+
+This webinar will cover:
+
+Case-studies on determination (or lack) of liability for IP infringement:
+
+* Cases covered will include those related to patent, trademark and copyright infringement
+* Breach of confidence
+
+Hypothetical approach towards calculating damages:
+
+* Understanding the general principles and models typically employed for calculating damages arising from IP infringement
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 20 July 2023
+* Time: 3.00pm to 5.00pm
+* Fees: SGD 43.20 (incl. GST)
+* Registration is on first-come-first served
+* [Registration form](https://form.gov.sg/64808428c80b3a00113580ed)
+
+**About the Speakers**
+
+**Dr. Devalina Chatterjee** has over 10 years of experience in consulting and academia. She specialises in estimation of damages, with a focus on intellectual property. Her expertise lies in applying economic theory, statistics, and econometrics tools to analyze damages, calculating reasonable royalties, and lost profits in wide range of industries.
+
+**Mr Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
+
+
+<a id="13july-ta-id"></a>
+#### **Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information**
+**13 July | 3.00 p.m. to 5.00 p.m.**
+
+This webinar will cover:
+
+* Introduction to Copyright and Confidential Information
+* How to obtain such IP rights
+* Managing such IP rights
+* Enforcement
+
+**Admin details:**
+* The webinar will be conducted via Zoom
+* Date: 13 July 2023
+* Time: 3.00pm to 5.00pm
+* Fees: SGD 43.20 (incl. GST)
+* Registration is on first-come-first served
+* [Registration form](https://form.gov.sg/648082b806c814001291d677)
+
+**About the speaker**
+
+**Mr Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
+
+
+<a id="6july-ta-id"></a>
+#### **Law 101 for Tax Professionals: Employment Law**
+**6 July (2nd intake) | 3.00 p.m. to 5.00 p.m.**
+
+This webinar will cover:
+
+Hiring of employees:
+
+* An introduction into the requirements that employers should keep in mind when hiring employees in Singapore
+
+Managing employees:
+
+* A brief discussion on the common issues that arise during an employment relationship, including performance issues and misconduct
+
+Termination of employment:
+
+* An introduction on how an employer should go about terminating the employment of an employee in Singapore
+
+Tax applications in the employment context - common issues that arise:
+
+* Labelling termination payments as "ex-gratia" or "severance"
+
+* Issues relating to employees working remotely
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 6 July 2023
+* Time: 3.00pm to 5.00pm
+* Fees: SGD 43.20 (incl. GST)
+* Registration is on first-come-first served
+* [Registration form](https://form.gov.sg/64807faf577a9b0011998308)
+
+**About the Speakers**
+
+**Ms Wu Wenyu** provides strategic tax advice to multinational corporations (MNCs) and Singapore-headquartered companies in various industries, and has experience in advising clients on a wide range of cross-border transactions including mergers and acquisitions, internal reorganizations, IP migration, supply chain restructurings, join-ventures, and foreign direct investment. Wenyu also advises High Net Worth (HNW) individuals and families on their tax and wealth management issues, with a special focus on Chinese clients. Wenyu's practice focuses on tax advisory for both MNCs and HNW individuals, with a special focus on Chinese clients.
+
+
+**Ms Esther Pang** is an associate in the Employment Practice Group at Baker McKenzie's Singapore office. She specialises in employment and immigration issues in Singapore. She assist clients with all aspects of employment law from the start of an employment relationship through to the termination of employment, and other employee management issues in between. Esther's experience includes negotiating employment and separation agreements, reviewing of employee policies and cash/equity incentive plans, handling employment issues arising from restructuring or mergers and acquisitions as well as employee performance issues.
+
 
 <a id="27jun-ta-id"></a>
 #### **Law 101 for Tax Professionals: An introduction to Patents, Registered Designs and Trademarks**
@@ -42,11 +175,7 @@ In this webinar, we will cover:
 
 **About the speaker**
 
-Mr Jevon Louis <br>
-Partner <br>
-ShookLin &amp; Bok
-
-Jevon Louis heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
+**Mr Jevon Louis** heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on intangible asset strategies, such as the creation, management and commercialisation of IP assets, and using IP data to obtain actionable business intelligence.
 
 
 <a id="21jun-ta-id"></a>
@@ -81,13 +210,13 @@ Jevon Louis heads the Intellectual Property (IP), Technology and Data practice a
 **This webinar will cover:**
 
 Hiring of employees:
-* An introduction into the requirements that employers should keep in mind when hiring employees in Singapore.
+* An introduction into the requirements that employers should keep in mind when hiring employees in Singapore
  
 Managing employees:
-* A brief discussion on the common issues that arise during an employment relationship, including performance issues and misconduct.
+* A brief discussion on the common issues that arise during an employment relationship, including performance issues and misconduct
  
 Termination of employment:
-* An introduction on how an employer should go about terminating the employment of an employee in Singapore. 
+* An introduction on how an employer should go about terminating the employment of an employee in Singapore 
  
 Tax applications in the employment context - common issues that arise:
 * Labelling termination payments as "ex-gratia" or "severance"
@@ -104,17 +233,9 @@ Tax applications in the employment context - common issues that arise:
 
 **About the Speakers**
 
-Ms Wenyu Wu <br>
-Senior Associate <br>
-Baker McKenzie Wong &amp; Leow
+**Ms Wu Wenyu** provides strategic tax advice to multinational corporations (MNCs) and Singapore-headquartered companies in various industries, and has experience in advising clients on a wide range of cross-border transactions including mergers and acquisitions, internal reorganizations, IP migration, supply chain restructurings, join-ventures, and foreign direct investment. Wenyu also advises High Net Worth (HNW) individuals and families on their tax and wealth management issues, with a special focus on Chinese clients. Wenyu's practice focuses on tax advisory for both MNCs and HNW individuals, with a special focus on Chinese clients.
 
-Wenyu provides strategic tax advice to multinational corporations (MNCs) and Singapore-headquartered companies in various industries, and has experience in advising clients on a wide range of cross-border transactions including mergers and acquisitions, internal reorganizations, IP migration, supply chain restructurings, join-ventures, and foreign direct investment. Wenyu also advises High Net Worth (HNW) individuals and families on their tax and wealth management issues, with a special focus on Chinese clients. Wenyu's practice focuses on tax advisory for both MNCs and HNW individuals, with a special focus on Chinese clients.
-
-Ms Esther Pang <br>
-Associate <br>
-Baker McKenzie Wong &amp; Leow
-
-Esther is an associate in the Employment Practice Group at Baker McKenzie's Singapore office. She specialises in employment and immigration issues in Singapore. She assist clients with all aspects of employment law from the start of an employment relationship through to the termination of employment, and other employee management issues in between. Esther's experience includes negotiating employment and separation agreements, reviewing of employee policies and cash/equity incentive plans, handling employment issues arising from restructuring or mergers and acquisitions as well as employee performance issues.
+**Ms Esther Pang** is an associate in the Employment Practice Group at Baker McKenzie's Singapore office. She specialises in employment and immigration issues in Singapore. She assist clients with all aspects of employment law from the start of an employment relationship through to the termination of employment, and other employee management issues in between. Esther's experience includes negotiating employment and separation agreements, reviewing of employee policies and cash/equity incentive plans, handling employment issues arising from restructuring or mergers and acquisitions as well as employee performance issues.
 
 
 <a id="8jun-ta-id"></a>
@@ -133,55 +254,6 @@ This webinar will feature practical examples illustrating the use of Assisted Se
 *   [Registration form](https://form.gov.sg/645cb60bb2c6d50013986e66)
 
 
-<a id="8may-ta-id"></a>
-#### **FasTax Series: Fundamentals of Withholding Tax**
-**8 May | 3.00 p.m. to 5.00 p.m.**
-
-**In this webinar, participants will learn:**
-1. Basics of Singapore withholding tax, including charging section, deemed source provisions and withholding tax rates
-2. Common payments subject to withholding tax, including the following:
-- Interest and other payments in connection with loan or indebtedness
-- Royalties, technical fees, management fees, rent or other payments for the use of moveable property and technical fees
-3. Common exemptions from withholding tax under the Income Tax Act
-4. Tax treaty considerations where Singapore has a tax treaty with the country that the non-resident recipient is resident in
-5. Date of payment for withholding tax purposes
-6. Filing and paying withholding tax
-7. Penalties for late payment/recovery actions
-
-**Admin details**
-
-* The webinar will be conducted via Zoom
-* Date: 8 May 2023
-* Time: 3pm to 5pm
-* Fees: SGD 43.20 (incl. GST)
-* Registration is on first-come-first serve basis and will close when the webinar is fully subscribed.
-* [Registration form](https://form.gov.sg/642275524422e90012527efe)
-
-**About the Speaker**
-
-Mr Larry Low is a Partner in the Business Tax practice of Deloitte Singapore. He has more than 19 years of experience in tax compliance and tax consulting, and has served both local and multinational corporations in various sectors such as manufacturing and trading, fund management, shipping, aircraft leasing and consumer products.
 
 
-<a id="3may-ta-id"></a>
-#### **Budget Clinic: Singapore Budget 2023 - Highlights of Notable Tax Measures for SMEs**
-**3 May | 10.00 a.m. to 12.00 p.m.**
-
-Join us in this webinar where speakers from IRAS will share with you on tax measures announced in the Singapore Budget 2023, particularly those benefiting the SMEs such as the Enterprise Innovation Scheme.
-
-Tax measures covered during the webinar include:
-* Enterprise Innovation Scheme
-* Enhancement of the Double Tax Deduction for Internationalisation Scheme
-* Option to accelerate the write-off of the cost of acquiring plant and machinery
-* Option to accelerate the deduction of renovation or refurbishment expenditure
-
-Admin Details:
-* This webinar will be conducted via Zoom
-* Date: 3 May 2023
-* Time: 10am to 12pm
-* Fees: SGD 43.20 (incl. 8% GST)
-* Registration is on first-come-first served. Registration form will close when webinar is fully subscribed.
-* [Registration form](https://form.gov.sg/64226ff887c4320012880570)
-
-
-
-**Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
+**Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**--&gt;
