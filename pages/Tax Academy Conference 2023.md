@@ -15,4 +15,4 @@ The conference will offer insights into the new international tax landscape wher
 #### Programme
 
 
-&gt;9.00am:  Welcome<br>9.05am: Opening Address<br>9.15am: The Path Ahead for BEPS 2.0<br>10.00am: Coffee Break
+#### 9.00am:  Welcome<br>9.05am: Opening Address<br>9.15am: The Path Ahead for BEPS 2.0<br>10.00am: Coffee Break
