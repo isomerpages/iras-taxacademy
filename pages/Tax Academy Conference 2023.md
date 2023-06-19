@@ -5,7 +5,7 @@ description: ""
 ---
 ## **Navigating BEPS 2.0 – Opportunities and Challenges**
 
-##### **Friday, 29 September 2023 | 9.00am to 4.30pm | Fee: SGD 324 (inclusive of GST)<br>Singapore Marriott Tang Plaza Hotel**
+##### **Friday, 29 September 2023 | 9.00am to 4.30pm<br>Fee: SGD 324 (inclusive of GST)<br>Singapore Marriott Tang Plaza Hotel**
 
 Tax Academy is pleased to present its biennial tax conference 2023 “Navigating BEPS 2.0 – Opportunities and Challenges”. 
 
