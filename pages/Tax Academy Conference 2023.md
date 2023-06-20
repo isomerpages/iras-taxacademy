@@ -5,7 +5,7 @@ description: ""
 ---
 ## **Navigating BEPS 2.0 – Opportunities and Challenges**
 
-##### **Friday, 29 September 2023 | 9.00am to 4.30pm<br><br>Conference Fee: SGD 324<br>Early Bird Fee (on or before 24 July): SGD 291.60<br>Venue: Singapore Marriott Tang Plaza Hotel**
+##### **Friday, 29 September 2023 | 9.00am to 4.30pm<br><br>Conference Fee: SGD 324<br>Early Bird Fee (on or before 24 July): SGD 291.60<br>All fees are inclusive of 8% GST<br>Venue: Singapore Marriott Tang Plaza Hotel**
 
 Tax Academy is pleased to present its biennial tax conference 2023 “Navigating BEPS 2.0 – Opportunities and Challenges”. 
 
