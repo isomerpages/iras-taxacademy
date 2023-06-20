@@ -15,4 +15,3 @@ In October 2021, the Inclusive Framework (IF) on BEPS agreed to a Two-Pillar sol
 
 The conference will offer insights into the new international tax landscape where policy makers, tax professionals and academia will come together to discuss the global tax developments and how these developments will affect businesses and the tax administrations.
 ![](/images/conference%20programme%202023_line.png)
-
