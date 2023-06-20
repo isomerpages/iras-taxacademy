@@ -30,8 +30,9 @@ sections:
   - infopic:
       title: Navigating BEPS 2.0 - Opportunities and Challenges
       subtitle: Tax Academy Conference 2023
-      description: 29 September 2023 | 9.00am to 4.30pm
-      button: More details
+      description: 29 September 2023 | 9.00am to 4.30pm  Sign up now to enjoy Early
+        Bird rate!
+      button: more details
       url: https://www.taxacademy.sg/conference-2023/
       image: /images/save the date2.png
       alt: Image alt text
