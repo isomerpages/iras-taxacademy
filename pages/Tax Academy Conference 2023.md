@@ -18,3 +18,4 @@ The conference will offer insights into the new international tax landscape wher
 
 
 **Register Now to enjoy the Early Bird fee !**
+* [Click here for early bird registration form](https://form.gov.sg/649182727012660012f5ae36)
