@@ -27,4 +27,12 @@ sections:
         - title: INTERNATIONAL TAX PROGRAMME
           description: Levels 1 to 3
           url: /executive-tax-programmes/international-tax/
+  - infopic:
+      title: Navigating BEPS 2.0 - Opportunities and Challenges
+      subtitle: Tax Academy Conference 2023
+      description: 29 September 2023 | 9.00am to 4.30pm
+      button: more details
+      url: https://www.taxacademy.sg/conference-2023/
+      image: /images/save the date2.png
+      alt: Image alt text
 ---
