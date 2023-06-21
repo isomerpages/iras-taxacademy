@@ -17,5 +17,5 @@ The conference will offer insights into the new international tax landscape wher
 ![](/images/conference%20programme%202023_line.png)
 
 
-**Register Now to enjoy the Early Bird fee !**
+**Register Now to enjoy the Early Bird Rate !**
 * [Click here for early bird registration form](https://form.gov.sg/649182727012660012f5ae36)
