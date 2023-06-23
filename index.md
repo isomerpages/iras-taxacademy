@@ -33,6 +33,6 @@ sections:
       description: 29 September 2023 | 9.00am to 4.30pm
       button: more details
       url: https://www.taxacademy.sg/conference-2023/
-      image: /images/save the date2.png
+      image: /images/2save the date.png
       alt: Image alt text
 ---
