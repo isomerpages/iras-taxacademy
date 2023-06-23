@@ -11,7 +11,7 @@ breadcrumb: Goods and Services Tax
 * May 2023 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 ##### **GST Programme Level 3**
-* Advanced GST Programme 2023/24: [Registration is now OPEN](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
+* Advanced GST Programme 2023/24: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
 
 <a id="etp1gst-ta-id"></a>
 ### **GST Programme Level 1**
@@ -49,7 +49,7 @@ Registration may be for the full course or for specific modules. For the full co
 
 [Registration Form - Full Programme](https://form.gov.sg/64705e8f2306170012a4a722){:target="_blank"} - [Registration Form - Modular](https://form.gov.sg/64705a9f251701001295f82b){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/adv gst (2023-24) info package_final.pdf){:target="_blank"} - [Schedule](/files/executive-tax-programmes/income-tax/adv gst (2023-24) schedule.pdf){:target="_blank"}
 
-Registration will close on 23 June 2023.
+The next intake will be in 2024. Please visit this page for more details.
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
