@@ -23,6 +23,5 @@ This programme provides an appreciation on how the Annual Values for the differe
 are valued or assessed using various valuation methods and the statutorily prescribed
 bases of assessment.
 
-[Registration Form](https://form.gov.sg/649bf801c4c52f0012412c6a) -  [Details](/files/executive-tax-programmes/property tax valuation brochure_2023.pdf){:target="_blank"}
 
 Registration is CLOSED for 2023 Intake.
