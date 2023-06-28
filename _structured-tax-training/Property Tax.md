@@ -12,7 +12,7 @@ description: ""
 
 This course provides basic knowledge on the principles and practices of property tax assessment, reinforces basic property tax principles and concepts through lectures, discussions, and practical cases
 
-[Registration Form](https://form.gov.sg/649bf801c4c52f0012412c6a) -  [Details](/files/executive-tax-programmes/property-tax-level-1-brochure-1-2023_e2i){:target="_blank"}
+[Registration Form](https://form.gov.sg/649bf801c4c52f0012412c6a) -  [Details](/files/executive-tax-programmes/property tax level 1 brochure 1-2023_e2i.PDF){:target="_blank"}
 
 Registration is OPEN for 2023 intake.
 
