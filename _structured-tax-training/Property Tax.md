@@ -12,9 +12,9 @@ description: ""
 
 This course provides basic knowledge on the principles and practices of property tax assessment, reinforces basic property tax principles and concepts through lectures, discussions, and practical cases
 
-[Registration Form](https://form.gov.sg/62d55ae9e2359e0013cdb09a) -  [Details](/files/executive-tax-programmes/Property Tax Level 1 Brochure Updated2.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/649bf801c4c52f0012412c6a) -  [Details](/files/executive-tax-programmes/property tax level 1 brochure 1-2023_e2i.PDF){:target="_blank"}
 
-Registration is CLOSED for 2022 intake.
+Registration is OPEN for 2023 intake.
 
 
 ### **Programme on Property Tax Valuation**
@@ -23,6 +23,5 @@ This programme provides an appreciation on how the Annual Values for the differe
 are valued or assessed using various valuation methods and the statutorily prescribed
 bases of assessment.
 
-[Registration Form](https://form.gov.sg/64391a89005a840011056aaf) -  [Details](/files/executive-tax-programmes/property tax valuation brochure_2023.pdf){:target="_blank"}
 
-Registration is OPEN for 2023 Intake.
+Registration is CLOSED for 2023 Intake.
