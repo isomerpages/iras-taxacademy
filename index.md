@@ -1,9 +1,11 @@
 ---
 layout: homepage
-title: Tax Academy of Singapore
+title: Tax Academy Singapore
 description: Tax Academy of Singapore is a not-for-profit institution set up by
-  the Inland Revenue Authority of Singapore to raise the professional competency
-  of the tax community.
+  the Inland Revenue Authority of Singapore in collaboration with the
+  international accounting firms - Deloitte & Touche, Ernst & Young, KPMG and
+  PricewaterhouseCoopers, the Institute of Singapore Chartered Accountants and
+  the Law Society of Singapore
 permalink: /
 notification: Please refer to the respective pages on this website for latest
   updates on our programmes. For enquiries, please contact us via <a
@@ -35,4 +37,5 @@ sections:
       url: https://www.taxacademy.sg/conference-2023/
       image: /images/2save the date.png
       alt: Image alt text
+image: /images/isomer-logo.svg
 ---
