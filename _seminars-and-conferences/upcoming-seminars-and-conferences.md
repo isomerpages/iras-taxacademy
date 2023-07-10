@@ -9,7 +9,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **SEPTEMBER**
 
-**29 Sep: [Tax Academy Conference 2023: Navigating BEPS 2.0 – Opportunities and Challenges](https://www.taxacademy.sg/conference-2023/)**
+* 29 Sep: [Tax Academy Conference 2023: Navigating BEPS 2.0 – Opportunities and Challenges](https://www.taxacademy.sg/conference-2023/)
 
 
 
