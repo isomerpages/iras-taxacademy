@@ -7,6 +7,12 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**SEPTEMBER**
+
+* 29 Sep: [Tax Academy Conference 2023: Navigating BEPS 2.0 – Opportunities and Challenges](https://www.taxacademy.sg/conference-2023/)
+
+
+
 **JULY**
 
 * 24 July : [FasTax Series: Withholding Tax - Implications of Tax Treaties](#24july-ta-id)
