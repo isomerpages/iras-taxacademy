@@ -13,6 +13,8 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **AUGUST**
 
+* 4 Aug : [TaxEdge Series: Indonesia Tax Updates](#4Aug-ta-id)
+
 
 **JULY**
 
