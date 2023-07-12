@@ -29,6 +29,25 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **TaxEdge Series: Indonesia Tax Updates**
 **4 Aug | 3.00 p.m. to 5.00 p.m.**
 
+This webinar will cover:
+
+**Overview of Indonesia’s tax policy and administration**
+* Common forms of doing business in Indonesia
+* Fundamental Indonesia tax system (CIT, WHT, VAT)
+* General framework of Tax Audit and Tax Disputes procedures
+* Tax Incentives
+
+**Tax Administration Trend in a post-covid environment**
+* 1st tax reform – 2020 – Job Creation Law
+* 2nd tax reform – 2021 – Harmonization of Tax Regulations Law
+
+**Brief Impact of International Tax developments**
+* BEPS &amp; MLI
+* Pillar 1 and Pillar 2
+* Impact of Indonesia-SG tax treaty
+* Some major differences under the new Indonesia-SG tax treaty
+
+
 
 <a id="24july-ta-id"></a>
 #### **FasTax Series: Withholding Tax - Implications of Tax Treaties**
