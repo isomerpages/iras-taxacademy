@@ -47,6 +47,18 @@ This webinar will cover:
 * Impact of Indonesia-SG tax treaty
 * Some major differences under the new Indonesia-SG tax treaty
 
+**Admin details**
+
+* The webinar will be conducted via Zoom
+* Date: 4 Aug 2023
+* Time: 3.00pm to 5.00pm
+* Fee :&nbsp; SGD 43.20 (incl. GST)
+* Speaker: Mr Cindy Sukiman, Partner, Deloitte Touche Solutions, Indonesia
+* [Registration form](https://form.gov.sg/64ae4569b0717e00124f899d)
+
+**About the Speaker**
+
+Mr Cindy Sukiman has over 22 years experience as a tax consultant and he has extensive experience in serving a broad range of multinational and large national clients, energy &amp; resources, manufacturing, consumer and services companies. He has been involved in various advisory work on restructurings, M&amp;A, tax planning projects, and tax dispute/tax audit resolutions. In particular, he has been involved in undertaking various tax reviews and due diligence projects, and acting as a legal proxy for appeals and lawsuits before the Tax Court. Cindy is the Deloitte Indonesia Energy and Resources Tax Leader, Business Tax, International Tax and M&amp;A Tax specialist. He is also a frequent public and keynote speaker at seminars and trainings.
 
 
 <a id="24july-ta-id"></a>
