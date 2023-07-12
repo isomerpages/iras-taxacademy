@@ -31,8 +31,9 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <a href="https://www.linkedin.com/tax-academy-of-singapore/">Connect with
-          Us on LinkedIn</a>
+      - other: <a
+          href="https://sg.linkedin.com/company/tax-academy-of-singapore">Connect
+          with Us on LinkedIn</a>
     title: LinkedIn
 feedback: https://form.gov.sg/5d2c51283703d80011e52615
 ---
