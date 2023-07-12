@@ -13,7 +13,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **AUGUST**
 
-* 4 Aug : [TaxEdge Series: Indonesia Tax Updates](#4Aug-ta-id)
+* 4 Aug : [TaxEdge Series: Indonesia Tax Updates](#4aug-ta-id)
 
 
 **JULY**
@@ -24,6 +24,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 6 July : [Law 101 for Tax Professionals: Employment Law](#6july-ta-id)
 
+
+<a id="4aug-ta-id"></a>
+#### **TaxEdge Series: Indonesia Tax Updates**
+**4 Aug | 3.00 p.m. to 5.00 p.m.**
 
 
 <a id="24july-ta-id"></a>
