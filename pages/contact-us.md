@@ -19,7 +19,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: You might like to check out the <a
-          href=/files/seminars-brochures/FAQ_16May.pdf>FAQ</a> to see if your
+          href="/files/seminars-brochures/FAQ_16May.pdf">FAQ</a> to see if your
           query is already answered here.
     title: Frequently Asked Questions
   - content:
@@ -28,4 +28,11 @@ contacts:
       - other: <a href="https://go.gov.sg/fpfn96">To get updates on Tax Academy’s
           programmes and events join our mailing list now.</a>
     title: Join  Mailing List
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <a href="https://www.linkedin.com/tax-academy-of-singapore/">Connect with
+          Us on LinkedIn</a>
+    title: LinkedIn
+feedback: https://form.gov.sg/5d2c51283703d80011e52615
 ---
