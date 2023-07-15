@@ -7,7 +7,7 @@ description: ""
 
 ##### **Friday, 29 September 2023 | 9.00am to 4.30pm<br>Singapore Marriott Tang Plaza Hotel<br>**
 
-Conference Fee: SGD 324<br>Early Bird Fee (register on or before 14 July): SGD 291.60<br>All fees are inclusive of 8% GST<br>
+Conference Fee: SGD 324 (inclusive of 8% GST)<br>
 
 Tax Academy is pleased to present its biennial tax conference 2023 “Navigating BEPS 2.0 – Opportunities and Challenges”. 
 
@@ -18,4 +18,4 @@ The conference will offer insights into the new international tax landscape wher
 <h5><a href="/files/seminars-brochures/programme%20details_website%20v2.pdf"><b>Conference Programme</b></a></h5>
 
 
-<h5><a href="https://form.gov.sg/649182727012660012f5ae36"><b>Register Now to Enjoy the Early Bird Rate!</b></a></h5>
+<h5><a href="https://form.gov.sg/64b20725f6ce6e0011282a63"><b>Conference Registration</b></a></h5>
