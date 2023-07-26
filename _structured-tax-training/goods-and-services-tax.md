@@ -5,7 +5,7 @@ breadcrumb: Goods and Services Tax
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **GST Programme Level 1**
-* May 2023 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* Sep 2023 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **GST Programme Level 2**
 * Aug/Sep 2023 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
@@ -18,11 +18,11 @@ breadcrumb: Goods and Services Tax
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
-[Registration Form](https://go.gov.sg/gstl1-23){:target="_blank"} - [Details](/files/executive-tax-programmes/Course%20Programme%20GST%20L1_1-2023.pdf){:target="_blank"}
+[Registration Form (Intake 2/2023)](https://go.gov.sg/gst-l1-2-3){:target="_blank"} - [Details](/files/executive-tax-programmes/Course%20Programme%20GST%20L1_1-2023.pdf){:target="_blank"}
 
-Registration is CLOSED for intake 1/2023 (May 2023 intake).
+Registration is OPEN for intake 2 &amp; 3/2023 (Sep 2023 intake).
 
-The next intake for this course will be in Sep 2023. Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in Feb 2024. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp2gst-ta-id"></a>
 ### **GST Programme Level 2**
