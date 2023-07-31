@@ -9,7 +9,7 @@ Please refer to the respective programme brochure for the programme dates.
 ##### **Level 1**
 
 <table>
-  <tr>
+  <tbody><tr>
     <td>Income Tax Programme Level 1 (Intake 1/2023)</td>
     <td>From 27 Apr to 9 May 2023 (with e-learning)</td>
   </tr> 
@@ -21,21 +21,21 @@ Please refer to the respective programme brochure for the programme dates.
     <td>Income Tax Programme Level 1 (Intake 3/2023)</td>
     <td>From 12 to 20 Oct 2023 (with e-learning)
 </td> 
-		  <tr>
+		  </tr><tr>
     <td>Income Tax Programme Level 1 (Intake 4/2023)</td>
     <td>From 16 to 24 Oct 2023 (with e-learning)</td>
   </tr> 
-  </tr>
+  
   <tr>
     <td>GST Programme Level 1 (Intake 1/2023)</td>
     <td>From 17 to 26 May 2023 (with e-learning)</td>
   </tr>  
   <tr>
-    <td>GST Programme Level 1 (Intake 2/2023)</td>
+    <td>GST Programme Level 1 (Intake 2 &amp; 3/2023)</td>
     <td>From 13 Sep to 22 Sep 2023 (with e-learning)</td>
   </tr>  
 	  <tr>
-    <td>GST Programme Level 1 (Intake 3/2023)</td>
+    <td>GST Programme Level 1 (Intake 4/2023)</td>
     <td>Feb 2024 (with e-learning)</td>
   </tr>  
   <tr>
@@ -50,13 +50,13 @@ Please refer to the respective programme brochure for the programme dates.
     <td>International Tax Programme Level 1 (Intake 2/2023)</td>
     <td>Feb 2024</td>
   </tr>  
-</table>
+</tbody></table>
 
  
 ##### **Level 2**
 
 <table>
-  <tr>
+  <tbody><tr>
       <td>Income Tax Programme Level 2 (Intake 1/2023)</td>
       <td>From 17 May to 2 Jun 2023</td> 
   </tr>  
@@ -90,13 +90,13 @@ Please refer to the respective programme brochure for the programme dates.
      <td>International Tax Programme Level 2 (Intake 1/2023)</td>
       <td>Sep/Oct 2023</td>
    </tr>  
-</table>
+</tbody></table>
 
  
 ##### **Level 3**
 
 <table>
-  <tr>
+  <tbody><tr>
     <td>Advanced Tax Programme (1/2023)</td>
     <td>From Apr 2023 to Mar 2024 - Registration for specific modules is available.</td> 
   </tr>  
@@ -112,4 +112,4 @@ Please refer to the respective programme brochure for the programme dates.
    <td>Advanced International Tax Planning Programme</td>
     <td>From Jul 2023 to Aug 2023 </td>
   </tr>  
-</table>
+</tbody></table>
