@@ -34,6 +34,14 @@ Agenda:
 * Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
 * Worked examples and case studies
 
+**Admin Details:**
+* This webinar will be conducted via Zoom
+* Date: 31 Aug 2023
+* Time: 2pm to 5pm
+* Fees: SGD 70.20 (incl. 8% GST)
+* Registration is on first-come-first served.
+* [Registration Form](https://form.gov.sg/64d06d941ac391001291b29d)
+
 
 <a id="24aug-ta-id"></a>
 #### **FasTax Series: Fundamentals of GST Principles for Filing Returns**<br>*(Formerly known as Fundamentals of GST Filing)*
@@ -56,6 +64,7 @@ The agenda of the webinar is as follow:
 * Date: 24 Aug 2023
 * Time: 3.00pm to 5.00pm
 * Fee: SGD 43.20 (incl. GST)
+* Registration is on first-come-first served.
 * [Registration Form](https://form.gov.sg/64d06acad34c3100115530fa)
 
 
