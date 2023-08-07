@@ -19,6 +19,21 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 4 Aug : [TaxEdge Series: Indonesia Tax Updates](#4aug-ta-id)
 
+<a id="31aug-ta-id"></a>
+#### **FasTax Series: Withholding Tax - Implications of Tax Treaties**
+
+At the end of the session, participants will:
+
+* Understand the requirements of withholding tax, implications of tax treaties and regulations on businesses
+
+* Be able to apply tax treaties to common cross-border payments through worked examples and case studies
+
+Agenda:
+* Fundamentals of treaty interpretation
+* Introduction to common DTA provisions
+* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
+* Worked examples and case studies
+
 
 <a id="24aug-ta-id"></a>
 #### **FasTax Series: Fundamentals of GST Principles for Filing Returns**<br>*(Formerly known as Fundamentals of GST Filing)*
