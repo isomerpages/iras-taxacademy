@@ -13,6 +13,8 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **AUGUST**
 
+* 31 Aug : [FasTax Series: Withholding Tax - Implications of Tax Treaties](#31aug-ta-id)
+* 24 Aug : [FasTax Series: Fundamentals of GST Principles for Filing Returns](#24aug-ta-id)
 * 4 Aug : [TaxEdge Series: Indonesia Tax Updates](#4aug-ta-id)
 
 
@@ -23,6 +25,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 13 July : [Law 101 for Tax Professionals: An Introduction to selected Intellectual Property Rights - Copyright and Confidential Information](#13july-ta-id)
 
 * 6 July : [Law 101 for Tax Professionals: Employment Law](#6july-ta-id)
+
+<a id="24aug-ta-id"></a>
+#### **FasTax Series: Fundamentals of GST Principles for Filing Returns **
+**24 Aug | 3.00 p.m. to 5.00 p.m.**
 
 
 <a id="4aug-ta-id"></a>
