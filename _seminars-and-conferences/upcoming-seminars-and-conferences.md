@@ -14,7 +14,9 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **AUGUST**
 
 * 31 Aug : [FasTax Series: Withholding Tax - Implications of Tax Treaties](#31aug-ta-id)
+
 * 24 Aug : [FasTax Series: Fundamentals of GST Principles for Filing Returns](#24aug-ta-id)
+
 * 4 Aug : [TaxEdge Series: Indonesia Tax Updates](#4aug-ta-id)
 
 
