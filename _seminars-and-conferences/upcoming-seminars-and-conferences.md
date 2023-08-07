@@ -45,7 +45,7 @@ Agenda:
 
 
 <a id="24aug-ta-id"></a>
-#### **FasTax Series: Fundamentals of GST Principles for Filing Returns**<br>*(Formerly known as Fundamentals of GST Filing)*<br>
+#### **FasTax Series: Fundamentals of GST Principles for Filing Returns***(Formerly known as Fundamentals of GST Filing)*<br>
 
 **24 Aug | 3.00 p.m. to 5.00 p.m.**
 
