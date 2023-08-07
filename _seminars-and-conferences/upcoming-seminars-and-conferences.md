@@ -20,7 +20,8 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 4 Aug : [TaxEdge Series: Indonesia Tax Updates](#4aug-ta-id)
 
 <a id="31aug-ta-id"></a>
-#### **FasTax Series: Withholding Tax - Implications of Tax Treaties**
+#### **FasTax Series: Withholding Tax - Implications of Tax Treaties**<br>
+**31 Aug | 2.00 p.m. to 5.00 p.m.**
 
 At the end of the session, participants will:
 
@@ -44,7 +45,7 @@ Agenda:
 
 
 <a id="24aug-ta-id"></a>
-#### **FasTax Series: Fundamentals of GST Principles for Filing Returns**<br>*(Formerly known as Fundamentals of GST Filing)*
+#### **FasTax Series: Fundamentals of GST Principles for Filing Returns**<br>*(Formerly known as Fundamentals of GST Filing)*<br>
 
 **24 Aug | 3.00 p.m. to 5.00 p.m.**
 
