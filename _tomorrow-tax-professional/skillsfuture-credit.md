@@ -15,11 +15,8 @@ You can use your SkillsFuture Credit to pay or offset course fees by applying fo
 
 **The following courses offered by Tax Academy are eligible for the SkillsFuture Credit claims:**<br>
 
-- Income Tax Level 2 - TGS-2019507222
 -	Advanced Tax Programme* - TGS-2019507226
--	GST Level 2* - TGS-2019507223
 -	Advanced GST Programme* - TGS-2019507225
--	International Tax Level 2 - TGS-2019507224
 -	Leiden – TA Advanced Tax Treaties Programme - TGS-2019507229
 -	WU – TA Advanced Transfer Pricing Programme - TGS-2019507228
 -	Advanced International Tax Planning Programme - TGS-2019507227
