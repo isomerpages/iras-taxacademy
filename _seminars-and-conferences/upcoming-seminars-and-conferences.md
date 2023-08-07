@@ -39,8 +39,15 @@ The agenda of the webinar is as follow:
 * Reimbursement and Disbursement of Expenses
 * Fringe Benefits
 * Zero-Rating of International Services
-•	Q&amp;A Session
+* Q&amp;A Session
 
+**Admin details**
+
+* The webinar will be conducted via Zoom
+* Date: 24 Aug 2023
+* Time: 3.00pm to 5.00pm
+* Fee: SGD 43.20 (incl. GST)
+* Registration form
 
 
 <a id="4aug-ta-id"></a>
