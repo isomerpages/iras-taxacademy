@@ -41,7 +41,7 @@ The agenda of the webinar is as follow:
 * Date: 24 Aug 2023
 * Time: 3.00pm to 5.00pm
 * Fee: SGD 43.20 (incl. GST)
-* Registration form
+* [Registration Form](https://form.gov.sg/64d06acad34c3100115530fa)
 
 
 <a id="4aug-ta-id"></a>
