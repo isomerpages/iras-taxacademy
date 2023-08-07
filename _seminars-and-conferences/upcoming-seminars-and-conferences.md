@@ -27,8 +27,20 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 6 July : [Law 101 for Tax Professionals: Employment Law](#6july-ta-id)
 
 <a id="24aug-ta-id"></a>
-#### **FasTax Series: Fundamentals of GST Principles for Filing Returns **
+#### **FasTax Series: Fundamentals of GST Principles for Filing Returns**<br>*(Formerly known as Fundamentals of GST Filing)*
+
 **24 Aug | 3.00 p.m. to 5.00 p.m.**
+
+The agenda of the webinar is as follow:
+
+* Responsibilities of a GST-Registered Business
+* Key GST Concepts
+* Common GST Errors
+* Reimbursement and Disbursement of Expenses
+* Fringe Benefits
+* Zero-Rating of International Services
+•	Q&amp;A Session
+
 
 
 <a id="4aug-ta-id"></a>
