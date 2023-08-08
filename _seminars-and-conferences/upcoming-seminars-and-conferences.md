@@ -19,10 +19,33 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 4 Aug : [TaxEdge Series: Indonesia Tax Updates](#4aug-ta-id)
 
+<a id="31aug-ta-id"></a>
+#### **FasTax Series: Withholding Tax - Implications of Tax Treaties**<br>
+**31 Aug | 2.00 p.m. to 5.00 p.m.**
+
+At the end of the session, participants will:
+
+* Understand the requirements of withholding tax, implications of tax treaties and regulations on businesses
+
+* Be able to apply tax treaties to common cross-border payments through worked examples and case studies
+
+Agenda:
+* Fundamentals of treaty interpretation
+* Introduction to common DTA provisions
+* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
+* Worked examples and case studies
+
+**Admin Details:**
+* This webinar will be conducted via Zoom
+* Date: 31 Aug 2023
+* Time: 2pm to 5pm
+* Fees: SGD 70.20 (incl. 8% GST)
+* Registration is on first-come-first served.
+* [Registration Form](https://form.gov.sg/64d06d941ac391001291b29d)
+
 
 <a id="24aug-ta-id"></a>
-#### **FasTax Series: Fundamentals of GST Principles for Filing Returns**<br>*(Formerly known as Fundamentals of GST Filing)*
-
+#### **FasTax Series: Fundamentals of GST Principles for Filing Returns<br>(formerly known as Fundamentals of GST Filing)**
 **24 Aug | 3.00 p.m. to 5.00 p.m.**
 
 The agenda of the webinar is as follow:
@@ -41,6 +64,7 @@ The agenda of the webinar is as follow:
 * Date: 24 Aug 2023
 * Time: 3.00pm to 5.00pm
 * Fee: SGD 43.20 (incl. GST)
+* Registration is on first-come-first served.
 * [Registration Form](https://form.gov.sg/64d06acad34c3100115530fa)
 
 
