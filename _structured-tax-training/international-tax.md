@@ -37,9 +37,9 @@ This course provides in-depth knowledge in international tax principles and conc
 
 [Registration Form](   https://go.gov.sg/l2inttax12023registration){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/coursebrochureL2internationaltax12023.pdf){:target="_blank"}
 
-**Registration is CLOSED for Intake 1/2022**
+**Registration is OPEN for Intake 1/2023**
 
-The next intake for the course will be held in Oct 2023. Registration will open six to eight weeks before the course commencement date.
+The next intake for the course will be held in Sep/Oct 2024. Registration will open six to eight weeks before the course commencement date.
 
 <a id="wu-ta-id"></a>
 ### **International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme**
