@@ -26,19 +26,17 @@ Yah Fang is the Deputy Commissioner (Business Group)/Chief Compliance Officer of
 
 Prior to her appointment as Deputy Commissioner, Yah Fang had held key appointments in IRAS, including as Assistant Commissioner of the Corporate Tax Division and Assistant Commissioner of the Taxpayer Services Division. She has also served in the Singapore Ministry of Finance as the Chief Tax Policy Officer. <br>
 
-**Mr Low Hwee Chua** <br>
-Regional Managing Partner <br>
-Tax & Legal <br>
-Deloitte Singapore & Southeast Asia <br>
+**Mr Daniel Ho** <br>
+Executive Director &amp; Tax Partner <br>
+Deloitte Tax Solutions Pte Ltd <br>
 
-Mr Low Hwee Chua, Deloitte Singapore, is a tax partner with more than 25 years of experience including two years with the Inland Revenue Authority of Singapore. He is the regional managing partner for the tax practice in Deloitte Singapore and Deloitte Southeast Asia. Hwee Chua specialises in corporate income tax and international tax; assisting local and multinational companies to manage their tax affairs efficiently and cost effectively. Hwee Chua has assisted on a variety of projects including restructuring; mergers and acquisitions; tax due diligence; structuring of inbound and outbound investments; and applications for tax incentives and grants. Hwee Chua is an accredited tax adviser (income tax) with the Singapore Institute of Accredited Tax Professionals (SIATP) and is a board member of the SIATP. <br>
 
 **Ms Soh Pui Ming** <br>
 Partner <br>
 Head of Tax <br>
-Ernst & Young Solutions LLP <br>
+Ernst &amp; Young Solutions LLP <br>
 
-Pui Ming is the Head of Tax with Ernst & Young Singapore. She has more than 20 years of experience in Singapore and regional tax compliance and advisory. 
+Pui Ming is the Head of Tax with Ernst &amp; Young Singapore. She has more than 20 years of experience in Singapore and regional tax compliance and advisory. 
 
 Pui Ming was previously the EY Asean Leader for Global Compliance and Reporting, where she headed the record-to-report services in the region, which span traditional tax compliance, tax accounting, as well as book-keeping, payroll, and corporate secretarial services. She is also experienced in tax advisory matters including acquisitions, group reorganization, tax controversies and health checks etc. Pui Ming holds a Bachelor of Accountancy (Second Upper Honours) from the National University of Singapore. She is a member of the Institute of Singapore Chartered Accountants. She is also an Accredited Tax Advisor (Income Tax) of the Singapore Institute of Accredited Tax Professionals. 
 
@@ -57,21 +55,15 @@ Lennon is the financial services tax leader with PwC Singapore.  He has over 20 
 
 Lennon is a member of the Institute of Singapore Chartered Accountants and a member of the Singapore Institute of Accredited Tax Professionals (Accredited Tax Advisor).  He is also a member of the CPA Australia. <br>
 
-**Associate Professor Poh Eng Hin** <br>
-Assistant Dean, Division of Business Law <br>
-Nanyang Business School, Nanyang Technological University <br>
+**Associate Professor Darren Koh** <br>
+Vice Dean and Head, Taxation Programme <br>
+School of Law, Singapore University of Social Sciences <br>
 
-Associate Professor Poh has been with the Nanyang Business School, NTU since 1998. He currently serves as Assistant Dean for the Bachelor in Accountancy programme, and teaches taxation courses at undergraduate and postgraduate levels. His research has been published in a number of peer-reviewed international journals. Outside of NTU, he has served at various times as Examiner for several professional accountancy bodies. He is an Accredited Tax Adviser and had previously served as a member of the Tax Academy’s curriculum and examination development committee and a member of the Income Tax Board of Review. <br>
 
-**Mr Eugene Lim** <br>
-Co-Founder, Principal <br>
-Taxise Asia LLC <br>
+**Ms Ong Ken Loon** <br>
+Head, Tax &amp; Private Client Services <br>
+Drew &amp; Napier <br>
 
-Eugene Lim is an international tax and trade lawyer who works extensively in the Asia Pacific region.  He is a Founding Principal of Taxise Asia LLC (member firm of WTS Global) (“WTS Taxise”).  WTS Taxise is a boutique specialist international tax, transfer pricing and international trade Singapore law practice and is the exclusive member for Singapore of WTS Global.
-
-Previously, Eugene was based in Hong Kong and China for 11 years before moving to Singapore in 2014 to head the Singapore Tax, Trade and Wealth Management practice in one of the largest international law firms in Singapore. He has extensive experience relating to the structuring of supply chain and distribution strategies in the Asia Pacific region as well as in international tax and trade matters. 
-
-Eugene is recognised by leading legal directories such as The Legal 500 Asia Pacific and International Tax Review, with Chambers Asia Pacific noting that “clients prize the practical nature of Eugene Lim’s advice, and particularly appreciate his ability ‘to analyse, find solutions and add value - not just as a legal counsel but as a business consultant too’.” Who’s Who Legal commented that Eugene is the “first port of call” for clients in the trade and customs field. <br>
 
 **Mr Darren Tan Siew Peng** <br>
 Chief Investment Officer <br>
@@ -79,7 +71,7 @@ Raffles Medical Group<br>
 
 Mr Tan joined Raffles Medical Group (RMG) in March 2023 as Chief Investment Officer to develop and execute its business and investment strategy.
 
-Prior to joining RMG, Mr Tan was the Chief Financial Officer (CFO) of OCBC Bank from 2011 to 2022. Mr Tan joined OCBC Bank in 2007 as Head of Asset & Liability in Global Treasury and assumed the role of Deputy CFO in 2011. Before this, Mr Tan worked for 13 years in the Government of Singapore Investment Corporation (GIC) with his last position in GIC as Head of Money Markets. 
+Prior to joining RMG, Mr Tan was the Chief Financial Officer (CFO) of OCBC Bank from 2011 to 2022. Mr Tan joined OCBC Bank in 2007 as Head of Asset &amp; Liability in Global Treasury and assumed the role of Deputy CFO in 2011. Before this, Mr Tan worked for 13 years in the Government of Singapore Investment Corporation (GIC) with his last position in GIC as Head of Money Markets.&nbsp;
 
 Mr Tan serves on the Board of Inland Revenue Authority of Singapore, Tax Academy of Singapore and Singapore Management University’s School of Accountancy. Mr Tan is a Council member of the Institute of Singapore Chartered Accountants and serves as Chairman of its Investment Committee. Mr Tan had previously served on the Boards of OCBC Bank (China), OCBC Bank (Malaysia), Bank of Ningbo (China), Lion Global Investors (Singapore) and MaxWealth Asset Management (China). Mr Tan had also served as a member of the Alumni Advisory Board and Adjunct Professor of Nanyang Business School.
 
