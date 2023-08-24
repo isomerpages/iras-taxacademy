@@ -24,6 +24,8 @@ Participants will learn to compute income tax liability for individuals accurate
 
 [Registration Form for Intake 3](https://go.gov.sg/l1it32023registration){:target="_blank"}- [Details](/files/executive-tax-programmes/coursebrochureL1IT2023Intake3.pdf) {:target="_blank"} 
 
+[Registration Form for Intake 4](https://go.gov.sg/l1it42023registration){:target="_blank"}- [Details](/files/executive-tax-programmes/coursebrochureL1IT2023Intake4.pdf) {:target="_blank"} 
+
 Registration is OPEN.
 
 The next intake for this course will be in May 2024.  Registration will be available six to eight weeks prior to the course commencement date.
