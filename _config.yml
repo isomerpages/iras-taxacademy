@@ -47,8 +47,8 @@ defaults:
       path: ""
     values:
       layout: page
-staging: https://staging-iras-tax-academy.netlify.app
-prod: https://production-iras-tax-academy.netlify.app
+staging: https://staging.d25w78ynrwkrpg.amplifyapp.com/
+prod: https://master.d25w78ynrwkrpg.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
