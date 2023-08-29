@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-permalink: /executive-tax-programmes/Terms-and-Conditions/
+permalink: /executive-tax-programmes/terms-and-conditions/
 breadcrumb: Terms and Conditions
 ---
 **1. Registration**

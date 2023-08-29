@@ -1,6 +1,6 @@
 ---
 title: Post Conference Highlights
-permalink: /post-conference-highlights
+permalink: /post-conference-highlights/
 ---
 # **Tax Academy Signature Conference 2021: Taxes and Investments in a Post-Pandemic World**
 

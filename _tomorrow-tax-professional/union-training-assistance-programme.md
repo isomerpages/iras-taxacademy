@@ -1,6 +1,6 @@
 ---
 title: Union Training Assistance Programme
-permalink: /tomorrow-tax-professional/Union-Training-Assistance-Programme/
+permalink: /tomorrow-tax-professional/union-training-assistance-programme/
 breadcrumb: Union Training Assistance Programme
 ---
 ### **Union Training Assistance Programme (UTAP) for NTUC Members**

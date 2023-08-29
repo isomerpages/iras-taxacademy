@@ -1,6 +1,6 @@
 ---
 title: The Law and Practice of Singapore Income Tax
-permalink: /independent-pages/The-Law-and-Practice-of-Singapore-Income-Tax/
+permalink: /independent-pages/the-law-and-practice-of-singapore-income-tax/
 breadcrumb: The-Law-and-Practice-of-Singapore-Income-Tax
 ---
 ### **The Law and Practice of Singapore Income Tax, 3rd Edition**
