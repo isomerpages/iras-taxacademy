@@ -35,7 +35,7 @@ This course will enable participants to acquire basic knowledge in tax treaties 
 
 This course provides in-depth knowledge in international tax principles and concepts, with focus on specific issues on tax treaty and transfer pricing.
 
-[Registration Form](   https://go.gov.sg/l2inttax12023registration){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/coursebrochureL2internationaltax12023.pdf){:target="_blank"}
+[Registration Form](   https://go.gov.sg/l2inttax12023registration){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/coursebrochurel2internationaltax12023.pdf){:target="_blank"}
 
 **Registration is OPEN for Intake 1/2023**
 
@@ -54,7 +54,7 @@ Don’t miss the opportunity to network with the TP experts from academic and in
 
 Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12, Oct 2023
 
-[Registration Form](https://go.gov.sg/fgnacs){:target="_blank"} - [Details](/files/executive-tax-programmes/WU TA Advanced Transfer Pricing Programme 2023.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/fgnacs){:target="_blank"} - [Details](/files/executive-tax-programmes/wu ta advanced transfer pricing programme 2023.pdf){:target="_blank"}
 
 **Registration is OPEN for 2023 intake.**
 
@@ -65,7 +65,7 @@ The 6-day Advanced Tax Treaties Programme is a collaborative effort between Tax 
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-[Registration Form](https://form.gov.sg/63317d4657c5a7001209efac) - [Details](/files/seminars-brochures/LeidenTA ATT brochure Final Circulation v4.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/63317d4657c5a7001209efac) - [Details](/files/seminars-brochures/leidenta att brochure final circulation v4.pdf){:target="_blank"}
 
 **Registration is CLOSED for 2023 intake.**
 
@@ -76,8 +76,8 @@ The programme takes a commercial and practical approach to addressing main issue
 
 Dates of programme held at Revenue House (Singapore): 23 &amp; 24 Aug 2023 (Each session : 9.00 a.m. to 5.00 p.m.)
 
-[Registration Form](https://go.gov.sg/intltax2023){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Advanced ITP 2023 Programme Brochure_final.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/intltax2023){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/advanced itp 2023 programme brochure_final.pdf){:target="_blank"}
 
 **Registration is OPEN for 2023 intake.**
 
-**Please read [Terms and Conditions](/executive-tax-programmes/Terms-and-Conditions/){:target="_blank"} for courses.**
+**Please read [Terms and Conditions](/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**

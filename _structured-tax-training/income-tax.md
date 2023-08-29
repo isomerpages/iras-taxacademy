@@ -22,9 +22,9 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Registration Form for Intake 3](https://go.gov.sg/l1it32023registration){:target="_blank"}- [Details](/files/executive-tax-programmes/coursebrochureL1IT2023Intake3.pdf) {:target="_blank"} 
+[Registration Form for Intake 3](https://go.gov.sg/l1it32023registration){:target="_blank"}- [Details](/files/executive-tax-programmes/coursebrochurel1it2023intake3.pdf) {:target="_blank"} 
 
-[Registration Form for Intake 4](https://go.gov.sg/l1it42023registration){:target="_blank"}- [Details](/files/executive-tax-programmes/coursebrochureL1IT2023Intake4.pdf) {:target="_blank"} 
+[Registration Form for Intake 4](https://go.gov.sg/l1it42023registration){:target="_blank"}- [Details](/files/executive-tax-programmes/coursebrochurel1it2023intake4.pdf) {:target="_blank"} 
 
 [Waiting list](https://form.gov.sg/64e6c1f283091c0011427f02) {:target="_blank"} 
 
@@ -39,7 +39,7 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Registration Form](https://go.gov.sg/l2it32023reg){:target="_blank"}- [Details](/files/executive-tax-programmes/L2IT32023coursebrochure.pdf) {:target="_blank"} 
+[Registration Form](https://go.gov.sg/l2it32023reg){:target="_blank"}- [Details](/files/executive-tax-programmes/l2it32023coursebrochure.pdf) {:target="_blank"} 
 
 Registration is CLOSED.  
 
@@ -52,7 +52,7 @@ The Advanced Tax Programme (ATP) is the foremost training programme for tax prof
 
 **Intake 1/2023, April 2023 to March 2024:**
 
-[Registration Form - Full Programme](https://form.gov.sg/63eb41e7cdd5090011717097){:target="\_blank"} -[Schedule](/files/executive-tax-programmes/ATP 1-2023 Schedule - Publicity.pdf){:target="\_blank"} -[Details](/files/executive-tax-programmes/ATP (Intake 1-2023) Brochure_final.pdf){:target="\_blank"}
+[Registration Form - Full Programme](https://form.gov.sg/63eb41e7cdd5090011717097){:target="\_blank"} -[Schedule](/files/executive-tax-programmes/atp 1-2023 schedule - publicity.pdf){:target="\_blank"} -[Details](/files/executive-tax-programmes/ATP (Intake 1-2023) Brochure_final.pdf){:target="\_blank"}
 
 **Registration closes on 10 March 2023.**
 
@@ -73,7 +73,7 @@ The Advanced Tax Programme (ATP) is the foremost training programme for tax prof
 
 **- Accredited Tax Practitioner with SCTP**
 
-For more details on TA Programme Admission Requirement, please refer to [Frequently Asked Questions on Programme Admission](/files/TA Programme Admission Requirements Information Package_TA Website_Feb2023.pdf){:target="\_blank"}
+For more details on TA Programme Admission Requirement, please refer to [Frequently Asked Questions on Programme Admission](/files/ta programme admission requirements information package_ta website_feb2023.pdf){:target="\_blank"}
 
 ### **Book Prizes**
 

@@ -5,7 +5,7 @@ breadcrumb: Customised Programmes
 ---
 Tax Academy leverages on its strong network of partners (e.g. IRAS, Big 4 accounting firms, ISCA and Law Society) to provide customised training programmes to suit your organisation’s training needs.
 
-We have tailored programmes for both public and private sector organisations. You can refer to a [sample](/files/executive-tax-programmes/Course-Outline-for-Customised-Courses.pdf) of some of our past programmes tailored for our customers.
+We have tailored programmes for both public and private sector organisations. You can refer to a [sample](/files/executive-tax-programmes/course-outline-for-customised-courses.pdf) of some of our past programmes tailored for our customers.
 
 ##### **Benefits of a customised programme**
 

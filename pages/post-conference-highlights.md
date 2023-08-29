@@ -12,7 +12,7 @@ More than 350 participants took away a key message that Singapore will adjust it
 
 In her opening address at the event, Minister Indranee Rajah shared about the Base Erosion and Profit Shifting (BEPS 2.0) Project, which involves a revision of international tax rules.
 
-![Alt text for image on Isomer site](/images/2Mv2.jpg)
+![Alt text for image on Isomer site](/images/2mv2.jpg)
 **Opening Address** by Guest-of-Honour, Minister in the Prime Minister’s Office, Second Minister for Finance and National Development, Ms Indranee Rajah.
 
 “There is strong international momentum to achieve a global agreement on BEPS, including a minimum effective tax rate of at least 15%, by the end of this year. Post-BEPS 2.0, Singapore as a small economy will have to work harder than ever to attract and retain investment. But we are no strangers to hard work and meeting challenges. Together, we can strengthen or build new advantages, and seek new opportunities.”  - Minister Indranee Rajah
@@ -41,10 +41,10 @@ Beyond the short-term concerns of tax revenues and impending Pillar 1 and 2 chan
 
 We, at the Tax Academy, thank all speakers, panelists, guests and participants for making this conference a success! We hope to see you at our next event. 
 
-![Alt text for image on Isomer site](/images/Pascal.png)
+![Alt text for image on Isomer site](/images/pascal.png)
 Mr Pascal Saint-Amans shared on recent progress towards the renewed international tax cooperation during his segment on “Making the Global Taxation System Work”
 
-![Alt text for image on Isomer site](/images/Panel.jpg)
+![Alt text for image on Isomer site](/images/panel.jpg)
 Panel Discussion on “Fiscal Sustainability and Taxes in Post-Pandemic World”.
 
 Panelists, (from top left to right) Ms Doreen Tan, Mr Rajat Bansal, Mr Giammarco Cottani, (from bottom left to right) Mr Chris Woo, Ms Chiam Yah Fang, Mr Harvey Koenig
