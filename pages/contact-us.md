@@ -19,7 +19,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: You might like to check out the <a
-          href="/files/seminars-brochures/FAQ_16May.pdf">FAQ</a> to see if your
+          href="/files/seminars-brochures/faq_16may.pdf">FAQ</a> to see if your
           query is already answered here.
     title: Frequently Asked Questions
   - content:

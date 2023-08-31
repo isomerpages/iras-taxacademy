@@ -7,7 +7,7 @@ Tax Academy of Singapore sponsors book prizes to students taking the taxation mo
 
 ### **2020/2021 Academic Year Tax Academy Book Prize Recipient from Nanyang Technological University**
 
-![Image of Tax Academy Book Prize](/images/Wong Qi En.jpg)
+![Image of Tax Academy Book Prize](/images/wong qi en.jpg)
 Wong Qi En<br>
 Best Performance in International Tax and Trading Law<br>
 
@@ -37,14 +37,14 @@ Best Performance in Taxation Module<br>
 
 ### **2021/2022 Academic Year Tax Academy Book Prize Recipient from Temasek Polytechnic**
 
-![Image of Tax Academy Book Prize](/images/Valliammai.jpg)
+![Image of Tax Academy Book Prize](/images/valliammai.jpg)
 Valliammai d/o Lakshmanan<br>
 Top Student in Taxation Module<br>
 
 
 ### **2018/2019 Academic Year Tax Academy Book Prize Recipient from Singapore Polytechnic**
 
-![Image of Tax Academy Book Prize](/images/SP Si Dian.jpg)
+![Image of Tax Academy Book Prize](/images/sp si dian.jpg)
 Koo Si Dian<br>
 Top Student in Taxation Module<br>
 
