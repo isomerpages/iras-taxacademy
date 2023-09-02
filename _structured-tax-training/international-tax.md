@@ -17,7 +17,7 @@ breadcrumb: International Tax
 * Jan 2023 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **International Tax Programme Level 3 : Advanced International Tax Planning Programme**
-* Aug 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
+* Aug 2022 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
@@ -78,6 +78,6 @@ Dates of programme held at Revenue House (Singapore): 23 &amp; 24 Aug 2023 (Each
 
 [Registration Form](https://go.gov.sg/intltax2023){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/advanced itp 2023 programme brochure_final.pdf){:target="_blank"}
 
-**Registration is OPEN for 2023 intake.**
+**Registration is CLOSED for 2023 intake.**
 
 **Please read [Terms and Conditions](/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
