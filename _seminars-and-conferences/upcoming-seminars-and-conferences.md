@@ -11,6 +11,9 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 29 Sep: [Tax Academy Conference 2023: Navigating BEPS 2.0 – Opportunities and Challenges](https://www.taxacademy.sg/conference-2023/)
 
+* 25 Sep : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#25sep-ta-id)
+
+
 **AUGUST**
 
 * 31 Aug : [FasTax Series: Withholding Tax - Implications of Tax Treaties](#31aug-ta-id)
