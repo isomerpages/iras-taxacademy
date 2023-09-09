@@ -22,6 +22,14 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 4 Aug : [TaxEdge Series: Indonesia Tax Updates](#4aug-ta-id)
 
+
+<a id="25sep-ta-id"></a>
+#### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
+**25 Sep | 2.00 p.m. to 5.00 p.m.**
+
+
+
+
 <a id="31aug-ta-id"></a>
 #### **FasTax Series: Withholding Tax - Implications of Tax Treaties**<br>
 **31 Aug | 2.00 p.m. to 5.00 p.m.**
