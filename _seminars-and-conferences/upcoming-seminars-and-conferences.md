@@ -11,97 +11,24 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * 29 Sep: [Tax Academy Conference 2023: Navigating BEPS 2.0 – Opportunities and Challenges](https://www.taxacademy.sg/conference-2023/)
 
-**AUGUST**
+* 25 Sep : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#25sep-ta-id)
 
-* 31 Aug : [FasTax Series: Withholding Tax - Implications of Tax Treaties](#31aug-ta-id)
 
-* 24 Aug : [FasTax Series: Fundamentals of GST Principles for Filing Returns](#24aug-ta-id)
 
-* 4 Aug : [TaxEdge Series: Indonesia Tax Updates](#4aug-ta-id)
+<a id="25sep-ta-id"></a>
+#### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
+**25 Sep | 2.00 p.m. to 5.00 p.m.**
 
-<a id="31aug-ta-id"></a>
-#### **FasTax Series: Withholding Tax - Implications of Tax Treaties**<br>
-**31 Aug | 2.00 p.m. to 5.00 p.m.**
-
-At the end of the session, participants will:
-
-* Understand the requirements of withholding tax, implications of tax treaties and regulations on businesses
-
-* Be able to apply tax treaties to common cross-border payments through worked examples and case studies
-
-Agenda:
-* Fundamentals of treaty interpretation
-* Introduction to common DTA provisions
-* Impact of measures to prevent granting of treaty benefits in inappropriate circumstances
-* Worked examples and case studies
+This webinar will feature practical examples illustrating the use of Assisted Self-help Kit (ASK) for good GST compliance.  You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
 
 **Admin Details:**
 * This webinar will be conducted via Zoom
-* Date: 31 Aug 2023
+* Date: 25 Sep 2023
 * Time: 2pm to 5pm
 * Fees: SGD 70.20 (incl. 8% GST)
 * Registration is on first-come-first served.
-* [Registration Form](https://form.gov.sg/64d06d941ac391001291b29d)
+* [Registration Form](https://form.gov.sg/64fbf7eebe9c4200126c5af0)
 
-
-<a id="24aug-ta-id"></a>
-#### **FasTax Series: Fundamentals of GST Principles for Filing Returns<br>(formerly known as Fundamentals of GST Filing)**
-**24 Aug | 3.00 p.m. to 5.00 p.m.**
-
-The agenda of the webinar is as follow:
-
-* Responsibilities of a GST-Registered Business
-* Key GST Concepts
-* Common GST Errors
-* Reimbursement and Disbursement of Expenses
-* Fringe Benefits
-* Zero-Rating of International Services
-* Q&amp;A Session
-
-**Admin details**
-
-* The webinar will be conducted via Zoom
-* Date: 24 Aug 2023
-* Time: 3.00pm to 5.00pm
-* Fee: SGD 43.20 (incl. GST)
-* Registration is on first-come-first served.
-* [Registration Form](https://form.gov.sg/64d06acad34c3100115530fa)
-
-
-<a id="4aug-ta-id"></a>
-#### **TaxEdge Series: Indonesia Tax Updates**
-**4 Aug | 3.00 p.m. to 5.00 p.m.**
-
-This webinar will cover:
-
-**Overview of Indonesia’s tax policy and administration**
-* Common forms of doing business in Indonesia
-* Fundamental Indonesia tax system (CIT, WHT, VAT)
-* General framework of Tax Audit and Tax Disputes procedures
-* Tax Incentives
-
-**Tax Administration Trend in a post-covid environment**
-* 1st tax reform – 2020 – Job Creation Law
-* 2nd tax reform – 2021 – Harmonization of Tax Regulations Law
-
-**Brief Impact of International Tax developments**
-* BEPS &amp; MLI
-* Pillar 1 and Pillar 2
-* Impact of Indonesia-SG tax treaty
-* Some major differences under the new Indonesia-SG tax treaty
-
-**Admin details**
-
-* The webinar will be conducted via Zoom
-* Date: 4 Aug 2023
-* Time: 3.00pm to 5.00pm
-* Fee: SGD 43.20 (incl. GST)
-* Speaker: Mr Cindy Sukiman, Partner, Deloitte Touche Solutions, Indonesia
-* [Registration form](https://form.gov.sg/64ae4569b0717e00124f899d)
-
-**About the Speaker**
-
-Mr Cindy Sukiman has over 22 years experience as a tax consultant and he has extensive experience in serving a broad range of multinational and large national clients, energy &amp; resources, manufacturing, consumer and services companies. He has been involved in various advisory work on restructurings, M&amp;A, tax planning projects, and tax dispute/tax audit resolutions. In particular, he has been involved in undertaking various tax reviews and due diligence projects, and acting as a legal proxy for appeals and lawsuits before the Tax Court. Cindy is the Deloitte Indonesia Energy and Resources Tax Leader, Business Tax, International Tax and M&amp;A Tax specialist. He is also a frequent public and keynote speaker at seminars and trainings.
 
 
 
