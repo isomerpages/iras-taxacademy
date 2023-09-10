@@ -49,7 +49,7 @@ Pui Ming is the Head of Tax with Ernst &amp; Young Singapore. She has more than 
 Pui Ming was previously the EY Asean Leader for Global Compliance and Reporting, where she headed the record-to-report services in the region, which span traditional tax compliance, tax accounting, as well as book-keeping, payroll, and corporate secretarial services. She is also experienced in tax advisory matters including acquisitions, group reorganization, tax controversies and health checks etc. Pui Ming holds a Bachelor of Accountancy (Second Upper Honours) from the National University of Singapore. She is a member of the Institute of Singapore Chartered Accountants. She is also an Accredited Tax Advisor (Income Tax) of the Singapore Institute of Accredited Tax Professionals. 
 
 **Mr Ajay Sanganeria** <br>
-Head of Tax <br>
+Partner, Head of Tax <br>
 KPMG Singapore <br>
 
 Ajay leads the tax practice for KPMG Singapore and has more than 20 years of post-qualification experience in the areas of tax consulting and compliance. He specialises in corporate and international tax and has advised numerous clients on inbound/outbound investments, pre and post IPO structuring, supply chain hub model restructuring, cross border service fee/royalty payments, procurement model and intellectual property structuring. Ajay has contributed many articles in academic journals, leading business publications and newspapers. He is also a regular speaker on tax issues including in collaboration with industry associations and Government agencies.<br>
