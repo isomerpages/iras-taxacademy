@@ -33,4 +33,4 @@ This webinar will feature practical examples illustrating the use of Assisted Se
 
 
 
-**Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for seminars.**
+**Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/) for seminars.**
