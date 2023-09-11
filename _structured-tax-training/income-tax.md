@@ -24,8 +24,6 @@ Participants will learn to compute income tax liability for individuals accurate
 
 [Registration Form for Intake 3](https://go.gov.sg/l1it32023registration){:target="_blank"} - [Details](/files/executive-tax-programmes/coursebrochurel1it2023intake3.pdf){:target="_blank"}
 
-[Registration Form for Intake 4](https://go.gov.sg/l1it42023registration){:target="_blank"}- [Details](/files/executive-tax-programmes/coursebrochurel1it2023intake4.pdf) {:target="_blank"} 
-
 [Registration Form for Intake 4](https://go.gov.sg/l1it42023registration){:target="_blank"} - [Details](/files/executive-tax-programmes/coursebrochurel1it2023intake4.pdf){:target="_blank"}
 
 [Waiting list](https://form.gov.sg/64e6c1f283091c0011427f02) {:target="_blank"} 
