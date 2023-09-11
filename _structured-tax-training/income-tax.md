@@ -22,11 +22,11 @@ This course covers interpretation of the primary provisions in the Income Tax Ac
 
 Participants will learn to compute income tax liability for individuals accurately.
 
-[Registration Form for Intake 3](https://go.gov.sg/l1it32023registration){:target="_blank"}- [Details](/files/executive-tax-programmes/coursebrochurel1it2023intake3.pdf) {:target="_blank"} 
+[Registration Form for Intake 3](https://go.gov.sg/l1it32023registration){:target="_blank"} - [Details](/files/executive-tax-programmes/coursebrochurel1it2023intake3.pdf){:target="_blank"}
 
-[Registration Form for Intake 4](https://go.gov.sg/l1it42023registration){:target="_blank"}- [Details](/files/executive-tax-programmes/coursebrochurel1it2023intake4.pdf) {:target="_blank"} 
+[Registration Form for Intake 4](https://go.gov.sg/l1it42023registration){:target="_blank"} - [Details](/files/executive-tax-programmes/coursebrochurel1it2023intake4.pdf){:target="_blank"}
 
-[Waiting list](https://form.gov.sg/64e6c1f283091c0011427f02) {:target="_blank"} 
+[Waiting list](https://form.gov.sg/64e6c1f283091c0011427f02){:target="_blank"} 
 
 Registration is OPEN.
 
@@ -39,7 +39,7 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Registration Form](https://go.gov.sg/l2it32023reg){:target="_blank"}- [Details](/files/executive-tax-programmes/l2it32023coursebrochure.pdf) {:target="_blank"} 
+[Registration Form](https://go.gov.sg/l2it32023reg){:target="_blank"} - [Details](/files/executive-tax-programmes/l2it32023coursebrochure.pdf){:target="_blank"} 
 
 Registration is CLOSED.  
 
