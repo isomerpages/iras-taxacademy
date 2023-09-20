@@ -25,6 +25,18 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Having a proper set of transfer pricing documentation is essential for businesses not only for reporting purpose, it will be useful in times of transfer pricing disputes with foreign tax authorities. Join us in this webinar, where our speakers from Deloitte, Mr Avik Bose (Tax Partner, Transfer Pricing) and Mr Tay Eng Hong (Director, Transfer Pricing), together with IRAS, Ms Julia Chew (Deputy Director) and Ms Maurine Lee (Tax Specialist (Accredited)), provide you with insights and experiences in the areas of&nbsp; Singapore’s Transfer Pricing regime
 
+Agenda:
+* Overview of Singapore’s TP regime
+* TP documentation and mistakes to avoid
+* TP disputes—prevention and resolution
+
+**Admin Details:**
+* This webinar will be conducted via Zoom
+* Date: 20 Oct 2023
+* Time: 2pm to 5pm
+* Fees: SGD 70.20 (incl. 8% GST)
+* Registration is on first-come-first served.
+* [Registration Form]
 
 
 <a id="25sep-ta-id"></a>
