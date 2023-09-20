@@ -23,7 +23,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
 **20 Oct | 2.00 p.m. to 5.00 p.m.**
 
-
+Having a proper set of transfer pricing documentation is essential for businesses not only for reporting purpose, it will be useful in times of transfer pricing disputes with foreign tax authorities. Join us in this webinar, where our speakers from Deloitte, Mr Avik Bose (Tax Partner, Transfer Pricing) and Mr Tay Eng Hong (Director, Transfer Pricing), together with IRAS, Ms Julia Chew (Deputy Director) and Ms Maurine Lee (Tax Specialist (Accredited)), provide you with insights and experiences in the areas of&nbsp; Singapore’s Transfer Pricing regime
 
 
 
