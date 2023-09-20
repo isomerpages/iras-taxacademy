@@ -7,11 +7,23 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**OCTOBER**
+* 20 Oct : [FasTax Series:Singapore Transfer Pricing Essentials](#20oct-ta-id)
+
+
 **SEPTEMBER**
 
 * 29 Sep: [Tax Academy Conference 2023: Navigating BEPS 2.0 – Opportunities and Challenges](https://www.taxacademy.sg/conference-2023/)
 
 * 25 Sep : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#25sep-ta-id)
+
+
+
+<a id="20oct-ta-id"></a>
+#### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
+**20 Oct | 2.00 p.m. to 5.00 p.m.**
+
+
 
 
 
