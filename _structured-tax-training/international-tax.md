@@ -11,7 +11,7 @@ breadcrumb: International Tax
 * Sep/Oct 2023 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme**
-* Oct 2023 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
+* Registration is CLOSED for intake 2023
 
 ##### **International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties Programme**
 * Jan 2023 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
@@ -56,7 +56,7 @@ Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12, Oct 2023
 
 [Registration Form](https://go.gov.sg/fgnacs){:target="_blank"} - [Details](/files/executive-tax-programmes/wu ta advanced transfer pricing programme 2023.pdf){:target="_blank"}
 
-**Registration is OPEN for 2023 intake.**
+**Registration is CLOSED for 2023 intake.**
 
 <a id="leiden-ta-id"></a>
 ### **International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties**
