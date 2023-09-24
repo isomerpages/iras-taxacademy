@@ -41,6 +41,11 @@ Agenda:
 * [Registration Form](https://form.gov.sg/650a93232ccd0f0012d9ea9b)
 
 
+<a id="10oct-ta-id"></a>
+#### **TEI-TA Webinar on The Evolution of the Tax Professional**<br>
+**10 Oct | 3.00 p.m. to 5.00 p.m.**
+
+
 <a id="25sep-ta-id"></a>
 #### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
 **25 Sep | 2.00 p.m. to 5.00 p.m.**
