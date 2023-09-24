@@ -47,7 +47,17 @@ Agenda:
 
 Aspiring to be a successful tax professional? Tax Executives Institute (TEI) and Tax Academy of Singapore are proud to present this webinar showcasing the career journey of successful tax professionals and the skillsets required to prepare for the future. Get the inside track of the tax profession and the career opportunities ahead.
 
+**Programme**
 
+1. An introduction to TEI and TEI Asia
+2. Sharing by the speakers on their career journey and current roles
+3. Entering the tax industry and learning points
+4. Insights to their career choices and risks
+5. Skillsets that are relevant today and new skills for the future
+6. Outlook for future tax professionals
+7. Panel Discussion:
+* Challenges for multinationals today
+* The role of in-house tax team in managing and dealing with the challenges
 
 <a id="25sep-ta-id"></a>
 #### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
