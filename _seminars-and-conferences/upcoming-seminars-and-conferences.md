@@ -65,7 +65,12 @@ Aspiring to be a successful tax professional? Tax Executives Institute (TEI) and
 
 **Ms Theresa Chua** is a Senior Tax Director at Procter &amp; Gamble and currently the Secretary and Board Member of the Asia Chapter of TEI. She has more than 20 years of experience in corporate and indirect taxation, transfer pricing, mergers and acquisitions, divestitures, business restructurings, tax planning and policy across various jurisdictions in Asia Pacific. Theresa has Bachelor of Accountancy, Bachelor of Laws, Master of Taxation and is a Chartered Accountant and lawyer.
 
-Ms Annie Pan is the Regional Head of Tax at CDPQ. She oversees all tax related matters in the region, including planning, advisory, compliance, reporting and advocacy, with a key focus on M&amp;A for different asset class within CDPQ. Annie has over 20 years of international taxation experience; having worked both in house and big 4 in different country such as Australia, China and Singapore as well as US. Annie is an Australian Certified Public Accountant. She &nbsp;is an active member of the Tax Executives Institute (TEI), where she currently serves on TEI Asia Chapter board of directors, and she is the membership committee leader looking after all the members within this region.
+**Ms Annie Pan** is the regional head of tax at CDPQ. She oversees all tax related matters in the region, including planning, advisory, compliance, reporting and advocacy, with a key focus on M&amp;A for different asset class within CDPQ. Annie has over 20 years of international taxation experience; having worked both in house and big 4 in different country such as Australia, China and Singapore as well as US. Annie is an Australian Certified Public Accountant. She &nbsp;is an active member of the Tax Executives Institute (TEI), where she currently serves on TEI Asia Chapter board of directors, and she is the membership committee leader looking after all the members within this region.
+
+**Admin Details:**
+* This is a Complimentary webinar. It will be conducted via Zoom.
+
+
 
 <a id="25sep-ta-id"></a>
 #### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
