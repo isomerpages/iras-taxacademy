@@ -59,6 +59,13 @@ Aspiring to be a successful tax professional? Tax Executives Institute (TEI) and
 * Challenges for multinationals today
 * The role of in-house tax team in managing and dealing with the challenges
 
+**Admin Details:**
+* This is a Complimentary webinar. It will be conducted via Zoom.
+* Date: 10 Oct 2023
+* Time: 3pm to 5pm
+* Registration is on first-come-first served.
+* [Registration Form](https://form.gov.sg/65105a7f8387e00012db46d4)
+
 **About the Speakers**
 
 **Mr Patrick Connolly** is the current Asia Chapter President of the TEI having taken over the role in July 2021.&nbsp; He has worked in Asia for over 15 years. Patrick has a Bachelor of Laws and a Bachelor of Commerce degree and is currently a Senior Tax Director for Jabil Inc, a US MNC currently ranked as a top 200 Fortune company.&nbsp;He is responsible for managing tax covering Asia and EMEA.&nbsp;He has over 20 years of international tax experience with in-house roles covering Europe/EMEA, Asia and Australasia.&nbsp;He started his career in the Big 4 and also spent 3 years practicing commercial law.
@@ -66,10 +73,6 @@ Aspiring to be a successful tax professional? Tax Executives Institute (TEI) and
 **Ms Theresa Chua** is a Senior Tax Director at Procter &amp; Gamble and currently the Secretary and Board Member of the Asia Chapter of TEI. She has more than 20 years of experience in corporate and indirect taxation, transfer pricing, mergers and acquisitions, divestitures, business restructurings, tax planning and policy across various jurisdictions in Asia Pacific. Theresa has Bachelor of Accountancy, Bachelor of Laws, Master of Taxation and is a Chartered Accountant and lawyer.
 
 **Ms Annie Pan** is the regional head of tax at CDPQ. She oversees all tax related matters in the region, including planning, advisory, compliance, reporting and advocacy, with a key focus on M&amp;A for different asset class within CDPQ. Annie has over 20 years of international taxation experience; having worked both in house and big 4 in different country such as Australia, China and Singapore as well as US. Annie is an Australian Certified Public Accountant. She &nbsp;is an active member of the Tax Executives Institute (TEI), where she currently serves on TEI Asia Chapter board of directors, and she is the membership committee leader looking after all the members within this region.
-
-**Admin Details:**
-* This is a Complimentary webinar. It will be conducted via Zoom.
-
 
 
 <a id="25sep-ta-id"></a>
