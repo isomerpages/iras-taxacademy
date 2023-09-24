@@ -59,6 +59,14 @@ Aspiring to be a successful tax professional? Tax Executives Institute (TEI) and
 * Challenges for multinationals today
 * The role of in-house tax team in managing and dealing with the challenges
 
+**About the Speakers**
+
+**Mr Patrick Connolly** is the current Asia Chapter President of the TEI having taken over the role in July 2021.&nbsp; He has worked in Asia for over 15 years. Patrick has a Bachelor of Laws and a Bachelor of Commerce degree and is currently a Senior Tax Director for Jabil Inc, a US MNC currently ranked as a top 200 Fortune company.&nbsp;He is responsible for managing tax covering Asia and EMEA.&nbsp;He has over 20 years of international tax experience with in-house roles covering Europe/EMEA, Asia and Australasia.&nbsp;He started his career in the Big 4 and also spent 3 years practicing commercial law.
+
+**Ms Theresa Chua** is a Senior Tax Director at Procter &amp; Gamble and currently the Secretary and Board Member of the Asia Chapter of TEI. She has more than 20 years of experience in corporate and indirect taxation, transfer pricing, mergers and acquisitions, divestitures, business restructurings, tax planning and policy across various jurisdictions in Asia Pacific. Theresa has Bachelor of Accountancy, Bachelor of Laws, Master of Taxation and is a Chartered Accountant and lawyer.
+
+
+
 <a id="25sep-ta-id"></a>
 #### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
 **25 Sep | 2.00 p.m. to 5.00 p.m.**
