@@ -10,7 +10,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **OCTOBER**
 * 20 Oct : [FasTax Series:Singapore Transfer Pricing Essentials](#20oct-ta-id)
 
-* 10 Oct : [TEI-TA Webinar on The Evolution of the Tax Professional](#10oct-ta-id)
+* 10 Oct : [TEI-TA Joing Webinar: The Evolution of the Tax Professional](#10oct-ta-id)
 
 
 **SEPTEMBER**
