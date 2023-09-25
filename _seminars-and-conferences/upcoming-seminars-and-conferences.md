@@ -10,7 +10,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **OCTOBER**
 * 20 Oct : [FasTax Series:Singapore Transfer Pricing Essentials](#20oct-ta-id)
 
-* 10 Oct : [TEI-TA Webinar on The Evolution of the Tax Professional](#10oct-ta-id)
+* 10 Oct : [TEI-TA Joint Webinar: The Evolution of the Tax Professional](#10oct-ta-id)
 
 
 **SEPTEMBER**
@@ -42,7 +42,7 @@ Agenda:
 
 
 <a id="10oct-ta-id"></a>
-#### **TEI-TA Webinar on The Evolution of the Tax Professional**<br>
+#### **TEI-TA Joint Webinar: The Evolution of the Tax Professional**<br>
 **10 Oct | 3.00 p.m. to 5.00 p.m.**
 
 Aspiring to be a successful tax professional? Tax Executives Institute (TEI) and Tax Academy of Singapore are proud to present this webinar showcasing the career journey of successful tax professionals and the skillsets required to prepare for the future. Get the inside track of the tax profession and the career opportunities ahead.
