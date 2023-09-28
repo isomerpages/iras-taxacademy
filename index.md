@@ -8,9 +8,9 @@ description: Tax Academy of Singapore is a not-for-profit institution set up by
   the Law Society of Singapore
 permalink: /
 notification: Tax Academy Office will be closed on 29 Sep 2023 for the
-  Conference on Navigating BEPS 2.0 - Opportunities and Challenges. Please refer
-  to the respective pages on this website for latest updates on our programmes.
-  For enquiries, please contact us via <a
+  "Conference on Navigating BEPS 2.0 - Opportunities and Challenges" Please
+  refer to the respective pages on this website for latest updates on our
+  programmes. For enquiries, please contact us via <a
   href="https://form.gov.sg/#!/5d2c51283703d80011e52615">Enquiries and Feedback
   Form.</a>
 sections:
