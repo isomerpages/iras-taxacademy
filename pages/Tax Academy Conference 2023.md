@@ -13,3 +13,7 @@ Guest-of-Honour, Ms Indranee Rajah, Minister in the Prime Minister’s Office, S
 ![](/images/2m%20picture.jpg)
 ***Opening Address by Minister Indranee Rajah***
 
+
+BEPS 2.0 aims to address tax challenges arising from the digitalization of the economy. Pillar One involves reallocating taxing rights to market jurisdictions, while Pillar Two establishes a global minimum tax rate to prevent large multi-national companies from shifting profits to low-tax jurisdictions.
+
+The conference keynote speaker Dr Achim Pross, Deputy Director of the OECD Centre for Tax Policy and Administration, shared how the Inclusive Framework, comprising more than 140 jurisdictions, collaborated together to design the new global tax rules, so as to bring some stability to the international taxation and inevitably promote tax certainty.
