@@ -11,4 +11,5 @@ Tax Academy held a successful in-person conference, “**Navigating BEPS 2.0 –
 
 Guest-of-Honour, Ms Indranee Rajah, Minister in the Prime Minister’s Office, Second Minister for Finance and National Development delivered the opening address at the conference. About 250 conference attendees took away a key message that Singapore will continue to strengthen its competitiveness in a post-BEPS 2.0 environment and ensure continued ease of doing business for enterprises in Singapore, as we align our regime with the internationally agreed standards.
 ![](/images/2m%20picture.jpg)
-**_Opening Address by Minister Indranee Rajah_**
+***Opening Address by Minister Indranee Rajah***
+
