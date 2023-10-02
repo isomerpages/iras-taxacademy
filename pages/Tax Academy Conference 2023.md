@@ -22,3 +22,4 @@ The conference keynote speaker Dr Achim Pross, Deputy Director of the OECD Centr
 ![](/images/panel%201%20picture.jpg)
 ***Plenary Session “Developments on Pillar 1 Multilateral Convention”***
 ***Panellists debated on the opportunities and challenges arising from the complexities for Pillar 1.***
+![](/images/pillar%202%20picture.jpg)
