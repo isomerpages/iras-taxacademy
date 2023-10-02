@@ -19,3 +19,4 @@ BEPS 2.0 aims to address tax challenges arising from the digitalization of the e
 The conference keynote speaker Dr Achim Pross, Deputy Director of the OECD Centre for Tax Policy and Administration, shared how the Inclusive Framework, comprising more than 140 jurisdictions, collaborated together to design the new global tax rules, so as to bring some stability to the international taxation and inevitably promote tax certainty.
 ![](/images/achim%20picture.jpg)
 ***Keynote Speaker, Dr Achim Pross on “The Path Ahead for BEPS 2.0”***
+![](/images/panel%201%20picture.jpg)
