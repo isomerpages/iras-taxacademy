@@ -22,4 +22,10 @@ The conference keynote speaker Dr Achim Pross, Deputy Director of the OECD Centr
 ![](/images/panel%201%20picture.jpg)
 ***Plenary Session “Developments on Pillar 1 Multilateral Convention”***
 ***Panellists debated on the opportunities and challenges arising from the complexities for Pillar 1.***
-![](/images/pillar%202%20picture.jpg)
+![](/images/pillar%202%20picture.jpg) 
+***Plenary Session “Navigating Pillar 2 Tax Changes for The MNEs”***
+***Panellists shared from the countries’ perspectives on Pillar 2 and its implications on businesses***
+
+While the future of BEPS 2.0 presents challenges, it certainly has the potential to improve the international tax system and create a level playing field for businesses by ensuring that all companies, regardless of their size or location, pay a fair share of taxes.
+
+Tax Academy would like to thank all speakers, panelists, guests and participants for making this conference a success! We hope to see you at our next event.
