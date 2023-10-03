@@ -14,9 +14,9 @@ Baker Tilly Singapore <br>
 #### **Members**
 
 <table> 
-<tr>
+<tbody><tr>
 
-<td style = "padding-left: 0">
+<td style="padding-left: 0">
 <p>
 
 <b>Mrs Eng Li Ming</b>
@@ -29,14 +29,14 @@ LM APPS
 <p>
 
 <b>Mr Eugene Gay</b><br>
-Head of Tax, Asia Pacific <br>
-Marsh & McLennan Companies
+Head of Tax, Asia Pacific, Middle East &amp; Africa <br>
+Marsh &amp; McLennan Companies
 </p>
 </td>
 </tr>
 
 <tr>
-<td style = "padding-left: 0">
+<td style="padding-left: 0">
 <p>
 
 <b>Mr Daniel Ho</b> <br>
@@ -56,7 +56,7 @@ Inland Revenue Authority of Singapore
 </tr>
 
 <tr>
-<td style = "padding-left: 0">
+<td style="padding-left: 0">
 <p>
 
 <b>Associate Professor<br>Stephen Phua</b><br>
@@ -73,4 +73,4 @@ PwC Singapore
 </p>
 </td>
 </tr>
-</table>
+</tbody></table>

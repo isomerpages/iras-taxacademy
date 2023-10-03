@@ -2,10 +2,7 @@
 title: Trainers
 permalink: /who-we-are/trainers/
 breadcrumb: Trainers
-
 ---
-
-
 Our team of trainers include experts from IRAS, MOF, the international accounting firms, overseas and local universities and the industry.
 
 
@@ -15,12 +12,11 @@ Our team of trainers include experts from IRAS, MOF, the international accountin
 
 ![Image of Tax Academy trainers]({{"/images/trainers 3.jpg" | absolute_url}})<br>
 
-![Image of Tax Academy trainers]({{"/images/Trainers 4.jpg" | absolute_url}})<br>
+![Image of Tax Academy trainers]({{"/images/trainers 4.jpg" | absolute_url}})<br>
 
-![Image of Tax Academy trainers]({{"/images/Trainers 5.jpg" | absolute_url}})<br>
+![Image of Tax Academy trainers]({{"/images/trainers 5.jpg" | absolute_url}})<br>
 
-![Image of Tax Academy trainers]({{"/images/Trainers 6.jpg" | absolute_url}})<br>
+![Image of Tax Academy trainers]({{"/images/trainers 6.jpg" | absolute_url}})<br>
 
-![Image of Tax Academy trainers]({{"/images/Trainers 7.jpg" | absolute_url}})<br>
-
+![Image of Tax Academy trainers]({{"/images/trainers 7.jpg" | absolute_url}})<br>
 
