@@ -35,7 +35,7 @@ sections:
       description: 29 September 2023 | 9.00am to 4.30pm
       button: Post Conference Highlights
       url: https://www.taxacademy.sg/conference-2023/
-      image: /images/2save the date.png
+      image: /images/key visual 29 sep 2023.jpg
       alt: Image alt text
 image: /images/isomer-logo.svg
 ---
