@@ -20,6 +20,7 @@ The conference keynote speaker Dr Achim Pross, Deputy Director of the OECD Centr
 ![](/images/achim%20keynote.jpg)
 ***Keynote Speaker, Dr Achim Pross on “The Path Ahead for BEPS 2.0”***
 ![](/images/picture%202.jpg)
+
 ***Plenary Session “Developments on Pillar 1 Multilateral Convention”***
 ***Panellists debated on the opportunities and challenges arising from the complexities for Pillar 1.***
 
