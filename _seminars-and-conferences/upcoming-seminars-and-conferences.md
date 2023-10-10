@@ -22,6 +22,21 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Join us in this webinar, where our speakers Mr Charles Li from IRAS and Mr Yang Shi Yong from Drew &amp; Napier LLC, provide an overview of the powers and duties that the Comptrollers have under the Income Tax and Goods &amp; Services Tax Acts. The webinar will cover the role of the Comptrollers, their express and implied powers and their duty of confidentiality.
 
+Agenda:
+
+*   Introduction, Role and Duties of the Comptrollers
+*   Powers of the Comptrollers
+*   Issues and Oversight
+*   Q&amp;A
+
+**Admin Details:**
+* This webinar will be conducted via Zoom
+* Date: 2 Nov 2023
+* Time: 3pm to 5pm
+* Fees: SGD 43.20 (incl. 8% GST)
+* Registration is on first-come-first served.
+* [Registration Form]()
+
 
 <a id="20oct-ta-id"></a>
 #### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
