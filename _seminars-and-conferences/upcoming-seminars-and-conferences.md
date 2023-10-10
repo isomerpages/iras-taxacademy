@@ -19,7 +19,8 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 <a id="2nov-ta-id"></a>
 #### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
 **2 Nov | 3.00 p.m. to 5.00 p.m.**
-Join us in this webinar, where our speakers Mr Yang Shi Yong from Drew &amp; Napier LLC and Mr Charles Li from IRAS, provide an overview of the powers and duties that the Comptrollers have under the Income Tax and Goods &amp; Services Tax Acts. The webinar will cover the role of the Comptrollers, their express and implied powers and their duty of confidentiality.
+
+Join us in this webinar, where our speakers Mr Charles Li from IRAS and Mr Yang Shi Yong from Drew &amp; Napier LLC, provide an overview of the powers and duties that the Comptrollers have under the Income Tax and Goods &amp; Services Tax Acts. The webinar will cover the role of the Comptrollers, their express and implied powers and their duty of confidentiality.
 
 
 <a id="20oct-ta-id"></a>
