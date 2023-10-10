@@ -7,18 +7,18 @@ breadcrumb: Upcoming Seminars and Conferences
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**NOVEMBER**
+* 2 Nov : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](#2nov-ta-id)
+
 **OCTOBER**
 * 20 Oct : [FasTax Series:Singapore Transfer Pricing Essentials](#20oct-ta-id)
 
 * 10 Oct : [TEI-TA Joint Webinar: The Evolution of the Tax Professional](#10oct-ta-id)
 
 
-**SEPTEMBER**
-
-* 29 Sep: [Tax Academy Conference 2023: Navigating BEPS 2.0 – Opportunities and Challenges](https://www.taxacademy.sg/conference-2023/)
-
-* 25 Sep : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#25sep-ta-id)
-
+<a id="2nov-ta-id"></a>
+#### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
+**2 Nov | 3.00 p.m. to 5.00 p.m.**
 
 
 <a id="20oct-ta-id"></a>
@@ -73,22 +73,6 @@ Aspiring to be a successful tax professional? Tax Executives Institute (TEI) and
 **Ms Theresa Chua** is a Senior Tax Director at Procter &amp; Gamble and currently the Secretary and Board Member of the Asia Chapter of TEI. She has more than 20 years of experience in corporate and indirect taxation, transfer pricing, mergers and acquisitions, divestitures, business restructurings, tax planning and policy across various jurisdictions in Asia Pacific. Theresa has Bachelor of Accountancy, Bachelor of Laws, Master of Taxation and is a Chartered Accountant and lawyer.
 
 **Ms Annie Pan** is the regional head of tax at CDPQ. She oversees all tax related matters in the region, including planning, advisory, compliance, reporting and advocacy, with a key focus on M&amp;A for different asset class within CDPQ. Annie has over 20 years of international taxation experience; having worked both in-house and Big 4 in different countries such as Australia, China and Singapore as well as US. Annie is an Australian Certified Public Accountant. She is an active member of the Tax Executives Institute (TEI), where she currently serves on TEI Asia Chapter board of directors, and she is the membership committee leader looking after all the members within this region.
-
-
-<a id="25sep-ta-id"></a>
-#### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
-**25 Sep | 2.00 p.m. to 5.00 p.m.**
-
-This webinar will feature practical examples illustrating the use of Assisted Self-help Kit (ASK) for good GST compliance.  You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
-
-**Admin Details:**
-* This webinar will be conducted via Zoom
-* Date: 25 Sep 2023
-* Time: 2pm to 5pm
-* Fees: SGD 70.20 (incl. 8% GST)
-* Registration is on first-come-first served.
-* [Registration Form](https://form.gov.sg/64fbf7eebe9c4200126c5af0)
-
 
 
 
