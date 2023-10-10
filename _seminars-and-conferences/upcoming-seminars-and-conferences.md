@@ -37,6 +37,12 @@ Agenda:
 * Registration is on first-come-first served.
 * [Registration Form](shmUcn6R/+AWoJ15yoPIPm4xrOqhrtVWB6ut8f2SSIE=)
 
+**About the speakers**
+
+Mr Charles Li is the Deputy Director of Advisory &amp; Litigation Branch 2 in the Law Division of the IRAS. He is a dual-qualified lawyer and accountant with broad experience in tax advisory, litigation and prosecution.
+
+Mr Yang Shi Yong is a Director at Drew &amp; Napier LLC. Shi Yong advises on a wide spectrum of tax law with specialization in enterprise tax risk management, tax audit and tax investigation matters. He has successfully resolved a large number of audit and investigation matters without prosecution.
+
 
 <a id="20oct-ta-id"></a>
 #### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
