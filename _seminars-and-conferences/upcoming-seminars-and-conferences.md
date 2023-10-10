@@ -35,7 +35,7 @@ Agenda:
 * Time: 3pm to 5pm
 * Fees: SGD 43.20 (incl. 8% GST)
 * Registration is on first-come-first served.
-* [Registration Form](shmUcn6R/+AWoJ15yoPIPm4xrOqhrtVWB6ut8f2SSIE=)
+* [Registration Form](https://form.gov.sg/6524bbe6a735be00114f5a3e)
 
 **About the speakers**
 
