@@ -20,7 +20,7 @@ Mr Tham is a Fellow of the Institute of Singapore Chartered Accountants, the Ins
 
 **Ms Chiam Yah Fang** <br>
 Chief Executive Officer, Tax Academy of Singapore <br>
-Deputy Commissioner (Business Group)/ Chief Compliance Officer, Inland Revenue Authority of Singapore <br>
+Deputy Commissioner (Business Group), Inland Revenue Authority of Singapore <br>
 
 Yah Fang is the Deputy Commissioner (Business Group)/Chief Compliance Officer of IRAS, providing strategic leadership to IRAS divisions in domestic income tax policies and driving compliance activities aligned with IRAS-wide corporate plans.   
 
@@ -77,6 +77,18 @@ Darren has a keen interest in international taxation and also interest in educat
 **Ms Ong Ken Loon** <br>
 Head, Tax &amp; Private Client Services <br>
 Drew &amp; Napier <br>
+
+Ken Loon advises on tax aspects of corporate transactions, such as income tax, GST, stamp duty, and property tax.
+
+She assists clients with negotiations with the Inland Revenue Authority of Singapore (IRAS) and represents clients before the tax tribunals and Singapore courts. She has worked on a number of tax litigation cases that have led to landmark case law.
+
+Her clients come from across business sectors. She advises local and multinational corporate groups, financial institutions, and investment funds on a broad range of transactions, including mergers and acquisitions, corporate structures and restructurings.
+
+In addition, Ken Loon works with private clients to provide solutions to complex tax, succession and private wealth management issues.
+
+Before joining Drew &amp; Napier in 2008, she was a Principal Legal Officer in the Law Division of the IRAS.
+
+She is recommended as one of Singapore’s leading tax lawyers by various leading international legal publications.
 
 
 **Mr Darren Tan Siew Peng** <br>
