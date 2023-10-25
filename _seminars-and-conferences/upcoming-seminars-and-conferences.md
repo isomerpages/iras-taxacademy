@@ -27,6 +27,12 @@ The global level-playing field on taxation as well as the various national tax s
 
 In this webinar, Professor Dr Martin Wenz from University of Liechtenstein will provide an EU-perspective of BEPS 2.0 on Multinational Companies, Wealth Management Structures and Family Offices, and on the competitiveness and tax revenues of the European countries.
 
+Agenda:
+
+* Introduction to Qualified Refundable Tax Credits (QRTC) and its advantages
+* Methods to maintain competitiveness of EU-Member States
+* Revenue estimations and expectations of EU-Member States
+* Q&amp;A Session
 
 <a id="2nov-ta-id"></a>
 #### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
