@@ -34,6 +34,8 @@ Agenda:
 * Revenue estimations and expectations of EU-Member States
 * Q&amp;A Session
 
+**About the Speakers**
+
 <a id="2nov-ta-id"></a>
 #### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
 **2 Nov | 3.00 p.m. to 5.00 p.m.**
