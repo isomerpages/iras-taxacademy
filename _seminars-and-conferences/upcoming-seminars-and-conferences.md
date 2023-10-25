@@ -35,13 +35,12 @@ Agenda:
 * Q&amp;A Session
 
 **Admin Details:**
-
 * This webinar will be conducted via Zoom
 * Date: 8 Nov 2023
 * Time: 3pm to 5pm
 * Fees: SGD 43.20 (incl. 8% GST)
 * Registration is on first-come-first served.
-* Registration Form
+* [Registration Form]()
 
 **About the Speaker**
 
