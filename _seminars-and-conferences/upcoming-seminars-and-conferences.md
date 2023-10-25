@@ -36,6 +36,9 @@ Agenda:
 
 **About the Speaker**
 
+Professor Dr Martin Wenz is a Professor of National and International Tax Law at the University of Liechtenstein. He holds the Chair for Business Taxation and the Laws of International and Liechtenstein Taxation, and is the Academic Head of the Liechtenstein Executive School and the Program Director of the Master of Laws (LL.M.) in International Taxation. His research interests include international tax policy, tax system redesign, international tax standards, and the international level-playing-field on taxation. He also advises the Liechtenstein Government on national and international tax law. Professor Wenz also provides comprehensive advice to the Liechtenstein Government on national and international tax law including Double Tax Agreements and on the Implementation of International and European Tax Standards including Pillar 2.
+
+
 <a id="2nov-ta-id"></a>
 #### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
 **2 Nov | 3.00 p.m. to 5.00 p.m.**
