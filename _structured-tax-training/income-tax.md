@@ -84,4 +84,9 @@ Full programme participants who achieve the highest score for selected modules o
 
 [Book Prize Winners](/files/executive-tax-programmes/atp%20(intake%2018)%20book%20prize%20winners%20v2.pdf){:target="_blank"}
 
+**Intake 19 Book Prize Winners**
+
+[Book Prize Winners](/files/executive-tax-programmes/atp%20(intake%2019)%20book%20prize%20winners%20v1.pdf){:target="_blank"}
+
+
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/){:target="_blank"} for courses.**
