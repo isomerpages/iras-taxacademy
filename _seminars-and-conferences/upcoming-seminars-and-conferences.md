@@ -34,6 +34,15 @@ Agenda:
 * Revenue estimations and expectations of EU-Member States
 * Q&amp;A Session
 
+**Admin Details:**
+
+* This webinar will be conducted via Zoom
+* Date: 8 Nov 2023
+* Time: 3pm to 5pm
+* Fees: SGD 43.20 (incl. 8% GST)
+* Registration is on first-come-first served.
+* Registration Form
+
 **About the Speaker**
 
 Professor Dr Martin Wenz is a Professor of National and International Tax Law at the University of Liechtenstein. He holds the Chair for Business Taxation and the Laws of International and Liechtenstein Taxation, and is the Academic Head of the Liechtenstein Executive School and the Program Director of the Master of Laws (LL.M.) in International Taxation. His research interests include international tax policy, tax system redesign, international tax standards, and the international level-playing-field on taxation. He also advises the Liechtenstein Government on national and international tax law. Professor Wenz also provides comprehensive advice to the Liechtenstein Government on national and international tax law including Double Tax Agreements and on the Implementation of International and European Tax Standards including Pillar 2.
