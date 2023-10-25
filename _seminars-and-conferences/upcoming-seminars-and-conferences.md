@@ -18,6 +18,16 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 10 Oct : [TEI-TA Joint Webinar: The Evolution of the Tax Professional](#10oct-ta-id)
 
 
+
+<a id="8nov-ta-id"></a>
+#### **TaxEdge Series: The EU-Perspective on BEPS 2.0 (Pillar 2/GloBE**<br>
+**8 Nov | 3.00 p.m. to 5.00 p.m.**
+
+The global level-playing field on taxation as well as the various national tax systems are currently challenged by the implementation of Pillar 2 and the GloBE-Rules regarding the global minimum taxation of 15% on certain multinational enterprises, wealth structures and family offices to floor tax competition. The US follow their amended GILTI-Rules, address the foreign implementation of the GloBE-Undertaxed Profits Rule (UTPR) as a refusable extraterritorial taxation and may implement certain counter measures like the increase of withholding taxes up to 20% on legal entities resident in jurisdictions that implement the UTPR.
+
+In this webinar, Professor Dr Martin Wenz from University of Liechtenstein will provide an EU-perspective of BEPS 2.0 on Multinational Companies, Wealth Management Structures and Family Offices, and on the competitiveness and tax revenues of the European countries.
+
+
 <a id="2nov-ta-id"></a>
 #### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
 **2 Nov | 3.00 p.m. to 5.00 p.m.**
