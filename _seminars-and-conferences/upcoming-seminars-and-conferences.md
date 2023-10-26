@@ -38,6 +38,15 @@ Join us in the upcoming webinar on GST Rate Change where speaker from EY will sh
 
 3. Sharing of common issues faced by businesses
 
+**Admin Details:**
+* This webinar will be conducted via Zoom
+* Date: 16 Nov 2023
+* Time: 10am to 12pm
+* Fees: SGD 43.20 (incl. 8% GST)
+* Registration is on first-come-first served.
+* [Registration Form](https://form.gov.sg/6538edeb124ece0012fd73a5)
+
+
 
 <a id="8nov-ta-id"></a>
 #### **TaxEdge Series: The EU-Perspective on BEPS 2.0 (Pillar 2/GloBE**<br>
