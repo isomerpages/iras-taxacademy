@@ -46,10 +46,13 @@ Join us in the upcoming webinar on GST Rate Change where speaker from EY will sh
 * Registration is on first-come-first served.
 * [Registration Form](https://form.gov.sg/6538edeb124ece0012fd73a5)
 
+**About the speaker**
+
+Ms Monica Sum is a Director specialising in GST at EY Corporate Advisors Pte. Ltd.. She has over 15 years of experience in the field of GST covering compliance and advisory work in various industries for local and multinational companies. Monica also conducts external and customized GST workshops.
 
 
 <a id="8nov-ta-id"></a>
-#### **TaxEdge Series: The EU-Perspective on BEPS 2.0 (Pillar 2/GloBE**<br>
+#### **TaxEdge Series: The EU-Perspective on BEPS 2.0 (Pillar 2/GloBE)**<br>
 **8 Nov | 3.00 p.m. to 5.00 p.m.**
 
 The global level-playing field on taxation as well as the various national tax systems are currently challenged by the implementation of Pillar 2 and the GloBE-Rules regarding the global minimum taxation of 15% on certain multinational enterprises, wealth structures and family offices to floor tax competition. The US follow their amended GILTI-Rules, address the foreign implementation of the GloBE-Undertaxed Profits Rule (UTPR) as a refusable extraterritorial taxation and may implement certain counter measures like the increase of withholding taxes up to 20% on legal entities resident in jurisdictions that implement the UTPR.
