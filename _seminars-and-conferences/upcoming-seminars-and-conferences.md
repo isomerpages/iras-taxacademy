@@ -30,11 +30,11 @@ Join us in the upcoming webinar on GST Rate Change where speaker from EY will sh
 * Transitional issues and considerations for GST rate change
 
 2. The GST hike : Impact to non-GST registered businesses
-* Mitigating the potential increase in business cost
 
+* Mitigating the potential increase in business cost
 * Costs and benefits of voluntary GST registration
 
-3) Sharing of common issues faced by businesses
+3. Sharing of common issues faced by businesses
 
 **Admin Details:**
 * This webinar will be conducted via Zoom
