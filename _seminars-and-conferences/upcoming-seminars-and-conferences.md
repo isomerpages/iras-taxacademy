@@ -24,14 +24,12 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Join us in the upcoming webinar on GST Rate Change where speaker from EY will share with you on:
 
-1) The GST hike : Impact to GST-registered businesses
+1. The GST hike : Impact to GST-registered businesses
 
 * Preparing for the GST hike
-
 * Transitional issues and considerations for GST rate change
 
-2) The GST hike : Impact to non-GST registered businesses
-
+2. The GST hike : Impact to non-GST registered businesses
 * Mitigating the potential increase in business cost
 
 * Costs and benefits of voluntary GST registration
