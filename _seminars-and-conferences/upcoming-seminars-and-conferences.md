@@ -18,6 +18,22 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 10 Oct : [TEI-TA Joint Webinar: The Evolution of the Tax Professional](#10oct-ta-id)
 
 
+Join us in the upcoming webinar on GST Rate Change where speaker from EY will share with you on:
+
+1\. The GST hike : Impact to GST-registered businesses
+
+\* Preparing for the GST hike
+
+\* Transitional issues and considerations for GST rate change
+
+2\. The GST hike : Impact to non-GST registered businesses
+
+\* Mitigating the potential increase in business cost
+
+\* Costs and benefits of voluntary GST registration
+
+3\. Sharing of common issues faced by businesses
+
 
 <a id="8nov-ta-id"></a>
 #### **TaxEdge Series: The EU-Perspective on BEPS 2.0 (Pillar 2/GloBE**<br>
