@@ -18,6 +18,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 10 Oct : [TEI-TA Joint Webinar: The Evolution of the Tax Professional](#10oct-ta-id)
 
 
+<a id="16nov-ta-id"></a>
+#### **Budget Clinic: GST Rate Change**<br>
+**16 Nov | 10.00 a.m. to 12.00 p.m.**
+
 Join us in the upcoming webinar on GST Rate Change where speaker from EY will share with you on:
 
 1\. The GST hike : Impact to GST-registered businesses
