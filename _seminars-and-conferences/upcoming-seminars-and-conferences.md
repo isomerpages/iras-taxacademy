@@ -24,12 +24,12 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Join us in the upcoming webinar on GST Rate Change where speaker from EY will share with you on:
 
-1) The GST hike : Impact to GST-registered businesses
+1) The GST hike - Impact on GST-registered businesses
 
 * Preparing for the GST hike
 * Transitional issues and considerations for GST rate change
 
-2) The GST hike : Impact to non-GST registered businesses
+2) The GST hike - Impact on non-GST registered businesses
 
 * Mitigating the potential increase in business cost
 * Costs and benefits of voluntary GST registration
@@ -46,14 +46,14 @@ Join us in the upcoming webinar on GST Rate Change where speaker from EY will sh
 
 **About the speaker**
 
-Ms Monica Sum is a Director specialising in GST at EY Corporate Advisors Pte. Ltd.. She has over 15 years of experience in the field of GST covering compliance and advisory work in various industries for local and multinational companies. Monica also conducts external and customized GST workshops.
+Ms Monica Sum is a Director specialising in GST at EY Corporate Advisors Pte. Ltd. She has over 15 years of experience in the field of GST covering compliance and advisory work in various industries for local and multinational companies. Monica also conducts external and customized GST workshops.
 
 
 <a id="8nov-ta-id"></a>
 #### **TaxEdge Series: The EU-Perspective on BEPS 2.0 (Pillar 2/GloBE)**<br>
 **8 Nov | 3.00 p.m. to 5.00 p.m.**
 
-The global level-playing field on taxation as well as the various national tax systems are currently challenged by the implementation of Pillar 2 and the GloBE-Rules regarding the global minimum taxation of 15% on certain multinational enterprises, wealth structures and family offices to floor tax competition. The US follow their amended GILTI-Rules, address the foreign implementation of the GloBE-Undertaxed Profits Rule (UTPR) as a refusable extraterritorial taxation and may implement certain counter measures like the increase of withholding taxes up to 20% on legal entities resident in jurisdictions that implement the UTPR.
+The global level playing field on taxation as well as the various national tax systems are currently challenged by the implementation of Pillar 2 and the GloBE-Rules regarding the global minimum taxation of 15% on certain multinational enterprises, wealth structures and family offices to floor tax competition. The US follow their amended GILTI-Rules, address the foreign implementation of the GloBE-Undertaxed Profits Rule (UTPR) as a refusable extraterritorial taxation and may implement certain counter measures like the increase of withholding taxes up to 20% on legal entities resident in jurisdictions that implement the UTPR.
 
 In this webinar, Professor Dr Martin Wenz from University of Liechtenstein will provide an EU-perspective of BEPS 2.0 on Multinational Companies, Wealth Management Structures and Family Offices, and on the competitiveness and tax revenues of the European countries.
 
