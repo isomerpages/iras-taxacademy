@@ -38,7 +38,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * Time: 2pm to 5pm
 * Fees: SGD 70.20 (incl. 8% GST)
 * Registration is on first-come-first served.
-* [Registration Form]()
+* [Registration Form](https://form.gov.sg/65433a957b7dfd0012202446)
 
 
 <a id="16nov-ta-id"></a>
