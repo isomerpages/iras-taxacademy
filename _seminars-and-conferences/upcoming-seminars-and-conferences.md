@@ -22,6 +22,15 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **FasTax Series: Stamp Duty 101**<br>
 **7 Dec | 2.00 p.m. to 5.00 p.m.**
 
+**The session will cover:**
+
+* Basic Principles of Stamp Duty and types of Stamp Duty
+
+* Who should/is liable to pay stamp duty and when to pay
+
+* Common Stamp Duty Remissions and Exemptions
+
+* Stamp Duty Relief
 
 
 <a id="16nov-ta-id"></a>
