@@ -8,13 +8,20 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **DECEMBER**
-* 7 Dec : [FasTax Series: Stamp Duty 101](#7dec-ta-id)
 * 14 Dec : [Law 101 for Tax Professionals: Tax Crimes under the Tax Acts, Penal Code and the CDSA,](#14dec-ta-id)
+* 7 Dec : [FasTax Series: Stamp Duty 101](#7dec-ta-id)
+
 
 **NOVEMBER**
 * 16 Nov : [Budget Clinic: GST Rate Change](#16nov-ta-id)
 * 8 Nov : [TaxEdge Series: The EU-Perspective on BEPS 2.0 (Pillar 2/GloBE)](#8nov-ta-id)
 * 2 Nov : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](#2nov-ta-id)
+
+
+<a id="7dec-ta-id"></a>
+#### **FasTax Series: Stamp Duty 101**<br>
+**7 Dec | 2.00 p.m. to 5.00 p.m.**
+
 
 
 <a id="16nov-ta-id"></a>
