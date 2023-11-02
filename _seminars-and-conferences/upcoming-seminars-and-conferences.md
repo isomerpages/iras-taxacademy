@@ -32,6 +32,14 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 * Stamp Duty Relief
 
+**Admin Details:**
+* This webinar will be conducted via Zoom
+* Date: 7 Dec 2023
+* Time: 2pm to 5pm
+* Fees: SGD 70.20 (incl. 8% GST)
+* Registration is on first-come-first served.
+* [Registration Form]()
+
 
 <a id="16nov-ta-id"></a>
 #### **Budget Clinic: GST Rate Change**<br>
