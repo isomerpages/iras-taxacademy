@@ -18,11 +18,18 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 2 Nov : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](#2nov-ta-id)
 
 
+<a id="14dec-ta-id"></a>
+#### **Law 101 for Tax Professionals: Tax Crimes under the Tax Acts, Penal Code and the CDSA**<br>
+**14 Dec | 3.00 p.m. to 5.00 p.m.**
+
+
+
+
 <a id="7dec-ta-id"></a>
 #### **FasTax Series: Stamp Duty 101**<br>
 **7 Dec | 2.00 p.m. to 5.00 p.m.**
 
-**The session will cover:**
+**This webinar will cover:**
 
 * Basic Principles of Stamp Duty and types of Stamp Duty
 
