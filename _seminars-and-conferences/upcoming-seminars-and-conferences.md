@@ -2,6 +2,7 @@
 title: Upcoming Seminars and Conferences
 permalink: /seminars-and-conferences/upcoming/
 breadcrumb: Upcoming Seminars and Conferences
+variant: markdown
 ---
 ##### **UPCOMING EVENTS**
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
@@ -46,9 +47,9 @@ Agenda:
 
 **This webinar will cover:**
 
-* Basic Principles of Stamp Duty and types of Stamp Duty
+* Basic principles of Stamp Duty and types of Stamp Duty
 
-* Who should/is liable to pay stamp duty and when to pay
+* Who is liable to pay stamp duty and when to pay
 
 * Common Stamp Duty Remissions and Exemptions
 
