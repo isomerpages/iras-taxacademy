@@ -16,7 +16,6 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **NOVEMBER**
 * 16 Nov : [Budget Clinic: GST Rate Change](#16nov-ta-id)
 * 8 Nov : [TaxEdge Series: The EU-Perspective on BEPS 2.0 (Pillar 2/GloBE)](#8nov-ta-id)
-* 2 Nov : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](#2nov-ta-id)
 
 
 <a id="14dec-ta-id"></a>
@@ -122,34 +121,6 @@ Agenda:
 **About the Speaker**
 
 Professor Dr Martin Wenz is a Professor of National and International Tax Law at the University of Liechtenstein. He holds the Chair for Business Taxation and the Laws of International and Liechtenstein Taxation, and is the Academic Head of the Liechtenstein Executive School and the Program Director of the Master of Laws (LL.M.) in International Taxation. His research interests include international tax policy, tax system redesign, international tax standards, and the international level-playing-field on taxation. He also advises the Liechtenstein Government on national and international tax law. Professor Wenz also provides comprehensive advice to the Liechtenstein Government on national and international tax law including Double Tax Agreements and on the Implementation of International and European Tax Standards including Pillar 2.
-
-
-<a id="2nov-ta-id"></a>
-#### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
-**2 Nov | 3.00 p.m. to 5.00 p.m.**
-
-Join us in this webinar, where our speakers Mr Charles Li from IRAS and Mr Yang Shi Yong from Drew &amp; Napier LLC, provide an overview of the powers and duties that the Comptrollers have under the Income Tax and Goods &amp; Services Tax Acts. The webinar will cover the role of the Comptrollers, their express and implied powers and their duty of confidentiality.
-
-Agenda:
-
-*   Introduction, Role and Duties of the Comptrollers
-*   Powers of the Comptrollers
-*   Issues and Oversight
-*   Q&amp;A
-
-**Admin Details:**
-* This webinar will be conducted via Zoom
-* Date: 2 Nov 2023
-* Time: 3pm to 5pm
-* Fees: SGD 43.20 (incl. 8% GST)
-* Registration is on first-come-first served.
-* [Registration Form](https://form.gov.sg/6524bbe6a735be00114f5a3e)
-
-**About the speakers**
-
-Mr Charles Li is the Deputy Director of Advisory &amp; Litigation Branch 2 in the Law Division of the IRAS. He is a dual-qualified lawyer and accountant with broad experience in tax advisory, litigation and prosecution.
-
-Mr Yang Shi Yong is a Director at Drew &amp; Napier LLC. Shi Yong advises on a wide spectrum of tax law with specialization in enterprise tax risk management, tax audit and tax investigation matters. He has successfully resolved a large number of audit and investigation matters without prosecution.
 
 
 
