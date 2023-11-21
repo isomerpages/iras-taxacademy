@@ -44,7 +44,7 @@ It will provide an overview of Goods and Services Tax to create a basic level of
 
 Registration is OPEN.  
 
-The next intake for this course will be in Jan 2024. Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in Jul 2024. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="atp-ta-id"></a>
 ### **Income Tax Programme Level 3 : Advanced Tax Programme**
