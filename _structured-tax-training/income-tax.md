@@ -2,6 +2,7 @@
 title: Income Tax
 permalink: /executive-tax-programmes/income-tax/
 breadcrumb: Income Tax
+variant: markdown
 ---
 ### **UPCOMING PROGRAMMES**
 ##### **Income Tax Programme Level 1**
@@ -10,7 +11,7 @@ breadcrumb: Income Tax
 
 ##### **Income Tax Programme Level 2**
 
-* Sep 2023 intake: [Registration is CLOSED](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
+* Jan 2024 intake: [Registration is OPEN](/executive-tax-programmes/income-tax/#etp2sep-ta-id) 
 
 ##### **Income Tax Programme Level 3**
 * Intake 1/2023 (April 2023 to March 2024): [Registration is CLOSED](/executive-tax-programmes/income-tax/#atp-ta-id)
@@ -39,11 +40,13 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Registration Form](https://go.gov.sg/l2it32023reg){:target="_blank"} - [Details](/files/executive-tax-programmes/l2it32023coursebrochure.pdf){:target="_blank"} 
+[Registration Form](https://go.gov.sg/l2it42023reg){:target="_blank"} - [Details](/files/executive-tax-programmes/l2IT42023coursebrochure.pdf){:target="_blank"} 
 
-Registration is CLOSED.  
+[Waiting list](https://form.gov.sg/655c0e8c1364450012cbdb48){:target="_blank"} 
 
-The next intake for this course will be in Jan 2024. Registration will be available six to eight weeks prior to the course commencement date.
+Registration is OPEN.  
+
+The next intake for this course will be in Jul 2024. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="atp-ta-id"></a>
 ### **Income Tax Programme Level 3 : Advanced Tax Programme**
