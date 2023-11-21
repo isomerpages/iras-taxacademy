@@ -40,7 +40,7 @@ This course provides in-depth knowledge in income tax principles and covers conc
 
 It will provide an overview of Goods and Services Tax to create a basic level of awareness in most GST concepts and principles. As businesses are increasingly having to deal with cross-border tax issues, this course will provide a basic understanding of tax treaties and transfer pricing.
 
-[Registration Form](https://go.gov.sg/l2it42023reg){:target="_blank"} - [Details](/files/executive-tax-programmes/L2IT42023coursebrochure.pdf){:target="_blank"} 
+[Registration Form](https://go.gov.sg/l2it42023reg){:target="_blank"} - [Details](/files/executive-tax-programmes/l2IT42023coursebrochure.pdf){:target="_blank"} 
 
 Registration is OPEN.  
 
