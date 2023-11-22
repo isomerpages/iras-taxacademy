@@ -2,6 +2,7 @@
 title: International Tax
 permalink: /executive-tax-programmes/international-tax/
 breadcrumb: International Tax
+variant: markdown
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **International Tax Programme Level 1**
@@ -65,7 +66,7 @@ The 6-day Advanced Tax Treaties Programme is a collaborative effort between Tax 
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-[Registration Form](https://form.gov.sg/63317d4657c5a7001209efac) - [Details](/files/seminars-brochures/leidenta att brochure final circulation v4.pdf){:target="_blank"}
+[Registration Form]() - [Details](/files/seminars-brochures/leiden_ta_att_brochure_6_day_jan_2024_final.pdf){:target="_blank"}
 
 **Registration is CLOSED for 2023 intake.**
 
