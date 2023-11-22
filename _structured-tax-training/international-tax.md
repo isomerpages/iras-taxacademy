@@ -2,6 +2,7 @@
 title: International Tax
 permalink: /executive-tax-programmes/international-tax/
 breadcrumb: International Tax
+variant: markdown
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **International Tax Programme Level 1**
@@ -14,7 +15,7 @@ breadcrumb: International Tax
 * 2023 Intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties Programme**
-* Jan 2023 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
+* Jan 2024 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **International Tax Programme Level 3 : Advanced International Tax Planning Programme**
 * Aug 2022 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#itp-id)
@@ -65,9 +66,9 @@ The 6-day Advanced Tax Treaties Programme is a collaborative effort between Tax 
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-[Registration Form](https://form.gov.sg/63317d4657c5a7001209efac) - [Details](/files/seminars-brochures/leidenta att brochure final circulation v4.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/653f847150a8d4001252df0d) - [Details](/files/seminars-brochures/leiden_ta_att_brochure_6_day_jan_2024_final.pdf){:target="_blank"}
 
-**Registration is CLOSED for 2023 intake.**
+**Registration is OPEN for 2024 intake.**
 
 <a id="itp-id"></a>
 ### **International Tax Programme Level 3 : Advanced International Tax Planning Programme**
