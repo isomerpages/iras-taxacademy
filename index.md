@@ -9,7 +9,7 @@ description: Tax Academy of Singapore is a not-for-profit institution set up by
 permalink: /
 notification: Our office will be closed from 26 to 29 December. You may wish to
   refer to the respective pages on this website for latest updates on our
-  programmes. For enquiries, please contact us via<a
+  programmes. For enquiries, please contact us via <a
   href="https://form.gov.sg/#!/5d2c51283703d80011e52615">Enquiries and Feedback
   Form.</a>
 sections:
