@@ -34,7 +34,7 @@ Agenda:
 * Date: 11 Jan 2024
 * Time: 3.00pm to 5.00pm
 * Fees: $43.20 (incl. 8% GST). Payment made on or after 1 Jan 2024 will be $43.60 (incl. 9% GST)
-* Registration will close when the webinar is fully subscribed
+* Registration is on first-come-first served
 * [Registration Form](https://form.gov.sg/65681cf88fd60e0012cae2dd)
 
 
