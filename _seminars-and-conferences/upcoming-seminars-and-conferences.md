@@ -16,6 +16,12 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 7 Dec : [FasTax Series: Stamp Duty 101](#7dec-ta-id)
 
 
+<a id="11jan-ta-id"></a>
+#### **Law 101 for Tax Professionals: Law of Partnership**<br>
+**11 Jan | 3.00 p.m. to 5.00 p.m.**
+
+
+
 
 
 <a id="14dec-ta-id"></a>
