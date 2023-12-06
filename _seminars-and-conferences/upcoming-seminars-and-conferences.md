@@ -8,7 +8,10 @@ variant: markdown
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
-**DECEMBER**
+**JANUARY 2024**
+* 11 Jan : [Law 101 for Tax Professionals: Law of Partnership](#11jan-ta-id)
+
+**DECEMBER 2023**
 * 14 Dec : [Law 101 for Tax Professionals: Tax Crimes under the Tax Acts, Penal Code and the CDSA,](#14dec-ta-id)
 * 7 Dec : [FasTax Series: Stamp Duty 101](#7dec-ta-id)
 
