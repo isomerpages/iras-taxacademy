@@ -66,7 +66,7 @@ The 6-day Advanced Tax Treaties Programme is a collaborative effort between Tax 
 
 Participants will learn thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.
 
-[Registration Form](https://form.gov.sg/653f847150a8d4001252df0d) - [Details](/files/seminars-brochures/leiden_ta_att_brochure_6_day_jan_2024_final.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/653f847150a8d4001252df0d) - [Details](/files/seminars-brochures/closing_date_extend_att_brochure_jan2024.pdf){:target="_blank"}
 
 **Registration is OPEN for 2024 intake.**
 
