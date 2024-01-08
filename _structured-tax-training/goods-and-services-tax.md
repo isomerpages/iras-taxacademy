@@ -2,13 +2,14 @@
 title: Goods and Services Tax
 permalink: /executive-tax-programmes/goods-and-services-tax/
 breadcrumb: Goods and Services Tax
+variant: markdown
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **GST Programme Level 1**
-* Sep 2023 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* Feb 2024 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **GST Programme Level 2**
-* Aug/Sep 2023 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* Feb 2024 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 ##### **GST Programme Level 3**
 * Advanced GST Programme 2023/24: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
@@ -20,9 +21,9 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 [Registration Form](https://go.gov.sg/waitinglist-gstlvl1){:target="_blank"} - [Details](/files/executive-tax-programmes/course%20programme%20gst%20l1_2-2023%20v2.pdf){:target="_blank"}
 
-Registration is CLOSED for intake 2 &amp; 3/2023 (Sep 2023 intake). 
+Registration is OPEN for intake 4/2023 (Feb 2024 intake). 
 
-The next intake for this course will be in Feb 2024. Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in May 2024. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp2gst-ta-id"></a>
 ### **GST Programme Level 2**
@@ -33,9 +34,9 @@ This course comprises one module on overall GST concepts and applications, and f
 
 Please note participants will have to complete Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation prior to taking the GST Programme Level 2.
 
-Registration is CLOSED for intake 2/2023 (Aug/Sep 2023 intake).
+Registration is CLOSED for intake 3/2023 (Feb 2024 intake).
 
-The next intake for this course will be in Feb 2024. Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in May 2024. Registration will be available six to eight weeks prior to the course commencement date.
 
 
 <a id="etp3gst-ta-id"></a>
