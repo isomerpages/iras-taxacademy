@@ -9,7 +9,7 @@ variant: markdown
 * Feb 2024 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **GST Programme Level 2**
-* Feb 2024 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* Feb 2024 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 ##### **GST Programme Level 3**
 * Advanced GST Programme 2023/24: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
@@ -34,7 +34,7 @@ This course comprises one module on overall GST concepts and applications, and f
 
 Please note participants will have to complete Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation prior to taking the GST Programme Level 2.
 
-Registration is OPEN for intake 3/2023 (Feb 2024 intake).
+Registration is CLOSED for intake 3/2023 (Feb 2024 intake).
 
 The next intake for this course will be in May 2024. Registration will be available six to eight weeks prior to the course commencement date.
 
