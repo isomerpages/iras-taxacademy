@@ -39,7 +39,7 @@ Edmund Leow S.C. heads the Tax and Trust practice at Dentons Rodyk &amp; Davidso
 * Time: 10.00am to 12.00pm
 * Fees: $43.60 (incl. 9% GST)
 * Registration is on first-come-first served
-* [Registration Form](https://form.gov.sg/65a655ced34ff900120931aa)
+* [1 Mar Registration Form](https://form.gov.sg/65a655ced34ff900120931aa)
 
 
 <a id="22feb-ta-id"></a>
@@ -58,7 +58,7 @@ This webinar aims to enhance your understanding of IRAS’ compliance approach t
 * Time: 3.00pm to 5.00pm
 * Fees: $43.60 (incl. 9% GST)
 * Registration is on first-come-first served
-* [Registration Form](https://form.gov.sg/65a6510bd34ff9001208c7db)
+* [22 Feb Registration Form](https://form.gov.sg/65a6510bd34ff9001208c7db)
 
 
 
