@@ -19,6 +19,19 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **FasTax Series: Managing Tax Compliance**<br>
 **22 Feb | 3.00 p.m. to 5.00 p.m.**
 
+This webinar aims to enhance your understanding of IRAS’ compliance approach towards companies and how you can better assist your company in complying with its tax obligations. IRAS’ speakers from the Corporate Tax Division and Investigation &amp; Forensics Division will share on:
+* IRAS’ audit and investigation approaches
+* Findings from IRAS’ audits and investigations
+* Ways to avoid common mistakes and improve tax compliance
+
+**Admin Details**
+
+* The webinar will be conducted via Zoom
+* Date: 22 Feb 2024
+* Time: 3.00pm to 5.00pm
+* Fees: $43.60 (incl. 9% GST)
+* Registration is on first-come-first served
+* [Registration Form](https://form.gov.sg/65a6510bd34ff9001208c7db)
 
 
 <a id="11jan-ta-id"></a>
