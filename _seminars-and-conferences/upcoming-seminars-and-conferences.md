@@ -26,7 +26,11 @@ In recent years, notable tax cases have being decided by the Income Tax Board of
 
 **About the Speaker**
 
+Mr Edmund Leow S.C.<br>
+Senior Partner<br>
+Dentons Rodyk &amp; Davidson LLP<br>
 
+Edmund Leow S.C. heads the Tax and Trust practice at Dentons Rodyk &amp; Davidson LLP. He has over 30 years of experience in advising multinational organisations on domestic and cross border tax planning and tax disputes. He also advises high net worth families and family offices on their global tax and succession planning. He served as a Judicial Commissioner from 2013 to 2016. On stepping down from the High Court, he was appointed Senior Counsel. He was also appointed Deputy Chair of the Income Tax Board of Review. He also serves as co-chair of the Law Society Tax &amp; Trust Committee and as President of the Singapore Trustees Association.
 
 
 <a id="22feb-ta-id"></a>
