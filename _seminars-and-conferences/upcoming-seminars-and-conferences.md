@@ -32,6 +32,15 @@ Dentons Rodyk &amp; Davidson LLP<br>
 
 Edmund Leow S.C. heads the Tax and Trust practice at Dentons Rodyk &amp; Davidson LLP. He has over 30 years of experience in advising multinational organisations on domestic and cross border tax planning and tax disputes. He also advises high net worth families and family offices on their global tax and succession planning. He served as a Judicial Commissioner from 2013 to 2016. On stepping down from the High Court, he was appointed Senior Counsel. He was also appointed Deputy Chair of the Income Tax Board of Review. He also serves as co-chair of the Law Society Tax &amp; Trust Committee and as President of the Singapore Trustees Association.
 
+**Admin Details**
+
+* The webinar will be conducted via Zoom
+* Date: 1 Mar 2024
+* Time: 10.00am to 12.00pm
+* Fees: $43.60 (incl. 9% GST)
+* Registration is on first-come-first served
+* [Registration Form](https://form.gov.sg/65a655ced34ff900120931aa)
+
 
 <a id="22feb-ta-id"></a>
 #### **FasTax Series: Managing Tax Compliance**<br>
