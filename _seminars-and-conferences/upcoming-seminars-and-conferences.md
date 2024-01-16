@@ -11,12 +11,36 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **MARCH 2024**
 * 14 Mar : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#14mar-ta-id)
 * 7 Mar : [Law 101 for Tax Professionals: Law of Agency](#7mar-ta-id)
-* 5 Mar : [FasTax Series: Fundamental of GST Principles for Filing Returns](#5mar-ta-id)
+* 5 Mar : [FasTax Series: Fundamentals of GST Principles for Filing Returns](#5mar-ta-id)
 * 1 Mar : [Law 101 for Tax Professionals: Updates of Tax Cases](#1mar-ta-id)
 
 
 **FEBRUARY 2024**
 * 22 Feb : [FasTax Series: Managing Tax Compliance](#22feb-ta-id)
+
+<a id="5mar-ta-id"></a>
+#### **FasTax Series: Fundamentals of GST Principles for Filing Returns**<br>
+**5 Mar | 3.00 p.m. to 5.00 p.m.**
+
+The agenda of the webinar is as follow:
+
+* Responsibilities of a GST-Registered Business
+* Key GST Concepts
+* Common GST Errors
+* Reimbursement and Disbursement of Expenses
+* Fringe Benefits
+* Zero-Rating of International Services
+* Q&amp;A Session
+
+**Admin Details**
+
+* The webinar will be conducted via Zoom
+* Date: 5 Mar 2024
+* Time: 3.00pm to 5.00pm
+* Fees: $43.60 (incl. 9% GST)
+* Registration is on first-come-first served
+* [5 Mar Registration Form](https://form.gov.sg/65a65e292cd8bd00124c3e4d)
+
 
 <a id="1mar-ta-id"></a>
 #### **Law 101 for Tax Professionals: Updates of Tax Cases**<br>
