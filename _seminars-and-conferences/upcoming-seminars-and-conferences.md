@@ -8,8 +8,16 @@ variant: markdown
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**FEBRUARY 2024**
+* 22 Feb : [FasTax Series: Managing Tax Compliance](#22feb-ta-id)
+
 **JANUARY 2024**
 * 11 Jan : [Law 101 for Tax Professionals: Law of Partnership](#11jan-ta-id)
+
+
+<a id="22feb-ta-id"></a>
+#### **FasTax Series: Managing Tax Compliance**<br>
+**22 Feb | 3.00 p.m. to 5.00 p.m.**
 
 
 
