@@ -22,6 +22,12 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **Law 101 for Tax Professionals: Updates of Tax Cases**<br>
 **1 Mar | 10.00 a.m. to 12.00 p.m.**
 
+In recent years, notable tax cases have being decided by the Income Tax Board of Review, GST Board of Review and the High Court. This webinar will explain some of these cases, and analyse the factual background and implications of these cases for taxpayers going forward. These cases include Singapore Cement Manufacturing Co (Pte) Ltd v Comptroller of Income Tax, decided by the ITBR and High Court, and Herbalife International Singapore Pte Ltd v Comptroller of Goods and Services Tax, decided by the GSTBR and High Court.
+
+**About the Speaker**
+
+
+
 
 <a id="22feb-ta-id"></a>
 #### **FasTax Series: Managing Tax Compliance**<br>
