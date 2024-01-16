@@ -18,6 +18,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **FEBRUARY 2024**
 * 22 Feb : [FasTax Series: Managing Tax Compliance](#22feb-ta-id)
 
+<a id="1mar-ta-id"></a>
+#### **Law 101 for Tax Professionals: Updates of Tax Cases**<br>
+**1 Mar | 10.00 a.m. to 12.00 p.m.**
+
 
 <a id="22feb-ta-id"></a>
 #### **FasTax Series: Managing Tax Compliance**<br>
