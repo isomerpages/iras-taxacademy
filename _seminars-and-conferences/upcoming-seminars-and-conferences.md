@@ -18,6 +18,14 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **FEBRUARY 2024**
 * 22 Feb : [FasTax Series: Managing Tax Compliance](#22feb-ta-id)
 
+
+<a id="14mar-ta-id"></a>
+#### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
+**14 Mar | 2.00 p.m. to 5.00 p.m.**
+
+
+
+
 <a id="7mar-ta-id"></a>
 #### **Law 101 for Tax Professionals: Law of Agency**<br>
 **7 Mar | 3.00 p.m. to 5.00 p.m.**
