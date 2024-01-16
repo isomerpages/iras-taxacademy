@@ -9,10 +9,11 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **MARCH 2024**
-* 1 Mar : [Law 101 for Tax Professionals: Updates of Tax Cases](#1mar-ta-id)
-* 5 Mar : [FasTax Series: Fundamental of GST Principles for Filing Returns](#5mar-ta-id)
-* 7 Mar : [Law 101 for Tax Professionals: Law of Agency](#7mar-ta-id)
 * 14 Mar : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#14mar-ta-id)
+* 7 Mar : [Law 101 for Tax Professionals: Law of Agency](#7mar-ta-id)
+* 5 Mar : [FasTax Series: Fundamental of GST Principles for Filing Returns](#5mar-ta-id)
+* 1 Mar : [Law 101 for Tax Professionals: Updates of Tax Cases](#1mar-ta-id)
+
 
 **FEBRUARY 2024**
 * 22 Feb : [FasTax Series: Managing Tax Compliance](#22feb-ta-id)
