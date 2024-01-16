@@ -23,14 +23,22 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
 **14 Mar | 2.00 p.m. to 5.00 p.m.**
 
+This webinar will feature practical examples illustrating the use of ASK for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
 
+**Admin Details**
 
+* The webinar will be conducted via Zoom
+* Date: 14 Mar 2024
+* Time: 2.00pm to 5.00pm
+* Fees: $70.85 (incl. 9% GST)
+* Registration is on first-come-first served
+* [14 Mar Registration Form](https://form.gov.sg/65a65fe1e008a800117ee4ea)
 
 <a id="7mar-ta-id"></a>
 #### **Law 101 for Tax Professionals: Law of Agency**<br>
 **7 Mar | 3.00 p.m. to 5.00 p.m.**
 
-Join us in this webinar as our speakers, Mr Yang Shi Yong (Director, Drew &amp; Napier LLC) and Mr Charles Li (Director, Law Division, IRAS), provide an overview of the main common law principles of agency, including the creation of agency, the types of authority that an agent can have, the concept of the undisclosed principal and the duties and liabilities of principals and agents. Speakers will also share broadly how common law agency may be relevant in the context of Income Tax and Goods and Services Tax (GST) and the types of statutory agency that may be created under the respective tax Acts.
+Join us in this webinar as our speakers, Mr Yang Shi Yong (Director, Drew &amp;Napier LLC) and Mr Charles Li (Director, Law Division, IRAS), provide an overview of the main common law principles of agency, including the creation of agency, the types of authority that an agent can have, the concept of the undisclosed principal and the duties and liabilities of principals and agents. Speakers will also share broadly how common law agency may be relevant in the context of Income Tax and Goods and Services Tax (GST) and the types of statutory agency that may be created under the respective tax Acts.
 
 Agenda:
 * Introduction
