@@ -1,0 +1,63 @@
+title: Tax Academy Singapore
+description: Tax Academy of Singapore is a not-for-profit institution set up by
+  the Inland Revenue Authority of Singapore in collaboration with the
+  international accounting firms - Deloitte & Touche, Ernst & Young, KPMG and
+  PricewaterhouseCoopers, the Institute of Singapore Chartered Accountants and
+  the Law Society of Singapore
+url: https://www.taxacademy.sg
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+colors:
+  primary-color: "#033a66"
+  secondary-color: "#827546"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+paginate: 12
+paginate_path: /resources/page:num
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+favicon: /images/favicon.ico
+google-analytics: null
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://staging.d25w78ynrwkrpg.amplifyapp.com/
+prod: https://master.d25w78ynrwkrpg.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics: ""
+google_analytics_ga4: ""
+linkedin-insights: ""

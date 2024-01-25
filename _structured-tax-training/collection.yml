@@ -1,0 +1,13 @@
+collections:
+  structured-tax-training:
+    output: true
+    order:
+      - tax-training-roadmap.md
+      - programme-calendar.md
+      - income-tax.md
+      - goods-and-services-tax.md
+      - Property Tax.md
+      - international-tax.md
+      - Other Tax Related Programmes.md
+      - customised-programmes.md
+      - terms-and-conditions.md
