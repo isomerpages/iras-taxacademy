@@ -95,8 +95,7 @@ Investigation, and Stamp Duty.</p>
 <p><strong>- Accredited Tax Practitioner with SCTP</strong>
 </p>
 <p>For more details on TA Programme Admission Requirement, please refer to
-[Frequently Asked Questions on Programme Admission](/files/ta programme
-admission requirements information package_ta website_feb2023.pdf){:target="_blank"}</p>
+[<a href="https://www.taxacademy.sg/executive-tax-programmes/tax-training-roadmap/" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>]</p>
 <h3><strong>Book Prizes</strong></h3>
 <p>Full programme participants who achieve the highest score for selected
 modules of the Advanced Tax Programme will be presented with a Book Prize.
