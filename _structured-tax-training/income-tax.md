@@ -65,7 +65,7 @@ Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax
 Planning and Goods and Services Tax. The elective component offers modules
 on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and
 Investigation, and Stamp Duty.</p>
-<p><a href="files/executive-tax-programmes/ATP_fy24_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Brochure </a>{:target="_blank"}</p>
+<p><a href="files/executive-tax-programmes/ATP_fy24_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Brochure</a>{:target="_blank"}</p>
 <p></p>
 <p><strong>Intake 1/2024, April 2024 to April 2025:</strong>
 </p>
@@ -75,7 +75,7 @@ Investigation, and Stamp Duty.</p>
 <p><strong>Intake 2/2024, July 2024 to September 2025:</strong>
 </p>
 <p><a href="https://form.gov.sg/65bb67656cd4478c6d780e6a" rel="noopener noreferrer nofollow" target="_blank"><u>Registration Form - Full Programme</u></a>{:target="_blank"}
--<a href="https://cms.isomer.gov.sg/files/executive-tax-programmes/ATP_Intake_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule </a>{:target="_blank"}</p>
+-<a href="https://cms.isomer.gov.sg/files/executive-tax-programmes/ATP_Intake_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>{:target="_blank"}</p>
 <p></p>
 <p><strong>Registration closes on 23 February 2024.</strong>
 </p>
