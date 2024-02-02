@@ -65,7 +65,7 @@ Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax
 Planning and Goods and Services Tax. The elective component offers modules
 on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and
 Investigation, and Stamp Duty.</p>
-<p><a href="https://cms.isomer.gov.sg/files/executive-tax-programmes/ATP (FY24) Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Schedule</u></a> {:target="_blank"}</p>
+<p><a href="https://cms.isomer.gov.sg/files/executive-tax-programmes/ATP_FY24_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Brochure</u></a> {:target="_blank"}</p>
 <p></p>
 <p><strong>Intake 1/2024, April 2024 to April 2025:</strong>
 </p>
