@@ -68,13 +68,13 @@ Investigation, and Stamp Duty.</p>
 <p><strong>Intake 1/2024, April 2024 to April 2025:</strong>
 </p>
 <p><a href="https://form.gov.sg/65bb6520661be4d8c1d3321f" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Full Programme</a>{:target="_blank"}
--[Schedule](/files/executive-tax-programmes/atp 1-2023 schedule - publicity.pdf){:target="_blank"}
+-[Schedule](/files/executive-tax-programmes/ATP Intake 1-2024.pdf){:target="_blank"}
 -<a href="/files/executive-tax-programmes/atp%2020%20schedule%20(mode%20of%20delivery)%20revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a> {:target="_blank"}</p>
 <p></p>
 <p><strong>Intake 2/2024, July 2024 to September 2025:</strong>
 </p>
 <p><a href="https://form.gov.sg/65bb67656cd4478c6d780e6a" rel="noopener noreferrer nofollow" target="_blank"><u>Registration Form - Full Programme</u></a>{:target="_blank"}
--[Schedule](/files/executive-tax-programmes/atp 1-2023 schedule - publicity.pdf){:target="_blank"}
+-[Schedule](/files/executive-tax-programmes/ATP Intake 2-2024.pdf){:target="_blank"}
 -<a href="https://cms.isomer.gov.sg/files/executive-tax-programmes/atp%2020%20schedule%20(mode%20of%20delivery)%20revised.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Details</u></a> {:target="_blank"}</p>
 <p></p>
 <p><strong>Registration closes on 23 February 2024.</strong>
