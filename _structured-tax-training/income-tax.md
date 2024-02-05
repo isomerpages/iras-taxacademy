@@ -34,11 +34,14 @@ Tax Act, distinction between income and capital receipts, principles governing
 the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
-<p><a href="https://go.gov.sg/l1it32023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 3</a>{:target="_blank"}
-- <a href="/files/executive-tax-programmes/coursebrochurel1it2023intake3.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
-<p><a href="https://go.gov.sg/l1it42023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 4</a>{:target="_blank"}
-- <a href="/files/executive-tax-programmes/coursebrochurel1it2023intake4.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
-<p><a href="https://form.gov.sg/64e6c1f283091c0011427f02" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/l1it32023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 3</a> -
+<a href="/files/executive-tax-programmes/coursebrochurel1it2023intake3.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+</p>
+<p><a href="https://go.gov.sg/l1it42023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 4</a> -
+<a href="/files/executive-tax-programmes/coursebrochurel1it2023intake4.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+</p>
+<p><a href="https://form.gov.sg/64e6c1f283091c0011427f02" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
+</p>
 <p>Registration is CLOSED.</p>
 <p>The next intake for this course will be in May 2024. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
@@ -51,9 +54,11 @@ sole-proprietorships, partnerships and companies.</p>
 level of awareness in most GST concepts and principles. As businesses are
 increasingly having to deal with cross-border tax issues, this course will
 provide a basic understanding of tax treaties and transfer pricing.</p>
-<p><a href="https://go.gov.sg/l2it42023reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>{:target="_blank"}
-- <a href="/files/executive-tax-programmes/L2IT42023coursebrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
-<p><a href="https://form.gov.sg/655c0e8c1364450012cbdb48" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/l2it42023reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
+<a href="/files/executive-tax-programmes/L2IT42023coursebrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+</p>
+<p><a href="https://form.gov.sg/655c0e8c1364450012cbdb48" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
+</p>
 <p>Registration is OPEN.</p>
 <p>The next intake for this course will be in Jul 2024. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
@@ -110,9 +115,11 @@ Pte Ltd, Deloitte &amp; Touche LLP and PricewaterhouseCoopers Singapore
 Pte Ltd.</p>
 <p><strong>Intake 18 Book Prize Winners</strong>
 </p>
-<p><a href="/files/executive-tax-programmes/atp%20(intake%2018)%20book%20prize%20winners%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Book Prize Winners</a>{:target="_blank"}</p>
+<p><a href="/files/executive-tax-programmes/atp%20(intake%2018)%20book%20prize%20winners%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Book Prize Winners</a>
+</p>
 <p><strong>Intake 19 Book Prize Winners</strong>
 </p>
-<p><a href="/files/executive-tax-programmes/atp%20(intake%2019)%20book%20prize%20winners%20v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Book Prize Winners</a>{:target="_blank"}</p>
-<p><strong>Please read <a href="https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a>{:target="_blank"} for courses.</strong>
+<p><a href="/files/executive-tax-programmes/atp%20(intake%2019)%20book%20prize%20winners%20v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Book Prize Winners</a>
+</p>
+<p><strong>Please read <a href="https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for courses.</strong>
 </p>
