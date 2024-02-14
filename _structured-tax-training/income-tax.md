@@ -76,13 +76,14 @@ Investigation, and Stamp Duty.</p>
 <p></p>
 <p><strong>Intake 1/2024, April 2024 to April 2025:</strong>
 </p>
-<p>Registration Form - Full Programme - <a href="/files/ATP_Intake_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
+<p><a href="https://form.gov.sg/65bb6520661be4d8c1d3321f" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Full Programme</a> -
+<a href="/files/executive-tax-programmes/ATP_Intake_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
 </p>
 <p></p>
 <p><strong>Intake 2/2024, July 2024 to September 2025:</strong>
 </p>
 <p><a href="https://form.gov.sg/65bb67656cd4478c6d780e6a" rel="noopener noreferrer nofollow" target="_blank"><u>Registration Form - Full Programme</u></a> -
-<a href="/files/executive-tax-programmes/ATP_Intake_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
+<a href="/files/ATP_Intake_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
 </p>
 <p></p>
 <p><strong>Registration closes on 23 February 2024.</strong>
