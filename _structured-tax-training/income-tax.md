@@ -76,7 +76,7 @@ Investigation, and Stamp Duty.</p>
 <p></p>
 <p><strong>Intake 1/2024, April 2024 to April 2025:</strong>
 </p>
-<p>Registration Form - Full Programme - <u>Schedule</u>
+<p>Registration Form - Full Programme - <a href="/files/ATP_Intake_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
 </p>
 <p></p>
 <p><strong>Intake 2/2024, July 2024 to September 2025:</strong>
