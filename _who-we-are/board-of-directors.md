@@ -53,7 +53,7 @@ Pui Ming was previously the EY Asean Leader for Global Compliance and Reporting,
 Partner, Head of Tax <br>
 KPMG Singapore <br>
 
-Ajay leads the tax practice for KPMG Singapore and has more than 20 years of post-qualification experience in the areas of tax consulting and compliance. He specialises in corporate and international tax and has advised numerous clients on inbound/outbound investments, pre and post IPO structuring, supply chain hub model restructuring, cross border service fee/royalty payments, procurement model and intellectual property structuring. Ajay has contributed many articles in academic journals, leading business publications and newspapers. He is also a regular speaker on tax issues including in collaboration with industry associations and Government agencies.<br>
+Ajay leads the tax practice for KPMG Singapore and has more than 24 years of post-qualification experience in the areas of tax consulting and compliance. He specialises in corporate and international tax and has advised numerous clients on inbound/outbound investments, pre and post IPO structuring, supply chain hub model restructuring, cross border service fee/royalty payments, procurement model and intellectual property structuring. Ajay has contributed many articles in academic journals, leading business publications and newspapers. He is also a regular speaker on tax issues including in collaboration with industry associations and Government agencies.<br>
 
 **Mr Lennon Lee** <br>
 Partner <br>
