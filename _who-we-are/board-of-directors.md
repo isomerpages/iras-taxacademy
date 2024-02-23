@@ -2,6 +2,7 @@
 title: Board of Directors
 permalink: /who-we-are/board-of-directors/
 breadcrumb: Board of Directors
+variant: markdown
 ---
 **The Tax Academy Board of Directors is drawn from across the industry to provide strategic direction and guidance.**
 
@@ -29,7 +30,7 @@ Prior to her appointment as Deputy Commissioner, Yah Fang had held key appointme
 **Mr Daniel Ho** <br>
 Executive Director &amp; Tax Partner <br>
 Deloitte Tax Solutions Pte Ltd <br>
-        <!-- /\* Font Definitions \*/ @font-face {font-family:PMingLiU; panose-1:2 1 6 1 0 1 1 1 1 1; mso-font-alt:新細明體; mso-font-charset:136; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:1 134742016 16 0 1048576 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@PMingLiU"; panose-1:2 1 6 1 0 1 1 1 1 1; mso-font-charset:136; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:1 134742016 16 0 1048576 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:PMingLiU; mso-ligatures:standardcontextual; mso-fareast-language:JA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-font-kerning:0pt; mso-ligatures:none;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+        
 
 Daniel leads Deloitte Singapore’s Tax &amp; Legal practice and is also Deloitte Southeast Asia’s Mergers &amp; Acquisitions Tax Leader. He has more than 24 years of experience serving local and multinational companies in industries such as real estate, fund management, construction, technology, manufacturing, consumer products and shipping/energy &amp; resources.
 
@@ -66,7 +67,7 @@ Lennon is a member of the Institute of Singapore Chartered Accountants and a mem
 **Associate Professor Darren Koh** <br>
 Vice Dean and Head, Taxation Programme <br>
 School of Law, Singapore University of Social Sciences <br>
-        <!-- /\* Font Definitions \*/ @font-face {font-family:PMingLiU; panose-1:2 1 6 1 0 1 1 1 1 1; mso-font-alt:新細明體; mso-font-charset:136; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-1610611969 684719354 22 0 1048577 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-alt:"Calisto MT"; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-alt:Calibri; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@PMingLiU"; panose-1:2 1 6 1 0 1 1 1 1 1; mso-font-charset:136; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-1610611969 684719354 22 0 1048577 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:PMingLiU; mso-ligatures:standardcontextual; mso-fareast-language:JA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-font-kerning:0pt; mso-ligatures:none;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+        
 
 Darren Koh was called to the Bar in England &amp; Wales.&nbsp; He is also a Chartered Accountant (England and Wales) and a Chartered Tax Adviser (United Kingdom).&nbsp; He embarked on a tax career in public practice with PricewaterhouseCoopers in London and KPMG in Hong Kong, and later joined industry with Procter &amp; Gamble.&nbsp; He has also spent 2 years in International Law with the United Nations Compensation Commission, advising Commissioners on the verification and valuation of war reparation claims filed against Iraq after the first Gulf War.&nbsp; He returned to Procter &amp; Gamble after his stint at the UN, and finally left Procter &amp; Gamble as Associate Director for the ASEAN/Australasia/India region to pursue a career in academia.&nbsp; His career has taken him around the world from London to Hong Kong, to Kobe, to Geneva, to Singapore, to Cincinnati, Ohio and back again to Singapore.&nbsp;
 
@@ -76,7 +77,7 @@ Darren has a keen interest in international taxation and also interest in educat
 
 **Ms Ong Ken Loon** <br>
 Head, Tax &amp; Private Client Services <br>
-Drew &amp; Napier <br>
+Drew &amp; Napier LLC <br>
 
 Ken Loon advises on tax aspects of corporate transactions, such as income tax, GST, stamp duty, and property tax.
 
@@ -109,4 +110,4 @@ Singapore Management University <br>
 
 Professor Sum has specialised in taxation for over 30 years and he was tax partner in Deloitte Singapore from 1987 to 2011. He has substantial experience providing advisory tax services to multi-national companies, local corporate clients and financial institutions. His specialties include corporate structuring, restructuring for IPO, acquisitions and mergers, cross-border transactions, structured finance and international tax planning. 
 
-Professor Sum had been nominated on several occasions as one of the top 10 leading Tax Advisers in Singapore by International Tax Review and was also featured as one of the World’s Leading Tax Advisers in the Legal Media Group 2011 Guide to the World’s Leading Tax Advisers. He served on the Board of the Tax Academy of Singapore from August 2006 to August 2011 and was also previously a Senior Consultant with IRAS. He is currently a Board Member of IRAS and a Council Member of the National Arts Council.
+Professor Sum had been nominated on several occasions as one of the top 10 leading Tax Advisers in Singapore by International Tax Review and was also featured as one of the World’s Leading Tax Advisers in the Legal Media Group 2011 Guide to the World’s Leading Tax Advisers. He served on the Board of the Tax Academy of Singapore from August 2006 to August 2011 and was also previously a Senior Consultant with IRAS.          He was a Council Member of the National Arts Council and a Board Member of IRAS from 2016-2022.
