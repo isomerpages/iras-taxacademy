@@ -11,9 +11,9 @@ variant: markdown
 **Mr Tham Sai Choy** <br>
 Chartered Accountant <br>
 
-Mr Tham is a chartered accountant by profession. He is a board member of DBS Group Holdings, Keppel Corporation, Mount Alvernia Hospital and the Accounting and Corporate Regulatory Authority. He was for many years in public practice at KPMG, where he was its managing partner and then its Asia Pacific regional chairman when he retired. 
+        
 
-He is the Chairman at EM Services Pte Ltd and serves on the governing board of Nanyang Polytechnic, and the advisory boards of SKB Institute of Financial Economics and SMU Academy, both units of the Singapore Management University. 
+Mr Tham is a chartered accountant by profession. He is a board member of DBS Group Holdings, Keppel, Mount Alvernia Hospital and Nanyang Polytechnic, and is chairman of EM Services. &nbsp;He was for many years in public practice at KPMG, where he was its managing partner and then its Asia Pacific regional chairman when he retired.
 
 Mr Tham is a Fellow of the Institute of Singapore Chartered Accountants, the Institute of Chartered Accountants in England and Wales, and the Singapore Institute of Directors.
 
@@ -53,7 +53,7 @@ Pui Ming was previously the EY Asean Leader for Global Compliance and Reporting,
 Partner, Head of Tax <br>
 KPMG Singapore <br>
 
-Ajay leads the tax practice for KPMG Singapore and has more than 20 years of post-qualification experience in the areas of tax consulting and compliance. He specialises in corporate and international tax and has advised numerous clients on inbound/outbound investments, pre and post IPO structuring, supply chain hub model restructuring, cross border service fee/royalty payments, procurement model and intellectual property structuring. Ajay has contributed many articles in academic journals, leading business publications and newspapers. He is also a regular speaker on tax issues including in collaboration with industry associations and Government agencies.<br>
+Ajay leads the tax practice for KPMG Singapore and has more than 24 years of post-qualification experience in the areas of tax consulting and compliance. He specialises in corporate and international tax and has advised numerous clients on inbound/outbound investments, pre and post IPO structuring, supply chain hub model restructuring, cross border service fee/royalty payments, procurement model and intellectual property structuring. Ajay has contributed many articles in academic journals, leading business publications and newspapers. He is also a regular speaker on tax issues including in collaboration with industry associations and Government agencies.<br>
 
 **Mr Lennon Lee** <br>
 Partner <br>
