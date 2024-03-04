@@ -26,6 +26,15 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 6. Filing and paying withholding tax
 7. Penalties for late payment/recovery actions
 
+**Admin Details**
+
+* The webinar will be conducted via Zoom
+* Date: 12 Apr 2024
+* Time: 3.00pm to 5.00pm
+* Fees: $43.60 (incl. 9% GST)
+* Registration is on first-come-first served
+
+
 **MARCH 2024**
 * 14 Mar : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#14mar-ta-id)
 * 7 Mar : [Law 101 for Tax Professionals: Law of Agency](#7mar-ta-id)
