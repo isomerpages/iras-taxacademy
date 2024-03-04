@@ -20,6 +20,13 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 
 <a id="12apr-ta-id"></a>
+#### **Law 101 for Tax Professionals: IP Law and Tax**<br>
+**18 Apr | 1.30 p.m. to 5.00 p.m.**
+
+
+
+
+<a id="12apr-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**<br>
 **12 Apr | 3.00 p.m. to 5.00 p.m.**
 
