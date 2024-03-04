@@ -8,6 +8,11 @@ variant: markdown
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**APRIL 2024**
+* 18 Apr : [Law 101 for Tax Professionals: IP Law and Tax](#18apr-ta-id)
+* 12 Apr : [FasTax Series: Fundamentals of Withholding Tax](#12apr-ta-id)
+
+
 **MARCH 2024**
 * 14 Mar : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#14mar-ta-id)
 * 7 Mar : [Law 101 for Tax Professionals: Law of Agency](#7mar-ta-id)
