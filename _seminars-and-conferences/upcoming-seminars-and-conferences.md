@@ -82,7 +82,9 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **About the Speaker**
 
-Mr Larry Low is a Partner in the Business Tax practice of Deloitte Singapore. He has more than 19 years of experience in tax compliance and tax consulting, and has served both local and multinational corporations in various sectors such as manufacturing and trading, fund management, shipping, aircraft leasing and consumer products.
+Mr Larry Low has approximately 20 years of experience in corporate tax compliance, tax consulting and planning, and has served both local and multinational corporations in various sectors such as manufacturing and trading, asset and fund management, real estate, shipping, aircraft leasing, consumer products and energy and resources.
+
+Larry is well versed in Singapore income tax law and practice and has been involved in assisting his portfolio of clients to meet their tax compliance requirements including disputes resolutions, tax consultancy and planning in the areas of tax structuring and restructuring, tax incentives applications, cross border payments, permanent establishment issues and application of tax treaties.&nbsp; He has extensive experience in mergers and acquisitions tax, primarily in the private equity/infrastructure/real estate space, including tax due diligence, acquisition structuring and post-acquisition restructuring.
 
 
 <a id="14mar-ta-id"></a>
