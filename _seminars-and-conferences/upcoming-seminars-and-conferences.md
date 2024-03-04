@@ -13,6 +13,12 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 12 Apr : [FasTax Series: Fundamentals of Withholding Tax](#12apr-ta-id)
 
 
+**MARCH 2024**
+* 14 Mar : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#14mar-ta-id)
+* 7 Mar : [Law 101 for Tax Professionals: Law of Agency](#7mar-ta-id)
+* 5 Mar : [FasTax Series: Fundamentals of GST Principles for Filing Returns](#5mar-ta-id)
+
+
 <a id="12apr-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**<br>
 **12 Apr | 3.00 p.m. to 5.00 p.m.**
@@ -41,13 +47,6 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **About the Speaker**
 
 Mr Larry Low is a Partner in the Business Tax practice of Deloitte Singapore. He has more than 19 years of experience in tax compliance and tax consulting, and has served both local and multinational corporations in various sectors such as manufacturing and trading, fund management, shipping, aircraft leasing and consumer products.
-
-
-**MARCH 2024**
-* 14 Mar : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#14mar-ta-id)
-* 7 Mar : [Law 101 for Tax Professionals: Law of Agency](#7mar-ta-id)
-* 5 Mar : [FasTax Series: Fundamentals of GST Principles for Filing Returns](#5mar-ta-id)
-
 
 
 <a id="14mar-ta-id"></a>
