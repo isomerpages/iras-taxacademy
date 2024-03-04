@@ -18,20 +18,13 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 1. Basics of Singapore withholding tax, including charging section, deemed source provisions and withholding tax rates
 2. Common payments subject to withholding tax, including the following:
-
-\- Interest and other payments in connection with loan or indebtedness
-
-\- Royalties, technical fees, management fees, rent or other payments for the use of moveable property and technical fees
-
-3\. Common exemptions from withholding tax under the Income Tax Act
-
-4\. Tax treaty considerations where Singapore has a tax treaty with the country that the non-resident recipient is resident in
-
-5\. Date of payment for withholding tax purposes
-
-6\. Filing and paying withholding tax
-
-7\. Penalties for late payment/recovery actions
+* Interest and other payments in connection with loan or indebtedness
+* Royalties, technical fees, management fees, rent or other payments for the use of moveable property and technical fees
+5. Common exemptions from withholding tax under the Income Tax Act
+6. Tax treaty considerations where Singapore has a tax treaty with the country that the non-resident recipient is resident in
+7. Date of payment for withholding tax purposes
+8. Filing and paying withholding tax
+9. Penalties for late payment/recovery actions
 
 **MARCH 2024**
 * 14 Mar : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#14mar-ta-id)
