@@ -19,9 +19,21 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 5 Mar : [FasTax Series: Fundamentals of GST Principles for Filing Returns](#5mar-ta-id)
 
 
-<a id="12apr-ta-id"></a>
+<a id="18apr-ta-id"></a>
 #### **Law 101 for Tax Professionals: IP Law and Tax**<br>
 **18 Apr | 1.30 p.m. to 5.00 p.m.**
+
+**INTRODUCTION TO IP LAW**
+
+1. An introduction to Intangible Assets
+2. Registered IP
+* Patents
+* Designs
+* Trademarks
+3. Unregistered IP
+* Copyright
+* Confidential Information
+
 
 
 
