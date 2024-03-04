@@ -45,7 +45,13 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 3. Potential gaps between IP and tax
 4. Transfer pricing of intangibles and emerging issues
 
+**Admin Details**
 
+* The webinar will be conducted via Zoom
+* Date: 18 Apr 2024
+* Time: 1.30pm to 5.00pm
+* Fees: $70.85 (incl. 9% GST)
+* Registration is on first-come-first served
 
 <a id="12apr-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**<br>
