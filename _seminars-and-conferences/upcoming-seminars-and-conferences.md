@@ -34,7 +34,16 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * Copyright
 * Confidential Information
 
+**CORPORATE TAX CONSIDERATIONS ACROSS THE IP LIFECYCLE**
 
+1. Basic tax concepts
+2. Tax treatment of IP receipts and payments for
+* IP creation
+* IP licensing and acquisition
+* IP maintenance and protection
+* IP commercialization
+3. Potential gaps between IP and tax
+4. Transfer pricing of intangibles and emerging issues
 
 
 
