@@ -54,6 +54,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * Registration is on first-come-first served
 * [18 Apr Registration Form](https://form.gov.sg/65e594e10825b4e075bb851b)
 
+
 <a id="12apr-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**<br>
 **12 Apr | 3.00 p.m. to 5.00 p.m.**
