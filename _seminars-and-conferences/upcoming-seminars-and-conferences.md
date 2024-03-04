@@ -36,6 +36,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * Time: 3.00pm to 5.00pm
 * Fees: $43.60 (incl. 9% GST)
 * Registration is on first-come-first served
+* [12 Apr Registration Form](https://form.gov.sg/65e5867396b74048024afdb0)
 
 
 **MARCH 2024**
