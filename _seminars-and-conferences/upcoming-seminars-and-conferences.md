@@ -13,6 +13,9 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 12 Apr : [FasTax Series: Fundamentals of Withholding Tax](#12apr-ta-id)
 
 
+<a id="12apr-ta-id"></a>
+#### **FasTax Series: Fundamentals of Withholding Tax**<br>
+**12 Apr | 3.00 p.m. to 5.00 p.m.**
 
 **In this webinar, participants will learn:**
 
