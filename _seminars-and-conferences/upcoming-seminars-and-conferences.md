@@ -77,7 +77,7 @@ Richard is a Group Tax Specialist with the Inland Revenue Authority of Singapore
 * Interest and other payments in connection with loan or indebtedness
 * Royalties, technical fees, management fees, rent or other payments for the use of moveable property and technical fees
 3. Common exemptions from withholding tax under the Income Tax Act
-4. Tax treaty considerations where Singapore has a tax treaty with the country that the non-resident recipient is resident in
+4. Tax treaty considerations where Singapore has a tax treaty with the country that the non-resident recipient resides in
 5. Date of payment for withholding tax purposes
 6. Filing and paying withholding tax
 7. Penalties for late payment/recovery actions
@@ -92,6 +92,11 @@ Richard is a Group Tax Specialist with the Inland Revenue Authority of Singapore
 * [12 Apr Registration Form](https://form.gov.sg/65e5867396b74048024afdb0)
 
 **About the Speaker**
+
+Mr Larry Low<br>
+Partner<br>
+Business Tax<br>
+Deloitte Singapore<br>
 
 Mr Larry Low has approximately 20 years of experience in corporate tax compliance, tax consulting and planning, and has served both local and multinational corporations in various sectors such as manufacturing and trading, asset and fund management, real estate, shipping, aircraft leasing, consumer products and energy and resources.
 
