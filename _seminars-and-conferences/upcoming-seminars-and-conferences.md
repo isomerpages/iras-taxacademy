@@ -36,14 +36,11 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **CORPORATE TAX CONSIDERATIONS ACROSS THE IP LIFECYCLE**
 
-1. Basic tax concepts
-2. Tax treatment of IP receipts and payments for
-* IP creation
-* IP licensing and acquisition
-* IP maintenance and protection
-* IP commercialization
-3. Potential gaps between IP and tax
-4. Transfer pricing of intangibles and emerging issues
+1. Basic Tax Concepts
+2. Tax Considerations of IP Transactions
+3. Overview on Transfer Pricing of Intangibles
+4. Potential Gaps between IP and tax
+5. Emerging Issues
 
 **Admin Details**
 
@@ -53,6 +50,20 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * Fees: $70.85 (incl. 9% GST)
 * Registration is on first-come-first served
 * [18 Apr Registration Form](https://form.gov.sg/65e594e10825b4e075bb851b)
+
+**About the Speakers**
+
+Mr Jevon Louis<br>
+Partner<br>
+Shook Lin &amp; Bok LLP<br>
+
+Jevon Louis heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on the creation, management and commercialisation of intangible assets, to support businesses in achieving their commercial objectives
+
+Mr Richard Goh<br>
+Group Tax Specialist<br>
+IRAS<br>
+
+Richard is a Group Tax Specialist with the Inland Revenue Authority of Singapore (IRAS). He is a certified Master Tax Specialist (IRAS) specialising in a broad array of tax issues across the IP lifecycle. He is also an Accredited Tax Advisor (SCTP) and a Chartered Valuer and Appraiser (IVAS).
 
 
 <a id="12apr-ta-id"></a>
@@ -66,7 +77,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * Interest and other payments in connection with loan or indebtedness
 * Royalties, technical fees, management fees, rent or other payments for the use of moveable property and technical fees
 3. Common exemptions from withholding tax under the Income Tax Act
-4. Tax treaty considerations where Singapore has a tax treaty with the country that the non-resident recipient is resident in
+4. Tax treaty considerations where Singapore has a tax treaty with the country that the non-resident recipient resides in
 5. Date of payment for withholding tax purposes
 6. Filing and paying withholding tax
 7. Penalties for late payment/recovery actions
@@ -81,6 +92,11 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * [12 Apr Registration Form](https://form.gov.sg/65e5867396b74048024afdb0)
 
 **About the Speaker**
+
+Mr Larry Low<br>
+Partner<br>
+Business Tax<br>
+Deloitte Singapore<br>
 
 Mr Larry Low has approximately 20 years of experience in corporate tax compliance, tax consulting and planning, and has served both local and multinational corporations in various sectors such as manufacturing and trading, asset and fund management, real estate, shipping, aircraft leasing, consumer products and energy and resources.
 
