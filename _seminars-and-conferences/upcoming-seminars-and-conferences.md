@@ -59,6 +59,12 @@ Shook Lin &amp; Bok LLP<br>
 
 Jevon Louis heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on the creation, management and commercialisation of intangible assets, to support businesses in achieving their commercial objectives
 
+Mr Richard Goh<br>
+Group Tax Specialist<br>
+IRAS<br>
+
+Richard is a Group Tax Specialist with the Inland Revenue Authority of Singapore (IRAS). He is a certified Master Tax Specialist (IRAS) specialising in a broad array of tax issues across the IP lifecycle. He is also an Accredited Tax Advisor (SCTP) and a Chartered Valuer and Appraiser (IVAS).
+
 
 <a id="12apr-ta-id"></a>
 #### **FasTax Series: Fundamentals of Withholding Tax**<br>
