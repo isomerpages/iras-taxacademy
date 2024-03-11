@@ -43,7 +43,7 @@ accurately.</p>
 <p><a href="https://form.gov.sg/64e6c1f283091c0011427f02" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
 </p>
 <p>Registration is CLOSED.</p>
-<p>The next intake for this course will be in Sep 2024. Registration will
+<p>The next intake for this course will be in Oct 2024. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
 <p></p>
 <h3><strong>Income Tax Programme Level 2</strong></h3>
