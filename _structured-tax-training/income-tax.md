@@ -40,7 +40,7 @@ accurately.</p>
 <p><a href="https://go.gov.sg/l1it42023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 2</a> -
 <a href="/files/executive-tax-programmes/coursebrochurel1it2023intake4.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://form.gov.sg/64e6c1f283091c0011427f02" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
+<p><a href="https://form.gov.sg/65ee9957e7798cdb74190955" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
 </p>
 <p>Registration is CLOSED.</p>
 <p>The next intake for this course will be in Oct 2024. Registration will
