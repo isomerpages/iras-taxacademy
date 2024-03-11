@@ -22,8 +22,11 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 3</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2024 (April 2024 to April 2025) &amp; Intake 2/2024 (July 2024
-to September 2025: <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Intake 1/2024 (April 2024 to April 2025): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+</p>
+</li>
+<li>
+<p>Intake 2/2024 (July 2024 to September 2025): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
