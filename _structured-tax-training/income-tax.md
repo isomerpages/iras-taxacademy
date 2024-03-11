@@ -15,7 +15,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jan 2024 intake: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Jan 2024 intake: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
@@ -59,7 +59,7 @@ provide a basic understanding of tax treaties and transfer pricing.</p>
 </p>
 <p><a href="https://form.gov.sg/655c0e8c1364450012cbdb48" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
 </p>
-<p>Registration is OPEN.</p>
+<p>Registration is CLOSED.</p>
 <p>The next intake for this course will be in Jul 2024. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
 <p></p>
