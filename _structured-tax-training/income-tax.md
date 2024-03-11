@@ -35,7 +35,7 @@ the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
 <p><a href="https://go.gov.sg/l1it32023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 1</a> -
-<a href="/files/executive-tax-programmes/coursebrochurel1it2023intake3.pdf" rel="noopener noreferrer nofollow" target="_blank">Det</a><a href="/files/executive-tax-programmes/intake1_brochure_level1_incometax_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">a</a>
+<a href="/files/executive-tax-programmes/coursebrochurel1it2023intake3.pdf" rel="noopener noreferrer nofollow" target="_blank">Det</a><a href="/files/executive-tax-programmes/intake1_brochure_level1_incometax_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">a</a> 
 <a href="/files/executive-tax-programmes/coursebrochurel1it2023intake3.pdf" rel="noopener noreferrer nofollow" target="_blank">ils</a>
 </p>
 <p><a href="https://go.gov.sg/l1it42023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 2</a> -
