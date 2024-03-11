@@ -15,8 +15,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **MARCH 2024**
 * 14 Mar : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#14mar-ta-id)
-* 7 Mar : [Law 101 for Tax Professionals: Law of Agency](#7mar-ta-id)
-* 5 Mar : [FasTax Series: Fundamentals of GST Principles for Filing Returns](#5mar-ta-id)
+
 
 
 <a id="18apr-ta-id"></a>
@@ -117,51 +116,6 @@ This webinar will feature practical examples illustrating the use of ASK for goo
 * Fees: $70.85 (incl. 9% GST)
 * Registration is on first-come-first served
 * [14 Mar Registration Form](https://form.gov.sg/65a65fe1e008a800117ee4ea)
-
-<a id="7mar-ta-id"></a>
-#### **Law 101 for Tax Professionals: Law of Agency**<br>
-**7 Mar | 3.00 p.m. to 5.00 p.m.**
-
-Join us in this webinar as our speakers, Mr Yang Shi Yong (Director, Drew &amp;Napier LLC) and Mr Charles Li (Director, Law Division, IRAS), provide an overview of the main common law principles of agency, including the creation of agency, the types of authority that an agent can have, the concept of the undisclosed principal and the duties and liabilities of principals and agents. Speakers will also share broadly how common law agency may be relevant in the context of Income Tax and Goods and Services Tax (GST) and the types of statutory agency that may be created under the respective tax Acts.
-
-Agenda:
-* Introduction
-* Common law agency
-* Statutory agency
-* General income tax and GST issues
-
-**Admin Details**
-
-* The webinar will be conducted via Zoom
-* Date: 7 Mar 2024
-* Time: 3.00pm to 5.00pm
-* Fees: $43.60 (incl. 9% GST)
-* Registration is on first-come-first served
-* [7 Mar Registration Form](https://form.gov.sg/65a65f0d2174610012903533)
-
-
-<a id="5mar-ta-id"></a>
-#### **FasTax Series: Fundamentals of GST Principles for Filing Returns**<br>
-**5 Mar | 3.00 p.m. to 5.00 p.m.**
-
-The agenda of the webinar is as follow:
-
-* Responsibilities of a GST-Registered Business
-* Key GST Concepts
-* Common GST Errors
-* Reimbursement and Disbursement of Expenses
-* Fringe Benefits
-* Zero-Rating of International Services
-* Q&amp;A Session
-
-**Admin Details**
-
-* The webinar will be conducted via Zoom
-* Date: 5 Mar 2024
-* Time: 3.00pm to 5.00pm
-* Fees: $43.60 (incl. 9% GST)
-* Registration is on first-come-first served
-* [5 Mar Registration Form](https://form.gov.sg/65a65e292cd8bd00124c3e4d)
 
 
 
