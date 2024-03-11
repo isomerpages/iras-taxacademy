@@ -57,8 +57,7 @@ provide a basic understanding of tax treaties and transfer pricing.</p>
 <p><a href="https://go.gov.sg/l2it42023reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/executive-tax-programmes/L2IT42023coursebrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://form.gov.sg/655c0e8c1364450012cbdb48" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
-</p>
+<p></p>
 <p>Registration is CLOSED.</p>
 <p>The next intake for this course will be in Jul 2024. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
