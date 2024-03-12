@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>April/May 2024 intakes: <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>April/May 2024 intakes: <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
