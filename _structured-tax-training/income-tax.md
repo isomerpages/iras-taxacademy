@@ -8,22 +8,25 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Oct 2023 intake: <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>April/May 2024 intakes: <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jan 2024 intake: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Jan 2024 intake: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
 <h5><strong>Income Tax Programme Level 3</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2024 (April 2024 to April 2025) &amp; Intake 2/2024 (July 2024
-to September 2025: <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Intake 1/2024 (April 2024 to April 2025): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+</p>
+</li>
+<li>
+<p>Intake 2/2024 (July 2024 to September 2025): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
@@ -34,16 +37,16 @@ Tax Act, distinction between income and capital receipts, principles governing
 the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
-<p><a href="https://go.gov.sg/l1it32023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 3</a> -
-<a href="/files/executive-tax-programmes/coursebrochurel1it2023intake3.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<p><a href="https://form.gov.sg/65ee9ce54a44f5816c230a9e" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 1</a> -
+<a href="/files/executive-tax-programmes/intake1_brochure_level1_incometax_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://go.gov.sg/l1it42023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 4</a> -
-<a href="/files/executive-tax-programmes/coursebrochurel1it2023intake4.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<p><a href="https://form.gov.sg/65ee9e84e7798cdb741a620f" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 2</a> -
+<a href="/files/executive-tax-programmes/intake2_brochure_level1_incometax_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://form.gov.sg/64e6c1f283091c0011427f02" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
+<p><a href="https://form.gov.sg/65ee9957e7798cdb74190955" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
 </p>
-<p>Registration is CLOSED.</p>
-<p>The next intake for this course will be in May 2024. Registration will
+<p>Registration is OPEN.</p>
+<p>The next intake for this course will be in Oct 2024. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
 <p></p>
 <h3><strong>Income Tax Programme Level 2</strong></h3>
@@ -57,9 +60,8 @@ provide a basic understanding of tax treaties and transfer pricing.</p>
 <p><a href="https://go.gov.sg/l2it42023reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/executive-tax-programmes/L2IT42023coursebrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://form.gov.sg/655c0e8c1364450012cbdb48" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
-</p>
-<p>Registration is OPEN.</p>
+<p></p>
+<p>Registration is CLOSED.</p>
 <p>The next intake for this course will be in Jul 2024. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
 <p></p>
