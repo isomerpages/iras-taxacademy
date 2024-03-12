@@ -45,7 +45,7 @@ accurately.</p>
 </p>
 <p><a href="https://form.gov.sg/65ee9957e7798cdb74190955" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
 </p>
-<p>Registration is OPEN.</p>
+<p>Registration is CLOSED.</p>
 <p>The next intake for this course will be in Oct 2024. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
 <p></p>
