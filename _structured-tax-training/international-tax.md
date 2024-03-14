@@ -50,13 +50,13 @@ The WU – TA Advanced Transfer Pricing Programme is offered by the WU Transfer 
 
 The 4-day programme is facilitated by a team of professors from the WU Transfer Pricing Centre and regional industry tax experts.
 
-The programme provides participants with the latest update on international transfer pricing developments, and knowledge and insights to handle transfer pricing issues in specialised industries that are of relevance to the Asia-Pacific region. Workshops will be provided for all topics enabling opportunities for discussions.
+The programme provides participants with the latest updates on international transfer pricing developments, and knowledge and insights to handle transfer pricing issues in specialised industries that are of relevance to the Asia-Pacific region. Workshops will be provided for all topics enabling opportunities for discussions.
 
 Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas as there will be a networking lunch on the first day of the programme.
 
 Dates of programme: 30 Sep, 1, 2 and 3 Oct 2024
 
-[Registration Form](https://go.gov.sg/jdlk77){:target="_blank"} - [Details](/files/executive-tax-programmes/wu ta advanced transfer pricing programme 2023.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/jdlk77){:target="_blank"} - [Details](/files/executive-tax-programmes/WU___TA_Advanced_Transfer_Pricing_Programme_2024.pdf){:target="_blank"}
 
 **Registration is OPEN for 2024 intake.**
 
