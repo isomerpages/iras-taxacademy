@@ -12,7 +12,7 @@ variant: markdown
 * Sep/Oct 2023 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
 
 ##### **International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme**
-* 2023 Intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#wu-ta-id)
+* 2024 Intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#wu-ta-id)
 
 ##### **International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties Programme**
 * Jan 2024 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
@@ -48,17 +48,17 @@ The next intake for the course will be held in Sep/Oct 2025. Registration will o
 
 The WU – TA Advanced Transfer Pricing Programme is offered by the WU Transfer Pricing Centre at the Institute for Austrian and International Tax Law at WU (Vienna University of Economics and Business) and the Tax Academy of Singapore. 
 
-The 8 half-day programme is facilitated by a team of professors from the WU Transfer Pricing Centre and regional industry tax experts.
+The 4-day programme is facilitated by a team of professors from the WU Transfer Pricing Centre and regional industry tax experts.
 
-The programme provides participants with the latest update on international transfer pricing developments, and knowledge and insights to handle transfer pricing issues in specialised industries that are of relevance to the Asia-Pacific region. Workshops will be provided for all topics enabling opportunities for discussions.
+The programme provides participants with the latest updates on international transfer pricing developments, and knowledge and insights to handle transfer pricing issues in specialised industries that are of relevance to the Asia-Pacific region. Workshops will be provided for all topics enabling opportunities for discussions.
 
-Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas virtually.
+Don’t miss the opportunity to network with the TP experts from academic and industry both local and overseas as there will be a networking lunch on the first day of the programme.
 
-Dates of programme via virtual classroom: 2, 3, 4, 5, 9, 10, 11, 12, Oct 2023
+Dates of programme: 30 Sep, 1, 2 and 3 Oct 2024
 
-[Registration Form](https://go.gov.sg/fgnacs){:target="_blank"} - [Details](/files/executive-tax-programmes/wu ta advanced transfer pricing programme 2023.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/jdlk77){:target="_blank"} - [Details](/files/executive-tax-programmes/WU___TA_Advanced_Transfer_Pricing_Programme_2024.pdf){:target="_blank"}
 
-**Registration is CLOSED for 2023 intake.**
+**Registration is OPEN for 2024 intake.**
 
 <a id="leiden-ta-id"></a>
 ### **International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties**
