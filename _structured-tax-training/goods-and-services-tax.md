@@ -19,8 +19,7 @@ variant: markdown
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
-[Registration Form](https://form.gov.sg/651516ab8387e000125b1896){:target="_blank"} - [Details](/files/executive-tax-programmes/Course_Programme_GST_L1_1_2024.pdf){:target="_blank"}
-
+[Registration Form](https://form.gov.sg/660bbf0417bcb62801c0d3fe){:target="_blank"} - [Details](/files/executive-tax-programmes/Course_Programme_GST_L1_1_2024.pdf){:target="_blank"}
 
 Registration is OPEN for intake 1/2024 (May 2024 intake). 
 
