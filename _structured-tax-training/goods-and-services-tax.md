@@ -6,10 +6,10 @@ variant: markdown
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **GST Programme Level 1**
-* Feb 2024 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* May 2024 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **GST Programme Level 2**
-* Feb 2024 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* May 2024 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 ##### **GST Programme Level 3**
 * Advanced GST Programme 2023/24: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
