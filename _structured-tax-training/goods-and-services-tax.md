@@ -6,10 +6,10 @@ variant: markdown
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **GST Programme Level 1**
-* Feb 2024 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* Feb 2024 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **GST Programme Level 2**
-* Feb 2024 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
+* Feb 2024 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
 
 ##### **GST Programme Level 3**
 * Advanced GST Programme 2023/24: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
@@ -19,11 +19,11 @@ variant: markdown
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
-[Registration Form](https://form.gov.sg/651516ab8387e000125b1896){:target="_blank"} - [Details](/files/executive-tax-programmes/Course_Programme_GST_L1_4_2023__1_.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/660bbf0417bcb62801c0d3fe){:target="_blank"} - [Details](/files/executive-tax-programmes/Course_Programme_GST_L1_1_2024.pdf){:target="_blank"}
 
-Registration is CLOSED for intake 4/2023 (Feb 2024 intake). 
+Registration is OPEN for intake 1/2024 (May 2024 intake). 
 
-The next intake for this course will be in May 2024. Registration will be available six to eight weeks prior to the course commencement date.
+The next intake for this course will be in Sep 2024. Registration will be available six to eight weeks prior to the course commencement date.
 
 <a id="etp2gst-ta-id"></a>
 ### **GST Programme Level 2**
@@ -34,7 +34,7 @@ This course comprises one module on overall GST concepts and applications, and f
 
 Please note participants will have to complete Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation prior to taking the GST Programme Level 2.
 
-Registration is OPEN for intake 1/2024 (May 2024 intake).
+Registration is CLOSED for intake 1/2024 (May 2024 intake).
 
 The next intake for this course will be in Sep 2024. Registration will be available six to eight weeks prior to the course commencement date.
 
