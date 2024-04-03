@@ -6,7 +6,7 @@ variant: markdown
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **GST Programme Level 1**
-* May 2024 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
+* May 2024 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)
 
 ##### **GST Programme Level 2**
 * May 2024 intake: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)
@@ -21,7 +21,7 @@ This course covers the scope of GST, and concepts relating to supply of goods an
 
 [Registration Form](https://form.gov.sg/660bbf0417bcb62801c0d3fe){:target="_blank"} - [Details](/files/executive-tax-programmes/Course_Programme_GST_L1_1_2024.pdf){:target="_blank"}
 
-Registration is OPEN for intake 1/2024 (May 2024 intake). 
+Registration is CLOSED for intake 1/2024 (May 2024 intake). 
 
 The next intake for this course will be in Sep 2024. Registration will be available six to eight weeks prior to the course commencement date.
 
