@@ -13,10 +13,6 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 12 Apr : [FasTax Series: Fundamentals of Withholding Tax](#12apr-ta-id)
 
 
-**MARCH 2024**
-* 14 Mar : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#14mar-ta-id)
-
-
 
 <a id="18apr-ta-id"></a>
 #### **Law 101 for Tax Professionals: IP Law and Tax**<br>
@@ -100,22 +96,6 @@ Deloitte Singapore<br>
 Mr Larry Low has approximately 20 years of experience in corporate tax compliance, tax consulting and planning, and has served both local and multinational corporations in various sectors such as manufacturing and trading, asset and fund management, real estate, shipping, aircraft leasing, consumer products and energy and resources.
 
 Larry is well versed in Singapore income tax law and practice and has been involved in assisting his portfolio of clients to meet their tax compliance requirements including disputes resolutions, tax consultancy and planning in the areas of tax structuring and restructuring, tax incentives applications, cross border payments, permanent establishment issues and application of tax treaties.&nbsp; He has extensive experience in mergers and acquisitions tax, primarily in the private equity/infrastructure/real estate space, including tax due diligence, acquisition structuring and post-acquisition restructuring.
-
-
-<a id="14mar-ta-id"></a>
-#### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
-**14 Mar | 2.00 p.m. to 5.00 p.m.**
-
-This webinar will feature practical examples illustrating the use of ASK for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
-
-**Admin Details**
-
-* The webinar will be conducted via Zoom
-* Date: 14 Mar 2024
-* Time: 2.00pm to 5.00pm
-* Fees: $70.85 (incl. 9% GST)
-* Registration is on first-come-first served
-* [14 Mar Registration Form](https://form.gov.sg/65a65fe1e008a800117ee4ea)
 
 
 
