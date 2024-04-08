@@ -28,7 +28,7 @@ tax landscape.</p>
 Tax Academy will continue to create a national tax training infrastructure
 that grows the talent pool to service businesses in Singapore and beyond.</p>
 <p></p>
-<p><strong>Mr Dennis Lui</strong>
+<p><strong>Mr Dennis Lui</strong> 
 <br>Chief Executive Officer, Tax Academy of Singapore
 <br>Deputy Commissioner (Indirect Taxes, Law &amp; Investigation Group), Inland
 Revenue Authority of Singapore</p>
