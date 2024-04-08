@@ -2,16 +2,33 @@
 title: Message from Tax Academy Chief Executive Officer
 permalink: /who-we-are/message-from-tax-academy-ceo/
 breadcrumb: Message from Tax Academy Chief Executive Officer
+variant: tiptap
 ---
-Governments around the world have been providing extensive fiscal support to help businesses and households cope with the pandemic. Looking ahead, tax measures will remain part of the support package offered by many jurisdictions even as more governments shift their attention and resources on post-pandemic recovery. Concurrently, the international tax rules are being reviewed in the ongoing discussions of the OECD Inclusive Framework. The evolving international tax developments would also have an impact on the future of global businesses and tax certainty would be a key concern for many businesses. Therefore, it is imperative for tax practitioners to keep abreast of these tax developments.
-
-To equip the tax profession with the knowledge and skill sets to meet the challenges of an increasingly complex tax environment, the **Tax Academy offers a wide suite of quality structured tax training programmes, one that builds tax competency from foundational to the advanced level**. Through the organization of seminars and conferences on domestic, regional and global tax issues, the academy aims to provide a platform for tax practitioners to obtain updates on emerging tax developments and exchange views with the government, industry and academia.
-
-In our global partnerships with renowned organisations and academia, we endeavour to uphold **our mission of raising the professional competency of the tax community and develop our standing as a leading centre for taxation and regional tax knowledge hub**. 
-
-Being the **premier centre for tax education in Singapore**, the Tax Academy will continue to champion the development of tax expertise to support Singapore’s role as a global business hub. 
-
-
-**Ms Chiam Yah Fang** <br>
-Chief Executive Officer, Tax Academy of Singapore <br>
-Deputy Commissioner (Business Group)/ Chief Compliance Officer, Inland Revenue Authority of Singapore <br>
+<p>As we navigate through the evolving landscape of international tax developments,
+it is evident that continuous tax training is pivotal in equipping the
+tax professionals with the knowledge and skill sets to meet the challenges
+of an increasingly complex tax environment.</p>
+<p>Tax Academy has taken a leading role in facilitating the growth of tax
+expertise through its wide suite of quality structured tax training programmes,
+one that builds tax competency from foundational to the advanced level.&nbsp;The
+regular bite-sized seminars and conferences also provides an excellent
+platform to bring together top expertise among the public and private sectors,
+as well as academia for the exchange of knowledge and experience sharing.</p>
+<p>With technological innovation and rapid changes in the education landscape,
+Tax Academy recognises the shift to e-learning and online platforms presents
+opportunities to enhance the accessibility, effectiveness, and empowering
+professionals to engage in continuous learning and skill development beyond
+traditional classroom settings. The integration of AI in tax training and
+learning will also enhance the capabilities of tax professionals and maximize
+learning outcomes. In this regard, Tax Academy is committed to explore
+integrating AI technologies into our teaching and learning to empower our
+learners with the knowledge and skills required to excel in the ever-changing
+tax landscape.</p>
+<p>Being the&nbsp;<strong>premier centre for tax education in Singapore</strong>,
+Tax Academy will continue to create a national tax training infrastructure
+that grows the talent pool to service businesses in Singapore and beyond.</p>
+<p></p>
+<p><strong>Mr Dennis Lui</strong>
+<br>Chief Executive Officer, Tax Academy of Singapore
+<br>Deputy Commissioner (Indirect Taxes, Law &amp; Investigation Group), Inland
+Revenue Authority of Singapore</p>
