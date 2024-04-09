@@ -2,6 +2,7 @@
 title: Terms and Conditions
 permalink: /executive-tax-programmes/terms-and-conditions/
 breadcrumb: Terms and Conditions
+variant: markdown
 ---
 **1. Registration**
 
@@ -62,8 +63,10 @@ breadcrumb: Terms and Conditions
 9.3 For webinar, payment is to be made within 2 working days from the date of registration. Confirmation and Receipt will be emailed to registrant within 5 working days upon receiving payment. No invoice will be issued for webinar fees less than $600.
 
 9.4 Course fees are non-refundable upon issuance of invoice.
-
+ 
 9.5 Receipt will be issued upon request.
+
+9.6 No refunds will be made for overpayment of 1 dollar or less.
 
 **10. Certificates/Letter of Completion/Transcript**
 
@@ -74,7 +77,7 @@ issued to participants.
 
 **11. Administrative fee**
 
-11.1 The following requests are subject to an administrative fee of $54.00 (8% GST inclusive) each:
+11.1 The following requests are subject to an administrative fee of $54.50 (9% GST inclusive) each:
 - Purchase of course materials
 - Re-sitting of exam
 - Duplicate hardcopy of Certificate of Achievement (with grading)
