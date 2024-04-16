@@ -96,3 +96,5 @@ issued to participants.
 **13. Continuing Professional Education (CPE)**
 
 13.1 A CPE letter will be issued upon request at the end of each module or programme.
+
+Please note that photographs and footage may be taken during the course/event. These will be used by Tax Academy for marketing and publicity in our publications, website and social media platforms.
