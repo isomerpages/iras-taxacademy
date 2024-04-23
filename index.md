@@ -30,12 +30,12 @@ sections:
           description: Levels 1 to 3
           url: /executive-tax-programmes/international-tax/
   - infopic:
-      title: Navigating BEPS 2.0 - Opportunities and Challenges
-      subtitle: Tax Academy Conference 2023
-      description: 29 September 2023 | 9.00am to 4.30pm
-      button: Post Conference Highlights
-      url: https://www.taxacademy.sg/conference-2023/
-      image: /images/key visual 29 sep 2023.jpg
+      id: infopic
+      description: Excerpt from President Tharman Shanmugaratnam's Opening Address at
+        the launch of the Tax Academy on 28 July 2006.
+      button: Full Speech
+      url: https://www.mof.gov.sg/news-publications/speeches/Address-By-Mr-Tharman-Shanmugaratnam-Minister-For-Education-And-Second-Minister-For-Finance-At-The-Launch-Of-The-Tax-Academy-And-Opening-Of-The-Transf
+      image: /images/Quote__1_.png
       alt: Image alt text
 image: /images/isomer-logo.svg
 ---
