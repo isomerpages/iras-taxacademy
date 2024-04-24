@@ -59,4 +59,5 @@ Tax applications in the employment context - common issues that arise:
 
 
 
-**Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/) for seminars.**
+**Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/) for seminars.  Photographs and footage may be taken during the course/event. These will be used by
+Tax Academy for marketing and publicity in our publications, website and social media platforms.**
