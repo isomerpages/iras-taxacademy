@@ -8,95 +8,54 @@ variant: markdown
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
-**APRIL 2024**
-* 18 Apr : [Law 101 for Tax Professionals: IP Law and Tax](#18apr-ta-id)
-* 12 Apr : [FasTax Series: Fundamentals of Withholding Tax](#12apr-ta-id)
+**MAY 2024**
+* 13 May : [Law 101 for Tax Professionals: Employment Law](#13may-ta-id)
 
 
+<a id="13may-ta-id"></a>
+#### **Law 101 for Tax Professionals: Employment Law**<br>
+**13 May | 3.00 p.m. to 5.00 p.m.**
 
-<a id="18apr-ta-id"></a>
-#### **Law 101 for Tax Professionals: IP Law and Tax**<br>
-**18 Apr | 1.30 p.m. to 5.00 p.m.**
+This webinar will cover:
 
-**INTRODUCTION TO IP LAW**
+Hiring of employees:
 
-1. An introduction to Intangible Assets
-2. Registered IP
-* Patents
-* Designs
-* Trademarks
-3. Unregistered IP
-* Copyright
-* Confidential Information
+* An introduction into the requirements that employers should keep in mind when hiring employees in Singapore
 
-**CORPORATE TAX CONSIDERATIONS ACROSS THE IP LIFECYCLE**
+Managing employees:
 
-1. Basic Tax Concepts
-2. Tax Considerations of IP Transactions
-3. Overview on Transfer Pricing of Intangibles
-4. Potential Gaps between IP and tax
-5. Emerging Issues
+* A brief discussion on the common issues that arise during an employment relationship, including performance issues and misconduct
 
-**Admin Details**
+Termination of employment:
+
+* An introduction on how an employer should go about terminating the employment of an employee in Singapore
+
+Tax applications in the employment context - common issues that arise:
+
+* Labelling termination payments as "ex-gratia" or "severance"
+
+* Issues relating to employees working remotely
+
+**Admin details:**
 
 * The webinar will be conducted via Zoom
-* Date: 18 Apr 2024
-* Time: 1.30pm to 5.00pm
-* Fees: $70.85 (incl. 9% GST)
+
+* Date: 13 May 2024
+
+* Time: 3.00pm to 5.00pm
+
+* Fees: SGD 43.60 (incl. GST)
+
 * Registration is on first-come-first served
-* [18 Apr Registration Form](https://form.gov.sg/65e594e10825b4e075bb851b)
+
+* [Registration form](https://form.gov.sg/6628c87260c8ced1b516bc32)
+
 
 **About the Speakers**
 
-Mr Jevon Louis<br>
-Partner<br>
-Shook Lin &amp; Bok LLP<br>
+**Ms. Samantha Tan** is a Senior Associate in the Tax Practice Group at Baker McKenzie's Singapore office. Samantha advises on both Singapore and international tax aspects of cross-border transactions, including mergers and acquisitions, legal entity reorganisations, intellectual property migration and supply or value chain planning. She supports companies in successful implementation of large-scale multijurisdictional projects. Samantha is also well-versed in advising on employment-related tax issues including but not limited to those arising from flexible work arrangements, dual/multiple employment arrangements and termination of employment.
 
-Jevon Louis heads the Intellectual Property (IP), Technology and Data practice at Shook Lin &amp; Bok LLP and is experienced in both contentious and non-contentious matters across multiple industries. Jevon also advises on the creation, management and commercialisation of intangible assets, to support businesses in achieving their commercial objectives
-
-Mr Richard Goh<br>
-Group Tax Specialist<br>
-IRAS<br>
-
-Richard is a Group Tax Specialist with the Inland Revenue Authority of Singapore (IRAS). He is a certified Master Tax Specialist (IRAS) specialising in a broad array of tax issues across the IP lifecycle. He is also an Accredited Tax Advisor (SCTP) and a Chartered Valuer and Appraiser (IVAS).
-
-
-<a id="12apr-ta-id"></a>
-#### **FasTax Series: Fundamentals of Withholding Tax**<br>
-**12 Apr | 3.00 p.m. to 5.00 p.m.**
-
-**In this webinar, participants will learn:**
-
-1. Basics of Singapore withholding tax, including charging section, deemed source provisions and withholding tax rates
-2. Common payments subject to withholding tax, including the following:
-* Interest and other payments in connection with loan or indebtedness
-* Royalties, technical fees, management fees, rent or other payments for the use of moveable property and technical fees
-3. Common exemptions from withholding tax under the Income Tax Act
-4. Tax treaty considerations where Singapore has a tax treaty with the country that the non-resident recipient resides in
-5. Date of payment for withholding tax purposes
-6. Filing and paying withholding tax
-7. Penalties for late payment/recovery actions
-
-**Admin Details**
-
-* The webinar will be conducted via Zoom
-* Date: 12 Apr 2024
-* Time: 3.00pm to 5.00pm
-* Fees: $43.60 (incl. 9% GST)
-* Registration is on first-come-first served
-* [12 Apr Registration Form](https://form.gov.sg/65e5867396b74048024afdb0)
-
-**About the Speaker**
-
-Mr Larry Low<br>
-Partner<br>
-Business Tax<br>
-Deloitte Singapore<br>
-
-Mr Larry Low has approximately 20 years of experience in corporate tax compliance, tax consulting and planning, and has served both local and multinational corporations in various sectors such as manufacturing and trading, asset and fund management, real estate, shipping, aircraft leasing, consumer products and energy and resources.
-
-Larry is well versed in Singapore income tax law and practice and has been involved in assisting his portfolio of clients to meet their tax compliance requirements including disputes resolutions, tax consultancy and planning in the areas of tax structuring and restructuring, tax incentives applications, cross border payments, permanent establishment issues and application of tax treaties.&nbsp; He has extensive experience in mergers and acquisitions tax, primarily in the private equity/infrastructure/real estate space, including tax due diligence, acquisition structuring and post-acquisition restructuring.
-
+**Ms Esther Pang** is a Senior Associate in the Employment Practice Group at Baker McKenzie's Singapore office. Esther specialises in employment and immigration issues in Singapore. Esther advises clients on all aspects of employment law from the start of an employment relationship through to the termination of employment, and other employee management issues in between. Esther's experience includes negotiating employment and separation agreements, reviewing of employee policies and cash/equity incentive plans, handling employment issues arising from restructuring or mergers and acquisitions as well as employee misconduct issues and employee investigations.
 
 
 
