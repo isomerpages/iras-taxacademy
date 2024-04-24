@@ -48,7 +48,7 @@ Tax applications in the employment context - common issues that arise:
 
 * Registration is on first-come-first served
 
-* [Registration form]
+* [Registration form](https://form.gov.sg/6628c87260c8ced1b516bc32)
 
 
 **About the Speakers**
