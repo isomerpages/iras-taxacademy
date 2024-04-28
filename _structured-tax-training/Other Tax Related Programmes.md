@@ -7,9 +7,9 @@ variant: markdown
 ##### **UPCOMING PROGRAMMES**
 
 
-### **Property Tax Valuation (Intake 2024)**
+### **Programme on Property Tax Valuation (Intake 2024)**
 
-Join us in this workshop to gain a deeper understanding of how the Annual Values for different types of properties are valued or assessed using various valuation methods and the statutorily prescribed bases of assessment. The workshop will be facilitated by Ms Ang Sock Tiang, Former Chief Valuer of IRAS.
+Join us in this 1-day workshop to gain a deeper understanding of how the Annual Values for different types of properties are valued or assessed using various valuation methods and the statutorily prescribed bases of assessment. The workshop will be facilitated by Ms Ang Sock Tiang, Former Chief Valuer of IRAS.
 
 
 ### **Accounting Standards and Tax Adjustments**
