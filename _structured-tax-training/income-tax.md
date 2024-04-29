@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Intake 2/2024 (July 2024 to September 2025): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Intake 2/2024 (July 2024 to September 2025): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
@@ -65,7 +65,7 @@ provide a basic understanding of tax treaties and transfer pricing.</p>
 <p>The next intake for this course will be in Jul 2024. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
 <p></p>
-<h3><strong>Income Tax Programme Level 3 : Advanced Tax Programme</strong></h3>
+<h3><strong>Income Tax Programme Level 3: Advanced Tax Programme</strong></h3>
 <p>The Advanced Tax Programme (ATP) is the foremost training programme for
 tax professionals. It offers rigorous training on a wide range of core
 subjects covering: Tax Policy, Legal Framework, Singapore Individual and
