@@ -26,7 +26,7 @@ variant: markdown
 
 This course will enable participants to acquire basic knowledge in tax treaties and transfer pricing.
 
-[Indicate Interest Form](https://go.gov.sg/663ada4d5f61e229a33e12fe){:target="_blank"} - - [Details](/files/executive-tax-programmes/brochurel1int12024.pdf){:target="_blank"}
+[Indicate Interest Form](https://form.gov.sg/663ada4d5f61e229a33e12fe){:target="_blank"} - - [Details](/files/executive-tax-programmes/brochurel1int12024.pdf){:target="_blank"}
 
 **Registration is CLOSED for intake 1/2024**
 
