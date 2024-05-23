@@ -15,7 +15,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jan 2024 intake: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Jul 2024 intakes: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
@@ -66,14 +66,11 @@ provide a basic understanding of tax treaties and transfer pricing.</p>
 <p><a href="https://go.gov.sg/itl212024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/L2_IT_1_2024_course_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p>To join waiting list</p>
-<p><a href="https://go.gov.sg/l2itwating" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
+<p>To join waiting list - <a href="https://go.gov.sg/l2itwating" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
 </p>
 <p></p>
-<p></p>
-<p></p>
-<p>Registration is CLOSED.</p>
-<p>The next intake for this course will be in Jul 2024. Registration will
+<p>Registration is OPEN.</p>
+<p>The next intake for this course will be in Jan 2025. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
 <p></p>
 <h3><strong>Income Tax Programme Level 3: Advanced Tax Programme</strong></h3>
