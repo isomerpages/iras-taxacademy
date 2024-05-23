@@ -57,12 +57,12 @@ companies and partnerships.</p>
 level of awareness in most GST concepts and principles. As businesses are
 increasingly having to deal with cross-border tax issues, this course will
 provide a basic understanding of tax treaties and transfer pricing.</p>
-<p>Intake 1/2024</p>
+<p>Intake 1/2024 (25 Jun to 29 Jul 2024)</p>
 <p><a href="https://go.gov.sg/itl212024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/L2_IT_1_2024_course_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
 <p></p>
-<p>Intake 2/2024</p>
+<p>Intake 2/2024 (9 Jul to 6 Aug 2024)</p>
 <p><a href="https://go.gov.sg/itl212024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/L2_IT_1_2024_course_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
