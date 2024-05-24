@@ -15,7 +15,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jan 2024 intake: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Jul 2024 intakes: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
@@ -52,17 +52,25 @@ be available six to eight weeks prior to the course commencement date.</p>
 <h3><strong>Income Tax Programme Level 2</strong></h3>
 <p>This course provides in-depth knowledge in income tax principles and covers
 concepts on taxability, deductibility and capital allowances relating to
-sole-proprietorships, partnerships and companies.</p>
+companies and partnerships.</p>
 <p>It will provide an overview of Goods and Services Tax to create a basic
 level of awareness in most GST concepts and principles. As businesses are
 increasingly having to deal with cross-border tax issues, this course will
 provide a basic understanding of tax treaties and transfer pricing.</p>
-<p><a href="https://go.gov.sg/l2it42023reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
-<a href="/files/executive-tax-programmes/L2IT42023coursebrochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<p>Intake 1/2024 (25 Jun to 29 Jul 2024)</p>
+<p><a href="https://go.gov.sg/itl212024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
+<a href="/files/L2_IT_1_2024_course_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
 <p></p>
-<p>Registration is CLOSED.</p>
-<p>The next intake for this course will be in Jul 2024. Registration will
+<p>Intake 2/2024 (9 Jul to 6 Aug 2024)</p>
+<p><a href="https://go.gov.sg/itl222024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
+<a href="/files/L2_IT_2_2024_course_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+</p>
+<p>To join waiting list - <a href="https://go.gov.sg/l2itwating" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
+</p>
+<p></p>
+<p>Registration is OPEN.</p>
+<p>The next intake for this course will be in Jan 2025. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
 <p></p>
 <h3><strong>Income Tax Programme Level 3: Advanced Tax Programme</strong></h3>
