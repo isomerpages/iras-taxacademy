@@ -9,10 +9,10 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **JUNE 2024**
-* 4 Jun : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#4jun-ta-id)
+* 21 Jun : [TEI-TA Joint Seminar: The Evolution of Tax Professionals](#21jun-ta-id)
 
 
-<a id="4jun-ta-id"></a>
+<a id="21jun-ta-id"></a>
 #### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
 **4 Jun | 2.00 p.m. to 5.00 p.m.**
 
