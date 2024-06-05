@@ -13,24 +13,26 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 
 <a id="21jun-ta-id"></a>
-#### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
-**4 Jun | 2.00 p.m. to 5.00 p.m.**
+#### **TEI-TA Joint Seminar: The Evolution of Tax Professionals**<br>
+**21 Jun | 3.00 p.m. to 5.00 p.m.**
 
-This webinar will feature practical examples illustrating the use of ASK for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
+Aspiring to excel as a tax professional? Tax Executives Institute (TEI) and Tax Academy of Singapore are delighted to present this complimentary seminar showcasing the career paths of accomplished tax professionals and the skillsets required for future readiness.
+
+Don’t miss this opportunity to hear from our notable speakers, Mr [Patrick Connolly](https://www.linkedin.com/in/patrick-connolly-1b888733/) (TEI Asia Chapter President), Ms [Theresa Chua](https://www.linkedin.com/in/theresa-chua-78ab811b4/) (Senior Tax Director, P&amp;G) and Ms [Annie Pan](https://www.linkedin.com/in/annie-p-66a1b312/) (Regional Head of Tax, CDPQ) as they share insights into the tax profession and the promising career prospects that lie ahead..
 
 **Admin details:**
 
-* The webinar will be conducted via Zoom
+* Venue: Revenue House Discovery Room@B1
 
-* Date: 4 Jun 2024
+* Date: 21 Jun 2024
 
-* Time: 2.00pm to 5.00pm
+* Time: 3.00pm to 5.00pm
 
-* Fees: SGD 70.85 (incl. GST)
+* This is a Complimentary Seminar
 
 * Registration is on first-come-first served
 
-* [Registration form](https://form.gov.sg/664432df44e967178923e1e6)
+* [Registration form](https://form.gov.sg/66601383e2e4363fe8ced8c1)
 
 
 
