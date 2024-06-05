@@ -9,30 +9,39 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **JUNE 2024**
-* 4 Jun : [FasTax Series: GST ASK - A Self-help Tool for GST Compliance](#4jun-ta-id)
+* 21 Jun : [TEI-TA Joint Seminar: The Evolution of Tax Professionals](#21jun-ta-id)
 
 
-<a id="4jun-ta-id"></a>
-#### **FasTax Series: GST ASK - A Self-help Tool for GST Compliance**<br>
-**4 Jun | 2.00 p.m. to 5.00 p.m.**
+<a id="21jun-ta-id"></a>
+#### **TEI-TA Joint Seminar: The Evolution of Tax Professionals**<br>
+**21 Jun | 3.00 p.m. to 5.00 p.m.**
 
-This webinar will feature practical examples illustrating the use of ASK for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
+Aspiring to excel as a tax professional? Tax Executives Institute (TEI) and Tax Academy of Singapore are delighted to present this complimentary seminar showcasing the career paths of accomplished tax professionals and the skillsets required for future readiness.
+
+Don’t miss this opportunity to hear from our notable speakers, Mr [Patrick Connolly](https://www.linkedin.com/in/patrick-connolly-1b888733/) (TEI Asia Chapter President), Ms [Theresa Chua](https://www.linkedin.com/in/theresa-chua-78ab811b4/) (Senior Tax Director, P&amp;G) and Ms [Annie Pan](https://www.linkedin.com/in/annie-p-66a1b312/) (Regional Head of Tax, CDPQ) as they share insights into the tax profession and the promising career prospects that lie ahead..
 
 **Admin details:**
 
-* The webinar will be conducted via Zoom
+* Venue: Revenue House Discovery Room@B1
 
-* Date: 4 Jun 2024
+* Date: 21 Jun 2024
 
-* Time: 2.00pm to 5.00pm
+* Time: 3.00pm to 5.00pm
 
-* Fees: SGD 70.85 (incl. GST)
+* This is a Complimentary Seminar
 
 * Registration is on first-come-first served
 
-* [Registration form](https://form.gov.sg/664432df44e967178923e1e6)
+* [Registration form](https://form.gov.sg/66601383e2e4363fe8ced8c1)
 
 
+**About the Speakers**
+
+**Mr Patrick Connolly** is the current Asia Chapter President of the TEI having taken over the role in July 2021.&nbsp; He has worked in Asia for over 15 years. Patrick has a Bachelor of Laws and a Bachelor of Commerce degree and is currently a Senior Tax Director for Jabil Inc, a US MNC currently ranked as a top 200 Fortune company.&nbsp;He is responsible for managing tax covering Asia and EMEA.&nbsp;He has over 20 years of international tax experience with in-house roles covering Europe/EMEA, Asia and Australasia.&nbsp;He started his career in the Big 4 and also spent 3 years practicing commercial law.
+
+**Ms Theresa Chua** is a Senior Tax Director at Procter &amp; Gamble and currently the Secretary and Board Member of the Asia Chapter of TEI. She has more than 20 years of experience in corporate and indirect taxation, transfer pricing, mergers and acquisitions, divestitures, business restructurings, tax planning and policy across various jurisdictions in Asia Pacific. Theresa has Bachelor of Accountancy, Bachelor of Laws, Master of Taxation and is a Chartered Accountant and lawyer.
+
+**Ms Annie Pan** is the regional head of tax at CDPQ. She oversees all tax related matters in the region, including planning, advisory, compliance, reporting and advocacy, with a key focus on M&amp;A for different asset class within CDPQ. Annie has over 20 years of international taxation experience; having worked both in-house and Big 4 in different countries such as Australia, China and Singapore as well as US. Annie is an Australian Certified Public Accountant. She is an active member of the Tax Executives Institute (TEI), where she currently serves on TEI Asia Chapter board of directors, and she is the membership committee leader looking after all the members within this region.
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/) for seminars.**
