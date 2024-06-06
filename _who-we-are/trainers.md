@@ -4,7 +4,7 @@ permalink: /who-we-are/trainers/
 breadcrumb: Trainers
 variant: tiptap
 ---
-<h4>Get to know more about our trainers from our 'Hello Trainers Series'</h4>
+<h4>Get to know more about our trainers from the 'Hello Trainers Series'</h4>
 <p><a href="https://youtu.be/uxn_VmgZlXg" rel="noopener noreferrer nofollow" target="_blank">Interview with Mr Lam Kok Shang</a>
 </p>
 <p></p>
