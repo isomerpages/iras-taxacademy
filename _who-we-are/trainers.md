@@ -9,7 +9,6 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uxn_VmgZlXg?si=liS61rWylEPp55QR"></iframe>
 </div>
-<p></p>
 <hr>
 <p><strong>Tax Academy Trainers' Appreciation Event 2024</strong>
 </p>
