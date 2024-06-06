@@ -5,8 +5,11 @@ breadcrumb: Trainers
 variant: tiptap
 ---
 <h4>Get to know more about our trainers from the 'Hello Trainers Series'</h4>
-<p><a href="https://youtu.be/uxn_VmgZlXg" rel="noopener noreferrer nofollow" target="_blank">Interview with Mr Lam Kok Shang</a>
-</p>
+<p>Interview with Mr Lam Kok Shang (Former Head of Indirect Tax, KPMG)</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uxn_VmgZlXg?si=liS61rWylEPp55QR"></iframe>
+</div>
+<p></p>
 <hr>
 <p><strong>Tax Academy Trainers' Appreciation Event 2024</strong>
 </p>
