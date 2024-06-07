@@ -18,7 +18,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Aspiring to excel as a tax professional? Tax Executives Institute (TEI) and Tax Academy of Singapore are delighted to present this complimentary seminar showcasing the career paths of accomplished tax professionals and the skillsets required for future readiness.
 
-Don’t miss this opportunity to hear from our notable speakers, Mr [Patrick Connolly](https://www.linkedin.com/in/patrick-connolly-1b888733/) (TEI Asia Chapter President), Ms [Theresa Chua](https://www.linkedin.com/in/theresa-chua-78ab811b4/) (TEI Asia Chapter Secretary) and Ms [Annie Pan](https://www.linkedin.com/in/annie-p-66a1b312/) (Regional Head of Tax, CDPQ) as they share insights into the tax profession and the promising career prospects that lie ahead.
+Don’t miss this opportunity to hear from our notable speakers, Mr [Patrick Connolly](https://www.linkedin.com/in/patrick-connolly-1b888733/) (TEI Asia Chapter President), Ms [Theresa Chua](https://www.linkedin.com/in/theresa-chua-78ab811b4/) (TEI Asia Chapter Secretary) and Ms [Annie Pan](https://www.linkedin.com/in/annie-p-66a1b312/) (Membership Committee Lead, TEI Asia Chapter) as they share insights into the tax profession and the promising career prospects that lie ahead.
 
 **Programme**
 
