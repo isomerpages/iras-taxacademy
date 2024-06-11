@@ -30,5 +30,8 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
+<p><strong>4 Oct 2019</strong>
+</p>
+<p><a href="/files/seminars-brochures/conference2019.pdf" rel="noopener noreferrer nofollow" target="_blank">Taxing the Digitalised World: Triumph or Debacle</a>
+</p>
 <p></p>
