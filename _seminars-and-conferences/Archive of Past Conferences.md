@@ -19,4 +19,6 @@ description: ""
 </ul>
 <p><strong>3 SEP 2021</strong>
 </p>
+<p><a href="/files/seminars-brochures/2021_confbrochure_final_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Taxes and Investments in the Post-Pandemic World</a>
+</p>
 <p></p>
