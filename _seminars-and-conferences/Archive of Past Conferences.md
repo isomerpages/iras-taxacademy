@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>PAST CONFERENCES</strong></h3>
 <p>Conferences organized by Tax Academy over the past 5 years.</p>
-<p><strong>29 Sep 2023</strong>
+<p><strong>29 SEP 2023</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -17,4 +17,6 @@ description: ""
 <p>Opening Address</p>
 </li>
 </ul>
+<p><strong>3 SEP 2021</strong>
+</p>
 <p></p>
