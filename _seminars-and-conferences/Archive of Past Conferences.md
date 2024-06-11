@@ -14,7 +14,8 @@ description: ""
 </p>
 </li>
 <li>
-<p>Opening Address</p>
+<p><a href="https://www.mof.gov.sg/news-publications/speeches/opening-address-by-ms-indranee-rajah-minister-in-the-prime-minister-s-office-second-minister-for-finance-and-national-development-at-tax-academy-conference-2023-on-29-september-2023" rel="noopener noreferrer nofollow" target="_blank">Opening Address</a>
+</p>
 </li>
 </ul>
 <p><strong>3 SEP 2021</strong>
