@@ -50,7 +50,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="2018_openingaddress" rel="noopener noreferrer nofollow" target="_blank">Opening Address</a>
+<p><a href="/files/seminars-brochures/2018_openingaddress.pdf" rel="noopener noreferrer nofollow" target="_blank">Opening Address</a>
 </p>
 </li>
 </ul>
