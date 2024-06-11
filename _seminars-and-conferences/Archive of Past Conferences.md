@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>PAST CONFERENCES</strong></h3>
-<p>Conferences organized by Tax Academy over the past 5 years.</p>
+<p></p>
 <p><strong>29 SEP 2023</strong>
 </p>
 <ul data-tight="true" class="tight">
