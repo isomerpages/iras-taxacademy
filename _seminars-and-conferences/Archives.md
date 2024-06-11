@@ -54,4 +54,7 @@ description: ""
 </p>
 </li>
 </ul>
+<p>17 AUG 2017</p>
+<p><a href="https://www.mof.gov.sg/news-publications/speeches/Speech-by-Ms-Indranee-Rajah-Senior-Minister-of-State-for-Law-and-Finance-at-SMU-TA-Centre-for-Excellence-in-Taxation-Conference-at-York-Hotel-Singapor" rel="noopener noreferrer nofollow" target="_blank">Opening Address</a>
+</p>
 <p></p>
