@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - upcoming-seminars-and-conferences.md
-      - Archive of Past Conferences.md
+      - Archives.md
