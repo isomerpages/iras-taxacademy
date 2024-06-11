@@ -10,7 +10,8 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Navigating BEPS 2.0 – Opportunities and Challenges</p>
+<p><a href="/files/seminars-brochures/taconference2023brochurefinal_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Navigating BEPS 2.0 - Opportunities and Challenges</a>
+</p>
 </li>
 <li>
 <p>Opening Address</p>
