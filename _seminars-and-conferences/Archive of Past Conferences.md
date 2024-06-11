@@ -32,6 +32,14 @@ description: ""
 </ul>
 <p><strong>4 Oct 2019</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/seminars-brochures/conference2019.pdf" rel="noopener noreferrer nofollow" target="_blank">Taxing the Digitalised World: Triumph or Debacle</a>
 </p>
+</li>
+<li>
+<p><a href="https://www.mof.gov.sg/news-publications/speeches/opening-address-by-ms-indranee-rajah-minister-in-the-prime-minister's-office-second-minister-for-finance-and-education-at-the-ifa-singapore-branch---tax-academy-2019-digital-tax-conference-on-friday-4-october-2019-at-sheraton-towers" rel="noopener noreferrer nofollow" target="_blank">Opening Address</a>
+</p>
+</li>
+</ul>
 <p></p>
