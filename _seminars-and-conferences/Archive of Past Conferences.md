@@ -30,7 +30,7 @@ description: ""
 </p>
 </li>
 </ul>
-<p><strong>4 Oct 2019</strong>
+<p><strong>4 OCT 2019</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,6 +39,18 @@ description: ""
 </li>
 <li>
 <p><a href="https://www.mof.gov.sg/news-publications/speeches/opening-address-by-ms-indranee-rajah-minister-in-the-prime-minister's-office-second-minister-for-finance-and-education-at-the-ifa-singapore-branch---tax-academy-2019-digital-tax-conference-on-friday-4-october-2019-at-sheraton-towers" rel="noopener noreferrer nofollow" target="_blank">Opening Address</a>
+</p>
+</li>
+</ul>
+<p><strong>30 OCT 2018</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/seminars-brochures/conference_oct2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Economy and Indirect Tax Conference</a>
+</p>
+</li>
+<li>
+<p><a href="2018_openingaddress" rel="noopener noreferrer nofollow" target="_blank">Opening Address</a>
 </p>
 </li>
 </ul>
