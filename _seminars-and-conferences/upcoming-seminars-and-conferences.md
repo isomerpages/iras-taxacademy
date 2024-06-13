@@ -50,11 +50,11 @@ This session will provide a comprehensive analysis of the case, including the le
 
 * Time: 3.00pm to 5.00pm
 
-* This is a Complimentary Seminar
+* Fee: $43.60 (incl. GST)
 
 * Registration is on first-come-first served
 
-* [Registration form](https://form.g)
+* [Registration form]()
 
 
 <a id="21jun-ta-id"></a>
