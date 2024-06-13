@@ -44,9 +44,9 @@ This session will provide a comprehensive analysis of the case, including the le
 
 **Admin details:**
 
-* Venue: Revenue House Discovery Room@B1
+* Webinar will be conducted via Zoom
 
-* Date: 21 Jun 2024
+* Date: 10 Jul 2024
 
 * Time: 3.00pm to 5.00pm
 
