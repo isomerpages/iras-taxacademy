@@ -14,6 +14,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **JUNE 2024**
 * 21 Jun : [TEI-TA Joint Seminar: The Evolution of Tax Professionals](#21jun-ta-id)
 
+<a id="10jul-ta-id"></a>
+#### **Law 101 for Tax Professionals:<br>Case Law Update (THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax**<br>
+**10 Jul | 3.00 p.m. to 5.00 p.m.**
+
 
 <a id="21jun-ta-id"></a>
 #### **TEI-TA Joint Seminar: The Evolution of Tax Professionals**<br>
