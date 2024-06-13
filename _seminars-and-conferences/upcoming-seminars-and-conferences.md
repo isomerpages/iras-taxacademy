@@ -24,9 +24,7 @@ The webinar will feature speakers, Mr Ma HanFeng (Partner, Oon &amp; Bazul) and 
 
 This session will provide a comprehensive analysis of the case, including the legal principles, implications on tax law and business practices, and practical insights for businesses. Discover how the due diligence checks performed by businesses can detect suspicious arrangements and protect themselves against involvement in similar disputes. Gain essential knowledge to enhance compliance and risk management strategies on how businesses can protect themselves from Missing Trader Fraud arrangements.
 
-        
-
-**Agenda:**
+**AGENDA:**
 
 **Missing Trader Fraud**
 
@@ -43,6 +41,21 @@ This session will provide a comprehensive analysis of the case, including the le
 * Conducting due diligence to avoid doubtful involvement
 
 **Q &amp; A**
+
+**Admin details:**
+
+* Venue: Revenue House Discovery Room@B1
+
+* Date: 21 Jun 2024
+
+* Time: 3.00pm to 5.00pm
+
+* This is a Complimentary Seminar
+
+* Registration is on first-come-first served
+
+* [Registration form](https://form.g)
+
 
 <a id="21jun-ta-id"></a>
 #### **TEI-TA Joint Seminar: The Evolution of Tax Professionals**<br>
