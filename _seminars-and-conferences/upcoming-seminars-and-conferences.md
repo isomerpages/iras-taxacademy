@@ -20,7 +20,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Curious to delve into the legal details of the case and its practical implications for businesses? Join us in this webinar as we explore valuable insights from the case of THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax.
 
-The webinar will feature speakers, Mr Ma HanFeng (Partner, Oon &amp; Bazul) and Ms Norazlina Mohamed Saleh (Senior Manager, IRAS), and panellists Ms Cynthia Ong (Deputy Director, IRAS) and Ms Kwek Shi Yi (Assistant Director, IRAS).
+The webinar will feature speakers, Mr Ma HanFeng (Tax Partner, Oon &amp; Bazul LLP) and Ms Norazlina Mohamed Saleh (Senior Manager, IRAS), and panellists Ms Cynthia Ong (Deputy Director, IRAS) and Ms Kwek Shi Yi (Assistant Director, IRAS).
 
 This session will provide a comprehensive analysis of the case, including the legal principles, implications on tax law and business practices, and practical insights for businesses. Discover how the due diligence checks performed by businesses can detect suspicious arrangements and protect themselves against involvement in similar disputes. Gain essential knowledge to enhance compliance and risk management strategies on how businesses can protect themselves from Missing Trader Fraud arrangements.
 
@@ -54,7 +54,12 @@ This session will provide a comprehensive analysis of the case, including the le
 
 * Registration is on first-come-first served
 
-* [Registration form]()
+* [Registration form](https://form.gov.sg/666aaea5f14e8457f8ecead9)
+
+**About the Speakers**
+
+Mr Ma HanFeng<br>Tax Partner, Oon &amp; Bazul LLP<br>
+HanFeng is presently a Tax Partner at Oon &amp; Bazul LLP. Prior to him joining practice, HanFeng was previously a tax lawyer with the Inland Revenue Authority of Singapore (IRAS), where he would represent the IRAS in both civil and criminal tax litigation cases.
 
 
 <a id="21jun-ta-id"></a>
