@@ -58,9 +58,14 @@ This session will provide a comprehensive analysis of the case, including the le
 
 **About the Speakers**
 
-Mr Ma HanFeng<br>Tax Partner, Oon &amp; Bazul LLP<br>
+**Mr Ma HanFeng<br>Tax Partner, Oon &amp; Bazul LLP**<br>
 HanFeng is presently a Tax Partner at Oon &amp; Bazul LLP. Prior to him joining practice, HanFeng was previously a tax lawyer with the Inland Revenue Authority of Singapore (IRAS), where he would represent the IRAS in both civil and criminal tax litigation cases.
 
+**Ms Norazlina Mohamed Saleh<br>Senior Manager, IRAS<br>**
+Norazlina is a Senior Manager at Wholesale Trade Branch of Goods and Services Tax Division of the Inland Revenue Authority of Singapore. Norazlina has 18 years of experience in GST refund and compliance audits.
+
+**Ms Kwek Shi Yi<br>Assistant Director, IRAS<br>**
+Shi Yi is currently the Assistant Director at Wholesale Trade Branch of Goods and Services Tax of the Inland Revenue Authority of Singapore. Shi Yi has over 8 years of experience in various areas including tax compliance of GST-registered businesses, tax investigation and commercial and financial crime investigation.
 
 
 <a id="21jun-ta-id"></a>
