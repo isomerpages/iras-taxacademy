@@ -18,6 +18,12 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **Law 101 for Tax Professionals:<br>Case Law Update (THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax**<br>
 **10 Jul | 3.00 p.m. to 5.00 p.m.**
 
+Curious to delve into the legal details of the case and its practical implications for businesses? Join us in this webinar as we explore valuable insights from the case of THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax.
+
+The webinar will feature speakers, Mr Ma Han Feng (Partner, Oon &amp; Bazul) and Ms Norazlina Mohamed Saleh (Senior Manager, IRAS), and panellists Ms Cynthia Ong (Deputy Director, IRAS) and Ms Kwek Shi Yi (Assistant Director, IRAS).
+
+This session will provide a comprehensive analysis of the case, including the legal principles, implications on tax law and business practices, and practical insights for businesses. Discover how the due diligence checks performed by businesses can detect suspicious arrangements and protect themselves against involvement in similar disputes. Gain essential knowledge to enhance compliance and risk management strategies on how businesses can protect themselves from Missing Trader Fraud arrangements.
+
 
 <a id="21jun-ta-id"></a>
 #### **TEI-TA Joint Seminar: The Evolution of Tax Professionals**<br>
