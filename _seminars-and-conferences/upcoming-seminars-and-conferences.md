@@ -67,6 +67,9 @@ Norazlina is a Senior Manager at Wholesale Trade Branch of Goods and Services Ta
 **Ms Kwek Shi Yi<br>Assistant Director, IRAS<br>**
 Shi Yi is currently the Assistant Director at Wholesale Trade Branch of Goods and Services Tax of the Inland Revenue Authority of Singapore. Shi Yi has over 8 years of experience in various areas including tax compliance of GST-registered businesses, tax investigation and commercial and financial crime investigation.
 
+**Ms Cynthia Ong<br>Deputy Director, IRAS<br>**
+Cynthia is currently the Deputy Director at Wholesale Trade Branch of Goods and Services Tax Division of the Inland Revenue Authority of Singapore. Cynthia has over 17 years of experience in various areas including tax compliance of GST-registered businesses, policy &amp; technical reviews, GST rulings and taxpayer services.
+
 
 <a id="21jun-ta-id"></a>
 #### **TEI-TA Joint Seminar: The Evolution of Tax Professionals**<br>
