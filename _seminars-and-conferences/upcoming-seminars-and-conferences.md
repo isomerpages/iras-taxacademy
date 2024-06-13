@@ -24,6 +24,25 @@ The webinar will feature speakers, Mr Ma HanFeng (Partner, Oon &amp; Bazul) and 
 
 This session will provide a comprehensive analysis of the case, including the legal principles, implications on tax law and business practices, and practical insights for businesses. Discover how the due diligence checks performed by businesses can detect suspicious arrangements and protect themselves against involvement in similar disputes. Gain essential knowledge to enhance compliance and risk management strategies on how businesses can protect themselves from Missing Trader Fraud arrangements.
 
+        
+
+**Agenda:**
+
+**Missing Trader Fraud**
+
+* Overview of Missing Trader Fraud
+* Consequences of being implicated in MTF and the relevant GST legislations
+* Input tax claims conditions, GST knowledge principle and due diligence checks
+* Practical tips and pitfalls to avoid
+
+**Case analysis: THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax**
+
+* Case Background
+* Legal Analysis
+* Implications and practical insights
+* Conducting due diligence to avoid doubtful involvement
+
+**Q &amp; A**
 
 <a id="21jun-ta-id"></a>
 #### **TEI-TA Joint Seminar: The Evolution of Tax Professionals**<br>
