@@ -15,12 +15,12 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 21 Jun : [TEI-TA Joint Seminar: The Evolution of Tax Professionals](#21jun-ta-id)
 
 <a id="10jul-ta-id"></a>
-#### **Law 101 for Tax Professionals:<br>Case Law Update (THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax**<br>
+#### **Law 101 for Tax Professionals:<br>Case Law Update (THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax)**<br>
 **10 Jul | 3.00 p.m. to 5.00 p.m.**
 
-Curious to delve into the legal details of the case and its practical implications for businesses? Join us in this webinar as we explore valuable insights from the case of THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax.
+The judgment in THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax \[2024\] SGHC 97 highlights the importance of providing clear and verifiable evidence in support of tax claims. It also serves as a reminder to businesses to uphold transparency and integrity in transactions to prevent legal disputes.
 
-The webinar will feature speakers, Mr Ma HanFeng (Tax Partner, Oon &amp; Bazul LLP) and Ms Norazlina Mohamed Saleh (Senior Manager, IRAS), and panellists Ms Cynthia Ong (Deputy Director, IRAS) and Ms Kwek Shi Yi (Assistant Director, IRAS).
+Keen to uncover the legal intricacies of this case and its practical implications on businesses? Join us for an insightful webinar featuring speakers Mr [Ma HanFeng](https://www.linkedin.com/in/mahanfeng/) (Tax Partner, Oon &amp; Bazul LLP) and Ms Norazlina Mohamed Saleh (Senior Manager, IRAS), along with panellists Ms [Cynthia Ong](https://www.linkedin.com/in/cynthia-ong-294b122b5/) (Deputy Director, IRAS) and Ms [Kwek Shi Yi](https://www.linkedin.com/in/kwek-shi-yi-56374a78/) (Assistant Director, IRAS).
 
 This session will provide a comprehensive analysis of the case, including the legal principles, implications on tax law and business practices, and practical insights for businesses. Discover how the due diligence checks performed by businesses can detect suspicious arrangements and protect themselves against involvement in similar disputes. Gain essential knowledge to enhance compliance and risk management strategies on how businesses can protect themselves from Missing Trader Fraud arrangements.
 
