@@ -28,6 +28,12 @@ Join our speakers from Deloitte, Mr Yap Hsien Yew (Tax Partner) and Mr Chua Kong
 * Measures that mitigate the consequences of inappropriate granting of treaty benefits
 * Worked examples and case studies
 
+**Admin details:**
+*   Webinar will be conducted via Zoom
+*   Date: 18 Jul 2024
+*   Time: 2.00pm to 5.00pm
+*   Fee: $76.30 (incl. GST)
+*   Registration is on first-come-first served
 
 
 <a id="10jul-ta-id"></a>
