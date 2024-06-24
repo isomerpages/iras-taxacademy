@@ -19,7 +19,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Withholding tax directly impacts non-resident income taxation, while tax treaties play a crucial role in preventing over taxation. This is particularly important in international transactions, promoting fair taxation and facilitating cross-border trade and investment.
 
-Join our speakers from Deloitte, Mr Yap Hsien Yew (Tax Partner) and Mr Chua Kong Ping (International Tax Partner), who will delve into key withholding tax requirements, the impact of tax treaties and their regulatory effects on businesses. The speakers will also share with participants on application of tax treaties in typical cross-border transactions through practical examples and case studies.
+Join our speakers from Deloitte, Mr [Yap Hsien Yew]([Hsien Yew Yap | LinkedIn](https://www.linkedin.com/in/hsien-yew-yap-b1bb3322/) (Tax Partner) and Mr [Chua Kong Ping]([Kong Ping Chua | LinkedIn](https://www.linkedin.com/in/kong-ping-chua-80584a79/) (International Tax Partner), who will delve into key withholding tax requirements, the impact of tax treaties and their regulatory effects on businesses. The speakers will also share with participants on application of tax treaties in typical cross-border transactions through practical examples and case studies.
 
 **Agenda:**
 * Fundamentals of treaty interpretation
