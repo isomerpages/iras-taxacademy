@@ -34,7 +34,7 @@ Join our speakers from Deloitte, Mr Yap Hsien Yew (Tax Partner) and Mr Chua Kong
 *   Time: 2.00pm to 5.00pm
 *   Fee: $76.30 (incl. GST)
 *   Registration is on first-come-first served
-
+* [Registration form](https://form.gov.sg/6678ddb860da1703478d9214)
 
 <a id="10jul-ta-id"></a>
 #### **Law 101 for Tax Professionals:<br>Case Law Update (THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax)**<br>
