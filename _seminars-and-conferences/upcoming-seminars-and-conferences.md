@@ -35,6 +35,12 @@ Join our speakers from Deloitte, Mr [Yap Hsien Yew]([Hsien Yew Yap | LinkedIn](h
 *   Registration is on first-come-first served
 * [Registration form](https://form.gov.sg/6678ddb860da1703478d9214)
 
+**About the Speakers**
+
+**Mr Yap Hsien Yew** has more than 18 years of tax experience and has worked for many companies in Singapore and Asia-Pacific. He currently serves local, multinational, and listed companies in the technology and consumer sectors. He is often involved in tax advice and planning, including corporate restructurings and cross-border transactions.
+
+**Mr Chua Kong Ping** has substantial experience in Singapore and cross-border tax consultancy. He has worked in Deloitte’s New York office where he advised US MNCs on their outbound transactions into Singapore. Kong Ping also leads a team that is responsible for keeping Deloitte’s tax practitioners and its clients abreast of Singapore tax developments.
+
 
 <a id="10jul-ta-id"></a>
 #### **Law 101 for Tax Professionals:<br>Case Law Update (THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax)**<br>
