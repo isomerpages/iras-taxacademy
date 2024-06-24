@@ -13,6 +13,23 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 10 July : [Law 101 for Tax Professionals: Case Law Update (THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax)](#10jul-ta-id)
 
 
+<a id="18jul-ta-id"></a>
+#### **FasTax Series: Withholding Tax - Implications of Tax Treaties)**<br>
+**18 Jul | 2.00 p.m. to 5.00 p.m.**
+
+Withholding tax directly impacts non-resident income taxation, while tax treaties play a crucial role in preventing over taxation. This is particularly important in international transactions, promoting fair taxation and facilitating cross-border trade and investment.
+
+Join our speakers from Deloitte, Mr Yap Hsien Yew (Tax Partner) and Mr Chua Kong Ping (International Tax Partner), who will delve into key withholding tax requirements, the impact of tax treaties and their regulatory effects on businesses. The speakers will also share with participants on application of tax treaties in typical cross-border transactions through practical examples and case studies.
+
+**Agenda:**
+
+* Fundamentals of treaty interpretation
+* Introduction to common DTA provisions
+* Measures that mitigate the consequences of inappropriate granting of treaty benefits
+* Worked examples and case studies
+
+
+
 <a id="10jul-ta-id"></a>
 #### **Law 101 for Tax Professionals:<br>Case Law Update (THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax)**<br>
 **10 Jul | 3.00 p.m. to 5.00 p.m.**
