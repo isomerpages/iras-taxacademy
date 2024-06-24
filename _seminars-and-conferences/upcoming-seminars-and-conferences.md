@@ -22,7 +22,6 @@ Withholding tax directly impacts non-resident income taxation, while tax treatie
 Join our speakers from Deloitte, Mr Yap Hsien Yew (Tax Partner) and Mr Chua Kong Ping (International Tax Partner), who will delve into key withholding tax requirements, the impact of tax treaties and their regulatory effects on businesses. The speakers will also share with participants on application of tax treaties in typical cross-border transactions through practical examples and case studies.
 
 **Agenda:**
-
 * Fundamentals of treaty interpretation
 * Introduction to common DTA provisions
 * Measures that mitigate the consequences of inappropriate granting of treaty benefits
