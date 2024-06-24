@@ -14,7 +14,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 
 <a id="18jul-ta-id"></a>
-#### **FasTax Series: Withholding Tax - Implications of Tax Treaties)**<br>
+#### **FasTax Series: Withholding Tax - Implications of Tax Treaties**<br>
 **18 Jul | 2.00 p.m. to 5.00 p.m.**
 
 Withholding tax directly impacts non-resident income taxation, while tax treaties play a crucial role in preventing over taxation. This is particularly important in international transactions, promoting fair taxation and facilitating cross-border trade and investment.
