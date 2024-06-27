@@ -18,7 +18,7 @@ variant: markdown
 * Jan 2024 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **International Tax Programme Level 3 : Advanced International Tax Planning Programme**
-* Aug 2024 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
+* Aug 2024 Intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
