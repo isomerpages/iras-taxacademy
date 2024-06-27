@@ -18,7 +18,7 @@ variant: markdown
 * Jan 2024 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#leiden-ta-id)
 
 ##### **International Tax Programme Level 3 : Advanced International Tax Planning Programme**
-* Aug 2022 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
+* Aug 2024 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#itp-id)
 
 
 <a id="etp1IT-ta-id"></a>
@@ -78,7 +78,7 @@ The programme takes a commercial and practical approach to addressing main issue
 
 Dates of programme held at Revenue House (Singapore): 27 &amp; 28 Aug 2024 (Each session : 9.00 a.m. to 5.00 p.m.)
 
-[Registration Form](https://form.gov.sg/6675991bfa4168de43c9f534){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/Advanced ITP 2024 Programme Brochure.pdf){:target="_blank"}
+[Registration Form](https://form.gov.sg/6675991bfa4168de43c9f534){:target="_blank"} - [Details](/files/executive-tax-programmes/Advanced ITP 2024 Programme Brochure.pdf){:target="_blank"}
 
 **Registration is OPEN for 2024 intake.**
 
