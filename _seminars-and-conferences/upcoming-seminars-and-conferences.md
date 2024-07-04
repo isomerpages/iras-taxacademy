@@ -31,7 +31,7 @@ Join our speakers from Deloitte, Mr [Yap Hsien Yew](https://www.linkedin.com/in/
 *   Webinar will be conducted via Zoom
 *   Date: 18 Jul 2024
 *   Time: 2.00pm to 5.00pm
-*   Fee: $76.30 (incl. GST)
+*   Fee: $70.85 (incl. GST)
 *   Registration is on first-come-first served
 * [Registration form](https://form.gov.sg/6678ddb860da1703478d9214)
 
