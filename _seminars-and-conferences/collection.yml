@@ -2,5 +2,6 @@ collections:
   seminars-and-conferences:
     output: true
     order:
+      - Case Commentaries.md
       - upcoming-seminars-and-conferences.md
       - Archives.md
