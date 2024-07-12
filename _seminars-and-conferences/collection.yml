@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - upcoming-seminars-and-conferences.md
+      - Case Commentaries.md
       - Archives.md
