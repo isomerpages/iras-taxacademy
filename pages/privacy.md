@@ -1,12 +1,10 @@
 ---
-title: 'Privacy Statement'
+title: Privacy Statement
 permalink: /privacy/
 breadcrumb: Privacy
-
+variant: markdown
 ---
-
-
-### **Privacy Policy**
+### **Personal Data Protection Policy**
 
 1. This is the Tax Academy of Singapore (TA) Website. Thank you for examining our privacy statement.
 
