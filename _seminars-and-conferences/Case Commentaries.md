@@ -11,4 +11,4 @@ description: ""
 * Mr Jeremiah Soh, Local Principal
 * Mr Shawn Joo, Senior Associate
 
-[Commentary](https://www.taxacademy.sg/files/bmsg_mtf_commentary__9_jul_2024.pdf)
+[**Commentary**](/files/bmsg_mtf_commentary__9_jul_2024.pdf)
