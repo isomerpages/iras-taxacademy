@@ -42,10 +42,18 @@ sections:
       title: WU – TA Advanced Transfer Pricing Programme 2024
       subtitle: 30 Sep to 3 Oct 2024
       id: infopic
-      description: "Registration is now OPEN. "
+      description: Registration is now OPEN.
       button: Click to register
       url: https://form.gov.sg/65f11047e8f4b92af5f05294
       image: /images/wu_ta.png
       alt: WU – TA ATP Programme 2024
+  - infopic:
+      id: infopic
+      description: Discover insightful case commentaries offering analysis, insights
+        and key takeaways on legal decisions.
+      button: Read More
+      url: /case-commentaries
+      image: /images/Case_Commentaries_Pic.jpg
+      alt: Image alt text
 image: /images/isomer-logo.svg
 ---
