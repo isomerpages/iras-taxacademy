@@ -74,6 +74,14 @@ Please refer to the respective programme brochure for the programme dates.
      <td>Income Tax Programme Level 2 (Intake 4/2024)</td>
       <td>From 2 to 25 Sep 2025</td> 
   </tr>  
+		 <tr>
+     <td>Income Tax Programme Level 2 (Intake 4/2024)</td>
+      <td>Jan 2025</td> 
+  </tr>  
+		 <tr>
+     <td>Income Tax Programme Level 2 (Intake 5/2024)</td>
+      <td>Jan 2025</td> 
+  </tr>  
   <tr>
 		 <td>GST Programme Level 2 (Intake 1/2024)
 		  </td>
@@ -82,7 +90,7 @@ Please refer to the respective programme brochure for the programme dates.
   <tr>
 		 <td>GST Programme Level 2 (Intake 2/2024)
 		  </td>
-      <td>Sep 2024</td>
+      <td>From 4 Sep to3 Oct 2024</td>
   </tr>  
   <tr>
       <td>GST Programme Level 2 (Intake 3/2024)</td>
@@ -116,6 +124,6 @@ Please refer to the respective programme brochure for the programme dates.
   </tr>  
   <tr>
    <td>Advanced International Tax Planning Programme</td>
-    <td>Aug 2024</td>
+    <td>27 &amp; 28 Aug 2024</td>
   </tr>  
 </tbody></table>
