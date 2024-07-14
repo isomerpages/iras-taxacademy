@@ -20,11 +20,11 @@ Please refer to the respective programme brochure for the programme dates.
   </tr> 
   <tr>
     <td>Income Tax Programme Level 1 (Intake 3/2024)</td>
-    <td>Oct 2024 (with e-learning)
+    <td>From 8 to 16 July 2024 (with e-learning)
 </td> 
 		  </tr><tr>
     <td>Income Tax Programme Level 1 (Intake 4/2024)</td>
-    <td>Oct 2024 (with e-learning)</td>
+    <td>Oct/Nov 2024 (with e-learning)</td>
   </tr> 
 		
   
@@ -34,7 +34,7 @@ Please refer to the respective programme brochure for the programme dates.
   </tr>  
   <tr>
     <td>GST Programme Level 1 (Intake 2 &amp; 3/2024)</td>
-    <td>Sep 2024 (with e-learning)</td>
+    <td>From 3 to 19 Sep 2024 (with e-learning)</td>
   </tr>  
 	  <tr>
     <td>GST Programme Level 1 (Intake 4/2024)</td>
@@ -42,15 +42,15 @@ Please refer to the respective programme brochure for the programme dates.
   </tr>  
   <tr>
     <td>Property Tax Programme Level 1 (Intake 1/2024)</td>
-    <td>Aug 2024</td>
+    <td>From 16 to 20 Sep 2024</td>
   </tr> 
 	<tr>
    <td>International Tax Programme Level 1 (Intake 1/2024)</td>
-    <td>May 2024</td>
+    <td>From 13 to 20 May 2024</td>
   </tr>  
   <tr>
     <td>International Tax Programme Level 1 (Intake 2/2024)</td>
-    <td>Oct 2024</td>
+    <td>From 15 to 25 Oct 2024</td>
   </tr>  
 </tbody></table>
 
@@ -60,11 +60,11 @@ Please refer to the respective programme brochure for the programme dates.
 <table>
   <tbody><tr>
       <td>Income Tax Programme Level 2 (Intake 1/2024)</td>
-      <td>Jul 2024</td> 
+      <td>From 25 Jun to 29 Jul 2024</td> 
   </tr>  
   <tr>
       <td>Income Tax Programme Level 2 (Intake 2/2024)</td>
-      <td>Jul 2024</td> 
+      <td>From 9 Jul to 6 Aug 2024</td> 
   </tr>  
   <tr>
      <td>Income Tax Programme Level 2 (Intake 3/2024)</td>
@@ -72,7 +72,7 @@ Please refer to the respective programme brochure for the programme dates.
   </tr>  
 	 <tr>
      <td>Income Tax Programme Level 2 (Intake 4/2024)</td>
-      <td>Jan 2025</td> 
+      <td>From 2 to 25 Sep 2025</td> 
   </tr>  
   <tr>
 		 <td>GST Programme Level 2 (Intake 1/2024)
