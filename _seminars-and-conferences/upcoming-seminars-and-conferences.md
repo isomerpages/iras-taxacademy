@@ -17,6 +17,18 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 10 July : [Law 101 for Tax Professionals: Case Law Update (THM International Import &amp; Export Pte Ltd v Comptroller of Goods and Services Tax)](#10jul-ta-id)
 
 
+        
+
+Discover the essential concepts and guidelines that underpin the Singapore GST system. Understanding these principles is vital for businesses to comply with GST regulations. Join us in this webinar, helmed by speakers from IRAS, to gain insights into the following:
+
+* Responsibilities of a GST-Registered Business
+* Key GST Concepts
+* Common GST Errors
+* Reimbursement and Disbursement of Expenses
+* Fringe Benefits
+* Zero-Rating of International Services
+* Q &amp; A
+
 <a id="18jul-ta-id"></a>
 #### **FasTax Series: Withholding Tax - Implications of Tax Treaties**<br>
 **18 Jul | 2.00 p.m. to 5.00 p.m.**
