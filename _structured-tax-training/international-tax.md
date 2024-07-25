@@ -26,11 +26,11 @@ variant: markdown
 
 This course will enable participants to acquire basic knowledge in tax treaties and transfer pricing.
 
-[Indicate Interest Form](https://form.gov.sg/663ada4d5f61e229a33e12fe){:target="_blank"} - - [Details](/files/executive-tax-programmes/brochurel1int12024.pdf){:target="_blank"}
+[Indicate Interest Form](https://form.gov.sg/intl122024reg){:target="_blank"} - - [Details](/files/executive-tax-programmes/l1inttaxcourse22024.pdf){:target="_blank"}
 
-**Registration is CLOSED for intake 1/2024**
+**Registration is OPEN for intake 2/2024**
 
-The next intake for the course will be held in Oct 2024. Registration will open six to eight weeks before the course commencement date.
+The next intake for the course will be held in May 2025. Registration will open six to eight weeks before the course commencement date.
 
 <a id="etp2IT-ta-id"></a>
 ### **International Tax Programme Level 2**
