@@ -26,7 +26,7 @@ variant: markdown
 
 This course will enable participants to acquire basic knowledge in tax treaties and transfer pricing.
 
-[Registration Form](https://form.gov.sg/intl122024reg){:target="_blank"} - - [Details](/files/executive-tax-programmes/l1inttaxcourse22024.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/intl122024reg){:target="_blank"} - - [Details](/files/executive-tax-programmes/l1inttaxcoursebrochure22024.pdf){:target="_blank"}
 
 **Registration is OPEN for intake 2/2024**
 
