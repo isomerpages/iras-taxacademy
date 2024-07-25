@@ -19,7 +19,13 @@ variant: markdown
 
 This course covers the scope of GST, and concepts relating to supply of goods and services, exempt supplies, import and export schemes and GST compliance.
 
-[Registration Form](https://form.gov.sg/660bbf0417bcb62801c0d3fe){:target="_blank"} - [Details](/files/executive-tax-programmes/Course_Programme_GST_L1_1_2024.pdf){:target="_blank"}
+Intake 2/2024:
+[Registration Form](https://go.gov.sg/gst-intake2-2024){:target="_blank"} - [Details](/files/Course_Programme_GST_L1_2_2024_v1.pdf)
+{:target="_blank"}
+
+Intake 3/2024:
+[Registration Form](https://go.gov.sg/gst-intake3-2024){:target="_blank"} - [Details](/files/Course_Programme_GST_L1_3_2024_v1.pdf)
+{:target="_blank"}
 
 Registration is OPEN for intake 2 &amp; 3/2024 (Sep 2024 intake). 
 
@@ -30,7 +36,7 @@ The next intake for this course will be in Feb 2025. Registration will be availa
 
 This course comprises one module on overall GST concepts and applications, and five modules on specific industry sectors of Finance, Real Estate &amp; Construction, Manufacturing, Logistics, Hotel, Travel &amp; Various Services.
 
-[Registration Form](https://form.gov.sg/65f8f653d31e7d0b536decc4){:target="_blank"} - [Details](/files/executive-tax-programmes/Course_Programme_GST_L2_1_2024.pdf){:target="_blank"}
+[Registration Form](https://go.gov.sg/gstlevel2-intake2-2024){:target="_blank"} - [Details](/files/GST_L2_2_2024_v1.pdf){:target="_blank"}
 
 Please note participants will have to complete Tax Academy’s GST Programme Level 1 and have 1-2 years of relevant working experience in taxation prior to taking the GST Programme Level 2.
 
