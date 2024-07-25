@@ -44,9 +44,10 @@ variant: tiptap
 <h3><strong>International Tax Programme Level 1</strong></h3>
 <p>This course will enable participants to acquire basic knowledge in tax
 treaties and transfer pricing.</p>
-<p><a href="https://go.gov.sg/intl122024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>{:target="_blank"}
-- -</p>
-<p><a href="/files/L1Inttaxcoursebrochure22024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/intl122024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
+</p>
+<p><a href="/files/L1Inttaxcoursebrochure22024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+</p>
 <p><strong>Registration is OPEN for intake 2/2024</strong>
 </p>
 <p>The next intake for the course will be held in May 2025. Registration
