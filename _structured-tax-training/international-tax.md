@@ -6,7 +6,7 @@ variant: markdown
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **International Tax Programme Level 1**
-* May 2024 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
+* Oct 2024 intake: [Registration is OPEN](/executive-tax-programmes/international-tax/#etp1IT-ta-id)
 
 ##### **International Tax Programme Level 2**
 * Sep/Oct 2023 intake: [Registration is CLOSED](/executive-tax-programmes/international-tax/#etp2IT-ta-id)
