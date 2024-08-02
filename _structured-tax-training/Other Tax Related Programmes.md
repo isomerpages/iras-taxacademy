@@ -10,7 +10,7 @@ variant: markdown
 
 ### **Accounting Standards and Tax Adjustments**
 
-Join us in this workshop if you would like to learn about the impact of financial accounting on tax computations. This workshop will be facilitated by Mr Khoo Teng Aun, Former Associate Professor of Accounting at Singapore Management University.
+Join us in this workshop if you would like to learn about the impact of financial accounting on tax computations. This workshop will be facilitated by Mr Khoo Teng Aun, former Associate Professor of Accounting at Singapore Management University.
 
 [Registration](https://form.gov.sg/66ac7bbd64b73c332cf5e19b) - [Details](/files/accounting_std_and_tax_adj_2024.pdf){:target="_blank"}
 
