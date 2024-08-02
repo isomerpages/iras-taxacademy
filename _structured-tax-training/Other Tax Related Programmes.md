@@ -18,8 +18,8 @@ Join us in this 1-day workshop to gain a deeper understanding of how the Annual 
 
 Join us in this workshop if you would like to learn about the impact of financial accounting on tax computations. This workshop will be facilitated by Mr Khoo Teng Aun, Former Associate Professor of Accounting at Singapore Management University.
 
-[Details](/files/accounting_std_and_tax_adj_2024.pdf){:target="_blank"}
+[Registration](https://form.gov.sg/66ac7bbd64b73c332cf5e19b) - [Details](/files/accounting_std_and_tax_adj_2024.pdf){:target="_blank"}
 
-Registration is OPEN for intake 2023.
+Registration is OPEN for intake 2024.
 
-The next intake for this course will be in 2025. 
+The next intake for this course will be in 2025.
