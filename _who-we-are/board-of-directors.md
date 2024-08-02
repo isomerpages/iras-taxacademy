@@ -63,25 +63,27 @@ Tax Advisor (Income Tax) – Singapore Institute of Accredited Tax Professionals
 <p>Daniel is a member of the Singapore Chartered Accountant (CA) Qualification's
 Learning and Assessment Committee, Tax Academy's Curriculum and Examination
 Development (CED) Committee and Singapore Shipping Association’s Tax Sub-Committee</p>
-<p><strong>Ms Soh Pui Ming</strong> 
-<br>Partner
-<br>Head of Tax
-<br>Ernst &amp; Young Solutions LLP
-<br>
-</p>
-<p>Pui Ming is the Head of Tax with Ernst &amp; Young Singapore. She has
-more than 20 years of experience in Singapore and regional tax compliance
-and advisory.</p>
-<p>Pui Ming was previously the EY Asean Leader for Global Compliance and
-Reporting, where she headed the record-to-report services in the region,
-which span traditional tax compliance, tax accounting, as well as book-keeping,
-payroll, and corporate secretarial services. She is also experienced in
-tax advisory matters including acquisitions, group reorganization, tax
-controversies and health checks etc. Pui Ming holds a Bachelor of Accountancy
-(Second Upper Honours) from the National University of Singapore. She is
-a member of the Institute of Singapore Chartered Accountants. She is also
-an Accredited Tax Advisor (Income Tax) of the Singapore Institute of Accredited
-Tax Professionals.</p>
+<p></p>
+<p><strong>Mr Chester Wee</strong>
+<br>Partner and EY Asean International Tax and Transaction Services Leader
+<br>Ernst &amp; Young Solutions LLP</p>
+<p>Chester leads EY Asean’s International Tax and Transaction Services practice.
+He has more than 25 years of experience in advising on cross-border tax
+issues, helping businesses to manage tax controversy as well as handling
+tax compliance and reporting — in both inbound and outbound investments.</p>
+<p>Chester has deep knowledge in reviewing holding structures and operating
+models, identifying and managing tax residence issues, withholding tax
+exposure and permanent establishment risks, advising on intellectual property
+strategies and migration, and tax-efﬁcient repatriation of proﬁts and cross-border
+ﬁnancing. He has been recognised for his focus and practical experience
+on BEPS 2.0 Pillar 2.</p>
+<p>Chester earned his Bachelor of Accountancy (First Class Honours) from
+Nanyang Technological University and Master of Laws in Cross-border Business
+and Finance Law in Asia from Singapore Management University. He is a member
+of the Institute of Singapore Chartered Accountants and an Accredited Tax
+Advisor (Income Tax) – Singapore Institute of Accredited Tax Professionals
+(SIATP).</p>
+<p></p>
 <p><strong>Mr Ajay Sanganeria</strong> 
 <br>Partner, Head of Tax
 <br>KPMG Singapore
@@ -145,6 +147,7 @@ is now the Vice-Dean of the School of Law as well as the Head of Programme
 in education and training and is always looking for ways to help people
 to understand that tax is not boring. He is a member of Institute of Singapore
 Chartered Accountants and the Singapore Chartered Tax Professionals.</p>
+<p></p>
 <p><strong>Ms Ong Ken Loon</strong> 
 <br>Head, Tax &amp; Private Client Services
 <br>Drew &amp; Napier LLC
@@ -166,33 +169,27 @@ to complex tax, succession and private wealth management issues.</p>
 in the Law Division of the IRAS.</p>
 <p>She is recommended as one of Singapore’s leading tax lawyers by various
 leading international legal publications.</p>
-<p><strong>Mr Darren Tan Siew Peng</strong> 
-<br>Chief Investment Officer
-<br>Raffles Medical Group
-<br>
+<p></p>
+<p><strong>Song Yeow Chung</strong>
 </p>
-<p>Mr Tan joined Raffles Medical Group (RMG) in March 2023 as Chief Investment
-Officer to develop and execute its business and investment strategy.</p>
-<p>Prior to joining RMG, Mr Tan was the Chief Financial Officer (CFO) of
-OCBC Bank from 2011 to 2022. Mr Tan joined OCBC Bank in 2007 as Head of
-Asset &amp; Liability in Global Treasury and assumed the role of Deputy
-CFO in 2011. Before this, Mr Tan worked for 13 years in the Government
-of Singapore Investment Corporation (GIC) with his last position in GIC
-as Head of Money Markets.&nbsp;</p>
-<p>Mr Tan serves on the Board of Inland Revenue Authority of Singapore, Tax
-Academy of Singapore and Singapore Management University’s School of Accountancy.
-Mr Tan is a Council member of the Institute of Singapore Chartered Accountants
-and serves as Chairman of its Investment Committee. Mr Tan had previously
-served on the Boards of OCBC Bank (China), OCBC Bank (Malaysia), Bank of
-Ningbo (China), Lion Global Investors (Singapore) and MaxWealth Asset Management
-(China). Mr Tan had also served as a member of the Alumni Advisory Board
-and Adjunct Professor of Nanyang Business School.</p>
-<p>Mr Tan is a Chartered Financial Analyst (CFA) and Fellow Chartered Accountant
-of Singapore. Mr Tan was named “Best CFO” at FinanceAsia Awards 2016, Singapore
-Corporate Awards 2017, Corporate Governance Asia 2018 and Corporate Treasurer
-Awards 2021. Mr Tan graduated with First Class Honours in Accountancy from
-Nanyang Technological University and is an alumni member of Stanford Graduate
-Business School.</p>
+<p>Chief Financial Officer</p>
+<p>Old Chang Kee Ltd.</p>
+<p>Mr Song Yeow Chung is responsible for Old Chang Kee Ltd’s full spectrum
+of financial functions, including financial and management accounting,
+budgeting and forecasting, as well as internal controls and compliance
+with corporate, legal, tax, and accounting requirements. He has more than
+20 years of experience in financial auditing and accounting, which includes
+working in a Big 4 firm, US-listed multi-national corporation, and Singapore-based
+Small and Medium Enterprise.</p>
+<p>Yeow Chung is a Fellow Chartered Accountant of Singapore with the Institute
+of Singapore Chartered Accountants (“ISCA”). The fellow designation is
+awarded to existing chartered accountants (Singapore) in leadership positions.
+As part of his volunteering commitments, Yeow Chung currently serves as
+a Council member of ISCA, a member of its CFO committee, and Co-Head of
+ISCA Taskforce on “Artificial Intelligence for Accountancy Industry”. He
+graduated with a Bachelor of Accountancy (Honours) from Nanyang Technological
+University.</p>
+<p></p>
 <p><strong>Professor Sum Yee Loong</strong> 
 <br>Professor of Accounting (Practice)
 <br>Singapore Management University
