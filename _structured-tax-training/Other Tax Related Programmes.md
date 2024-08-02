@@ -21,7 +21,7 @@ The next intake for this course will be in 2025.
 
 ### **Programme on Property Tax Valuation (Intake 2024)**
 
-Join us in this 1-day workshop to gain a deeper understanding of how the Annual Values for different types of properties are valued or assessed using various valuation methods and the statutorily prescribed bases of assessment. The workshop will be facilitated by Ms Ang Sock Tiang, Former Chief Valuer.
+Join us in this 1-day workshop to gain a deeper understanding of how the Annual Values for different types of properties are valued or assessed using various valuation methods and the statutorily prescribed bases of assessment. The workshop will be facilitated by Ms Ang Sock Tiang, former Chief Valuer.
 
 [Details](/files/executive-tax-programmes/property_tax_valuation_brochure_2024_updated9May.pdf){:target="_blank"}
 
