@@ -15,4 +15,4 @@ This course provides basic knowledge on the principles and practices of property
 
 [Details](property_tax_Level1_2024){:target="_blank"}
 
-Registration is CLOSED for 2023 intake.
+Registration is OPEN for 2024 intake.
