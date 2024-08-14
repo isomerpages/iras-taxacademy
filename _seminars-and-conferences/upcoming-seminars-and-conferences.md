@@ -8,12 +8,12 @@ variant: markdown
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
-**AUG 2024**
-* 8 Aug : [FasTax Series: Fundamentals of GST Principles](#8aug-ta-id)
+**SEP 2024**
+* 26 Sep : [Law 101 for Tax Professionals: Company Law](#26sep-ta-id)
 
 
 
-<a id="8aug-ta-id"></a>
+<a id="26sep-ta-id"></a>
 #### **FasTax Series: Fundamentals of GST Principles**<br>
 **8 Aug | 3.00 p.m. to 5.00 p.m.**
 
