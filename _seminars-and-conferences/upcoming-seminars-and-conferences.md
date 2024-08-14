@@ -24,12 +24,12 @@ Join us in this in-person seminar helmed by speakers from Drew &amp; Napier LLC,
 Requirements under the Companies Act for common corporate actions**
 
 **Admin details:**
-*   Webinar will be conducted via Zoom
-*   Date: 8 Aug 2024
-*   Time: 3.00pm to 5.00pm
-*   Fee: $87.20 (incl. GST)
+*   Venue: Revenue House, Discovery and Courage Rooms@B1
+*   Date: 26 Sep 2024
+*   Time: 2.00pm to 5.00pm
+*   Fee: $109 (incl. GST)
 *   Registration is on first-come-first served
-* [Registration form](https://form.gov.sg/669c85b43eb4f6ae5d0fb02f)
+* [Registration form]()
 
 
 
