@@ -30,8 +30,8 @@ Join us for this in-person seminar helmed by speakers from Drew &amp; Napier LLC
 * Restructuring – the stamp duty perspective
 * Requirements on Financial Statements and Audit under Part 6 of the Companies Act
 * Directors
-* Q and A
 
+More details on the agenda.
 
 **Admin details:**
 *   Venue: Revenue House, Discovery and Courage Rooms@B1
