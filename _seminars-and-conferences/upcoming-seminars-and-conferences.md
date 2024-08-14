@@ -19,7 +19,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Understanding the nuances of corporate governance, statutory compliance, and the requirements within the Companies Act enable tax practitioners to provide comprehensive advice to stakeholders while aligning tax planning with legal regulations.
 
-Join us in this in-person seminar helmed by speakers from Drew &amp; Napier LLC, Mr Yang Shi Yong (Director, Tax &amp; Private Client Services) and Mr Ng Pei Tong (Director, Corporate &amp; Finance), who will cover the following:
+Join us for this in-person seminar helmed by speakers from Drew &amp; Napier LLC, Mr Yang Shi Yong (Director, Tax &amp; Private Client Services) and Mr Ng Pei Tong (Director, Corporate &amp; Finance), who will cover the following:
 
 * Requirements under the Companies Act for common corporate actions
 * The company constitution – what is it and why is it important
@@ -39,7 +39,7 @@ Join us in this in-person seminar helmed by speakers from Drew &amp; Napier LLC,
 *   Time: 2.00pm to 5.00pm
 *   Fee: $109 (incl. GST)
 *   Registration is on first-come-first served
-* [Registration form]()
+* [Registration form](https://form.gov.sg/66a8a003abc641fb79c2cc55)
 
 
 
