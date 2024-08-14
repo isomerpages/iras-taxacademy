@@ -31,7 +31,7 @@ Join us for this in-person seminar helmed by speakers from Drew &amp; Napier LLC
 * Requirements on Financial Statements and Audit under Part 6 of the Companies Act
 * Directors
 
-More details on the agenda.
+[More details on the agenda](/files/company_law_flyer_agenda_website__1_.pdf)
 
 **Admin details:**
 *   Venue: Revenue House, Discovery and Courage Rooms@B1
