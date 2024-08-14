@@ -17,15 +17,11 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **Law 101 for Tax Professionals: Company Law**<br>
 **26 Sep | 2.00 p.m. to 5.00 p.m.**
 
-D
+Understanding the nuances of corporate governance, statutory compliance, and the requirements within the Companies Act enable tax practitioners to provide comprehensive advice to stakeholders while aligning tax planning with legal regulations.
 
-* Responsibilities of a GST-Registered Business
-* Key GST Concepts
-* Common GST Errors
-* Reimbursement and Disbursement of Expenses
-* Fringe Benefits
-* Zero-Rating of International Services
-* Q &amp; A
+Join us in this seminar helmed by speakers from Drew &amp; Napier LLC, Mr Yang Shi Yong (Director, Tax &amp; Private Client Services) and Mr Ng Pei Tong (Director, Corporate &amp; Finance), who will cover the following:
+
+Requirements under the Companies Act for common corporate actions**
 
 **Admin details:**
 *   Webinar will be conducted via Zoom
