@@ -14,8 +14,8 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 
 <a id="26sep-ta-id"></a>
-#### **FasTax Series: Fundamentals of GST Principles**<br>
-**8 Aug | 3.00 p.m. to 5.00 p.m.**
+#### **Law 101 for Tax Professionals:**<br>
+**26 Sep | 2.00 p.m. to 5.00 p.m.**
 
 Discover the essential concepts and guidelines that underpin the Singapore GST system. Understanding these principles is vital for businesses to comply with GST regulations. Join us in this webinar, helmed by speakers from IRAS, to gain insights into the following:
 
