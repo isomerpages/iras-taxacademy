@@ -21,7 +21,17 @@ Understanding the nuances of corporate governance, statutory compliance, and the
 
 Join us in this in-person seminar helmed by speakers from Drew &amp; Napier LLC, Mr Yang Shi Yong (Director, Tax &amp; Private Client Services) and Mr Ng Pei Tong (Director, Corporate &amp; Finance), who will cover the following:
 
-Requirements under the Companies Act for common corporate actions**
+* Requirements under the Companies Act for common corporate actions
+* The company constitution – what is it and why is it important
+* Re-domiciliation
+* Importance of having a good corporate secretary
+* Maintenance of statutory registers as required under the Companies Act
+* Amalgamation
+* Restructuring – the stamp duty perspective
+* Requirements on Financial Statements and Audit under Part 6 of the Companies Act
+* Directors
+* Q and A
+
 
 **Admin details:**
 *   Venue: Revenue House, Discovery and Courage Rooms@B1
