@@ -14,10 +14,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 
 <a id="26sep-ta-id"></a>
-#### **Law 101 for Tax Professionals:**<br>
+#### **Law 101 for Tax Professionals: Company Law**<br>
 **26 Sep | 2.00 p.m. to 5.00 p.m.**
 
-Discover the essential concepts and guidelines that underpin the Singapore GST system. Understanding these principles is vital for businesses to comply with GST regulations. Join us in this webinar, helmed by speakers from IRAS, to gain insights into the following:
+D
 
 * Responsibilities of a GST-Registered Business
 * Key GST Concepts
