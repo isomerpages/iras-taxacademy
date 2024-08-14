@@ -41,6 +41,11 @@ Join us for this in-person seminar helmed by speakers from Drew &amp; Napier LLC
 *   Registration is on first-come-first served
 * [Registration form](https://form.gov.sg/66a8a003abc641fb79c2cc55)
 
+**About the Speakers**
+
+**Mr Yang Shi Yong** is a Director at Drew &amp; Napier’s Tax &amp; Private Client Services department. He advises on a range of tax law including corporate and personal income tax, goods and services tax, property tax, stamp duties, and customs and excise duties, with specialisation in Singapore enterprise tax risk management, tax audit, and tax investigation matters. He is recognised as a recommended lawyer for Tax by the Legal 500 Asia Pacific and has also authored various tax related legal publications.
+
+**Mr Ng Pei Tong** is a Director at Drew &amp; Napier’s Corporate &amp; Finance department, specialising in corporate finance, corporate and commercial transactions in Singapore and in the region, including listings, equity and debt issues, reverse takeovers, mergers and acquisitions, joint ventures, and private equity and venture capital investments. He also regularly advises on employment, data protection and other regulatory compliance matters, and is recognised as a recommended lawyer for Capital Markets by the Legal 500 Asia Pacific.
 
 
 **Please read [Terms and Conditions](https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/) for seminars.**
