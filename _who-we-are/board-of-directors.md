@@ -170,7 +170,7 @@ in the Law Division of the IRAS.</p>
 <p>She is recommended as one of Singapore’s leading tax lawyers by various
 leading international legal publications.</p>
 <p></p>
-<p><strong>Song Yeow Chung</strong>
+<p><strong>Mr Song Yeow Chung</strong>
 </p>
 <p>Chief Financial Officer</p>
 <p>Old Chang Kee Ltd.</p>
