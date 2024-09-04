@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>April/May 2024 intakes: <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Intake 4/2024 (November 2024): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
@@ -37,17 +37,15 @@ Tax Act, distinction between income and capital receipts, principles governing
 the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
-<p><a href="https://form.gov.sg/65ee9ce54a44f5816c230a9e" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 1</a> -
-<a href="/files/Intake_1_Course_brochure_L1_IT_2024___8Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<p><a href="https://form.gov.sg/66cef8f44e02e0195780a386" rel="noopener noreferrer nofollow" target="_blank">Registration Form </a>-
+<a href="/files/Intake_4_Course_brochure_L1_IT_2024___Final1.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://form.gov.sg/65ee9e84e7798cdb741a620f" rel="noopener noreferrer nofollow" target="_blank">Registration Form for Intake 2</a> -
-<a href="/files/executive-tax-programmes/intake2_brochure_level1_incometax_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<p><a href="https://form.gov.sg/66cefebc0db6e93cb70559b0" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
 </p>
-<p><a href="https://form.gov.sg/65ee9957e7798cdb74190955" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
-</p>
-<p>Registration is CLOSED.</p>
-<p>The next intake for this course will be in Oct 2024. Registration will
-be available six to eight weeks prior to the course commencement date.</p>
+<p>Registration is NOW OPEN.</p>
+<p>The next intake for this course will be in April/May 2025. Registration
+will be available approximately six to eight weeks prior to the course
+commencement date.</p>
 <p></p>
 <h3><strong>Income Tax Programme Level 2</strong></h3>
 <p>This course provides in-depth knowledge in income tax principles and covers
