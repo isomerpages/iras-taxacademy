@@ -8,6 +8,9 @@ variant: markdown
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**OCT 2024**
+* 3 OCT : [FasTax Series: GST ASK - A Self Help Tool for GST Compliance](#3oct-ta-id)
+
 **SEP 2024**
 * 26 Sep : [Law 101 for Tax Professionals: Company Law](#26sep-ta-id)
 
