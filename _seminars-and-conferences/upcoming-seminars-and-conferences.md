@@ -19,6 +19,17 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **FasTax Series: GST ASK - A Self Help Tool for GST Compliance**<br>
 **3 Oct | 2.00 p.m. to 5.00 p.m.**
 
+This webinar will feature practical examples illustrating the use of ASK for good GST compliance. You will learn how ASK can be used to safeguard your business from making costly GST mistakes.
+
+**Admin details:**
+
+* The webinar will be conducted via Zoom
+* Date: 3 Oct 2024
+* Time: 2.00pm to 5.00pm
+* Fees: SGD 109 (incl. GST)
+* Registration is on first-come-first served
+* [Registration form](https://form.gov.sg/66e953180600a84ba779c1fb)
+
 
 <a id="26sep-ta-id"></a>
 #### **Law 101 for Tax Professionals: Company Law**<br>
