@@ -46,6 +46,12 @@ accurately.</p>
 <p>The next intake for this course will be in April/May 2025. Registration
 will be available approximately six to eight weeks prior to the course
 commencement date.</p>
+<p>Passing the Income Tax Level 1 exam is not mandatory if you are intending
+to apply for the Income Tax Level 2 programme. You may proceed to apply
+for the Income Tax Level 2 programme as soon as you have completed the
+Income Tax Level 1 programme. Participants seeking exemption from Income
+Tax Level 1 (to apply directly for Income Tax Level 2), pls refer to the
+next section on Income Tax Level 2.</p>
 <p></p>
 <h3><strong>Income Tax Programme Level 2</strong></h3>
 <p>This course provides in-depth knowledge in income tax principles and covers
@@ -55,6 +61,37 @@ companies and partnerships.</p>
 level of awareness in most GST concepts and principles. As businesses are
 increasingly having to deal with cross-border tax issues, this course will
 provide a basic understanding of tax treaties and transfer pricing.</p>
+<p></p>
+<p>Admission Requirement:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participants who have completed Tax Academy’s Income Tax Programme Level
+1 and</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>have 1-2 years of relevant working experience in income tax</p>
+</li>
+</ul>
+<p></p>
+<p>Applicants who have completed the following training can be exempted from
+Level 1 and you may indicate the below during registration in the registration
+form:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ISCA's ATTS Specialist Certificate in Taxation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ISCA’s Preparatory course for Professional Exam (Singapore Tax)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CPA Australia Singapore Tax module</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ACCA Singapore Taxation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ACCA Advanced Singapore Taxation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In-house Singapore income tax training by Big 4 (state which big 4 organisation)</p>
+<p>Exemptions will be reviewed on a case-by-case basis.</p>
+<p></p>
 <p>Registration is CLOSED.</p>
 <p>Intake 1/2024 (25 Jun to 29 Jul 2024)</p>
 <p><a href="https://go.gov.sg/itl212024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
