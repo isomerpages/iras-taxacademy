@@ -24,6 +24,14 @@ The Current State of Play in Asia and Beyond](#18oct-ta-id)
 #### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
 **21 Oct | 2.00 p.m. to 5.00 p.m.**
 
+Having a proper set of transfer pricing documentation is essential for businesses not only for reporting purpose, it will be useful in times of transfer pricing disputes with foreign tax authorities. Join us in this webinar, where our speakers from Deloitte, Mr [Avik Bose](https://www.linkedin.com/in/avik-bose-63776014/) (Tax Partner, Transfer Pricing) and Mr Tay Eng Hong (Director, Transfer Pricing), together with IRAS, Ms Julia Chew (Deputy Director) and Ms [Renee Yeo](https://www.linkedin.com/in/reneeyeo/) (Senior Manager), provide you with insights and experiences in the areas of Singapore’s Transfer Pricing regime.
+
+Agenda:
+
+* Overview of Singapore’s TP regime
+* TP documentation and mistakes to avoid
+* TP disputes—prevention and resolution
+
 
 <a id="18oct-ta-id"></a>
 #### **TaxEdge Series: The Evolution of Pillar 2 in International Taxation - The Current State of Play in Asia and Beyond**<br>
