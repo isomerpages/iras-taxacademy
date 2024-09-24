@@ -20,6 +20,11 @@ The Current State of Play in Asia and Beyond](#18oct-ta-id)
 * 26 Sep : [Law 101 for Tax Professionals: Company Law](#26sep-ta-id)
 
 
+<a id="21oct-ta-id"></a>
+#### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
+**21 Oct | 2.00 p.m. to 5.00 p.m.**
+
+
 <a id="18oct-ta-id"></a>
 #### **TaxEdge Series: The Evolution of Pillar 2 in International Taxation - The Current State of Play in Asia and Beyond**<br>
 **18 Oct | 3.00 p.m. to 5.00 p.m.**
