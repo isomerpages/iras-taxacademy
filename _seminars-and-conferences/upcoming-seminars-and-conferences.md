@@ -38,7 +38,7 @@ Agenda:
 *   Time: 2.00pm to 5.00pm
 *   Fee: $109 (incl. GST)
 *   Registration is on first-come-first served
-* [Registration form]([https://form.gov.sg/66e96cee92186338ff8eea9b)
+* [Registration form](https://form.gov.sg/66e96cee92186338ff8eea9b)
 
 
 <a id="18oct-ta-id"></a>
