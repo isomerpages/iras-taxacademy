@@ -34,7 +34,7 @@ The seminar will be led by Dr. [Raffaele Petruzzi](https://www.linkedin.com/in/r
 *   Time: 3.00pm to 5.00pm
 *   Fee: $87.20 (incl. GST)
 *   Registration is on first-come-first served
-* [Registration form]()
+* [Registration form](https://form.gov.sg/66e96b40ec1853bdbbb242d0)
 
 
 <a id="3oct-ta-id"></a>
