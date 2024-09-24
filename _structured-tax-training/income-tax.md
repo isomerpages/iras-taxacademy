@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 4/2024 (November 2024): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Intake 4/2024 (November 2024): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED.</a>
 </p>
 </li>
 </ul>
@@ -42,7 +42,7 @@ accurately.</p>
 </p>
 <p><a href="https://form.gov.sg/66cefebc0db6e93cb70559b0" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
 </p>
-<p>Registration is NOW OPEN.</p>
+<p>Registration is CLOSED.</p>
 <p>The next intake for this course will be in April/May 2025. Registration
 will be available approximately six to eight weeks prior to the course
 commencement date.</p>
