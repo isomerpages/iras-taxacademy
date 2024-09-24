@@ -18,6 +18,16 @@ The Current State of Play in Asia and Beyond](#18oct-ta-id)
 * 26 Sep : [Law 101 for Tax Professionals: Company Law](#26sep-ta-id)
 
 
+<a id="18oct-ta-id"></a>
+#### **TaxEdge Series: The Evolution of Pillar 2 in International Taxation - The Current State of Play in Asia and Beyond**<br>
+**18 Oct | 3.00 p.m. to 5.00 p.m.**
+
+Join us for an in-depth webinar exploring Pillar 2's critical role in driving structural changes in the global tax system, redefining transfer pricing norms, and profoundly transforming the tax landscape for multinational enterprises.
+
+The seminar will be led by Dr. [Raffaele Petruzzi](https://www.linkedin.com/in/raffaelepetruzzi/), Managing Director of WU Transfer Pricing Center and Mr [Michael Nixon](https://www.linkedin.com/in/michael-nixon-911b05a/), Partner, Deloitte. Joining them are Mr [Abhishek Padwalkar](https://www.linkedin.com/in/abhishek-padwalkar-54a97ab6/) (Teaching and Research Associate from WU Transfer Pricing Center), Ms [Joanne Tan](https://www.linkedin.com/in/joanne-tan-1994a3298/) (Tax Director, Corporate Tax Division, IRAS) and Mr [Vineet Rachh](https://www.linkedin.com/in/vineet-rachh-08037616b/) (Vice President and Tax Lead - Asia Middle East Africa, Procter &amp; Gamble).
+
+
+
 <a id="3oct-ta-id"></a>
 #### **FasTax Series: GST ASK - A Self Help Tool for GST Compliance**<br>
 **3 Oct | 2.00 p.m. to 5.00 p.m.**
