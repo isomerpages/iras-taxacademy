@@ -26,6 +26,15 @@ Join us for an in-depth webinar exploring Pillar 2's critical role in driving st
 
 The seminar will be led by Dr. [Raffaele Petruzzi](https://www.linkedin.com/in/raffaelepetruzzi/), Managing Director of WU Transfer Pricing Center and Mr [Michael Nixon](https://www.linkedin.com/in/michael-nixon-911b05a/), Partner, Deloitte. Joining them are Mr [Abhishek Padwalkar](https://www.linkedin.com/in/abhishek-padwalkar-54a97ab6/) (Teaching and Research Associate from WU Transfer Pricing Center), Ms [Joanne Tan](https://www.linkedin.com/in/joanne-tan-1994a3298/) (Tax Director, Corporate Tax Division, IRAS) and Mr [Vineet Rachh](https://www.linkedin.com/in/vineet-rachh-08037616b/) (Vice President and Tax Lead - Asia Middle East Africa, Procter &amp; Gamble).
 
+More details on the agenda
+
+**Admin details:**
+*   The webinar will be conducted via Zoom
+*   Date: 18 Oct 2024
+*   Time: 3.00pm to 5.00pm
+*   Fee: $87.20 (incl. GST)
+*   Registration is on first-come-first served
+* [Registration form]()
 
 
 <a id="3oct-ta-id"></a>
