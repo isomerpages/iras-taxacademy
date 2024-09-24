@@ -18,6 +18,11 @@ The Current State of Play in Asia and Beyond](#18oct-ta-id)
 * 26 Sep : [Law 101 for Tax Professionals: Company Law](#26sep-ta-id)
 
 
+<a id="18oct-ta-id"></a>
+#### **TaxEdge Series: The Evolution of Pillar 2 in International Taxation - The Current State of Play in Asia and Beyond**<br>
+**18 Oct | 3.00 p.m. to 5.00 p.m.**
+
+
 <a id="3oct-ta-id"></a>
 #### **FasTax Series: GST ASK - A Self Help Tool for GST Compliance**<br>
 **3 Oct | 2.00 p.m. to 5.00 p.m.**
