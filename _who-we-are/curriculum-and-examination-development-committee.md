@@ -2,6 +2,7 @@
 title: Curriculum and Examination Development Committee
 permalink: /who-we-are/curriculum-and-exam-development-committee/
 breadcrumb: Curriculum and Examination Development Committee
+variant: markdown
 ---
 **The Curriculum and Examination Development Committee provides recommendations on strategic curriculum and examination development in accordance with the market needs and for industry relevance.**
 
@@ -28,9 +29,9 @@ LM APPS
 <td>
 <p>
 
-<b>Mr Eugene Gay</b><br>
-Head of Tax, Asia Pacific, Middle East &amp; Africa <br>
-Marsh &amp; McLennan Companies
+<b>Mr Vineet Rachh </b><br>
+Vice President - Taxes <br>
+Procter &amp; Gamble (Asia Pacific, Middle East &amp; Africa)
 </p>
 </td>
 </tr>
@@ -39,9 +40,9 @@ Marsh &amp; McLennan Companies
 <td style="padding-left: 0">
 <p>
 
-<b>Mr Daniel Ho</b> <br>
+<b>Mr See Wei Hwa</b> <br>
 Tax Partner <br>
-Deloitte Singapore
+KPMG Singapore
 </p>
 </td>
 
@@ -67,9 +68,9 @@ National University<br> of Singapore
 <td>
 <p>
 
-<b>Ms Tan Hui Cheng</b><br>
+<b>Ms Toh Shuhui</b><br>
 Tax Partner <br>
-PwC Singapore
+EY Singapore
 </p>
 </td>
 </tr>
