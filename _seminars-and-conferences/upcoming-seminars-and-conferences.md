@@ -24,7 +24,7 @@ The Current State of Play in Asia and Beyond](#18oct-ta-id)
 
 Ready to excel in Singapore’s dynamic tax landscape?&nbsp; This seminar seeks to improve your skills in navigating tax legislation and cases. Enhance your ability to analyse tax acts and apply case law to provide incisive advice, manage risks, and strengthen compliance in the tax domain.
 
-Join us in this seminar helmed by Mr [Charles Li](https://www.linkedin.com/in/charles-l-03884718/) (Director, IRAS Law Division) and Mr Yang Shi Yong (Director, Drew &amp; Napier LLC), who will cover the following:
+Join us in this seminar helmed by Mr [Charles Li](https://www.linkedin.com/in/charles-l-03884718/) (Director, IRAS Law Division) and Mr [Yang Shi Yong](https://www.linkedin.com/in/shi-yong-yang-ab1b1ab9/) (Director, Drew &amp; Napier LLC), who will cover the following:
 
 <a id="21oct-ta-id"></a>
 #### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
