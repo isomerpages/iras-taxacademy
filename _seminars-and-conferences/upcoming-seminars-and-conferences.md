@@ -31,7 +31,7 @@ Agenda:
 * Statutory Interpretation
 * Understanding Case Law
 
-More details on the agenda
+[More details on the agenda](/files/caselawflyer_agenda_website_final.pdf)
 
 **Admin details:**
 *   Venue: Revenue House, Discovery and Courage Rooms@B1
