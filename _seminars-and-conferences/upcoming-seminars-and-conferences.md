@@ -17,10 +17,10 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 18 Oct : [TaxEdge Series: The Evolution of Pillar 2 in International Taxation -
 The Current State of Play in Asia and Beyond](#18oct-ta-id)
 
-* 3 Oct : [FasTax Series: GST ASK - A Self Help Tool for GST Compliance](#3oct-ta-id)
 
-**SEP 2024**
-* 26 Sep : [Law 101 for Tax Professionals: Company Law](#26sep-ta-id)
+<a id="15nov-ta-id"></a>
+#### **Law 101 for Tax Professionals Series: Interpretation of Tax Acts and Cases**<br>
+**15 Nov | 2.00 p.m. to 5.00 p.m.**
 
 
 <a id="21oct-ta-id"></a>
