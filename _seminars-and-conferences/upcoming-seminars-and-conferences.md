@@ -11,8 +11,6 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **NOV 2024**
 * 15 Nov : [Law 101 for Tax Professionals: Interpretation of Tax Acts and Cases](#15nov-ta-id)
 
-#### **Interpretation of Tax Acts and Cases**](#15nov-ta-id)
-
 **OCT 2024**
 * 21 Oct : [FasTax Series: Singapore Transfer Pricing Essentials](#21oct-ta-id)
 
