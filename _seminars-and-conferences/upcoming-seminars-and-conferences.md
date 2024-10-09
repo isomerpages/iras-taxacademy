@@ -22,6 +22,9 @@ The Current State of Play in Asia and Beyond](#18oct-ta-id)
 #### **Law 101 for Tax Professionals Series: Interpretation of Tax Acts and Cases**<br>
 **15 Nov | 2.00 p.m. to 5.00 p.m.**
 
+Ready to excel in Singapore’s dynamic tax landscape?&nbsp; This seminar seeks to improve your skills in navigating tax legislation and cases. Enhance your ability to analyse tax acts and apply case law to provide incisive advice, manage risks, and strengthen compliance in the tax domain.
+
+Join us in this seminar helmed by Mr Charles Li (Director, IRAS Law Division) and Mr Yang Shi Yong (Director, Drew &amp; Napier LLC), who will cover the following:
 
 <a id="21oct-ta-id"></a>
 #### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
