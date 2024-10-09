@@ -26,6 +26,22 @@ Ready to excel in Singapore’s dynamic tax landscape?&nbsp; This seminar seeks 
 
 Join us in this seminar helmed by Mr [Charles Li](https://www.linkedin.com/in/charles-l-03884718/) (Director, IRAS Law Division) and Mr [Yang Shi Yong](https://www.linkedin.com/in/shi-yong-yang-ab1b1ab9/) (Director, Drew &amp; Napier LLC), who will cover the following:
 
+Agenda:
+* The Singapore Legal System
+* Statutory Interpretation
+* Understanding Case Law
+
+More details on the agenda
+
+**Admin details:**
+*   Venue: Revenue House, Discovery and Courage Rooms@B1
+*   Date: 15 Nov 2024
+*   Time: 2.00pm to 5.00pm
+*   Fee: $163.50 (incl. GST)
+*   Registration is on first-come-first served
+* [Registration form](https://form.gov.sg/670647f9ed8325a173a3ab61)
+
+
 <a id="21oct-ta-id"></a>
 #### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
 **21 Oct | 2.00 p.m. to 5.00 p.m.**
