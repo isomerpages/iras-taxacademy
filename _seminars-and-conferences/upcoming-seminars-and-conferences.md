@@ -59,6 +59,17 @@ Learning outcomes:
 
 **Admin Details**
 
+Fees:
+* CPA Australia member: Complimentary
+* Non-member: SGD 54.50 (incl. 9% Singapore GST) per person
+
+Registration:
+* If you are a CPA Australia member, please [click here](https://myidentity.cpaaustralia.com.au/app/cpaaustralia_cventflex_1/exkx3lg6votAQYe6b3l6/sso/saml?e=e4003d68-ddc2-475c-bf2b-2280e63f7dae&amp;RelayState=https%3A%2F%2Fevents.cpaaustralia.com.au%2Fevent%2Fe4003d68-ddc2-475c-bf2b-2280e63f7dae%2Fregister)
+* If you are a non-member, please&nbsp;[click here](https://form.gov.sg/66e14f35b62d99456c1bdb82)&nbsp;and register via Tax Academy of Singapore.
+
+For registration support, please contact us at&nbsp;[sg@cpaaustralia.com.au](mailto:sg@cpaaustralia.com.au)&nbsp;or +65 3105 1522.
+
+
 <a id="21oct-ta-id"></a>
 #### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
 **21 Oct | 2.00 p.m. to 5.00 p.m.**
