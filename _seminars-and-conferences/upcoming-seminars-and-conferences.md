@@ -10,6 +10,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 **NOV 2024**
 * 15 Nov : [Law 101 for Tax Professionals: Interpretation of Tax Acts and Cases](#15nov-ta-id)
+* 6 Nov : [Guide to corporate tax filing for SMEs and common pitfalls to avoid](#6nov-ta-id)
 
 **OCT 2024**
 * 21 Oct : [FasTax Series: Singapore Transfer Pricing Essentials](#21oct-ta-id)
@@ -40,6 +41,36 @@ Agenda:
 *   Fee: $163.50 (incl. GST)
 *   Registration is on first-come-first served
 * [Registration form](https://form.gov.sg/670647f9ed8325a173a3ab61)
+
+
+<a id="6nov-ta-id"></a>
+#### **Guide to corporate tax filing for SMEs and common pitfalls to avoid**<br>
+**6 Nov | 12.00 p.m. to 1.00 p.m.**
+
+Jointly organised by [CPA Australia](https://www.linkedin.com/school/cpaaustralia/) and [Tax Academy of Singapore](https://www.linkedin.com/company/tax-academy-of-singapore/), This lunchtime webinar is designed to equip SMEs with the essential knowledge and tools needed for efficient tax compliance on corporate income tax filing, tailored specifically for SMEs navigating Singapore’s tax landscape.
+
+This session is a must-attend for business owners, finance professionals, and anyone responsible for corporate tax filing. Join us to enhance your understanding, improve your filing practices, and ensure your SME remains compliant with Singapore’s tax regulations.
+
+Learning outcomes:
+
+* Explain the importance and general process of corporate tax filing for SMEs
+* Identify frequent errors SMEs make during tax filing
+* Discuss Section 95 Offence and the Voluntary Disclosure Program (VDP)
+* Apply efficient use of deductions, leveraging tools such as basic tax calculator (BTC) and SFFS which provides validation checks against common errors
+
+[About the speaker](https://events.cpaaustralia.com.au/event/e4003d68-ddc2-475c-bf2b-2280e63f7dae/summary)
+
+**Admin Details**
+
+Fees:
+* CPA Australia member: Complimentary
+* Non-member: SGD 54.50 (incl. 9% Singapore GST) per person
+
+Registration:
+* If you are a CPA Australia member, please [click here](https://myidentity.cpaaustralia.com.au/app/cpaaustralia_cventflex_1/exkx3lg6votAQYe6b3l6/sso/saml?e=e4003d68-ddc2-475c-bf2b-2280e63f7dae&amp;RelayState=https%3A%2F%2Fevents.cpaaustralia.com.au%2Fevent%2Fe4003d68-ddc2-475c-bf2b-2280e63f7dae%2Fregister)
+* If you are a non-member, please&nbsp;[click here](https://form.gov.sg/66e14f35b62d99456c1bdb82)&nbsp;and register via Tax Academy of Singapore.
+
+For registration support, please contact us at&nbsp;[sg@cpaaustralia.com.au](mailto:sg@cpaaustralia.com.au)&nbsp;or +65 3105 1522.
 
 
 <a id="21oct-ta-id"></a>
