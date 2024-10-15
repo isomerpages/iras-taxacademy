@@ -56,7 +56,7 @@ Learning outcomes:
 * Explain the importance and general process of corporate tax filing for SMEs
 * Identify frequent errors SMEs make during tax filing
 * Discuss Section 95 Offence and the Voluntary Disclosure Program (VDP)
-* Apply efficient use of deductions, leveraging tools such as basic tax calculator (BTC) and #SFFS which provides validation checks against common errors
+* Apply efficient use of deductions, leveraging tools such as basic tax calculator (BTC) and SFFS which provides validation checks against common errors
 
 [About the speaker](https://events.cpaaustralia.com.au/event/e4003d68-ddc2-475c-bf2b-2280e63f7dae/summary)
 
