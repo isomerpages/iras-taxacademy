@@ -42,6 +42,7 @@ Agenda:
 *   Registration is on first-come-first served
 * [Registration form](https://form.gov.sg/670647f9ed8325a173a3ab61)
 
+
 <a id="6nov-ta-id"></a>
 #### **Guide to corporate tax filing for SMEs and common pitfalls to avoid**<br>
 **6 Nov | 12.00 p.m. to 1.00 p.m.**
@@ -56,6 +57,8 @@ Learning outcomes:
 * Identify frequent errors SMEs make during tax filing
 * Discuss Section 95 Offence and the Voluntary Disclosure Program (VDP)
 * Apply efficient use of deductions, leveraging tools such as basic tax calculator (BTC) and #SFFS which provides validation checks against common errors
+
+[About the speaker](https://events.cpaaustralia.com.au/event/e4003d68-ddc2-475c-bf2b-2280e63f7dae/summary)
 
 **Admin Details**
 
