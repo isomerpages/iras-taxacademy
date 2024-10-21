@@ -22,7 +22,7 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024 Intake: <a href="/executive-tax-programmes/international-tax/#wu-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>2024 Intake: <a href="/executive-tax-programmes/international-tax/#wu-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
@@ -82,7 +82,7 @@ on the first day of the programme.</p>
 <p>Dates of programme: 30 Sep, 1, 2 and 3 Oct 2024</p>
 <p><a href="https://go.gov.sg/jdlk77" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>{:target="_blank"}
 - <a href="/files/executive-tax-programmes/WU___TA_Advanced_Transfer_Pricing_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
-<p><strong>Registration is OPEN for 2024 intake.</strong>
+<p><strong>Registration is CLOSED for 2024 intake.</strong>
 </p>
 <p></p>
 <h3><strong>International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties</strong></h3>
