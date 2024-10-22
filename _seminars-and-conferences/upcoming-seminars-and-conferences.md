@@ -31,7 +31,7 @@ The webinar will be conducted via Zoom
 * Time: 3.00pm to 5.00pm (2 CPE hours)
 * Fee: $109 (incl. GST)
 * Registration is on first-come-first served
-* [Registration form\]
+* [Registration form](https://form.gov.sg/66e96c45a99e80f464751bbf)
 
 
 <a id="15nov-ta-id"></a>
