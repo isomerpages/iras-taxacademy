@@ -22,15 +22,15 @@ Join us for an insightful webinar on the latest developments in Pillar One, its 
 
 Whether you're a tax professional, business leader, or government official, this session offers crucial insights for navigating the evolving landscape of global taxation.
 
-
+[**More details on the agenda**](/files/pillar1webinar_website.pdf)
 
 **Admin details:**
 
-*&nbsp;The webinar will be conducted via Zoom
+The webinar will be conducted via Zoom
 * Date: 22 Nov 2024
 * Time: 3.00pm to 5.00pm
-*&nbsp;Fee: $109 (incl. GST)
-*&nbsp;Registration is on first-come-first served
+* Fee: $109 (incl. GST)
+* Registration is on first-come-first served
 * [Registration form\]
 
 
@@ -47,7 +47,7 @@ Agenda:
 * Statutory Interpretation
 * Understanding Case Law
 
-[More details on the agenda](/files/caselawflyer_agenda_website_final.pdf)
+[**More details on the agenda**](/files/caselawflyer_agenda_website_final.pdf)
 
 **Admin details:**
 *   Venue: Revenue House, Discovery and Courage Rooms@B1
