@@ -9,6 +9,7 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **NOV 2024**
+* 22 Nov : 
 * 15 Nov : [Law 101 for Tax Professionals: Interpretation of Tax Acts and Cases](#15nov-ta-id)
 * 6 Nov : [Guide to corporate tax filing for SMEs and common pitfalls to avoid](#6nov-ta-id)
 
