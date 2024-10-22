@@ -9,14 +9,29 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **NOV 2024**
+* 22 Nov :  [TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond](#22nov-ta-id)
 * 15 Nov : [Law 101 for Tax Professionals: Interpretation of Tax Acts and Cases](#15nov-ta-id)
 * 6 Nov : [Guide to corporate tax filing for SMEs and common pitfalls to avoid](#6nov-ta-id)
 
-**OCT 2024**
-* 21 Oct : [FasTax Series: Singapore Transfer Pricing Essentials](#21oct-ta-id)
 
-* 18 Oct : [TaxEdge Series: The Evolution of Pillar 2 in International Taxation -
-The Current State of Play in Asia and Beyond](#18oct-ta-id)
+<a id="22nov-ta-id"></a>
+#### **TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond**<br>
+**22 Nov | 3.00 p.m. to 5.00 p.m.**
+
+Join us for an insightful webinar on the latest developments in Pillar One, its effectiveness in achieving intended goals, and its interaction with transfer pricing. Our distinguished panel, led by Dr. [Raffaele Petruzzi](https://www.linkedin.com/in/raffaelepetruzzi/), features experts Ms [Ng Pei San](https://www.linkedin.com/in/pei-san-ng-868104279/), Mr [Michael Nixon](https://www.linkedin.com/in/michael-nixon-911b05a/), Mr [Vineet Rachh](https://www.linkedin.com/in/vineet-rachh-08037616b/) and Mr [Marcelo Moura](https://www.linkedin.com/in/marcelo-h-b-moura-5b367b113/). The panel will analyse the negotiation progress, explore potential outcomes, and discuss implications for businesses and governments.
+
+Whether you are a tax professional, business leader, or government official, this session offers crucial insights for navigating the evolving landscape of global taxation.
+
+[**More details on the agenda**](/files/pillar1webinar_website.pdf)
+
+**Admin details:**
+
+The webinar will be conducted via Zoom
+* Date: 22 Nov 2024
+* Time: 3.00pm to 5.00pm (2 CPE hours)
+* Fee: $109 (incl. GST)
+* Registration is on first-come-first served
+* [Registration form](https://form.gov.sg/66e96c45a99e80f464751bbf)
 
 
 <a id="15nov-ta-id"></a>
@@ -32,12 +47,12 @@ Agenda:
 * Statutory Interpretation
 * Understanding Case Law
 
-[More details on the agenda](/files/caselawflyer_agenda_website_final.pdf)
+[**More details on the agenda**](/files/caselawflyer_agenda_website_final.pdf)
 
 **Admin details:**
 *   Venue: Revenue House, Discovery and Courage Rooms@B1
 *   Date: 15 Nov 2024
-*   Time: 2.00pm to 5.00pm
+*   Time: 2.00pm to 5.00pm (3 CPE hours)
 *   Fee: $163.50 (incl. GST)
 *   Registration is on first-come-first served
 * [Registration form](https://form.gov.sg/670647f9ed8325a173a3ab61)
@@ -71,46 +86,6 @@ Registration:
 * If you are a non-member, please&nbsp;[click here](https://form.gov.sg/66e14f35b62d99456c1bdb82)&nbsp;and register via Tax Academy of Singapore.
 
 For registration support, please contact us at&nbsp;[sg@cpaaustralia.com.au](mailto:sg@cpaaustralia.com.au)&nbsp;or +65 3105 1522.
-
-
-<a id="21oct-ta-id"></a>
-#### **FasTax Series: Singapore Transfer Pricing Essentials**<br>
-**21 Oct | 2.00 p.m. to 5.00 p.m.**
-
-Having a proper set of transfer pricing documentation is essential for businesses not only for reporting purpose, it will be useful in times of transfer pricing disputes with foreign tax authorities. Join us in this webinar, where our speakers from Deloitte, Mr [Avik Bose](https://www.linkedin.com/in/avik-bose-63776014/) (Tax Partner, Transfer Pricing) and Mr Tay Eng Hong (Director, Transfer Pricing), together with IRAS, Ms Julia Chew (Deputy Director) and Ms [Renee Yeo](https://www.linkedin.com/in/reneeyeo/) (Senior Manager), provide you with insights and experiences in the areas of Singapore’s Transfer Pricing regime.
-
-Agenda:
-
-* Overview of Singapore’s TP regime
-* TP documentation and mistakes to avoid
-* TP disputes—prevention and resolution
-
-**Admin details:**
-*   Venue: Revenue House, Discovery and Courage Rooms@B1
-*   Date: 21 Oct 2024
-*   Time: 2.00pm to 5.00pm
-*   Fee: $109 (incl. GST)
-*   Registration is on first-come-first served
-* [Registration form](https://form.gov.sg/66e96cee92186338ff8eea9b)
-
-
-<a id="18oct-ta-id"></a>
-#### **TaxEdge Series: The Evolution of Pillar 2 in International Taxation - The Current State of Play in Asia and Beyond**<br>
-**18 Oct | 3.00 p.m. to 5.00 p.m.**
-
-Join us for an in-depth webinar exploring Pillar 2's critical role in driving structural changes in the global tax system, redefining transfer pricing norms, and profoundly transforming the tax landscape for multinational enterprises.
-
-The seminar will be led by Dr. [Raffaele Petruzzi](https://www.linkedin.com/in/raffaelepetruzzi/), Managing Director of WU Transfer Pricing Center and Mr [Michael Nixon](https://www.linkedin.com/in/michael-nixon-911b05a/), Partner, Deloitte. Joining them are Mr [Abhishek Padwalkar](https://www.linkedin.com/in/abhishek-padwalkar-54a97ab6/) (Teaching and Research Associate from WU Transfer Pricing Center), Ms [Joanne Tan](https://www.linkedin.com/in/joanne-tan-1994a3298/) (Tax Director, Corporate Tax Division, IRAS) and Mr [Vineet Rachh](https://www.linkedin.com/in/vineet-rachh-08037616b/) (Vice President and Tax Lead - Asia Middle East Africa, Procter &amp; Gamble).
-
-[More details on the agenda.](/files/pillar2webinar_18oct24_updated17sep.pdf)
-
-**Admin details:**
-*   The webinar will be conducted via Zoom
-*   Date: 18 Oct 2024
-*   Time: 3.00pm to 5.00pm
-*   Fee: $87.20 (incl. GST)
-*   Registration is on first-come-first served
-* [Registration form](https://form.gov.sg/66e96b40ec1853bdbbb242d0)
 
 
 
