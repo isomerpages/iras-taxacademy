@@ -18,9 +18,21 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond**<br>
 **22 Nov | 3.00 p.m. to 5.00 p.m.**
 
-Join us for an insightful webinar on the latest developments in Pillar One, its effectiveness in achieving intended goals, and its interaction with transfer pricing. Our distinguished panel, led by Dr. @Raffaele Petruzzi, features experts Ms [Ng Pei San](https://www.linkedin.com/in/pei-san-ng-868104279/), Mr [Michael Nixon](https://www.linkedin.com/in/michael-nixon-911b05a/), Mr [Vineet Rachh](https://www.linkedin.com/in/vineet-rachh-08037616b/) and Mr [Marcelo Moura](https://www.linkedin.com/in/marcelo-h-b-moura-5b367b113/). The panel will analyse negotiation progress, explore potential outcomes, and discuss implications for businesses and governments.
+Join us for an insightful webinar on the latest developments in Pillar One, its effectiveness in achieving intended goals, and its interaction with transfer pricing. Our distinguished panel, led by Dr. [Raffaele Petruzzi](https://www.linkedin.com/in/raffaelepetruzzi/), features experts Ms [Ng Pei San](https://www.linkedin.com/in/pei-san-ng-868104279/), Mr [Michael Nixon](https://www.linkedin.com/in/michael-nixon-911b05a/), Mr [Vineet Rachh](https://www.linkedin.com/in/vineet-rachh-08037616b/) and Mr [Marcelo Moura](https://www.linkedin.com/in/marcelo-h-b-moura-5b367b113/). The panel will analyse negotiation progress, explore potential outcomes, and discuss implications for businesses and governments.
 
 Whether you're a tax professional, business leader, or government official, this session offers crucial insights for navigating the evolving landscape of global taxation.
+
+
+
+**Admin details:**
+
+*&nbsp;The webinar will be conducted via Zoom
+* Date: 22 Nov 2024
+* Time: 3.00pm to 5.00pm
+*&nbsp;Fee: $109 (incl. GST)
+*&nbsp;Registration is on first-come-first served
+* [Registration form\]
+
 
 <a id="15nov-ta-id"></a>
 #### **Law 101 for Tax Professionals Series: Interpretation of Tax Acts and Cases**<br>
