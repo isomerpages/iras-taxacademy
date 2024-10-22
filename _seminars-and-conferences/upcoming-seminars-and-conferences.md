@@ -9,11 +9,18 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **NOV 2024**
-* 22 Nov : 
+* 22 Nov :  [TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond](#22nov-ta-id)
 * 15 Nov : [Law 101 for Tax Professionals: Interpretation of Tax Acts and Cases](#15nov-ta-id)
 * 6 Nov : [Guide to corporate tax filing for SMEs and common pitfalls to avoid](#6nov-ta-id)
 
 
+<a id="22nov-ta-id"></a>
+#### **TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond**<br>
+**22 Nov | 3.00 p.m. to 5.00 p.m.**
+
+Join us for an insightful webinar on the latest developments in Pillar One, its effectiveness in achieving intended goals, and its interaction with transfer pricing. Our distinguished panel, led by Dr. @Raffaele Petruzzi, features experts Ms [Ng Pei San](https://www.linkedin.com/in/pei-san-ng-868104279/), Mr [Michael Nixon](https://www.linkedin.com/in/michael-nixon-911b05a/), Mr [Vineet Rachh](https://www.linkedin.com/in/vineet-rachh-08037616b/) and Mr [Marcelo Moura](https://www.linkedin.com/in/marcelo-h-b-moura-5b367b113/). The panel will analyse negotiation progress, explore potential outcomes, and discuss implications for businesses and governments.
+
+Whether you're a tax professional, business leader, or government official, this session offers crucial insights for navigating the evolving landscape of global taxation.
 
 <a id="15nov-ta-id"></a>
 #### **Law 101 for Tax Professionals Series: Interpretation of Tax Acts and Cases**<br>
