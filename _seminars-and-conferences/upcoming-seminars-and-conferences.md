@@ -28,7 +28,7 @@ Whether you're a tax professional, business leader, or government official, this
 
 The webinar will be conducted via Zoom
 * Date: 22 Nov 2024
-* Time: 3.00pm to 5.00pm
+* Time: 3.00pm to 5.00pm (2 CPE hours)
 * Fee: $109 (incl. GST)
 * Registration is on first-come-first served
 * [Registration form\]
@@ -52,7 +52,7 @@ Agenda:
 **Admin details:**
 *   Venue: Revenue House, Discovery and Courage Rooms@B1
 *   Date: 15 Nov 2024
-*   Time: 2.00pm to 5.00pm
+*   Time: 2.00pm to 5.00pm (3 CPE hours)
 *   Fee: $163.50 (incl. GST)
 *   Registration is on first-come-first served
 * [Registration form](https://form.gov.sg/670647f9ed8325a173a3ab61)
