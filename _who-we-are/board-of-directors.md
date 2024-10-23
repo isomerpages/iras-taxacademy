@@ -102,7 +102,7 @@ collaboration with industry associations and Government agencies.
 </p>
 <p><strong>Mr Lennon Lee</strong> 
 <br>Partner
-<br>Financial Services Tax Leader
+<br>Singapore Tax Leader
 <br>PwC Singapore
 <br>
 </p>
