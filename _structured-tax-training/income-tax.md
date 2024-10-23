@@ -10,6 +10,9 @@ variant: tiptap
 <li>
 <p>Intake 4/2024 (November 2024): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED.</a>
 </p>
+<p>You may wish to full out the <a href="https://form.gov.sg/66cf01ebc8066379dc50116f" rel="noopener noreferrer nofollow" target="_blank"><u>interest form</u></a>
+<a href="https://go.gov.sg/l2it2024interest" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
+</a>to indicate your interest.</p>
 </li>
 </ul>
 <h5><strong>Income Tax Programme Level 2</strong></h5>
@@ -42,9 +45,9 @@ accurately.</p>
 <p><a href="https://form.gov.sg/66cef8f44e02e0195780a386" rel="noopener noreferrer nofollow" target="_blank">Registration Form </a>-
 <a href="/files/Intake_4_Course_brochure_L1_IT_2024___Final1.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://form.gov.sg/66cefebc0db6e93cb70559b0" rel="noopener noreferrer nofollow" target="_blank">Waiting list</a>
-</p>
 <p>Registration is CLOSED.</p>
+<p>You may wish to fill out the <a href="https://form.gov.sg/66cf01ebc8066379dc50116f" rel="noopener nofollow" target="_blank">interest form</a> to
+indicate your interest.</p>
 <p>The next intake for this course will be in April/May 2025. Registration
 will be available approximately six to eight weeks prior to the course
 commencement date.</p>
