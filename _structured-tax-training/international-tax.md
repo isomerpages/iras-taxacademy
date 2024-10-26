@@ -93,7 +93,9 @@ tax experience and who are seeking to deepen their insight and expertise
 in tax treaties.</p>
 <p>Participants will learn thorough knowledge of the complex rules that govern
 tax treaties and application of the advanced treaty concepts.</p>
-<p><a href="https://form.gov.sg/67039f6177e924056c9f475c" rel="noopener nofollow" target="_blank">Registration Form</a> -</p>
+<p><a href="https://form.gov.sg/67039f6177e924056c9f475c" rel="noopener nofollow" target="_blank">Registration Form</a> -
+<a href="\files\2025ATTbrochure_website.pdf" rel="noopener nofollow" target="_blank">Details</a>
+</p>
 <p><strong>Registration is OPEN for 2025 intake.</strong>
 </p>
 <p></p>
