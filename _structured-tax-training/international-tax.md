@@ -29,7 +29,7 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties Programme</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jan 2024 intake: <a href="/executive-tax-programmes/international-tax/#leiden-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Feb 2025 intake: <a href="/executive-tax-programmes/international-tax/#leiden-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
@@ -93,9 +93,10 @@ tax experience and who are seeking to deepen their insight and expertise
 in tax treaties.</p>
 <p>Participants will learn thorough knowledge of the complex rules that govern
 tax treaties and application of the advanced treaty concepts.</p>
-<p><a href="https://form.gov.sg/653f847150a8d4001252df0d" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
-<a href="/files/seminars-brochures/closing_date_extend_att_brochure_jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
-<p><strong>Registration is CLOSED for 2024 intake.</strong>
+<p><a href="https://form.gov.sg/67039f6177e924056c9f475c" rel="noopener nofollow" target="_blank">Registration Form</a> -
+<a href="\files\2025ATTbrochure_website.pdf" rel="noopener nofollow" target="_blank">Details</a>
+</p>
+<p><strong>Registration is OPEN for 2025 intake.</strong>
 </p>
 <p></p>
 <h3><strong>International Tax Programme Level 3 : Advanced International Tax Planning Programme</strong></h3>
