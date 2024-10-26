@@ -29,7 +29,7 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties Programme</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Feb 2025 intake: <a href="https://mail.google.com/executive-tax-programmes/international-tax/#leiden-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Feb 2025 intake: <a href="/executive-tax-programmes/international-tax/#leiden-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
