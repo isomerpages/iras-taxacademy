@@ -29,6 +29,18 @@ sections:
         - title: INTERNATIONAL TAX PROGRAMME
           description: Levels 1 to 3
           url: /executive-tax-programmes/international-tax/
+  - announcements:
+      title: Leiden-TA Advanced Tax Treaties Programme
+      id: announcements
+      announcement_items:
+        - title: Leiden-TA Advanced Tax Treaties Programme
+          date: 24 February 2025
+          announcement: The 6-day (24 Feb to 1 Mar 2025) programme, led by Prof Kees van
+            Raad, Chairman, International Tax Center Leiden, is customised for
+            tax professionals who are seeking to deepen their insight and
+            expertise in tax treaties.
+          link_text: Brochure details
+          link_url: https://www.taxacademy.sg/files/2025ATTbrochure_website.pdf
   - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
