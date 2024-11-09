@@ -37,7 +37,7 @@ sections:
           date: 24 February 2025
           announcement: The 6-day (24 Feb to 1 Mar 2025) programme, led by Prof Kees van
             Raad, Chairman, International Tax Center Leiden, is customised for
-            tax professionals who are seeking todeepen their insight and
+            tax professionals who are seeking to deepen their insight and
             expertise in tax treaties.
           link_text: Brochure details
           link_url: https://www.taxacademy.sg/files/2025ATTbrochure_website.pdf
