@@ -9,6 +9,7 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **DEC 2024**
+* 19 Dec : [FasTax Series: Stamp Duty 101](#19dec-ta-id)
 * 10 Dec : [TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook](#10dec-ta-id)
 * 6 Dec : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](#6dec-ta-id)
 
@@ -18,6 +19,19 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 22 Nov : [TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond](#22nov-ta-id)
 * 15 Nov : [Law 101 for Tax Professionals: Interpretation of Tax Acts and Cases](#15nov-ta-id)
 * 6 Nov : [Guide to corporate tax filing for SMEs and common pitfalls to avoid](#6nov-ta-id)
+
+
+
+        
+
+Join us in this webinar led by Ms Seah Huaikuan, Senior Manager from IRAS Property Tax Division. This webinar will cover:
+
+* Basic principles of Stamp Duty and types of Stamp Duty
+* Who is liable to pay stamp duty and when to pay
+* Common Stamp Duty Remissions and Exemptions
+* Stamp Duty Relief
+
+
 
 <a id="10dec-ta-id"></a>
 #### **TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook**<br>
