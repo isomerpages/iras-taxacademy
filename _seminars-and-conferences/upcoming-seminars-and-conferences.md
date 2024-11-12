@@ -19,6 +19,12 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 15 Nov : [Law 101 for Tax Professionals: Interpretation of Tax Acts and Cases](#15nov-ta-id)
 * 6 Nov : [Guide to corporate tax filing for SMEs and common pitfalls to avoid](#6nov-ta-id)
 
+<a id="10dec-ta-id"></a>
+#### **TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook**<br>
+**10 Dec | 2.00 p.m. to 5.00 p.m.**
+
+
+
 <a id="6dec-ta-id"></a>
 #### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
 **6 Dec | 3.00 p.m. to 5.00 p.m.**
