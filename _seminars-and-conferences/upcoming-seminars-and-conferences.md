@@ -41,7 +41,6 @@ Panel Discussion and Q&amp;A:
 * Q&amp;A with participants
 
 
-
 <a id="22nov-ta-id"></a>
 #### **TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond**<br>
 **22 Nov | 3.00 p.m. to 5.00 p.m.**
