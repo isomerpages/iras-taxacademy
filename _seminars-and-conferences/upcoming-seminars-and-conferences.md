@@ -38,7 +38,7 @@ Panel Discussion and Q&amp;A:
 * Trends and challenges (e.g. impact of technology on tax practice, globalization)
 * Challenging/notable cases encountered and lessons learned
 * Advice for aspiring tax lawyers
-* Q&amp;A with participants
+* Q and A with participants
 
 
 <a id="22nov-ta-id"></a>
