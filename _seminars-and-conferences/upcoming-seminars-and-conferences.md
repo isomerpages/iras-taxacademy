@@ -42,7 +42,6 @@ Join us in this webinar led by Ms Seah Huaikuan, Senior Manager from IRAS Proper
 * [Registration Form](https://form.gov.sg/6732304fe12c31199ab908d1)
 
 
-
 <a id="10dec-ta-id"></a>
 #### **TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook**<br>
 **10 Dec | 2.00 p.m. to 5.00 p.m.**
