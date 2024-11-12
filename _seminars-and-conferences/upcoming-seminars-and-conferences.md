@@ -25,7 +25,14 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 
 Join us for an essential US tax update session led by Mr [Andy Baik](https://www.linkedin.com/in/andy-baik-77084736/), Tax Partner at KPMG. Don't miss this opportunity to gain valuable insights from a leading expert in US taxation, this session will equip you with the knowledge to navigate the complex US tax environment.
 
+Key topics include:
 
+*   Recent tax law changes impacting foreign investments in the US
+*   Corporate Alternative Minimum Tax (CAMT)
+*   Clean energy related credits
+*   Inbound-into-US "effectively connected income" issues
+*   BEPS Pillar Two interplay with US tax considerations
+*   Potential tax policy shifts post US Presidential election
 
 <a id="6dec-ta-id"></a>
 #### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
