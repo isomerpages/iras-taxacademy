@@ -8,6 +8,7 @@ variant: markdown
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+
 **DEC 2024**
 * 19 Dec : [FasTax Series: Stamp Duty 101](#19dec-ta-id)
 * 10 Dec : [TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook](#10dec-ta-id)
