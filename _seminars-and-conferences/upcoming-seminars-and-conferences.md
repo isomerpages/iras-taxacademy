@@ -19,7 +19,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 #### **TaxTrek Series: So you want to be a tax lawyer ?**<br>
 **27 Nov | 4.00 p.m. to 5.30 p.m.**
 
-The practice of tax law is one of the most challenging, niche, and unique fields. Few know what it entails and even fewer have the courage to embark on it as a professional career.&nbsp; Have you ever wondered about:
+The practice of tax law is one of the most challenging, niche, and unique fields. Few know what it entails and even fewer have the courage to embark on it as a professional career. Have you ever wondered about:
 
 *   The important traits and skills needed to be a successful tax lawyer
 *   Pathway to becoming a tax lawyer, including options for those with non-legal backgrounds
