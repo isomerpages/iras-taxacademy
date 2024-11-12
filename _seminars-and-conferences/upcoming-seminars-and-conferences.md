@@ -9,6 +9,7 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **DEC 2024**
+* 10 Dec : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](#10dec-ta-id)
 * 6 Dec : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](#6dec-ta-id)
 
 
