@@ -21,8 +21,9 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 * 6 Nov : [Guide to corporate tax filing for SMEs and common pitfalls to avoid](#6nov-ta-id)
 
 
-
-        
+<a id="19dec-ta-id"></a>
+#### **FasTax Series: Stamp Duty 101**<br>
+**19 Dec | 2.00 p.m. to 5.00 p.m.**
 
 Join us in this webinar led by Ms Seah Huaikuan, Senior Manager from IRAS Property Tax Division. This webinar will cover:
 
@@ -30,6 +31,14 @@ Join us in this webinar led by Ms Seah Huaikuan, Senior Manager from IRAS Proper
 * Who is liable to pay stamp duty and when to pay
 * Common Stamp Duty Remissions and Exemptions
 * Stamp Duty Relief
+
+**Admin Details**
+* This webinar will be conducted via Zoom
+* Date: 19 Dec 2024
+* Time: 2pm to 5pm
+* Fees: SGD 163.50 (incl. 9% GST)
+* Registration is on first-come-first served.
+* [Registration Form](https://form.gov.sg/6732304fe12c31199ab908d1)
 
 
 
@@ -41,12 +50,12 @@ Join us for an essential US tax update session led by Mr [Andy Baik](https://www
 
 Key topics include:
 
-*   Recent tax law changes impacting foreign investments in the US
-*   Corporate Alternative Minimum Tax (CAMT)
-*   Clean energy related credits
-*   Inbound-into-US "effectively connected income" issues
-*   BEPS Pillar Two interplay with US tax considerations
-*   Potential tax policy shifts post US Presidential election
+* Recent tax law changes impacting foreign investments in the US
+* Corporate Alternative Minimum Tax (CAMT)
+* Clean energy related credits
+* Inbound-into-US "effectively connected income" issues
+* BEPS Pillar Two interplay with US tax considerations
+* Potential tax policy shifts post US Presidential election
 
 **Admin Details**
 
