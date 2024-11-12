@@ -9,9 +9,37 @@ Are you looking to learn more about a specific area of tax that is currently not
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
 **NOV 2024**
+* 27 Nov :  [TaxTrek Series: So you want to be a tax lawyer ?](#27nov-ta-id)
 * 22 Nov :  [TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond](#22nov-ta-id)
 * 15 Nov : [Law 101 for Tax Professionals: Interpretation of Tax Acts and Cases](#15nov-ta-id)
 * 6 Nov : [Guide to corporate tax filing for SMEs and common pitfalls to avoid](#6nov-ta-id)
+
+
+<a id="27nov-ta-id"></a>
+#### **TaxTrek Series: So you want to be a tax lawyer ?**<br>
+**27 Nov | 4.00 p.m. to 5.30 p.m.**
+
+The practice of tax law is one of the most challenging, niche, and unique fields. Few know what it entails and even fewer have the courage to embark on it as a professional career.&nbsp; Have you ever wondered about:
+
+*   The important traits and skills needed to be a successful tax lawyer
+*   Pathway to becoming a tax lawyer, including options for those with non-legal backgrounds
+
+Join our accomplished panel of tax lawyers, Ms [Quek Hui Ling](https://www.linkedin.com/in/hui-ling-quek-033900186/) from IRAS, Mr [Stephen Phua](https://www.linkedin.com/in/stephen-phua-6a806038/) from NUS and Ms [Joanna Yap](https://www.linkedin.com/in/joanna-yap-61304450/) from Sabara Law LLC. They will address your burning questions and offer valuable insights into the dynamic world of tax law. Gain a comprehensive understanding of this rewarding field from those who have mastered it.
+
+**Agenda**
+
+Sharing on Personal Journey:
+* Each speaker's journey into tax law
+* Lessons learned and career highlights
+
+Panel Discussion and Q&amp;A:
+* Career opportunities in government, private practice and academia
+* How does tax law interplay with business and other professions
+* Trends and challenges (e.g. impact of technology on tax practice, globalization)
+* Challenging/notable cases encountered and lessons learned
+* Advice for aspiring tax lawyers
+* Q&amp;A with participants
+
 
 
 <a id="22nov-ta-id"></a>
