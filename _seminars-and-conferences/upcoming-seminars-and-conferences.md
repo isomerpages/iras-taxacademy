@@ -30,6 +30,13 @@ Join us in this webinar, where our speakers, Mr [Yang Shi Yong](https://www.link
 * Issues and Oversight
 * Q and A
 
+**Admin Details**
+* This webinar will be conducted via Zoom
+* Date: 6 Dec 2024
+* Time: 3pm to 5pm
+* Fees: SGD 109 (incl. 9% GST)
+* Registration is on first-come-first served.
+* [Registration Form](https://form.gov.sg/6731d6fafe25950c0894e908)
 
 
 
