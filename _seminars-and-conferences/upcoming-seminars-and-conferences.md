@@ -40,13 +40,6 @@ Panel Discussion and Q&amp;A:
 * Advice for aspiring tax lawyers
 * Q and A with participants
 
-        
-
-**Admin Details**
-
-* This is a complimentary seminar, registration is on first come first served basis
-*         
-
 **Admin Details**
 
 * This is a complimentary seminar, registration is on first come first served basis
