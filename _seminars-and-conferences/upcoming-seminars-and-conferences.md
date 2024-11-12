@@ -36,12 +36,13 @@ Key topics include:
 
 **Admin Details**
 
-*   Venue: Revenue House, Discovery Room@B1, 55 Newton Road
-*   Date: 10 Dec 2024
-*   Time: 2pm to 5pm
-*   Fees: SGD 163.50 (incl. 9% GST)
-*   Registration is on first-come-first served.
-*   Registration Form: [https://form.gov.sg/67322dd1841c4c48cc9ee888](https://form.gov.sg/67322dd1841c4c48cc9ee888)
+* Venue: Revenue House, Discovery and Courage Rooms@B1, 55 Newton Road
+* Date: 10 Dec 2024
+* Time: 2pm to 5pm
+* Fees: SGD 163.50 (incl. 9% GST)
+* Registration is on first-come-first served.
+* [Registration Form](https://form.gov.sg/67322dd1841c4c48cc9ee888)
+
 
 <a id="6dec-ta-id"></a>
 #### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
