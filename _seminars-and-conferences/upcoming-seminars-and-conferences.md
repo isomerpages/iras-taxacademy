@@ -40,6 +40,21 @@ Panel Discussion and Q&amp;A:
 * Advice for aspiring tax lawyers
 * Q and A with participants
 
+        
+
+**Admin Details**
+
+* This is a complimentary seminar, registration is on first come first served basis
+*         
+
+**Admin Details**
+
+* This is a complimentary seminar, registration is on first come first served basis
+* Venue: Revenue House, Level 5 Auditorium, 55 Newton Road
+* Date: 27 Nov 2024
+* Time: 4pm to 5.30pm (Welcome refreshments at 3.30pm to 4pm)
+* [Registration form](https://form.gov.sg/6731e0ff902dfb73245a033e)
+
 
 <a id="22nov-ta-id"></a>
 #### **TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond**<br>
