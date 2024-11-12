@@ -8,12 +8,28 @@ variant: markdown
 Are you looking to learn more about a specific area of tax that is currently not covered in our events ? 
 Do share with us through this [Learning Needs Request Form](https://form.gov.sg/5d2c51283703d80011e52615). Thank you!
 
+**DEC 2024**
+* 6 Dec : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](#6dec-ta-id)
+
+
 **NOV 2024**
-* 27 Nov :  [TaxTrek Series: So you want to be a tax lawyer ?](#27nov-ta-id)
-* 22 Nov :  [TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond](#22nov-ta-id)
+* 27 Nov : [TaxTrek Series: So you want to be a tax lawyer ?](#27nov-ta-id)
+* 22 Nov : [TaxEdge Series: Pillar One and the New Era of International Taxation: Challenges and Opportunities in Asia and Beyond](#22nov-ta-id)
 * 15 Nov : [Law 101 for Tax Professionals: Interpretation of Tax Acts and Cases](#15nov-ta-id)
 * 6 Nov : [Guide to corporate tax filing for SMEs and common pitfalls to avoid](#6nov-ta-id)
 
+<a id="6dec-ta-id"></a>
+#### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
+**6 Dec | 3.00 p.m. to 5.00 p.m.**
+
+Join us in this webinar, where our speakers, Mr [Yang Shi Yong](https://www.linkedin.com/in/shi-yong-yang-ab1b1ab9/) from Drew &amp; Napier LLC and Mr [Charles Li](https://www.linkedin.com/in/charles-l-03884718/) from IRAS who will provide an overview of the powers and duties that the Comptrollers have under the Income Tax and GST Acts. The webinar will cover the role of the Comptrollers, their express and implied powers and their duty of confidentiality.
+
+**Agenda**
+
+* Introduction, Role and Duties of the Comptrollers
+* Powers of the Comptrollers
+* Issues and Oversight
+* Q and A
 
 <a id="27nov-ta-id"></a>
 #### **TaxTrek Series: So you want to be a tax lawyer ?**<br>
