@@ -25,11 +25,13 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 Join us in this webinar, where our speakers, Mr [Yang Shi Yong](https://www.linkedin.com/in/shi-yong-yang-ab1b1ab9/) from Drew &amp; Napier LLC and Mr [Charles Li](https://www.linkedin.com/in/charles-l-03884718/) from IRAS who will provide an overview of the powers and duties that the Comptrollers have under the Income Tax and GST Acts. The webinar will cover the role of the Comptrollers, their express and implied powers and their duty of confidentiality.
 
 **Agenda**
-
 * Introduction, Role and Duties of the Comptrollers
 * Powers of the Comptrollers
 * Issues and Oversight
 * Q and A
+
+
+
 
 <a id="27nov-ta-id"></a>
 #### **TaxTrek Series: So you want to be a tax lawyer ?**<br>
