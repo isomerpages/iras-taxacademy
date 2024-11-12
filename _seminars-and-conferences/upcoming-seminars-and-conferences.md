@@ -39,7 +39,6 @@ Join us in this webinar, where our speakers, Mr [Yang Shi Yong](https://www.link
 * [Registration Form](https://form.gov.sg/6731d6fafe25950c0894e908)
 
 
-
 <a id="27nov-ta-id"></a>
 #### **TaxTrek Series: So you want to be a tax lawyer ?**<br>
 **27 Nov | 4.00 p.m. to 5.30 p.m.**
