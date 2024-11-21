@@ -29,6 +29,7 @@ sections:
         - title: INTERNATIONAL TAX PROGRAMME
           description: Levels 1 to 3
           url: /executive-tax-programmes/international-tax/
+      variant: side
   - announcements:
       title: Leiden-TA Advanced Tax Treaties Programme
       id: announcements
