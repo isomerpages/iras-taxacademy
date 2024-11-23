@@ -16,7 +16,7 @@ sections:
       title: Tax Academy Singapore
       subtitle: A not-for-profit institution set up by the Inland Revenue Authority of
         Singapore in collaboration with international accounting firms
-      background: /images/Blue_Modern_23_Nov.jpg
+      background: /images/Blue_Modern_23_nov__1_.jpg
       button: Learn More
       url: /who-we-are/overview/
       key_highlights:
