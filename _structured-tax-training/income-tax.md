@@ -103,8 +103,9 @@ In-house Singapore income tax training by Big 4 (state which big 4 organisation)
 </p>
 <p>Intake 5/2024 (8 Jan to 13 Feb 2025)</p>
 <p><a href="https://go.gov.sg/l2it-52024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
-<a href="/files/L2_IT_2_2024_course_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<a href="/files/executive-tax-programmes/income-tax/L2IT52024coursebrochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
+<p></p>
 <p>Registration is OPEN.</p>
 <p>Once registration is closed, kindly fill up the <a href="https://go.gov.sg/l2it42024-waitinglist" rel="noopener nofollow" target="_blank">waiting list form</a> to
 be placed under waiting list.</p>
