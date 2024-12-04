@@ -106,8 +106,7 @@ In-house Singapore income tax training by Big 4 (state which big 4 organisation)
 <a href="/files/L2_IT_2_2024_course_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
 <p>Registration is OPEN.</p>
-<p>Registration is based meeting the requirements and first-come-first served.
-Once registration is closed, kindly fill up the <a href="https://go.gov.sg/l2it42024-waitinglist" rel="noopener nofollow" target="_blank">waiting list form</a> to
+<p>Once registration is closed, kindly fill up the <a href="https://go.gov.sg/l2it42024-waitinglist" rel="noopener nofollow" target="_blank">waiting list form</a> to
 be placed under waiting list.</p>
 <p></p>
 <p>You may wish to fill out the <a href="https://go.gov.sg/l2it42024-generate" rel="noopener noreferrer nofollow" target="_blank">interest form </a>to indicate
