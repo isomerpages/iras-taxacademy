@@ -21,7 +21,7 @@ variant: tiptap
 <p>Jan 2025 intakes: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 <p></p>
-<p>You may wish to fill out the <a href="https://go.gov.sg/l2it2024interest" rel="noopener noreferrer nofollow" target="_blank">interest form </a>to indicate
+<p>You may wish to fill out the <a href="https://go.gov.sg/l2it42024-generate" rel="noopener noreferrer nofollow" target="_blank">interest form </a>to indicate
 your interest.</p>
 </li>
 </ul>
