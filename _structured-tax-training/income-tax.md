@@ -99,7 +99,7 @@ In-house Singapore income tax training by Big 4 (state which big 4 organisation)
 <p>Exemptions will be reviewed on a case-by-case basis.</p>
 <p>Intake 4/2024 (6 Jan to 6 Feb 2025)</p>
 <p><a href="https://go.gov.sg/l2it42024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
-<a href="/files/executive-tax-programmes/income-tax/L2_IT_4_2024_course_brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
+<a href="/files/executive-tax-programmes/income-tax/L2IT42024coursebrochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p>Intake 5/2024 (8 Jan to 13 Feb 2025)</p>
 <p><a href="https://go.gov.sg/l2it-52024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
