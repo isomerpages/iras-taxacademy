@@ -12,7 +12,7 @@ Do share with us through this [Learning Needs Request Form](https://form.gov.sg/
 **DEC 2024**
 * 19 Dec : [FasTax Series: Stamp Duty 101](#19dec-ta-id)
 * 10 Dec : [TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook](#10dec-ta-id)
-* 6 Dec : [Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller](#6dec-ta-id)
+
 
 
 
@@ -60,27 +60,6 @@ Key topics include:
 * Fees: SGD 163.50 (incl. 9% GST)
 * Registration is on first-come-first served.
 * [Registration Form](https://form.gov.sg/67322dd1841c4c48cc9ee888)
-
-
-<a id="6dec-ta-id"></a>
-#### **Law 101 for Tax Professionals: Legal Powers and Duties of the Comptroller**<br>
-**6 Dec | 3.00 p.m. to 5.00 p.m.**
-
-Join us in this webinar, where our speakers, Mr [Yang Shi Yong](https://www.linkedin.com/in/shi-yong-yang-ab1b1ab9/) from Drew &amp; Napier LLC and Mr [Charles Li](https://www.linkedin.com/in/charles-l-03884718/) from IRAS who will provide an overview of the powers and duties that the Comptrollers have under the Income Tax and GST Acts. The webinar will cover the role of the Comptrollers, their express and implied powers and their duty of confidentiality.
-
-**Agenda**
-* Introduction, Role and Duties of the Comptrollers
-* Powers of the Comptrollers
-* Issues and Oversight
-* Q and A
-
-**Admin Details**
-* This webinar will be conducted via Zoom
-* Date: 6 Dec 2024
-* Time: 3pm to 5pm
-* Fees: SGD 109 (incl. 9% GST)
-* Registration is on first-come-first served.
-* [Registration Form](https://form.gov.sg/6731d6fafe25950c0894e908)
 
 
 
