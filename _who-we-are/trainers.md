@@ -104,7 +104,7 @@ centre for Tax Education.</p>
 <p>This year, we have introduced 4 new special awards: Distinguished Service,
 Long Service (15, 10 and 5 Years), Outstanding Trainer and Engaging Content.
 These awards recognise the dedication and professionalism of our trainers.</p>
-<p><strong><u>Distinguished Service Award: </u></strong>
+<p><strong><u>Distinguished Service Award:</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -114,6 +114,142 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 <p>Mr Leung Yew Kwong, KPMG Services Pte Ltd</p>
 </li>
 </ol>
+<p><strong><u>Long Service Award (15 Years):</u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ms Chia Sook Kuen, IRAS</p>
+</li>
+<li>
+<p>Ms Chua Siew Lay, IRAS</p>
+</li>
+<li>
+<p>Ms Jeana Oon-Chua, IRAS</p>
+</li>
+<li>
+<p>Mr Koh Soo How, Grant Thornton Singapore</p>
+</li>
+<li>
+<p>Mr Leung Yew Kwong, KPMG Services Pte Ltd</p>
+</li>
+<li>
+<p>Ms Loh Chye Ling, IRAS</p>
+</li>
+<li>
+<p>Ms Sharon Tan, IRAS</p>
+</li>
+<li>
+<p>Ms Tan Li Ming, LM APPS</p>
+</li>
+<li>
+<p>Ms Teo Po Chu</p>
+</li>
+</ol>
+<p>Long Service Award (10 Years):</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Abhijit Ghosh, Alvarez &amp; Marsal</p>
+</li>
+<li>
+<p>Ms Amy Lee, IRAS</p>
+</li>
+<li>
+<p>Mr Andy Baik, KPMG Services Pte Ltd</p>
+</li>
+<li>
+<p>Mr Anthony Tam, Forvis Mazars</p>
+</li>
+<li>
+<p>Mr Aw Sin Taa Irving, Osborne Clark</p>
+</li>
+<li>
+<p>Ms Cynthia Ong, IRAS</p>
+</li>
+<li>
+<p>Mr Danny Koh, Ernst &amp; Young Solutions LLP</p>
+</li>
+<li>
+<p>Ms Gan Hwee Leng, AEP LLP</p>
+</li>
+<li>
+<p>Ms Go Theng Theng</p>
+</li>
+<li>
+<p>Mr Gordon Lawson, KPMG Services Pte Ltd</p>
+</li>
+<li>
+<p>Ms Huang Qinxin, IRAS</p>
+</li>
+<li>
+<p>Ms Jow Lee Ying, NTU</p>
+</li>
+<li>
+<p>Mr Khoo Teng Aun</p>
+</li>
+<li>
+<p>Mr Lam Kok Shang</p>
+</li>
+<li>
+<p>Ms Lam Mei Mei, IRAS</p>
+</li>
+<li>
+<p>Ms Lee Voon Kee, IRAS</p>
+</li>
+<li>
+<p>Ms Low-Chua Pik Sim</p>
+</li>
+<li>
+<p>Ms Lyu Choon Yan, IRAS</p>
+</li>
+<li>
+<p>Mr Mark Addy, KPMG Services Pte Ltd</p>
+</li>
+<li>
+<p>Ms Nadin Soh</p>
+</li>
+<li>
+<p>Ms Natasha Dohadwala, IRAS</p>
+</li>
+<li>
+<p>Ms Norhaizah Zainal, IRAS</p>
+</li>
+<li>
+<p>Ms Ong Siok Peng, Deloitte Tax Solutions Pte Ltd</p>
+</li>
+<li>
+<p>Prof Kees van Meel, KPMG Services Pte Ltd</p>
+</li>
+<li>
+<p>Ms Seow Seok Hong, PwC</p>
+</li>
+<li>
+<p>Ms Sitoh-Wong Wei Leng</p>
+</li>
+<li>
+<p>Assoc. Prof Stephen Phua, NUS</p>
+</li>
+<li>
+<p>Ms Tan Shet Ni, IRAS</p>
+</li>
+<li>
+<p>Ms Teoh Lian Ee</p>
+</li>
+<li>
+<p>Ms Wong Chew Lee, IRAS</p>
+</li>
+<li>
+<p>Ms Wong-Tan Puay Luang</p>
+</li>
+<li>
+<p>Ms Yap Mei Mei, IRAS</p>
+</li>
+<li>
+<p>Mr Yeo Kai Eng</p>
+</li>
+<li>
+<p>Ms Yong Sing Yuan, KPMG Services Pte Ltd</p>
 <p></p>
+</li>
+</ol>
 <hr>
 <p></p>
