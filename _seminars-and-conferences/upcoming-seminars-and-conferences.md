@@ -146,8 +146,10 @@ Property Tax Division. This webinar will cover:</p>
 <p>Stamp Duty Relief</p>
 </li>
 </ul>
-<p><strong>Admin Details</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p>This webinar will be conducted via Zoom</p>
@@ -169,5 +171,9 @@ Property Tax Division. This webinar will cover:</p>
 </p>
 </li>
 </ul>
+</div>
+</details>
+</div>
+<p></p>
 <p><strong>Please read <a href="https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for seminars.</strong>
 </p>
