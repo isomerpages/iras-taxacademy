@@ -101,13 +101,19 @@ centre for Tax Education.</p>
 </p>
 </blockquote>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UIUX_Inspired_Image_Search_Instagram_Post_for_Photo_Gallery_and_Moodboard_2.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UIUX_Inspired_Image_Search_Instagram_Post_for_Photo_Gallery_and_Moodboard_3.png">
-</div>
+<p>This year, we have introduced 4 new special awards: Distinguished Service,
+Long Service (15, 10 and 5 Years), Outstanding Trainer and Engaging Content.
+These awards recognise the dedication and professionalism of our trainers.</p>
+<p><strong><u>Distinguished Service Award: </u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Koh Soo How, Grant Thornton Singapore</p>
+</li>
+<li>
+<p>Mr Leung Yew Kwong, KPMG Services Pte Ltd</p>
+</li>
+</ol>
 <p></p>
 <hr>
 <p></p>
