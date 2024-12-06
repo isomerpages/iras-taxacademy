@@ -285,7 +285,7 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 <p>Ms Chin Hin Hin, IRAS</p>
 </li>
 <li>
-<p>Ms Chua Kong Ping, Deloitte tax Solutions Pte Ltd</p>
+<p>Ms Chua Kong Ping, Deloitte Tax Solutions Pte Ltd</p>
 </li>
 <li>
 <p>Ms Cindy Wong, IRAS</p>
@@ -308,6 +308,100 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 <li>
 <p>Ms Hoe Ee Hui, IRAS</p>
 </li>
+<li>
+<p>Mr James Choo, Ernst &amp; Young Solutions LLP</p>
+</li>
+<li>
+<p>Mr Jiang Hai, Deloitte Tax Solutions Pte Ltd</p>
+</li>
+<li>
+<p>Mr Jimmy Oei</p>
+</li>
+<li>
+<p>Ms Joan Alfred, IRAS</p>
+</li>
+<li>
+<p>Ms Kiew-Toh Eng Ngor</p>
+</li>
+<li>
+<p>Ms Koh Mengxin, IRAS</p>
+</li>
+<li>
+<p>Mr Kong Yew Hon, IRAS</p>
+</li>
+<li>
+<p>Mr Kor Bing Keong, PwC</p>
+</li>
+<li>
+<p>Mr Lawrence Eng, IRAS</p>
+</li>
+<li>
+<p>Ms Lee Imm, IRAS</p>
+</li>
+<li>
+<p>Ms Lee Jingyi, Deloitte Tax Solutions Pte Ltd</p>
+</li>
+<li>
+<p>Ms Lee Kwan Yan, IRAS</p>
+</li>
+<li>
+<p>Ms Lee Lai Yu, IRAS</p>
+</li>
+<li>
+<p>Ms Li Wen</p>
+</li>
+<li>
+<p>Ms Liew Li Mei, Deloitte Tax Solutions Pte Ltd</p>
+</li>
+<li>
+<p>Ms Lim Hwei Ling, IRAS</p>
+</li>
+<li>
+<p>Ms Lim Kim Kok</p>
+</li>
+<li>
+<p>Ms Liu Hern Kuan, Insights Law LLC</p>
+</li>
+<li>
+<p>Ms Loh Lee Kim, IRAS</p>
+</li>
+<li>
+<p>Mr Loon Ming Hong, IRAS</p>
+</li>
+<li>
+<p>Mr Luis Coronado, Ernst &amp; Young Solutions LLP</p>
+</li>
+<li>
+<p>Ms Mabel Lee, IRAS</p>
+</li>
+<li>
+<p>Ms Mak Oi Leng</p>
+</li>
+<li>
+<p>Ms Nancy Tsao</p>
+</li>
+<li>
+<p>Mr New Aik Meng, IRAS</p>
+</li>
+<li>
+<p>Ms Ng Yuen Mun, IRAS</p>
+</li>
+<li>
+<p>Mr Nico Derksen, International Tax Management LLP</p>
+</li>
+<li>
+<p>Ms Pang Ai Lin, Ernst &amp; Young Solutions LLP</p>
+</li>
+<li>
+<p>Mr Panneer Selvam, Ernst &amp; Young Solutions LLP</p>
+</li>
+<li>
+<p>Ms Penny Lee</p>
+</li>
+<li>
+<p>Prof Dr Petruzzi Raffele,</p>
+</li>
 </ol>
 <hr>
+<p></p>
 <p></p>
