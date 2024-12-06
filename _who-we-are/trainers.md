@@ -399,7 +399,80 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 <p>Ms Penny Lee</p>
 </li>
 <li>
-<p>Prof Dr Petruzzi Raffele,</p>
+<p>Prof Dr Petruzzi Raffele, WU Transfer Pricing Center</p>
+</li>
+<li>
+<p>Prof Dr Alfred Storck, WU Transfer Pricing Center</p>
+</li>
+<li>
+<p>Ms Quek Puay Kiang</p>
+</li>
+<li>
+<p>Ms Quile Lily, IRAS</p>
+</li>
+<li>
+<p>Mr Richard Teo, IRAS</p>
+</li>
+<li>
+<p>Mr See Jee Chang, Deloitte Tax Solutions Pte Ltd</p>
+</li>
+<li>
+<p>Ms Shantini Ramachandra, Deloitte Tax Solutions Pte Ltd</p>
+</li>
+<li>
+<p>Mr Sam Sim</p>
+</li>
+<li>
+<p>Ms Siw Seow Choo</p>
+</li>
+<li>
+<p>Ms Stefanie Han, IRAS</p>
+</li>
+<li>
+<p>Ms Suzanne Seah, IRAS</p>
+</li>
+<li>
+<p>Ms Tan Siew Lian, IRAS</p>
+</li>
+<li>
+<p>Ms Tan Yan Ting, IRAS</p>
+</li>
+<li>
+<p>Mr Tang Siau Yan, GIC</p>
+</li>
+<li>
+<p>Ms Tang Wen Hui, IRAS</p>
+</li>
+<li>
+<p>Mr Tay Ang Sim, IRAS</p>
+</li>
+<li>
+<p>Mr Teoh Kim Choo, IRAS</p>
+</li>
+<li>
+<p>Ms Vivian Seah, IRAS</p>
+</li>
+<li>
+<p>Ms Wai Yean Tze, IRAS</p>
+</li>
+<li>
+<p>Mr Wang Teck Leng, IRAS</p>
+</li>
+<li>
+<p>Ms Wong Hsin Yee</p>
+</li>
+<li>
+<p>Ms Wong Sze Teen, IRAS</p>
+</li>
+<li>
+<p>Mr Stephen Bruce, Ernst &amp; Young Solutions LLP</p>
+</li>
+</ol>
+<p><strong><u>Outstanding Trainer Award: </u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
 </li>
 </ol>
 <hr>
