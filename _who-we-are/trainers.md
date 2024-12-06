@@ -145,7 +145,8 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 <p>Ms Teo Po Chu</p>
 </li>
 </ol>
-<p>Long Service Award (10 Years):</p>
+<p><strong><u>Long Service Award (10 Years):</u></strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mr Abhijit Ghosh, Alvarez &amp; Marsal</p>
@@ -248,7 +249,64 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 </li>
 <li>
 <p>Ms Yong Sing Yuan, KPMG Services Pte Ltd</p>
-<p></p>
+</li>
+</ol>
+<p><strong><u>Long Service Award (5 Years):</u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Abhishek Skukal, PwC</p>
+</li>
+<li>
+<p>Ms Alicia Tan, IRAS</p>
+</li>
+<li>
+<p>Mr Andy Choo, IRAS</p>
+</li>
+<li>
+<p>Ms Ang Sock Tiang</p>
+</li>
+<li>
+<p>Ms Angela Ang, IRAS</p>
+</li>
+<li>
+<p>Ms Anna Low</p>
+</li>
+<li>
+<p>Ms Belinda Tan, IRAS</p>
+</li>
+<li>
+<p>Ms Cheong-Lim Chen Hoe, IRAS</p>
+</li>
+<li>
+<p>Mr Chester Wee, Ernst &amp; Young Solutions LLP</p>
+</li>
+<li>
+<p>Ms Chin Hin Hin, IRAS</p>
+</li>
+<li>
+<p>Ms Chua Kong Ping, Deloitte tax Solutions Pte Ltd</p>
+</li>
+<li>
+<p>Ms Cindy Wong, IRAS</p>
+</li>
+<li>
+<p>Ms Elaine Leong, IRAS</p>
+</li>
+<li>
+<p>Mr Gaurav Tijoriwalla, Booking.com</p>
+</li>
+<li>
+<p>Ms Goh Khee Kuan</p>
+</li>
+<li>
+<p>Ms Grenda Pua, Ernst &amp; Young Solutions LLP</p>
+</li>
+<li>
+<p>Ms Ho Kar Wing</p>
+</li>
+<li>
+<p>Ms Hoe Ee Hui, IRAS</p>
 </li>
 </ol>
 <hr>
