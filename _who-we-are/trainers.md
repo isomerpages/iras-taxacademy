@@ -14,12 +14,14 @@ variant: tiptap
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8V08U_o2KDc?si=uXdKiOOELqg96zSf"></iframe>
 </div>
 <hr>
-<p><strong>Tax Academy Trainers' Appreciation Event 2024</strong>
+<p><strong>Tax Academy Appreciation Event 2025</strong>
 </p>
-<p>Tax Academy (TA) hosted its 2nd Trainers' Appreciation Event on 19 Jan
-2024 at Marriott Tang Plaza Hotel. The event was graced by the Commissioner
-of Inland Revenue/CEO of IRAS, Mr Ng Wai Choong and Chairman and members
-of TA Board.</p>
+<p>Tax Academy (TA) hosted an Appreciation Event on 29 Nov 2024 at Marriott
+Tang Plaza Hotel. The event was well-attended by more than 100 trainers,
+examiners and mentors who played an integral part in Tax Academy, contributing
+their expertise and passion to shape the success of Tax Academy as a premier
+centre for Tax Education.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Tham Sai Choy, Chairman of TA Board, welcomed the guests and delivered his opening address" src="/images/tae_12.jpg">
 </div>
@@ -27,11 +29,6 @@ of TA Board.</p>
 <p><strong><em>Mr Tham Sai Choy, Chairman of TA Board, welcomed the guests and delivered his opening address</em></strong>
 </p>
 </blockquote>
-<p>The event was well attended by about 100 programme advisors and trainers
-from IRAS, tax practitioners from tax advisory firms and the industries,
-and the academia. TA would like to extend our heartfelt gratitude to all
-programme advisors and trainers for their unwavering support and consistent
-delivery of quality training at TA programmes!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tae_1.jpg">
