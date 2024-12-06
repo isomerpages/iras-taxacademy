@@ -502,7 +502,7 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 <p>Mr Yeo Kai Eng</p>
 </li>
 </ol>
-<p><strong><u>Engaging Content Award: </u></strong>
+<p><strong><u>Engaging Content Award:</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
