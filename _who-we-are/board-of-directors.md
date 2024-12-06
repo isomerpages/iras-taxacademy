@@ -39,7 +39,7 @@ Council and chairs the CPA Australia Public Sector Committee.&nbsp;
 <br>
 </p>
 <p><strong>Mr Daniel Ho</strong> 
-<br>Executive Director &amp; Tax Partner
+<br>Head of Tax
 <br>Deloitte Tax Solutions Pte Ltd
 <br>
 </p>
