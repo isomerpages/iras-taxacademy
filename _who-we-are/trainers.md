@@ -468,11 +468,51 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 <p>Mr Stephen Bruce, Ernst &amp; Young Solutions LLP</p>
 </li>
 </ol>
-<p><strong><u>Outstanding Trainer Award: </u></strong>
+<p><strong><u>Outstanding Trainer Award:</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Mr Andy Baik, KPMG Services Pte Ltd</p>
+</li>
+<li>
+<p>Ms Angela Ang, IRAS</p>
+</li>
+<li>
+<p>Mr Gordon Lawson, KPMG Services Pte Ltd</p>
+</li>
+<li>
+<p>Ms Jow Lee Ying, NTU</p>
+</li>
+<li>
+<p>Mr Koh Soo How, Grant Thornton Singapore</p>
+</li>
+<li>
+<p>Mr Mark Addy, KPMG Services Pte Ltd</p>
+</li>
+<li>
+<p>Ms Nadin Soh</p>
+</li>
+<li>
+<p>Ms Ong Siok Peng, Deloitte Tax Solutions Pte Ltd</p>
+</li>
+<li>
+<p>Mr Yap Hsien Yew, Deloitte Tax Solutions Pte Ltd</p>
+</li>
+<li>
+<p>Mr Yeo Kai Eng</p>
+</li>
+</ol>
+<p><strong><u>Engaging Content Award: </u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Charles Li, IRAS</p>
+</li>
+<li>
+<p>Mr Seah Huaikuan, IRAS</p>
+</li>
+<li>
+<p>Mr Yang Shi Yong, Drew &amp; Napier LLC</p>
 </li>
 </ol>
 <hr>
