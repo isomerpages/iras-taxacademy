@@ -23,60 +23,81 @@ their expertise and passion to shape the success of Tax Academy as a premier
 centre for Tax Education.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Tham Sai Choy, Chairman of TA Board, welcomed the guests and delivered his opening address" src="/images/tae_12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3128.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3132.jpg">
 </div>
 <blockquote>
-<p><strong><em>Mr Tham Sai Choy, Chairman of TA Board, welcomed the guests and delivered his opening address</em></strong>
+<p><strong><em>Mr Tham Sai Choy (Chairman of TA Board) and Mr Dennis Lui (CEO of Tax Academy), welcomed the guests and delivered their opening address</em></strong>
 </p>
-</blockquote>
 <p></p>
+</blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tae_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3206.jpg">
 </div>
 <blockquote>
 <p><strong><em>TA Board Members, Curriculum and Examination Board Members and IRAS Deputy Commissioners</em></strong>
 </p>
-</blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tae_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3208.jpg">
 </div>
+</blockquote>
 <blockquote>
 <p><strong><em>TA Income Tax Programme Trainers</em></strong>
 </p>
-</blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tae_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3210.jpg">
 </div>
+</blockquote>
 <blockquote>
+<p><strong><em>TA Income Tax Programme Trainers</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3212.jpg">
+</div>
 <p><strong><em>TA Advanced Tax Programme Trainers</em></strong>
 </p>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tae_4.jpg">
-</div>
 <blockquote>
-<p><strong><em>TA GST Programme Trainers</em></strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3213.jpg">
+</div>
+<p><strong><em>TA Advanced Tax Programme Trainers</em></strong>
 </p>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tae_5.jpg">
-</div>
 <blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3216.jpg">
+</div>
+<p><strong><em>TA GST Programme Trainers</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3217.jpg">
+</div>
 <p><strong><em>TA Property Tax, International Tax, CPA and Customised Programme Trainers</em></strong>
 </p>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tae_6.jpg">
-</div>
 <blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3219.jpg">
+</div>
 <p><strong><em>TA Webinars Trainers</em></strong>
 </p>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tae_7.jpg">
-</div>
 <blockquote>
-<p><strong><em>TA Webinars Trainers</em></strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3223.jpg">
+</div>
+<p><strong><em>TA Webinars and WU - TA Programme Trainers</em></strong>
 </p>
 </blockquote>
 <p></p>
