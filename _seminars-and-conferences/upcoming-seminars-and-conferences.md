@@ -127,9 +127,36 @@ law firm.&nbsp;</p>
 </div>
 <hr>
 <h4><strong>Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</strong></h4>
-<p><strong>16 Jan | 3.00 p.m. to 5.00 p.m.</strong>
+<p><strong>16 Jan 2025 | 3.00 p.m. to 5.00 p.m.</strong>
 </p>
+<p>Join us in this webinar as Mr Vikna Rajah, Executive Committee Partner
+&amp; Head of Tax, Trust &amp; Private Wealth at Rajah &amp; Tann Singapore
+LLP shares insights on four notable tax cases from 2024. Gain valuable
+perspectives on these recent rulings and their potential implications for
+Singapore's tax landscape.</p>
+<p>Cases to be discussed:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GIO v CIT [2024] SGITBR 1</p>
+</li>
+<li>
+<p>GIP v CIT [2024] SGITBR 2</p>
+</li>
+<li>
+<p>THM International Import &amp; Export v CGST [2024] SGHC 97</p>
+</li>
+<li>
+<p>Changi Airport Group v CIT [2024] SGHC 281</p>
+</li>
+</ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 <h4><strong>FasTax Series: Stamp Duty 101</strong><br></h4>
 <p><strong>19 Dec | 2.00 p.m. to 5.00 p.m.</strong>
 </p>
