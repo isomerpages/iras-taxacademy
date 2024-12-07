@@ -154,6 +154,19 @@ Singapore's tax landscape.</p>
 <summary>About the Speaker</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vikna.png">
+</div>
+<p></p>
+<p>Vikna Rajah, Partner at Rajah &amp; Tann Singapore LLP and member of its
+Executive Management Committee, leads the firm’s tax practice. Recognised
+as a “Leading Individual” in Tax since 2017 by Legal 500 APAC and Chambers,
+he is lauded for his “deep technical expertise,” “acute commercial acumen,”
+and ability to “make the impossible possible.” As a leading Tax lawyer,
+his landmark win in the second-ever GST case before the Singapore High
+Court was recognised as “Impact Case of the Year” by the International
+Tax Review. He also successfully led the firm to win Singapore Tax Disputes
+&amp; Litigation Firm of the Year.</p>
 </div>
 </details>
 </div>
