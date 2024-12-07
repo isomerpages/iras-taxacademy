@@ -170,6 +170,14 @@ Tax Review. He also successfully led the firm to win Singapore Tax Disputes
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h4><strong>FasTax Series: Stamp Duty 101</strong><br></h4>
 <p><strong>19 Dec | 2.00 p.m. to 5.00 p.m.</strong>
 </p>
