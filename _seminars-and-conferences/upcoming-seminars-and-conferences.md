@@ -174,10 +174,30 @@ Tax Review. He also successfully led the firm to win Singapore Tax Disputes
 <details class="isomer-details">
 <summary>Admin Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>This webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 16 Jan 2025</p>
+</li>
+<li>
+<p>Time: 3pm to 5pm</p>
+</li>
+<li>
+<p>Fees: SGD 109 (incl. 9% GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+<li>
 <p></p>
+</li>
+</ul>
 </div>
 </details>
 </div>
+<p></p>
 <h4><strong>FasTax Series: Stamp Duty 101</strong><br></h4>
 <p><strong>19 Dec | 2.00 p.m. to 5.00 p.m.</strong>
 </p>
