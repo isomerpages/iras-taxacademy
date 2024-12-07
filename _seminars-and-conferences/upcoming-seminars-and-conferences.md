@@ -59,9 +59,8 @@ the knowledge to navigate the complex US tax environment.</p>
 <summary>About the Speaker</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/andybaik__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/andybaik.png">
 </div>
 <p>Andy is a principal in KPMG’s US member firm on a long term secondment
 in Singapore. He currently serves as a tax partner/leader in KPMG Singapore’s
@@ -126,6 +125,10 @@ law firm.&nbsp;</p>
 </div>
 </details>
 </div>
+<hr>
+<h4><strong>Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</strong></h4>
+<p><strong>16 Jan | 3.00 p.m. to 5.00 p.m.</strong>
+</p>
 <p></p>
 <h4><strong>FasTax Series: Stamp Duty 101</strong><br></h4>
 <p><strong>19 Dec | 2.00 p.m. to 5.00 p.m.</strong>
