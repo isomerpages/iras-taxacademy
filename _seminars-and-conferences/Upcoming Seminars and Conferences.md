@@ -5,12 +5,11 @@ breadcrumb: Upcoming Seminars and Conferences
 variant: tiptap
 description: ""
 ---
-<h5><strong>UPCOMING EVENTS</strong></h5>
+<h5><strong>Seminars Calendar</strong></h5>
 <p>Are you looking to learn more about a specific area of tax that is currently
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
-<p><strong>JAN 2025</strong>
-</p>
+<h5><strong>Jan 2025</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>10 Jan: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals Series: Tax Crimes and Money Laundering</a>
@@ -25,8 +24,7 @@ Thank you!</p>
 </p>
 </li>
 </ul>
-<p><strong>DEC 2024</strong>
-</p>
+<h5><strong>Dec 2024</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>19 Dec: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Stamp Duty 101</a>
