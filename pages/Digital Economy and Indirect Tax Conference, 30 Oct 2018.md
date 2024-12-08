@@ -74,7 +74,34 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 Brochure/2018_openingaddress__1__page_0011.jpg">
 </div>
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 Brochure/Confbrochure2018_page_0006.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 Brochure/Confbrochure2018_page_0009.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 Brochure/Confbrochure2018_page_0008.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 Brochure/Confbrochure2018_page_0010.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 Brochure/Confbrochure2018_page_0011.jpg">
+</div>
 <p></p>
 <p></p>
 </div>
