@@ -21,8 +21,8 @@ Thank you!</p>
 </p>
 </li>
 <li>
-<p>22 Jan: TaxEdge Series: Update on recent U.S. inbound tax developments
-and tax policy outlook</p>
+<p>22 Jan: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</a>
+</p>
 </li>
 </ul>
 <p><strong>DEC 2024</strong>
