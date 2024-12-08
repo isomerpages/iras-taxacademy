@@ -4,6 +4,9 @@ permalink: /law-101-for-tax-professionals-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>10 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>Tax Crimes and Money Laundering</strong></h4>
+<p></p>
 <p></p>
 <p></p>
 <h4><strong><sub>16 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
