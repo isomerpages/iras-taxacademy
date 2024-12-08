@@ -54,16 +54,19 @@ description: ""
 </p>
 </li>
 </ul>
-<p><strong>17 AUG 2017</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/seminars-brochures/2017conference.pdf" rel="noopener noreferrer nofollow" target="_blank">Future of Taxes in Disruptive Times</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.mof.gov.sg/news-publications/speeches/Speech-by-Ms-Indranee-Rajah-Senior-Minister-of-State-for-Law-and-Finance-at-SMU-TA-Centre-for-Excellence-in-Taxation-Conference-at-York-Hotel-Singapor" rel="noopener noreferrer nofollow" target="_blank">Opening Address</a>
-</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Economy and Indirect Tax Conference" src="/images/banner_gardenbay.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Economy and Indirect Tax Conference</div><div class="isomer-card-description">30 Aug 2018</div><div class="isomer-card-link">Read more ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/future-of-taxes/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/banner_gardenbay.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Future of Taxes in Disruptive Times</div>
+<div class="isomer-card-description">17 Aug 2017</div>
+<div class="isomer-card-link">Read more ...</div>
+</div>
+</a>
+</div>
 <p></p>
