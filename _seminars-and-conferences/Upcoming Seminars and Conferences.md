@@ -13,23 +13,26 @@ Thank you!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>22 Jan : <a href="#22jan-ta-id" rel="noopener noreferrer nofollow" target="_blank">TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</a>
+<p>22 Jan: <a href="#22jan-ta-id" rel="noopener noreferrer nofollow" target="_blank">TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</a>
 </p>
+</li>
+<li>
+<p>16 Jan: Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</p>
 </li>
 </ul>
 <p><strong>DEC 2024</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>19 Dec : <a href="#19dec-ta-id" rel="noopener noreferrer nofollow" target="_blank">FasTax Series: Stamp Duty 101</a>
+<p>19 Dec: <a href="#19dec-ta-id" rel="noopener noreferrer nofollow" target="_blank">FasTax Series: Stamp Duty 101</a>
 </p>
 </li>
 </ul>
 <hr>
 <p></p>
+<h4><strong><sub>22 Jan 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</strong><br></h4>
-<p><strong>22 Jan 2025 | 2.00 p.m. to 5.00 p.m.</strong>
-</p>
+<p></p>
 <p>Join us for an essential US tax update session led by Mr <a href="https://www.linkedin.com/in/andy-baik-77084736/" rel="noopener noreferrer nofollow" target="_blank">Andy Baik</a>,
 Tax Partner at KPMG. Don't miss this opportunity to gain valuable insights
 from a leading expert in US taxation, this session will equip you with
@@ -124,9 +127,9 @@ law firm.&nbsp;</p>
 </details>
 </div>
 <hr>
+<h4><strong><sub>16 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</strong></h4>
-<p><strong>16 Jan 2025 | 3.00 p.m. to 5.00 p.m.</strong>
-</p>
+<p></p>
 <p>Join us in this webinar as Mr Vikna Rajah, Partner and Executive Committee
 Member, Head of Tax &amp; Trust at Rajah &amp; Tann Singapore LLP shares
 insights on four notable tax cases from 2024. Gain valuable perspectives
@@ -198,9 +201,8 @@ Tax Review. He also successfully led the firm to win Singapore Tax Disputes
 </div>
 <hr>
 <p></p>
+<h4><strong><sub>19 Dec 2024 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>FasTax Series: Stamp Duty 101</strong><br></h4>
-<p><strong>19 Dec | 2.00 p.m. to 5.00 p.m.</strong>
-</p>
 <p>Join us in this webinar led by Ms Seah Huaikuan, Senior Manager from IRAS
 Property Tax Division. This webinar will cover:</p>
 <ul data-tight="true" class="tight">
