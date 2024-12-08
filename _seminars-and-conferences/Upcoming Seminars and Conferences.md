@@ -24,7 +24,7 @@ and tax policy outlook</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>19 Dec:<a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Stamp Duty 101</a>
+<p>19 Dec: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Stamp Duty 101</a>
 </p>
 </li>
 </ul>
