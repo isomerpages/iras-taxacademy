@@ -42,20 +42,8 @@ description: ""
 </p>
 </li>
 </ul>
-<p><strong>30 OCT 2018</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/seminars-brochures/conference_oct2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Economy and Indirect Tax Conference</a>
-</p>
-</li>
-<li>
-<p><a href="/files/seminars-brochures/2018_openingaddress.pdf" rel="noopener noreferrer nofollow" target="_blank">Opening Address</a>
-</p>
-</li>
-</ul>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Economy and Indirect Tax Conference" src="/images/banner_gardenbay.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Economy and Indirect Tax Conference</div><div class="isomer-card-description">30 Aug 2018</div><div class="isomer-card-link">Read more ...</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Economy and Indirect Tax Conference" src="/images/banner_gardenbay.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Economy and Indirect Tax Conference</div><div class="isomer-card-description">30 Oct 2018</div><div class="isomer-card-link">Read more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/future-of-taxes/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
