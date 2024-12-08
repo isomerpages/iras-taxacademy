@@ -129,11 +129,11 @@ law firm.&nbsp;</p>
 <h4><strong>Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</strong></h4>
 <p><strong>16 Jan 2025 | 3.00 p.m. to 5.00 p.m.</strong>
 </p>
-<p>Join us in this webinar as Mr Vikna Rajah, Executive Committee Partner
-&amp; Head of Tax, Trust &amp; Private Wealth at Rajah &amp; Tann Singapore
-LLP shares insights on four notable tax cases from 2024. Gain valuable
-perspectives on these recent rulings and their potential implications for
-Singapore's tax landscape.</p>
+<p>Join us in this webinar as Mr Vikna Rajah, Partner and Executive Committee
+Member, Head of Tax &amp; Trust at Rajah &amp; Tann Singapore LLP shares
+insights on four notable tax cases from 2024. Gain valuable perspectives
+on these recent rulings and their potential implications for Singapore's
+tax landscape.</p>
 <p>Cases to be discussed:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -191,7 +191,8 @@ Tax Review. He also successfully led the firm to win Singapore Tax Disputes
 <p>Registration is on first-come-first served.</p>
 </li>
 <li>
-<p></p>
+<p><a href="https://form.gov.sg/6754f730cb41d65fc4c20b7e" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
 </li>
 </ul>
 </div>
@@ -248,4 +249,5 @@ Property Tax Division. This webinar will cover:</p>
 </div>
 <p></p>
 <p><strong>Please read <a href="https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for seminars.</strong>
+<a href="https://form.gov.sg/6754f730cb41d65fc4c20b7e" rel="noopener nofollow" target="_blank">Registration Form</a>
 </p>
