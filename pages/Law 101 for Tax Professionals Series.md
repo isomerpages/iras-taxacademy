@@ -36,6 +36,37 @@ the Penal Code</p>
 <p>2024 in review</p>
 </li>
 </ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/charles.png">
+</div>
+<p>Charles is a Director in the Advisory &amp; Litigation 2 branch of the
+Law Division in the IRAS. He is an Advocate &amp; Solicitor (Singapore)
+and a Fellow Chartered Accountant (England &amp; Wales), with both private
+and public sector experience in tax law. He has experience in tax litigation,
+prosecution and advisory work across the different types of taxes and duties.
+He has also been a trainer for Tax Academy, and an adjunct lecturer at
+SMU, since 2021.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shiyong.png">
+</div>
+<p>Shi Yong is a Director at Drew &amp; Napier’s Tax &amp; Private Client
+Services department. He advises on a range of tax law including corporate
+and personal income tax, goods and services tax, property tax, stamp duties,
+and customs and excise duties, with specialisation in Singapore enterprise
+tax risk management, tax audit, and tax investigation matters. He is recognised
+as a recommended lawyer for Tax by the Legal 500 Asia Pacific and has also
+authored various tax related legal publications.</p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <h4><strong><sub>16 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
