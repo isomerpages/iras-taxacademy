@@ -6,12 +6,13 @@ description: ""
 ---
 <h4><strong><sub>10 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Tax Crimes and Money Laundering</strong></h4>
-<p>Join us in this webinar, where our speakers Mr Charles Li (Director, Law
-Division, IRAS) and Mr Yang Shi Yong (Director, Drew &amp; Napier LLC),
-provide an overview of the offences and penalties under the tax Acts and
-Penal Code for tax evasion. Money laundering associated with tax crimes,
-and measures to combat international tax evasion, will also be discussed.
-There will also be a brief review of the cases on tax crimes in 2024.</p>
+<p>Join us in this webinar, where our speakers Mr <a href="https://www.linkedin.com/in/charles-l-03884718/" rel="noopener nofollow" target="_blank">Charles Li</a>,
+Director, Law Division at IRAS and Mr <a href="https://www.linkedin.com/in/shi-yong-yang-ab1b1ab9/" rel="noopener nofollow" target="_blank">Yang Shi Yong</a>,
+Director at Drew &amp; Napier LLC, provide an overview of the offences
+and penalties under the tax Acts and Penal Code for tax evasion. Money
+laundering associated with tax crimes, and measures to combat international
+tax evasion, will also be discussed. There will also be a brief review
+of the cases on tax crimes in 2024.</p>
 <p><strong>&nbsp;Agenda:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -99,11 +100,11 @@ authored various tax related legal publications.</p>
 <h4><strong><sub>16 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Overview of 2024 Tax Cases</strong></h4>
 <p></p>
-<p>Join us in this webinar as Mr Vikna Rajah, Partner and Executive Committee
-Member, Head of Tax &amp; Trust at Rajah &amp; Tann Singapore LLP shares
-insights on four notable tax cases from 2024. Gain valuable perspectives
-on these recent rulings and their potential implications for Singapore's
-tax landscape.</p>
+<p>Join us in this webinar as Mr <a href="https://www.linkedin.com/in/vikna-rajah/" rel="noopener nofollow" target="_blank">Vikna Rajah</a>, Partner
+and Executive Committee Member, Head of Tax &amp; Trust at Rajah &amp;
+Tann Singapore LLP shares insights on four notable tax cases from 2024.
+Gain valuable perspectives on these recent rulings and their potential
+implications for Singapore's tax landscape.</p>
 <p>Cases to be discussed:</p>
 <ul data-tight="true" class="tight">
 <li>
