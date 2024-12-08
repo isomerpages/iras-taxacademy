@@ -6,7 +6,36 @@ description: ""
 ---
 <h4><strong><sub>10 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Tax Crimes and Money Laundering</strong></h4>
-<p></p>
+<p>Join us in this webinar, where our speakers Mr Charles Li (Director, Law
+Division, IRAS) and Mr Yang Shi Yong (Director, Drew &amp; Napier LLC),
+provide an overview of the offences and penalties under the tax Acts and
+Penal Code for tax evasion. Money laundering associated with tax crimes,
+and measures to combat international tax evasion, will also be discussed.
+There will also be a brief review of the cases on tax crimes in 2024.</p>
+<p><strong>&nbsp;Agenda:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Introduction to criminal law</p>
+</li>
+<li>
+<p>Some key offences under the Income Tax Act, Goods and Services Tax Act
+and Stamp Duties Act</p>
+</li>
+<li>
+<p>Cheating, fraud, forgery and falsification-of-accounts offences under
+the Penal Code</p>
+</li>
+<li>
+<p>Tax-related money laundering offences under the CDSA</p>
+</li>
+<li>
+<p>Exchange of information and mutual legal assistance regimes</p>
+</li>
+<li>
+<p>2024 in review</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <h4><strong><sub>16 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
