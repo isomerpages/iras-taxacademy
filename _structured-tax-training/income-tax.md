@@ -18,7 +18,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jan 2025 intakes: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Jan 2025 intakes: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 <p></p>
 <p>You may wish to fill out the <a href="https://go.gov.sg/l2it42024-generate" rel="noopener noreferrer nofollow" target="_blank">interest form </a>to indicate
@@ -106,7 +106,7 @@ In-house Singapore income tax training by Big 4 (state which big 4 organisation)
 <a href="/files/executive-tax-programmes/income-tax/L2IT52024coursebrochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p></p>
-<p>Registration is OPEN.</p>
+<p>Registration is CLOSED.</p>
 <p>Once registration is closed, kindly fill up the <a href="https://go.gov.sg/l2it42024-waitinglist" rel="noopener nofollow" target="_blank">waiting list form</a> to
 be placed under waiting list.</p>
 <p></p>
