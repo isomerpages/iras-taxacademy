@@ -191,8 +191,7 @@ Tax Review. He also successfully led the firm to win Singapore Tax Disputes
 <p>Registration is on first-come-first served.</p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/67322dd1841c4c48cc9ee888" rel="noopener nofollow" target="_blank">Registration Form</a>
-</p>
+<p></p>
 </li>
 </ul>
 </div>
