@@ -89,7 +89,8 @@ authored various tax related legal publications.</p>
 <p>Registration is on first-come-first served.</p>
 </li>
 <li>
-<p></p>
+<p><a href="https://form.gov.sg/6755295b64f8ccfe360c4877" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
 </li>
 </ul>
 </div>
