@@ -13,10 +13,12 @@ Thank you!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>10 Jan: Law 101 for Tax Professionals Series: Tax Crimes and Money Laundering</p>
+<p>10 Jan: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals Series: Tax Crimes and Money Laundering</a>
+</p>
 </li>
 <li>
-<p>16 Jan: Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</p>
+<p>16 Jan: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</a>
+</p>
 </li>
 <li>
 <p>22 Jan: TaxEdge Series: Update on recent U.S. inbound tax developments
