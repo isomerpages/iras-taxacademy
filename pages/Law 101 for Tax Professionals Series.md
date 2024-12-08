@@ -4,8 +4,10 @@ permalink: /law-101-for-tax-professionals-series/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
 <h4><strong><sub>16 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
-<h4><strong>Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</strong></h4>
+<h4><strong>Overview of 2024 Tax Cases</strong></h4>
 <p></p>
 <p>Join us in this webinar as Mr Vikna Rajah, Partner and Executive Committee
 Member, Head of Tax &amp; Trust at Rajah &amp; Tann Singapore LLP shares
