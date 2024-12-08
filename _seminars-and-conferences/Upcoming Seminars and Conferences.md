@@ -13,11 +13,14 @@ Thank you!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>22 Jan: TaxEdge Series: Update on recent U.S. inbound tax developments
-and tax policy outlook</p>
+<p>10 Jan: Law 101 for Tax Professionals Series: Tax Crimes and Money Laundering</p>
 </li>
 <li>
 <p>16 Jan: Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</p>
+</li>
+<li>
+<p>22 Jan: TaxEdge Series: Update on recent U.S. inbound tax developments
+and tax policy outlook</p>
 </li>
 </ul>
 <p><strong>DEC 2024</strong>
