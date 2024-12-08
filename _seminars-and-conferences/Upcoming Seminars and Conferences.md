@@ -92,9 +92,6 @@ leader on several top global sovereign investment funds, US tax desk leader,
 and Asia Pacific regional tax partner on many large US and European MNC
 accounts. He has also worked as a senior tax partner at a global top 20
 law firm.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/andybaikbio.png">
-</div>
 </div>
 </details>
 </div>
