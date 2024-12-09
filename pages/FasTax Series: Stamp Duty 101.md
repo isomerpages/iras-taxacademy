@@ -24,6 +24,27 @@ Property Tax Division. This webinar will cover:</p>
 </ul>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/huaikuan.png">
+</div>
+<p></p>
+<p>Huaikuan is currently a Senior Manager with the Inland Revenue Authority
+of Singapore (IRAS), Valuation &amp; Stamp Duty Branch. She started her
+career in IRAS since 2014 and her experience includes handling stamp duty
+assessment, remissions, refunds, Section 15 relief and appeals. She specialises
+in cases relating to Additional Buyer’s Stamp Duty remission applications
+relating to Housing Developers and Section 15 stamp duty relief relating
+to commercial group restructurings as well as mergers and acquisitions.
+She works closely with private sector firms, Ministries, and government
+agencies.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary>Admin Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
