@@ -62,8 +62,15 @@ area.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Paul__1_.png">
 </div>
-<p></p>
-<p></p>
+<p>Paul Sutton is a corporate lawyer with over 30 years' international experience.
+He specialises in intercompany agreements and legal structures for multinational
+groups and financial institutions. He is author of “Intercompany Agreements
+for Transfer Pricing Compliance – A Practical Guide” which is published
+by Law Brief Publishing. Through his consulting firm LCN, Paul works alongside
+leading international tax and transfer pricing professionals globally,
+helping to make sure that the transfer pricing policies of the groups concerned
+have legal substance and are implemented through appropriate intercompany
+agreements - which are kept up to date, and tax audit-ready and due diligence-ready.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Richard__2_.png">
