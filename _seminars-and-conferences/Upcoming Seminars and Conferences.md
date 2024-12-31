@@ -16,7 +16,8 @@ Thank you!</p>
 </p>
 </li>
 <li>
-<p>13 Jan: TaxEdge Series: Legal Documentation for Transfer Pricing of Intangibles</p>
+<p>13 Jan: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Legal Documentation for Transfer Pricing of Intangibles</a>
+</p>
 </li>
 <li>
 <p>16 Jan: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</a>
