@@ -4,6 +4,57 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>13 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>TaxEdge Series: Legal Documentation for Transfer Pricing of Intangibles</strong></h4>
+<p>Join Mr <a href="https://www.linkedin.com/in/paul-r-sutton/" rel="noopener noreferrer nofollow" target="_blank">Paul Sutton</a>,
+Founder and Partner at LCN Legal and Mr <a href="https://www.linkedin.com/in/richard-goh-cheekiat/" rel="noopener noreferrer nofollow" target="_blank">Richard Goh</a>,
+Group Tax Specialist, IRAS as they decode the critical elements of legal
+documentation for transfer pricing of intangibles in IP-related transactions.
+This webinar will explore best practices for aligning documentation with
+the arm's length principle, ensuring economic substance, and maintaining
+consistency with regulatory standards.</p>
+<p>Tax, legal, and finance professionals will gain valuable insights to strengthen
+their transfer pricing strategies and documentation approaches. Don't miss
+this opportunity to enhance your understanding of this complex and crucial
+area.</p>
+<p><strong>Agenda:</strong>
+</p>
+<p>Review of intercompany transactions involving intangibles</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Overview of Singapore’s TP guidance on intangibles</em>
+</p>
+</li>
+<li>
+<p><em>Transfer pricing and valuation issues in IP-related<s> </s>arrangement</em>
+</p>
+</li>
+<li>
+<p><em>Common gap</em>
+</p>
+</li>
+</ul>
+<p>Best practices for legal documentation for intercompany transactions</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Typical transactions involving intangibles</em>
+</p>
+</li>
+<li>
+<p><em>Intangibles vs IP</em>
+</p>
+</li>
+<li>
+<p><em>Aligning legal and transfer pricing aspects</em>
+</p>
+</li>
+<li>
+<p><em>Case study on designing transaction flows</em>
+</p>
+</li>
+</ul>
+<p>Q &amp; A</p>
+<p></p>
 <h4><strong><sub>22 Jan 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</strong></h4>
 <p></p>
