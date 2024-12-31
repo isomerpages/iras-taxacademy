@@ -54,6 +54,14 @@ area.</p>
 </li>
 </ul>
 <p>Q &amp; A</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong><sub>22 Jan 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</strong></h4>
