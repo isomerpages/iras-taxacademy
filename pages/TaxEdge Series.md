@@ -99,7 +99,7 @@ purposes.</p>
 <p>Date: 13 Jan 2025</p>
 </li>
 <li>
-<p>Time: 33pm to 5pm</p>
+<p>Time: 3pm to 5pm</p>
 </li>
 <li>
 <p>Fees: SGD109 (incl. 9% GST)</p>
