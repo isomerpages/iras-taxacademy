@@ -16,6 +16,10 @@ Thank you!</p>
 </p>
 </li>
 <li>
+<p>13 Jan: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Legal Documentation for Transfer Pricing of Intangibles</a>
+</p>
+</li>
+<li>
 <p>16 Jan: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</a>
 </p>
 </li>
@@ -24,13 +28,7 @@ Thank you!</p>
 </p>
 </li>
 </ul>
-<h5><strong>Dec 2024</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>19 Dec: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Stamp Duty 101</a>
-</p>
-</li>
-</ul>
+<h5></h5>
 <hr>
 <h4></h4>
 <p><strong>Please read <a href="https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for seminars.</strong>
