@@ -6,10 +6,10 @@ variant: markdown
 ---
 ##### **UPCOMING PROGRAMMES**
 ##### **GST Programme Level 1**
-* Feb 2025 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)<br>You may wish to fill out the [interest form](https://go.gov.sg/waitlist-level1gst) to indicate your interest.
+* Feb 2025 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id)<br>If the registration is fully subscribed, you may wish to fill out the [interest form](https://go.gov.sg/waitlist-level1gst) to indicate your interest.
 
 ##### **GST Programme Level 2**
-* Feb 2025 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)<br>You may wish to fill out the [interest form](https://go.gov.sg/waitlist-level2gst) to indicate your interest.
+* Feb 2025 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)<br>If the registration is fully subscribed, you may wish to fill out the [interest form](https://go.gov.sg/waitlist-level2gst) to indicate your interest.
 
 ##### **GST Programme Level 3**
 * Advanced GST Programme 2023/24: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
