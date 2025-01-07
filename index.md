@@ -40,8 +40,7 @@ sections:
           announcement: The 6-day (24 Feb to 1 Mar 2025) programme, led by Prof Kees van
             Raad, Chairman, International Tax Center Leiden, is customised for
             tax professionals who are seeking to deepen their insight and
-            expertise in tax treaties. Enjoy 10% Early Bird discount if you
-            register before 24 Dec 2024!
+            expertise in tax treaties.
           link_text: Brochure details
           link_url: https://www.taxacademy.sg/files/2025ATTbrochure_website.pdf
   - infopic:
