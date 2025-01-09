@@ -41,7 +41,7 @@ sections:
             tax professionals who are seeking to deepen their insight and
             expertise in tax treaties.
           link_text: Brochure details
-          link_url: https://www.taxacademy.sg/files/2025ATTbrochure_website.pdf
+          link_url: https://www.taxacademy.sg/files/24_10_16_version_KvR_2025_LeidenTA_ATT_brochure_v2.pdf
   - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
