@@ -93,6 +93,11 @@ tax experience and who are seeking to deepen their insight and expertise
 in tax treaties.</p>
 <p>Participants will learn thorough knowledge of the complex rules that govern
 tax treaties and application of the advanced treaty concepts.</p>
+<p>Not sure whether the course is not too basic for you?</p>
+<p>Test your knowledge of tax treaties. Click <a href="https://form.gov.sg/6779dd9c126c84eafb9eece3" rel="noopener nofollow" target="_blank">here</a> and provide
+your answer to either (or both) of the two brief cases you’ll see. If you
+send in your answer(s), Kees van Raad will be happy to read them and rate
+your level of understanding tax treaties.</p>
 <p><a href="https://form.gov.sg/67039f6177e924056c9f475c" rel="noopener nofollow" target="_blank">Registration Form</a> -
 <a href="\files\24_10_16_version_KvR_2025_LeidenTA_ATT_brochure_v2.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
