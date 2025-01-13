@@ -30,22 +30,22 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>This webinar will be conducted via Zoom</p>
+<p>This seminar will be held at Revenue House, Discovery Room@B1</p>
 </li>
 <li>
-<p>Date: 13 Jan 2025</p>
+<p>Date: 4 Feb 2025</p>
 </li>
 <li>
-<p>Time: 3pm to 5pm</p>
+<p>Time: 1.30pm to 5pm</p>
 </li>
 <li>
-<p>Fees: SGD109 (incl. 9% GST)</p>
+<p>Fees: SGD163.50 (incl. 9% GST)</p>
 </li>
 <li>
 <p>Registration is on first-come-first served.</p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/6763e6ea46706fba0d167964" rel="noopener nofollow" target="_blank">Registration Form</a>
+<p><a href="https://form.gov.sg/6783e288591c8c278073b6fc" rel="noopener nofollow" target="_blank">Registration Form</a>
 </p>
 </li>
 </ul>
