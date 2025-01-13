@@ -6,7 +6,15 @@ description: ""
 ---
 <h4><strong><sub>4 Feb 2025 | 1.30 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Navigating Intangible Asset Valuations for Financial reporting, Tax, and Transfer pricing purposes</strong></h4>
-<p>A</p>
+<p>In today’s knowledge-driven economy, intangible assets play a critical
+role in driving business success. However, valuing these assets can be
+challenging, especially when navigating the intricate interplay between
+accounting standards, tax regulations, and transfer pricing requirements.&nbsp;Understanding
+the interaction and gaps between these different IA valuations is essential
+in ensuring compliance with the relevant rules and minimising the risk
+of valuation issues. This seminar is tailored to equip participants with
+an overview of the key valuation requirements for financial reporting,
+tax, and transfer pricing purposes.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About the Speakers</summary>
