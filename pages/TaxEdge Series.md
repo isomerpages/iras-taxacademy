@@ -4,8 +4,200 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>4 Feb 2025 | 1.30 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>Navigating Intangible Asset Valuations for Financial Reporting, Tax, and Transfer Pricing purposes</strong></h4>
+<p>In today’s knowledge-driven economy, intangible assets play a critical
+role in driving business success. However, valuing these assets can be
+challenging, especially when navigating the intricate interplay between
+accounting standards, tax regulations, and transfer pricing requirements.</p>
+<p>Join Mr <a href="https://www.linkedin.com/in/richard-goh-cheekiat/" rel="noopener noreferrer nofollow" target="_blank">Richard Goh</a>,
+Group Tax Specialist, IRAS and Ms <a href="https://www.linkedin.com/in/ai-leng-chua-97b16a29/" rel="noopener nofollow" target="_blank">Chua Ai Leng</a> as
+they decode essential interaction and gaps between different IA valuations.
+They will also discuss how to ensure compliance with relevant rules and
+minimising the risk of valuation issues.</p>
+<p>This seminar is tailored to equip participants with an overview of the
+key valuation requirements for financial reporting, tax, and transfer pricing
+purposes.</p>
+<p><strong>Agenda</strong>
+</p>
+<p>COMMON TYPES OF IA VALUATION FOR REGULATORY PURPOSES IN SINGAPORE</p>
+<p>KEY DIFFERENCES IN THE TYPES OF IA AND HOW THEY ARE VALUED</p>
+<p><em>A) Valuation of intangible assets for accounting purposes</em>
+</p>
+<p><em>i. Accounting standards</em>
+</p>
+<p><em>ii. Definition of IA</em>
+</p>
+<p><em>iii. Fair value</em>
+</p>
+<p><em>iv. PPA process and simple valuation examples for Multiple Period Excess Earnings Method (MPEEM) and Relief of Royalty Method (RfRM)</em>
+</p>
+<p><em>B) Valuation of intangibles for transfer pricing purposes</em>
+</p>
+<p><em>i. Transfer pricing guidelines</em>
+</p>
+<p><em>ii. Definition of intangibles</em>
+</p>
+<p><em>iii. Arm’s length price</em>
+</p>
+<p><em>iv. Simple valuation example for Residual Profit Method (RPM)</em>
+</p>
+<p><em>C) Valuation of intellectual property rights for tax purposes</em>
+</p>
+<p><em>i. S19B conditions</em>
+</p>
+<p><em>ii. Definition of IPRs</em>
+</p>
+<p><em>iii. Open market price</em>
+</p>
+<p><em>iv. Issues to consider when using MPEEM, RfRM, and RPM for tax purposes</em>
+</p>
+<p>Q &amp; A</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Richard.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ai_Leng.png">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>This seminar will be held at Revenue House, Discovery Room@B1</p>
+</li>
+<li>
+<p>Date: 4 Feb 2025</p>
+</li>
+<li>
+<p>Time: 1.30pm to 5pm</p>
+</li>
+<li>
+<p>Fees: SGD163.50 (incl. 9% GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/6783e288591c8c278073b6fc" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong><sub>22 Jan 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>Update on recent U.S. inbound tax developments and tax policy outlook</strong></h4>
+<p></p>
+<p>Join us for an essential US tax update session led by Mr <a href="https://www.linkedin.com/in/andy-baik-77084736/" rel="noopener noreferrer nofollow" target="_blank">Andy Baik</a>,
+Tax Partner at KPMG. Don't miss this opportunity to gain valuable insights
+from a leading expert in US taxation, this session will equip you with
+the knowledge to navigate the complex US tax environment.</p>
+<p>Key topics include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Recent tax law changes impacting foreign investments in the US</p>
+</li>
+<li>
+<p>Corporate Alternative Minimum Tax (CAMT)</p>
+</li>
+<li>
+<p>Clean energy related credits</p>
+</li>
+<li>
+<p>Inbound-into-US "effectively connected income" issues</p>
+</li>
+<li>
+<p>BEPS Pillar Two interplay with US tax considerations</p>
+</li>
+<li>
+<p>Potential tax policy shifts post US Presidential election</p>
+</li>
+</ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/andybaik.png">
+</div>
+<p>Andy is a principal in KPMG’s US member firm on a long term secondment
+in Singapore. He currently serves as a tax partner/leader in KPMG Singapore’s
+BEPS Centre of Excellence (CoE) and also as the lead partner of the US
+tax desk group based in Singapore/Asia.&nbsp; Andy also co-leads KPMG’s
+BEPS Pillar 2 Global Think Tank.&nbsp; Andy has advised various private
+funds, sovereigns/pension funds, asset managers, family offices and MNCs
+on BEPS Pillar 2 related technical tax, planning and implementation issues.</p>
+<p>Andy has an all-around, cross border tax background with a focus on US,
+Asian and international tax systems. His practice focuses on the asset
+management sector and works closely with private equity, real estate and
+sovereign/pension funds on all aspects of their tax matters, including
+cross border structuring, tax controversy and policy issues. He regularly
+advises fund and MNC clients on various tax matters relating to their investments
+into Asia (e.g., treaty planning, financing and exit related structuring)
+and Singapore/Asia based funds/MNCs on their inbound-into-US investments
+(real estate, private equity, infrastructure, lending, LP interests, etc.).&nbsp;
+He currently serves as the global lead tax partner to one of the world’s
+largest sovereign funds and works closely with another on many of its strategic,
+global tax matters.&nbsp;</p>
+<p>Andy has primarily worked in the international tax area and has worked
+in Washington DC, New York, San Francisco and various Asian locations during
+his 25 plus year career. He has spent 13 plus years working in Singapore
+and Korea -- serving in various roles including as the Asia Pacific region
+international tax practice leader, tax managing partner of a Big 4 firm
+in Korea, Asia-Pacific sovereign and pension fund tax leader, global tax
+leader on several top global sovereign investment funds, US tax desk leader,
+and Asia Pacific regional tax partner on many large US and European MNC
+accounts. He has also worked as a senior tax partner at a global top 20
+law firm.&nbsp;</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>This webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 22 Jan 2025</p>
+</li>
+<li>
+<p>Time: 2pm to 5pm</p>
+</li>
+<li>
+<p>Fees: SGD 163.50 (incl. 9% GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/67322dd1841c4c48cc9ee888" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<hr>
 <h4><strong><sub>13 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
-<h4><strong>TaxEdge Series: Legal Documentation for Transfer Pricing of Intangibles</strong></h4>
+<h4><strong>Legal Documentation for Transfer Pricing of Intangibles</strong></h4>
 <p>Join Mr <a href="https://www.linkedin.com/in/paul-r-sutton/" rel="noopener noreferrer nofollow" target="_blank">Paul Sutton</a>,
 Founder and Partner at LCN Legal and Mr <a href="https://www.linkedin.com/in/richard-goh-cheekiat/" rel="noopener noreferrer nofollow" target="_blank">Richard Goh</a>,
 Group Tax Specialist, IRAS as they decode the critical elements of legal
@@ -115,103 +307,4 @@ purposes.</p>
 </div>
 </details>
 </div>
-<p></p>
-<h4><strong><sub>22 Jan 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
-<h4><strong>TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</strong></h4>
-<p></p>
-<p>Join us for an essential US tax update session led by Mr <a href="https://www.linkedin.com/in/andy-baik-77084736/" rel="noopener noreferrer nofollow" target="_blank">Andy Baik</a>,
-Tax Partner at KPMG. Don't miss this opportunity to gain valuable insights
-from a leading expert in US taxation, this session will equip you with
-the knowledge to navigate the complex US tax environment.</p>
-<p>Key topics include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Recent tax law changes impacting foreign investments in the US</p>
-</li>
-<li>
-<p>Corporate Alternative Minimum Tax (CAMT)</p>
-</li>
-<li>
-<p>Clean energy related credits</p>
-</li>
-<li>
-<p>Inbound-into-US "effectively connected income" issues</p>
-</li>
-<li>
-<p>BEPS Pillar Two interplay with US tax considerations</p>
-</li>
-<li>
-<p>Potential tax policy shifts post US Presidential election</p>
-</li>
-</ul>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About the Speaker</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/andybaik.png">
-</div>
-<p>Andy is a principal in KPMG’s US member firm on a long term secondment
-in Singapore. He currently serves as a tax partner/leader in KPMG Singapore’s
-BEPS Centre of Excellence (CoE) and also as the lead partner of the US
-tax desk group based in Singapore/Asia.&nbsp; Andy also co-leads KPMG’s
-BEPS Pillar 2 Global Think Tank.&nbsp; Andy has advised various private
-funds, sovereigns/pension funds, asset managers, family offices and MNCs
-on BEPS Pillar 2 related technical tax, planning and implementation issues.</p>
-<p>Andy has an all-around, cross border tax background with a focus on US,
-Asian and international tax systems. His practice focuses on the asset
-management sector and works closely with private equity, real estate and
-sovereign/pension funds on all aspects of their tax matters, including
-cross border structuring, tax controversy and policy issues. He regularly
-advises fund and MNC clients on various tax matters relating to their investments
-into Asia (e.g., treaty planning, financing and exit related structuring)
-and Singapore/Asia based funds/MNCs on their inbound-into-US investments
-(real estate, private equity, infrastructure, lending, LP interests, etc.).&nbsp;
-He currently serves as the global lead tax partner to one of the world’s
-largest sovereign funds and works closely with another on many of its strategic,
-global tax matters.&nbsp;</p>
-<p>Andy has primarily worked in the international tax area and has worked
-in Washington DC, New York, San Francisco and various Asian locations during
-his 25 plus year career. He has spent 13 plus years working in Singapore
-and Korea -- serving in various roles including as the Asia Pacific region
-international tax practice leader, tax managing partner of a Big 4 firm
-in Korea, Asia-Pacific sovereign and pension fund tax leader, global tax
-leader on several top global sovereign investment funds, US tax desk leader,
-and Asia Pacific regional tax partner on many large US and European MNC
-accounts. He has also worked as a senior tax partner at a global top 20
-law firm.&nbsp;</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Admin Details</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>This webinar will be conducted via Zoom</p>
-</li>
-<li>
-<p>Date: 22 Jan 2025</p>
-</li>
-<li>
-<p>Time: 2pm to 5pm</p>
-</li>
-<li>
-<p>Fees: SGD 163.50 (incl. 9% GST)</p>
-</li>
-<li>
-<p>Registration is on first-come-first served.</p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/67322dd1841c4c48cc9ee888" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
-</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<hr>
-<h4></h4>
 <p></p>
