@@ -11,7 +11,7 @@ role in driving business success. However, valuing these assets can be
 challenging, especially when navigating the intricate interplay between
 accounting standards, tax regulations, and transfer pricing requirements.</p>
 <p>Join Mr <a href="https://www.linkedin.com/in/richard-goh-cheekiat/" rel="noopener noreferrer nofollow" target="_blank">Richard Goh</a>,
-Group Tax Specialist, IRAS and Ms <a href="https://www.linkedin.com/in/ai-leng-chua-97b16a29/" rel="noopener nofollow" target="_blank">Chua Ai Leng</a> ,
+Group Tax Specialist at IRAS and Ms <a href="https://www.linkedin.com/in/ai-leng-chua-97b16a29/" rel="noopener nofollow" target="_blank">Chua Ai Leng</a> ,
 Valuation, Modeling &amp; Economics Partner for Strategy and Transactions
 services at Ernst &amp; Young Solutions LLP as they decode essential interaction
 and gaps between different IA valuations. They will also discuss how to
