@@ -15,6 +15,41 @@ in ensuring compliance with the relevant rules and minimising the risk
 of valuation issues. This seminar is tailored to equip participants with
 an overview of the key valuation requirements for financial reporting,
 tax, and transfer pricing purposes.</p>
+<p><strong>Agenda</strong>
+</p>
+<p>COMMON TYPES OF IA VALUATION FOR REGULATORY PURPOSES IN SINGAPORE</p>
+<p>KEY DIFFERENCES IN THE TYPES OF IA AND HOW THEY ARE VALUED</p>
+<p><em>A) Valuation of intangible assets for accounting purposes</em>
+</p>
+<p><em>i. Accounting standards</em>
+</p>
+<p><em>ii. Definition of IA</em>
+</p>
+<p><em>iii. Fair value</em>
+</p>
+<p><em>iv. PPA process and simple valuation examples for Multiple Period Excess Earnings Method (MPEEM) and Relief of Royalty Method (RfRM)</em>
+</p>
+<p><em>B) Valuation of intangibles for transfer pricing purposes</em>
+</p>
+<p><em>i. Transfer pricing guidelines</em>
+</p>
+<p><em>ii. Definition of intangibles</em>
+</p>
+<p><em>iii. Arm’s length price</em>
+</p>
+<p><em>iv. Simple valuation example for Residual Profit Method (RPM)</em>
+</p>
+<p><em>C) Valuation of intellectual property rights for tax purposes</em>
+</p>
+<p><em>i. S19B conditions</em>
+</p>
+<p><em>ii. Definition of IPRs</em>
+</p>
+<p><em>iii. Open market price</em>
+</p>
+<p><em>iv. Issues to consider when using MPEEM, RfRM, and RPM for tax purposes</em>
+</p>
+<p>Q &amp; A</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About the Speakers</summary>
