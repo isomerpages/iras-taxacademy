@@ -9,6 +9,14 @@ description: ""
 <p>Are you looking to learn more about a specific area of tax that is currently
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
+<h5><strong>Feb 2025</strong></h5>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4 Feb: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Navigating Intangible Asset Valuation for Financial Reporting, Tax and Transfer Pricing Purposes</a>
+</p>
+</li>
+</ul>
 <h5><strong>Jan 2025</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
