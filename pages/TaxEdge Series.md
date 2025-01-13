@@ -5,16 +5,19 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><sub>4 Feb 2025 | 1.30 p.m. to 5.00 p.m.</sub></strong></h4>
-<h4><strong>Navigating Intangible Asset Valuations for Financial reporting, Tax, and Transfer pricing purposes</strong></h4>
+<h4><strong>Navigating Intangible Asset Valuations for Financial Reporting, Tax, and Transfer Pricing purposes</strong></h4>
 <p>In today’s knowledge-driven economy, intangible assets play a critical
 role in driving business success. However, valuing these assets can be
 challenging, especially when navigating the intricate interplay between
-accounting standards, tax regulations, and transfer pricing requirements.&nbsp;Understanding
-the interaction and gaps between these different IA valuations is essential
-in ensuring compliance with the relevant rules and minimising the risk
-of valuation issues. This seminar is tailored to equip participants with
-an overview of the key valuation requirements for financial reporting,
-tax, and transfer pricing purposes.</p>
+accounting standards, tax regulations, and transfer pricing requirements.</p>
+<p>Join Mr <a href="https://www.linkedin.com/in/richard-goh-cheekiat/" rel="noopener noreferrer nofollow" target="_blank">Richard Goh</a>,
+Group Tax Specialist, IRAS and Ms <a href="https://www.linkedin.com/in/ai-leng-chua-97b16a29/" rel="noopener nofollow" target="_blank">Chua Ai Leng</a> as
+they decode essential interaction and gaps between different IA valuations.
+They will also discuss how to ensure compliance with relevant rules and
+minimising the risk of valuation issues.</p>
+<p>This seminar is tailored to equip participants with an overview of the
+key valuation requirements for financial reporting, tax, and transfer pricing
+purposes.</p>
 <p><strong>Agenda</strong>
 </p>
 <p>COMMON TYPES OF IA VALUATION FOR REGULATORY PURPOSES IN SINGAPORE</p>
