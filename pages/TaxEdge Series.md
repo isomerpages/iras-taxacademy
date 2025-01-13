@@ -12,30 +12,14 @@ description: ""
 <summary>About the Speakers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Paul__1_.png">
-</div>
-<p>Paul Sutton is a corporate lawyer with over 30 years' international experience.
-He specialises in intercompany agreements and legal structures for multinational
-groups and financial institutions. He is author of “Intercompany Agreements
-for Transfer Pricing Compliance – A Practical Guide” which is published
-by Law Brief Publishing. Through his consulting firm LCN, Paul works alongside
-leading international tax and transfer pricing professionals globally,
-helping to make sure that the transfer pricing policies of the groups concerned
-have legal substance and are implemented through appropriate intercompany
-agreements - which are kept up to date, and tax audit-ready and due diligence-ready.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Richard__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Richard.png">
 </div>
-<p>Richard is a Group Tax Specialist at the Inland Revenue Authority of Singapore.
-He is a Chartered Valuer and Appraiser and a certified Master Tax Specialist
-in IP Law, IP Management and IP Commercialisation. He has over 10 years
-of experience dealing with tax and transfer pricing valuation issues involving
-acquisitions and transfers of IP and other intangibles across various sectors.
-He also speaks regularly in seminars and workshops and has written articles
-on the valuation of intangibles for accounting, tax and transfer pricing
-purposes.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ai_Leng.png">
+</div>
 <p></p>
 </div>
 </details>
