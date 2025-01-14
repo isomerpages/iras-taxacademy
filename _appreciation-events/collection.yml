@@ -1,0 +1,5 @@
+collections:
+  appreciation-events:
+    output: true
+    order:
+      - Appreciation Event 2024.md
