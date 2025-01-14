@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Tax Academy Appreciation Event 2024</strong></h3>
+<hr>
 <p>Tax Academy (TA) hosted an Appreciation Event on 29 Nov 2024 at Marriott
 Tang Plaza Hotel. The event was well-attended by more than 100 trainers,
 examiners and mentors who played an integral part in Tax Academy, contributing
@@ -89,6 +90,7 @@ centre for Tax Education.</p>
 </p>
 </blockquote>
 <h3>Awards Segment</h3>
+<hr>
 <p>This year, we have introduced 4 new special awards: Distinguished Service,
 Long Service (15, 10 and 5 Years), Outstanding Trainer and Engaging Content.
 These awards recognise the dedication and professionalism of our trainers.</p>
@@ -506,8 +508,9 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 <p>Mr Yang Shi Yong, Drew &amp; Napier LLC</p>
 </li>
 </ol>
-<h3>Welcome Address Delivered by our CEO, Mr Dennis Lui</h3>
-<p><a href="/files/TA_Appreciation_Day_Speech_v0_3.pdf" rel="noopener nofollow" target="_blank">Click Here to Read &lt;Welcome Address&gt;</a>
+<h3>Welcome Address Delivered by CEO of Tax Academy, Mr Dennis Lui</h3>
+<hr>
+<p><a href="/files/TA_Appreciation_Day_Speech_v0_3.pdf" rel="noopener nofollow" target="_blank">Click Here to Read &lt;CEO's Opening Speech&gt;</a>
 </p>
 <hr>
 <p></p>
