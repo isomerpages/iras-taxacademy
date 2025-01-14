@@ -4,8 +4,7 @@ permalink: /appreciation-event-2025/
 variant: tiptap
 description: ""
 ---
-<p><strong>Tax Academy Appreciation Event 2025</strong>
-</p>
+<h3><strong>Tax Academy Appreciation Event 2024</strong></h3>
 <p>Tax Academy (TA) hosted an Appreciation Event on 29 Nov 2024 at Marriott
 Tang Plaza Hotel. The event was well-attended by more than 100 trainers,
 examiners and mentors who played an integral part in Tax Academy, contributing
@@ -89,6 +88,7 @@ centre for Tax Education.</p>
 <p><strong><em>TA Webinars and WU - TA Programme Trainers</em></strong>
 </p>
 </blockquote>
+<h3>Awards Segment</h3>
 <p>This year, we have introduced 4 new special awards: Distinguished Service,
 Long Service (15, 10 and 5 Years), Outstanding Trainer and Engaging Content.
 These awards recognise the dedication and professionalism of our trainers.</p>
@@ -506,6 +506,6 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 <p>Mr Yang Shi Yong, Drew &amp; Napier LLC</p>
 </li>
 </ol>
-<p></p>
+<h3>Welcome Address Delivered by our CEO, Mr Dennis Lui</h3>
 <hr>
 <p></p>
