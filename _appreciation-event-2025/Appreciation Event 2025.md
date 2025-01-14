@@ -507,5 +507,7 @@ These awards recognise the dedication and professionalism of our trainers.</p>
 </li>
 </ol>
 <h3>Welcome Address Delivered by our CEO, Mr Dennis Lui</h3>
+<p><a href="/files/TA_Appreciation_Day_Speech_v0_3.pdf" rel="noopener nofollow" target="_blank">Click Here to Read &lt;Welcome Address&gt;</a>
+</p>
 <hr>
 <p></p>
