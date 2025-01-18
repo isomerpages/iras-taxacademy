@@ -16,6 +16,14 @@ Thank you!</p>
 <p>4 Feb: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Navigating Intangible Asset Valuation for Financial Reporting, Tax and Transfer Pricing Purposes</a>
 </p>
 </li>
+<li>
+<p>12 Feb: <a href="/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Managing Tax Compliance</a>
+</p>
+</li>
+<li>
+<p>19 Feb: <a href="https://events.cpaaustralia.com.au/event/1a06a7cf-1fd4-4bcf-befe-cee740beb94f/summary" rel="noopener nofollow" target="_blank">CPA-TA Lunchtime Webinar</a>
+</p>
+</li>
 </ul>
 <h5><strong>Jan 2025</strong></h5>
 <ul data-tight="true" class="tight">
@@ -33,6 +41,10 @@ Thank you!</p>
 </li>
 <li>
 <p>22 Jan: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</a>
+</p>
+</li>
+<li>
+<p>22 Jan: <a href="https://events.cpaaustralia.com.au/event/1425b47a-6716-4b6a-b06b-3e24ca830106/summary" rel="noopener nofollow" target="_blank">CPA-TA Lunchtime Webinar</a>
 </p>
 </li>
 </ul>
