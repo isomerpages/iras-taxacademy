@@ -19,6 +19,10 @@ Thank you!</p>
 <li>
 <p>12 Feb: FasTax Series: Managing Tax Compliance</p>
 </li>
+<li>
+<p>19 Feb: <a href="https://events.cpaaustralia.com.au/event/1a06a7cf-1fd4-4bcf-befe-cee740beb94f/summary" rel="noopener nofollow" target="_blank">CPA-TA Lunchtime Webinar</a>
+</p>
+</li>
 </ul>
 <h5><strong>Jan 2025</strong></h5>
 <ul data-tight="true" class="tight">
