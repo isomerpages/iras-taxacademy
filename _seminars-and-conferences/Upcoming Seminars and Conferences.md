@@ -16,6 +16,9 @@ Thank you!</p>
 <p>4 Feb: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Navigating Intangible Asset Valuation for Financial Reporting, Tax and Transfer Pricing Purposes</a>
 </p>
 </li>
+<li>
+<p>12 Feb: FasTax Series: Managing Tax Compliance</p>
+</li>
 </ul>
 <h5><strong>Jan 2025</strong></h5>
 <ul data-tight="true" class="tight">
