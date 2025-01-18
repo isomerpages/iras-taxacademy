@@ -35,6 +35,10 @@ Thank you!</p>
 <p>22 Jan: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</a>
 </p>
 </li>
+<li>
+<p>22 Jan: <a href="https://events.cpaaustralia.com.au/event/1425b47a-6716-4b6a-b06b-3e24ca830106/summary" rel="noopener nofollow" target="_blank">CPA-TA Lunchtime Webinar</a>
+</p>
+</li>
 </ul>
 <h5></h5>
 <hr>
