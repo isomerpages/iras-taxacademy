@@ -17,7 +17,8 @@ Thank you!</p>
 </p>
 </li>
 <li>
-<p>12 Feb: FasTax Series: Managing Tax Compliance</p>
+<p>12 Feb: <a href="/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Managing Tax Compliance</a>
+</p>
 </li>
 <li>
 <p>19 Feb: <a href="https://events.cpaaustralia.com.au/event/1a06a7cf-1fd4-4bcf-befe-cee740beb94f/summary" rel="noopener nofollow" target="_blank">CPA-TA Lunchtime Webinar</a>
