@@ -29,10 +29,21 @@ Division as they share on:</p>
 <summary>About the Speakers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bios_Managing_Tax_Compliance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 <p>&nbsp;</p>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
