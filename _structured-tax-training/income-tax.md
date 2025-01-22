@@ -165,11 +165,11 @@ The Book Prizes are sponsored by Tax Academy’s stakeholders – Inland Revenue
 Authority of Singapore, Ernst &amp; Young Solutions LLP, KPMG Services
 Pte Ltd, Deloitte &amp; Touche LLP and PricewaterhouseCoopers Singapore
 Pte Ltd.</p>
-<p><strong>Intake 18 Book Prize Winners</strong>
+<p><strong>Intake 1/2023 Book Prize Winners</strong>
 </p>
 <p><a href="/files/executive-tax-programmes/atp%20(intake%2018)%20book%20prize%20winners%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Book Prize Winners</a>
 </p>
-<p><strong>Intake 19 Book Prize Winners</strong>
+<p><strong>Intake 2/2023 Book Prize Winners</strong>
 </p>
 <p><a href="/files/executive-tax-programmes/atp%20(intake%2019)%20book%20prize%20winners%20v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Book Prize Winners</a>
 </p>
