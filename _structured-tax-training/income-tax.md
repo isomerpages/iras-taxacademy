@@ -45,9 +45,9 @@ accurately.</p>
 <a href="/files/Intake_5_Course_brochure_L1_IT_2024.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p>Registration is NOW OPEN.</p>
-<p>The next intake for this course will be in May 2025. Registration will
-be available approximately six to eight weeks prior to the course commencement
-date.</p>
+<p>The next intake for this course will be in May/June 2025. Registration
+will be available approximately six to eight weeks prior to the course
+commencement date.</p>
 <p>Passing the Income Tax Level 1 exam is not mandatory if you are intending
 to apply for the Income Tax Level 2 programme. You may proceed to apply
 for the Income Tax Level 2 programme as soon as you have completed the
@@ -119,19 +119,19 @@ Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax
 Planning and Goods and Services Tax. The elective component offers modules
 on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and
 Investigation, and Stamp Duty.</p>
-<p><a href="/files/executive-tax-programmes/atp__fy24__brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Brochure</a>
+<p><a href="/files/ATP_FY25_Brochure.pdf" rel="noopener nofollow" target="_blank">Brochure</a>
 </p>
 <p></p>
-<p><strong>Intake 1/2024, April 2024 to April 2025:</strong>
+<p><strong>Intake 1/2025, April 2025 to April 2026:</strong>
 </p>
 <p><a href="https://form.gov.sg/65bb6520661be4d8c1d3321f" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Full Programme</a> -
-<a href="/files/executive-tax-programmes/ATP_Intake_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
+<a href="/files/ATP1_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
 </p>
 <p></p>
-<p><strong>Intake 2/2024, July 2024 to September 2025:</strong>
+<p><strong>Intake 2/2025, August 2025 to September 2026:</strong>
 </p>
 <p><a href="https://form.gov.sg/65bb67656cd4478c6d780e6a" rel="noopener noreferrer nofollow" target="_blank"><u>Registration Form - Full Programme</u></a> -
-<a href="/files/ATP_Intake_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
+<a href="/files/ATP2_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
 </p>
 <p></p>
 <p><strong>Registration closes on 23 February 2024.</strong>
