@@ -42,7 +42,7 @@ the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
 <p><a href="https://form.gov.sg/679352fc22b4893677c51627" rel="noopener noreferrer nofollow" target="_blank">Registration Form </a>-
-<a href="/files/Intake_4_Course_brochure_L1_IT_2024___Final1.pdf" rel="noopener nofollow" target="_blank">Details</a>
+<a href="/files/Intake_5_Course_brochure_L1_IT_2024.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p>Registration is NOW OPEN.</p>
 <p>The next intake for this course will be in May 2025. Registration will
