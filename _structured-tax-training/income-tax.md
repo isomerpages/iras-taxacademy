@@ -8,11 +8,9 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 4/2024 (November 2024): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED.</a>
+<p>Intake 5/2024 (February 2025): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN.</a>
 </p>
-<p>You may wish to fill out the <a href="https://form.gov.sg/66cf01ebc8066379dc50116f" rel="noopener noreferrer nofollow" target="_blank"><u>interest form</u></a>
-<a href="https://go.gov.sg/l2it2024interest" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
-</a>to indicate your interest.</p>
+<p></p>
 </li>
 </ul>
 <h5><strong>Income Tax Programme Level 2</strong></h5>
@@ -28,11 +26,11 @@ your interest.</p>
 <h5><strong>Income Tax Programme Level 3</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2024 (April 2024 to April 2025): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Intake 1/2025 (April 2025 to April 2026): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 <li>
-<p>Intake 2/2024 (July 2024 to September 2025): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Intake 2/2025 (August 2025 to September 2026): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
@@ -43,13 +41,11 @@ Tax Act, distinction between income and capital receipts, principles governing
 the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
-<p><a href="https://form.gov.sg/66cef8f44e02e0195780a386" rel="noopener noreferrer nofollow" target="_blank">Registration Form </a>-
-<a href="/files/Intake_4_Course_brochure_L1_IT_2024___Final1.pdf" rel="noopener nofollow" target="_blank">Details</a>
+<p><a href="https://form.gov.sg/679352fc22b4893677c51627" rel="noopener noreferrer nofollow" target="_blank">Registration Form </a>-
+<a href="/files/Intake_5_Course_brochure_L1_IT_2024.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p>Registration is CLOSED.</p>
-<p>You may wish to fill out the <a href="https://form.gov.sg/66cf01ebc8066379dc50116f" rel="noopener nofollow" target="_blank">interest form</a> to
-indicate your interest.</p>
-<p>The next intake for this course will be in April/May 2025. Registration
+<p>Registration is NOW OPEN.</p>
+<p>The next intake for this course will be in May/June 2025. Registration
 will be available approximately six to eight weeks prior to the course
 commencement date.</p>
 <p>Passing the Income Tax Level 1 exam is not mandatory if you are intending
@@ -123,22 +119,22 @@ Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax
 Planning and Goods and Services Tax. The elective component offers modules
 on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and
 Investigation, and Stamp Duty.</p>
-<p><a href="/files/executive-tax-programmes/atp__fy24__brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Brochure</a>
+<p><a href="/files/ATP_FY25_Brochure.pdf" rel="noopener nofollow" target="_blank">Brochure</a>
 </p>
 <p></p>
-<p><strong>Intake 1/2024, April 2024 to April 2025:</strong>
+<p><strong>Intake 1/2025, April 2025 to April 2026:</strong>
 </p>
-<p><a href="https://form.gov.sg/65bb6520661be4d8c1d3321f" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Full Programme</a> -
-<a href="/files/executive-tax-programmes/ATP_Intake_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
-</p>
-<p></p>
-<p><strong>Intake 2/2024, July 2024 to September 2025:</strong>
-</p>
-<p><a href="https://form.gov.sg/65bb67656cd4478c6d780e6a" rel="noopener noreferrer nofollow" target="_blank"><u>Registration Form - Full Programme</u></a> -
-<a href="/files/ATP_Intake_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
+<p><a href="https://form.gov.sg/6796ea002ea9e745821b7a24" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Full Programme</a> -
+<a href="/files/ATP1_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
 </p>
 <p></p>
-<p><strong>Registration closes on 23 February 2024.</strong>
+<p><strong>Intake 2/2025, August 2025 to September 2026:</strong>
+</p>
+<p><a href="https://form.gov.sg/6796ecf35bbd2288c0f5ea42" rel="noopener noreferrer nofollow" target="_blank"><u>Registration Form - Full Programme</u></a> -
+<a href="/files/ATP2_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
+</p>
+<p></p>
+<p><strong>Registration closes on 19 February 2025.</strong>
 </p>
 <p><strong>Please note: Under the new admission requirement for intakes commencing from 1 Apr 2023 onwards, participants are required to:</strong>
 </p>

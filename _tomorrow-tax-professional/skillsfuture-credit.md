@@ -45,7 +45,10 @@ SFC account via <a href="https://www.myskillsfuture.gov.sg/content/portal/en/ind
 <p>Level 2 International Tax - TGS-2019507224</p>
 </li>
 <li>
-<p>Advanced GST Programme* - TGS-2019507225</p>
+<p>Level 3 Income Tax: Advanced Tax Programme* - TGS-2019507226</p>
+</li>
+<li>
+<p>Level 3 GST: Advanced GST Programme* - TGS-2019507225</p>
 </li>
 <li>
 <p>Leiden – TA Advanced Tax Treaties Programme - TGS-2019507229</p>
