@@ -1,0 +1,4 @@
+collections:
+  monthly-newsletter:
+    output: true
+    order: []
