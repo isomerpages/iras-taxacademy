@@ -32,7 +32,7 @@ separately managed by IRAS.&nbsp;</p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Meet our inaugural group of Merit Book Prize Winners!</summary>
+<summary>Meet our inaugural group of Merit Book Prize Winners 2025 !</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p></p>
