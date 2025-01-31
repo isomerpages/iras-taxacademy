@@ -2,6 +2,7 @@ collections:
   tomorrow-tax-professional:
     output: true
     order:
+      - TA Merit Book Prizes.md
       - overview.md
       - book-prizes.md
       - skillsfuture-credit.md
