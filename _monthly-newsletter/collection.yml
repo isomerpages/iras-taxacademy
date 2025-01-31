@@ -1,0 +1,5 @@
+collections:
+  monthly-newsletter:
+    output: true
+    order:
+      - Jan 2025.md
