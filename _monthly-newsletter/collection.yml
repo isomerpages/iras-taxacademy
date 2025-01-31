@@ -2,4 +2,4 @@ collections:
   monthly-newsletter:
     output: true
     order:
-      - Monthly Newsletter.md
+      - Jan 2025.md
