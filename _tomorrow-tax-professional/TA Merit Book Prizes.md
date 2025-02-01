@@ -4,9 +4,9 @@ permalink: /ta-merit-book-prizes/
 variant: tiptap
 description: ""
 ---
-<p><strong>TA MERIT BOOK PRIZE</strong>
+<p><strong>MERIT BOOK PRIZE</strong>
 </p>
-<p>TA presents the Merit Book Prize to the top 10% of the participants in
+<p>The Merit Book Prize is presented to the top 10% of the participants in
 the exams of our Structured Tax Programmes, i.e., Income Tax, GST and Property
 Tax courses starting from July 2024.</p>
 <p></p>
