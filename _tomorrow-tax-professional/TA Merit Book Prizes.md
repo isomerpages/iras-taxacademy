@@ -32,9 +32,56 @@ separately managed by IRAS.&nbsp;</p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Meet our inaugural group of Merit Book Prize Winners 2025 !</summary>
+<summary>Meet our inaugural group of Merit Book Prize Winners 2025!</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_page_0003.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_page_0004.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_page_0001.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_page_0002.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_page_0005.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_page_0006.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_Income_Tax_L2_page_0002.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_Income_Tax_L2_page_0001.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_Income_Tax_L2_page_0003.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_Income_Tax_L2_page_0004.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_Income_Tax_L2_page_0005.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_Property_Tax_L1_page_0001.jpg">
+</div>
 <p></p>
 </div>
 </details>
