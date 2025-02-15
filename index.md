@@ -40,7 +40,7 @@ sections:
             bring you the conference on "The International Tax Dispute Day: The
             Asian and Global Landscape".'
           link_text: More details
-          link_url: https://www.taxacademy.sg/the-international-tax-dispute-day/
+          link_url: /the-international-tax-dispute-day/
   - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
