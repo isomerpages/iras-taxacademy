@@ -10,3 +10,7 @@ description: ""
 <h4>Don't miss this opportunity to dive deep into the evolving world of international tax disputes! <br><br>Date and time: 22 May 2025 | 9am to 5pm <br>Venue: Grand Hyatt Singapore</h4>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL_Flyer_Save_the_Date_Singapore_0101__1__page_0001.jpg">
+</div>
+<p></p>
