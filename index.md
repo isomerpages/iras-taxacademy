@@ -31,17 +31,16 @@ sections:
           url: /executive-tax-programmes/international-tax/
       variant: side
   - announcements:
-      title: Leiden-TA Advanced Tax Treaties Programme
+      title: The International Tax Dispute Day 22 May 2025
       id: announcements
       announcement_items:
-        - title: Leiden-TA Advanced Tax Treaties Programme
-          date: 24 February 2025
-          announcement: The 6-day (24 Feb to 1 Mar 2025) programme, led by Prof Kees van
-            Raad, Chairman, International Tax Center Leiden, is customised for
-            tax professionals who are seeking to deepen their insight and
-            expertise in tax treaties.
-          link_text: Brochure details
-          link_url: /files/24_10_16_version_KvR_2025_LeidenTA_ATT_brochure_v2.pdf
+        - title: The International Tax Dispute Day
+          date: 22 May 2025
+          announcement: 'The University of Lausanne and Tax Academy of Singapore jointly
+            bring you the conference on "The International Tax Dispute Day: The
+            Asian and Global Landscape".'
+          link_text: More details
+          link_url: www
   - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
