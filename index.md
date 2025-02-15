@@ -31,7 +31,7 @@ sections:
           url: /executive-tax-programmes/international-tax/
       variant: side
   - announcements:
-      title: The International Tax Dispute Day 22 May 2025
+      title: The International Tax Dispute Day, 22 May 2025
       id: announcements
       announcement_items:
         - title: The International Tax Dispute Day
