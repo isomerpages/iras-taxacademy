@@ -31,13 +31,13 @@ sections:
           url: /executive-tax-programmes/international-tax/
       variant: side
   - announcements:
-      title: The International Tax Dispute Day, 22 May 2025
+      title: The International Tax Disputes Day, 22 May 2025
       id: announcements
       announcement_items:
-        - title: The International Tax Dispute Day
+        - title: The International Tax Disputes Day
           date: 22 May 2025
           announcement: 'The University of Lausanne and Tax Academy of Singapore jointly
-            bring you the conference on "The International Tax Dispute Day: The
+            bring you the conference on "The International Tax Disputes Day: The
             Asian and Global Landscape".'
           link_text: More details
           link_url: https://www.taxacademy.sg/the-international-tax-dispute-day/
