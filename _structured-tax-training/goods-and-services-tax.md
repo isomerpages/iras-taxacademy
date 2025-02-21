@@ -68,7 +68,7 @@ Programme Level 2.</p>
 full course, participants will have to complete three modules and one research
 paper over a ten-month period.</p>
 <p><a href="https://form.gov.sg/67b836a3fb91891e44f44853" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Full Programme</a> -
-<a href="https://form.gov.sg/67b844d140f6d91ee077ceef" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Modular</a>- <a href="https://cms.isomer.gov.sg/files/Course_Programme_GST_L1_5_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Details</u></a>
+<a href="https://form.gov.sg/67b844d140f6d91ee077ceef" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Modular</a>- <a href="/files/Adv_GST__2025_26__Info_Package_final.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p>The next intake will be in 2026. Please visit this page for more details.</p>
 <p><strong>Please read <a href="https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for courses.</strong>
