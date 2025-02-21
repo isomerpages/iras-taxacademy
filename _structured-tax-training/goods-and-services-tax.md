@@ -12,7 +12,7 @@ variant: markdown
 * Feb 2025 intake: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id)<br>If the registration is fully subscribed, you may wish to fill out the [interest form](https://go.gov.sg/waitlist-level2gst) to indicate your interest.
 
 ##### **GST Programme Level 3**
-* Advanced GST Programme 2023/24: [Registration is CLOSED](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
+* Advanced GST Programme 2023/24: [Registration is OPEN](/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id)
 
 <a id="etp1gst-ta-id"></a>
 ### **GST Programme Level 1**
@@ -49,7 +49,7 @@ Please note that all applications will be subjected to short-listing. Participan
 
 Registration may be for the full course or for specific modules. For the full course, participants will have to complete three modules and one research paper over a ten-month period.
 
-[Registration Form - Full Programme](https://form.gov.sg/64705e8f2306170012a4a722){:target="_blank"} - [Registration Form - Modular](https://form.gov.sg/64705a9f251701001295f82b){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/adv gst (2023-24) info package_final.pdf){:target="_blank"}
+[Registration Form - Full Programme](https://form.gov.sg/67b836a3fb91891e44f44853){:target="_blank"} - [Registration Form - Modular](https://form.gov.sg/67b844d140f6d91ee077ceef){:target="_blank"} - [Details](/files/executive-tax-programmes/income-tax/adv gst (2023-24) info package_final.pdf){:target="_blank"}
 
 The next intake will be in 2025. Please visit this page for more details.
 
