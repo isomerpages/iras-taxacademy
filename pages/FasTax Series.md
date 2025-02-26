@@ -15,7 +15,14 @@ your business from making costly GST mistakes.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
+<p><strong>Elin Sou</strong>
+</p>
+<p><strong>Senior Manager, GST Division, IRAS</strong>
+</p>
+<p>Elin is currently a Senior Manager with the IRAS GST Division (General
+Branch). She has more than 10 years of experience in GST work and has undertaken
+various functions in the GST Division ranging from ACAP reviews and audits
+on large businesses to service-related projects.</p>
 <p></p>
 <p><strong>Yeo Haig Ian</strong>
 </p>
