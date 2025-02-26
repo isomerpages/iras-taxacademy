@@ -6,6 +6,9 @@ description: ""
 ---
 <h4><strong><sub>13 Mar 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>GST ASK - A Self Help Tool for GST Compliance</strong></h4>
+<p>This webinar will feature practical examples illustrating the use of ASK
+for good GST compliance. You will learn how ASK can be used to safeguard
+your business from making costly GST mistakes.</p>
 <p></p>
 <h4><strong><sub>12 Feb 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Managing Tax Compliance</strong></h4>
