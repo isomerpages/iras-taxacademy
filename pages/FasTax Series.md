@@ -89,7 +89,8 @@ Division as they share on:</p>
 </ul>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>About the Speakers</summary>
+<summary><strong>About the Speakers</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p></p>
