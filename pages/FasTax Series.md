@@ -9,6 +9,26 @@ description: ""
 <p>This webinar will feature practical examples illustrating the use of ASK
 for good GST compliance. You will learn how ASK can be used to safeguard
 your business from making costly GST mistakes.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>About the Speakers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<p></p>
+<p><strong>Yeo Haig Ian</strong>
+</p>
+<p><strong>Manager, GST Division, IRAS</strong>
+</p>
+<p>Ian has more than 20 years of professional experience specializing in
+goods and services taxation. As an auditor, he educates taxpayers on their
+tax obligations and compliance with the applicable tax laws and practices.
+He also conducts audits on taxpayers to deter non-compliance and improve
+voluntary compliance.</p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong><sub>12 Feb 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Managing Tax Compliance</strong></h4>
@@ -82,5 +102,6 @@ Division as they share on:</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
