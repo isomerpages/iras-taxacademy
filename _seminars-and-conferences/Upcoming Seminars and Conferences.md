@@ -15,6 +15,9 @@ Thank you!</p>
 <li>
 <p>13 Mar: FasTax Series: GST ASK - A Self Help Tool for GST Compliance</p>
 </li>
+<li>
+<p>20 Mar: TaxEdge Series: Johor-Singapore Special Economic Zone (JS-SEZ)</p>
+</li>
 </ul>
 <p></p>
 <h5><strong>Feb 2025</strong></h5>
