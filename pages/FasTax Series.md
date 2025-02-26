@@ -36,6 +36,36 @@ voluntary compliance.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Admin Details</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>This webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 13 Mar 2025</p>
+</li>
+<li>
+<p>Time: 2pm to 5pm</p>
+</li>
+<li>
+<p>Fees: SGD 163.50 (incl. 9% GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/67bef50ff61179dd4ac8ea19" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
+</li>
+</ul>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong><sub>12 Feb 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Managing Tax Compliance</strong></h4>
