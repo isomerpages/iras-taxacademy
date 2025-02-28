@@ -9,6 +9,17 @@ description: ""
 <p>Are you looking to learn more about a specific area of tax that is currently
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
+<p></p>
+<h5><strong>Mar 2025</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>13 Mar: FasTax Series: GST ASK - A Self Help Tool for GST Compliance</p>
+</li>
+<li>
+<p>20 Mar: TaxEdge Series: Johor-Singapore Special Economic Zone (JS-SEZ)</p>
+</li>
+</ul>
+<p></p>
 <h5><strong>Feb 2025</strong></h5>
 <p></p>
 <ul data-tight="true" class="tight">
