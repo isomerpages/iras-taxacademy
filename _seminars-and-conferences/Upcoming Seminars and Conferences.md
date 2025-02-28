@@ -13,7 +13,8 @@ Thank you!</p>
 <h5><strong>Mar 2025</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>13 Mar: FasTax Series: GST ASK - A Self Help Tool for GST Compliance</p>
+<p>13 Mar: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: GST ASK - A Self-Help Tool for GST Compliance</a>
+</p>
 </li>
 <li>
 <p>20 Mar: TaxEdge Series: Johor-Singapore Special Economic Zone (JS-SEZ)</p>
