@@ -17,10 +17,10 @@ Thank you!</p>
 </p>
 </li>
 <li>
-<p>20 Mar: TaxEdge Series: Johor-Singapore Special Economic Zone (JS-SEZ)</p>
+<p>20 Mar: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Johor-Singapore Special Economic Zone (JS-SEZ)</a>
+</p>
 </li>
 </ul>
-<p></p>
 <h5><strong>Feb 2025</strong></h5>
 <p></p>
 <ul data-tight="true" class="tight">
