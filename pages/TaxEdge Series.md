@@ -12,12 +12,10 @@ movement, and a more robust business environment. Join us in this webinar
 helmed by experts from KPMG who will guide us through the key tax considerations,
 incentives, and structuring options available in this dynamic cross-border
 ecosystem</p>
-<p>&nbsp;</p>
 <p><strong>Agenda</strong>
 </p>
-<p><strong>Overview of the JS-SEZ </strong>
+<p><strong>Overview of the JS-SEZ</strong>
 </p>
-<p></p>
 <p><strong>Malaysia tax perspective:</strong>
 </p>
 <ul data-tight="true" class="tight">
