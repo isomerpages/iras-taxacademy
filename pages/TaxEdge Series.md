@@ -83,6 +83,34 @@ ecosystem</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>This webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 20 Mar 2025</p>
+</li>
+<li>
+<p>Time: 3pm to 5pm</p>
+</li>
+<li>
+<p>Fees: SGD 109 (incl. 9% GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/67c87d89e2e0661b6e97a031" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong><sub>4 Feb 2025 | 1.30 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Navigating Intangible Asset Valuations for Financial Reporting, Tax, and Transfer Pricing purposes</strong></h4>
