@@ -4,6 +4,114 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>20 Mar 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>Johor-Singapore SEZ</strong></h4>
+<p>The Johor-Singapore Special Economic Zone (JS-SEZ) strengthens both regions'
+competitiveness through enhanced cross-border connectivity, smoother people
+movement, and a more robust business environment. Join us in this webinar
+helmed by experts from KPMG who will guide us through the key tax considerations,
+incentives, and structuring options available in this dynamic cross-border
+ecosystem</p>
+<p><strong>Agenda</strong>
+</p>
+<p><strong>Overview of the JS-SEZ</strong>
+</p>
+<p><strong>Malaysia tax perspective:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Malaysia tax incentives for the JS-SEZ and brief overview of Malaysia’s tax regime</em>
+</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Individual and employment tax in Malaysia</em>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Singapore and cross-border tax perspective</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Overview of “twinning” structures, and examples for various industries</p>
+</li>
+<li>
+<p>Tax structuring considerations for businesses</p>
+</li>
+<li>
+<p>Transfer pricing in Singapore and Malaysia</p>
+</li>
+<li>
+<p>Tax incentives in Singapore for internationalisation</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Q&amp;A session</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Wu_Hong.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Fie_Lih.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Yen_Ping.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Harvey.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Siny_Yuan.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Boh_Han.jpg">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>This webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 20 Mar 2025</p>
+</li>
+<li>
+<p>Time: 3pm to 5pm</p>
+</li>
+<li>
+<p>Fees: SGD 109 (incl. 9% GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/67c87d89e2e0661b6e97a031" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
 <h4><strong><sub>4 Feb 2025 | 1.30 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Navigating Intangible Asset Valuations for Financial Reporting, Tax, and Transfer Pricing purposes</strong></h4>
 <p>In today’s knowledge-driven economy, intangible assets play a critical

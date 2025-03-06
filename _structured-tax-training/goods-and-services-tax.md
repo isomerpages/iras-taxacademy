@@ -45,8 +45,9 @@ be available six to eight weeks prior to the course commencement date.</p>
 <p>This course comprises one module on overall GST concepts and applications,
 and five modules on specific industry sectors of Finance, Real Estate &amp;
 Construction, Manufacturing, Logistics, Hotel, Travel &amp; Various Services.</p>
-<p><a href="https://go.gov.sg/gst-level2-intake3-2024" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>{:target="_blank"}
-- <a href="/files/GST_Programme_Level_2_Intake3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/gst-level2-intake3-2024" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
+<a href="/files/GST_Programme_Level_2_Intake3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+</p>
 <p>Please note participants will have to complete Tax Academy’s GST Programme
 Level 1 and have 1-2 years of relevant working experience in taxation prior
 to taking the GST Programme Level 2.</p>
@@ -71,5 +72,5 @@ paper over a ten-month period.</p>
 <a href="https://form.gov.sg/67b844d140f6d91ee077ceef" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Modular</a>- <a href="/files/Adv_GST__2025_26__Info_Package_final.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p>The next intake will be in 2026. Please visit this page for more details.</p>
-<p><strong>Please read <a href="https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for courses.</strong>
+<p><strong>Please read <a href="https://www.taxacademy.sg/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for courses.</strong>
 </p>
