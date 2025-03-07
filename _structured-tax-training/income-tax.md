@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 5/2024 (February 2025): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN.</a>
+<p>Intake 5/2024 (February 2025): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 <p></p>
 </li>
@@ -24,7 +24,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 3</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2025 (April 2025 to April 2026): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Intake 1/2025 (April 2025 to April 2026): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 <li>
@@ -39,13 +39,16 @@ Tax Act, distinction between income and capital receipts, principles governing
 the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
-<p><a href="https://form.gov.sg/679352fc22b4893677c51627" rel="noopener noreferrer nofollow" target="_blank">Registration Form </a>-
-<a href="/files/Intake_5_Course_brochure_L1_IT_2024.pdf" rel="noopener nofollow" target="_blank">Details</a>
+<p>Please be informed that this programme is fully e-learning.</p>
+<p><a href="/files/Intake_5_Course_brochure_L1_IT_2024.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p>Registration is NOW OPEN.</p>
-<p>The next intake for this course will be in May/June 2025. Registration
+<p>Registration is closed for Intake 5/2024.</p>
+<p>The next intake, Intake 1/2025, will be in May/June 2025. Registration
 will be available approximately six to eight weeks prior to the course
-commencement date.</p>
+commencement date. You may wish to register your interest for this intake
+and we will be in touch when registration opens.</p>
+<p><a href="https://form.gov.sg/67c16c61919eda4e7dd373a9" rel="noopener nofollow" target="_blank">Interest Form</a>
+</p>
 <p>Passing the Income Tax Level 1 exam is not mandatory if you are intending
 to apply for the Income Tax Level 2 programme. You may proceed to apply
 for the Income Tax Level 2 programme as soon as you have completed the
@@ -113,20 +116,23 @@ Investigation, and Stamp Duty.</p>
 <p><a href="/files/ATP_FY25_Brochure.pdf" rel="noopener nofollow" target="_blank">Brochure</a>
 </p>
 <p></p>
-<p><strong>Intake 1/2025, April 2025 to April 2026:</strong>
+<p><strong>Intake 1/2025, April 2025 to April 2026: Registration is closed.</strong>
 </p>
-<p><a href="https://form.gov.sg/6796ea002ea9e745821b7a24" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Full Programme</a> -
-<a href="/files/ATP1_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
+<p><a href="/files/ATP1_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
 </p>
 <p></p>
-<p><strong>Intake 2/2025, August 2025 to September 2026:</strong>
+<p><strong>Intake 2/2025, August 2025 to September 2026: Registration is OPEN.</strong>
 </p>
 <p><a href="https://form.gov.sg/6796ecf35bbd2288c0f5ea42" rel="noopener noreferrer nofollow" target="_blank"><u>Registration Form - Full Programme</u></a> -
 <a href="/files/ATP2_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
 </p>
 <p></p>
-<p><strong>Registration closes on 19 February 2025.</strong>
+<p>Intakes 1/2025 &amp; 2/2025 are also available for modular registration.
+Registration closes 1 month before the commencement of each module. Please
+refer to the schedules above for more details.</p>
+<p><a href="https://form.gov.sg/679780c0dbe89599f5a6e30a" rel="noopener nofollow" target="_blank">Modular Registration Form</a>
 </p>
+<p></p>
 <p><strong>Please note: Under the new admission requirement for intakes commencing from 1 Apr 2023 onwards, participants are required to:</strong>
 </p>
 <p><strong>(i) complete and pass the exam for Income Tax Programme Level 2</strong>
@@ -160,5 +166,5 @@ Pte Ltd.</p>
 </p>
 <p><a href="/files/ATP_INTAKE_2_TA_WEBSITE.pdf" rel="noopener nofollow" target="_blank">Book Prize Winners</a>
 </p>
-<p><strong>Please read <a href="https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for courses.</strong>
+<p><strong>Please read <a href="https://www.taxacademy.sg/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for courses.</strong>
 </p>

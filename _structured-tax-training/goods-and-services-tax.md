@@ -16,7 +16,7 @@ variant: tiptap
 <h5><strong>GST Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Feb 2025 intake: <a href="/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Feb 2025 intake: <a href="/executive-tax-programmes/goods-and-services-tax/#etp2gst-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 <br>If the registration is fully subscribed, you may wish to fill out the
 <a href="https://go.gov.sg/waitlist-level2gst" rel="noopener noreferrer nofollow" target="_blank">interest form</a>to indicate your interest.</p>
 </li>
@@ -33,8 +33,10 @@ variant: tiptap
 <p>This course covers the scope of GST, and concepts relating to supply of
 goods and services, exempt supplies, import and export schemes and GST
 compliance.</p>
-<p><a href="https://go.gov.sg/gst-programme-level1-intake5-2024" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>{:target="_blank"}
-- <a href="/files/Course_Programme_GST_L1_5_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/gst-programme-level1-intake5-2024" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
+<p><a href="/files/Course_Programme_GST_L1_5_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+</p>
 <p>Registration is CLOSED for intake 5/2024 (Feb 2025 intake).
 <br>If the registration is fully subscribed, you may wish to fill out the
 <a href="https://go.gov.sg/waitlist-level1gst" rel="noopener noreferrer nofollow" target="_blank">interest form</a>to indicate your interest.</p>
@@ -51,7 +53,7 @@ Construction, Manufacturing, Logistics, Hotel, Travel &amp; Various Services.</p
 <p>Please note participants will have to complete Tax Academy’s GST Programme
 Level 1 and have 1-2 years of relevant working experience in taxation prior
 to taking the GST Programme Level 2.</p>
-<p>Registration is OPEN for intake 3/2024 (Feb 2025 intake).
+<p>Registration is CLOSED for intake 3/2024 (Feb 2025 intake).
 <br>If the registration is fully subscribed, you may wish to fill out the
 <a href="https://go.gov.sg/waitlist-level2gst" rel="noopener noreferrer nofollow" target="_blank">interest form</a>to indicate your interest.</p>
 <p>The next intake for this course will be in May 2025. Registration will
