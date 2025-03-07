@@ -33,7 +33,7 @@ variant: tiptap
 <p>This course covers the scope of GST, and concepts relating to supply of
 goods and services, exempt supplies, import and export schemes and GST
 compliance.</p>
-<p><a href="https://go.gov.sg/gst-programme-level1-intake5-2024" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
+<p><a href="https://go.gov.sg/gst-programme-level1-intake5-2024" rel="noopener nofollow" target="_blank">Registration Form - </a> 
 <a href="/files/Course_Programme_GST_L1_5_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
 <p>Registration is CLOSED for intake 5/2024 (Feb 2025 intake).
