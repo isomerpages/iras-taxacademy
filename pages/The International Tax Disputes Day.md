@@ -14,7 +14,7 @@ description: ""
 <h4>Dr. Achim Pross, Deputy Director, Centre for Tax Policy and Administration, OECD</h4>
 <h4>Prof. Dr. Robert J. DANON, Head, Tax Policy Center, University of Lausanne and Founding Partner of DANON</h4>
 <h4>Prof. Dr. Guglielmo Maisto, Professor of Law, Università Cattolica di Piacenza, Partner, Maisto e Associati</h4>
-<h4>Prof. Dr. Adolfo Martin Jimenez, Professor of Law, University of Cadiz ... and many more distinguished experts!</h4>
+<h4>Prof. Dr. Adolfo Martin Jimenez, Professor of Law, University of Cadiz and many more distinguished experts!</h4>
 </blockquote>
 <p></p>
 <h4><strong>To enjoy Early Bird pricing before slots are taken, <a href="https://form.gov.sg/67aeaf121164e6c7c5df2786" rel="noopener nofollow" target="_blank">register here!</a></strong></h4>
