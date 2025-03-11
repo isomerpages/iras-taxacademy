@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Topic: Pillar Two and its Ramifications</strong></h2>
 <h3><strong>9 April 2025 | 4pm to 6.30pm | Singapore</strong></h3>
-<h4>This is a COMPLIMENTARY event.  <a href="https://form.gov.sg/67cf0e957bfa2ff9df728154" rel="noopener nofollow" target="_blank">REGISTER NOW</a>!</h4>
+<h4>This is a COMPLIMENTARY event. <a href="https://form.gov.sg/67cf0e957bfa2ff9df728154" rel="noopener nofollow" target="_blank">REGISTER NOW</a>!</h4>
 <p>The Global IFA Travelling Lectureship Programme 2025 brings together leading
 tax experts to unravel the complexities and innovations emerging from the
 implementation of Pillar Two.</p>
@@ -24,5 +24,38 @@ developments and their far-reaching implications.</p>
 <p>Venue: Revenue House, Auditorium at Level 5, 55 Newton Road, Singapore
 307987</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFA TLP 9 Apr/Singapore___Save_the_date_v2.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFA TLP 9 Apr/TLP_2025_Singaporev6_page_0001.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFA TLP 9 Apr/TLP_2025_Singaporev6_page_0002.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFA TLP 9 Apr/TLP_2025_Singaporev6_page_0003.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFA TLP 9 Apr/TLP_2025_Singaporev6_page_0004.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFA TLP 9 Apr/TLP_2025_Singaporev6_page_0005.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFA TLP 9 Apr/TLP_2025_Singaporev6_page_0006.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFA TLP 9 Apr/TLP_2025_Singaporev6_page_0007.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFA TLP 9 Apr/TLP_2025_Singaporev6_page_0008.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IFA TLP 9 Apr/TLP_2025_Singaporev6_page_0009.jpg">
+</div>
 <p></p>
