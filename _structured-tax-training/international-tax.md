@@ -85,24 +85,6 @@ on the first day of the programme.</p>
 <p><strong>Registration is CLOSED for 2024 intake.</strong>
 </p>
 <p></p>
-<h3><strong>International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties</strong></h3>
-<p>The 6-day Advanced Tax Treaties Programme is a collaborative effort between
-Tax Academy of Singapore and International Tax Center Leiden, Netherlands.
-The programme is aimed at tax professionals who have at least 3 years'
-tax experience and who are seeking to deepen their insight and expertise
-in tax treaties.</p>
-<p>Participants will learn thorough knowledge of the complex rules that govern
-tax treaties and application of the advanced treaty concepts.</p>
-<p>Not sure whether the course is not too basic for you?</p>
-<p>Test your knowledge of tax treaties. Click <a href="https://form.gov.sg/6779dd9c126c84eafb9eece3" rel="noopener nofollow" target="_blank">here</a> and provide
-your answer to either (or both) of the two brief cases you’ll see. If you
-send in your answer(s), Kees van Raad will be happy to read them and rate
-your level of understanding tax treaties.</p>
-<p><a href="https://form.gov.sg/67039f6177e924056c9f475c" rel="noopener nofollow" target="_blank">Registration Form</a> -
-<a href="\files\24_10_16_version_KvR_2025_LeidenTA_ATT_brochure_v2.pdf" rel="noopener nofollow" target="_blank">Details</a>
-</p>
-<p><strong>Registration is OPEN for 2025 intake.</strong>
-</p>
 <p></p>
 <h3><strong>International Tax Programme Level 3 : Advanced International Tax Planning Programme</strong></h3>
 <p>The programme takes a commercial and practical approach to addressing

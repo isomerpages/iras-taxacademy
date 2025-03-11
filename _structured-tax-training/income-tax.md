@@ -24,7 +24,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 3</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2025 (April 2025 to April 2026): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Intake 1/2025 (April 2025 to April 2026): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 <li>
@@ -117,6 +117,8 @@ Investigation, and Stamp Duty.</p>
 </p>
 <p></p>
 <p><strong>Intake 1/2025, April 2025 to April 2026: Registration is closed.</strong>
+</p>
+<p><a href="https://form.gov.sg/6796ea002ea9e745821b7a24" rel="noopener nofollow" target="_blank">Registration Form - Full Programme</a>
 </p>
 <p><a href="/files/ATP1_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
 </p>
