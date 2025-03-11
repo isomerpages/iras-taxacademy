@@ -42,6 +42,12 @@ sections:
           link_text: More details
           link_url: https://www.taxacademy.sg/the-international-tax-dispute-day/
   - infopic:
+      title: Global IFA Travelling Lectureship Programme 2025
+      subtitle: 9 April 2025
+      id: infopic
+      button: Button Text
+      image: /images/IFA TLP 9 Apr/Singapore___Save_the_date_v2.jpg
+  - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
         (then Minister for Education and Second Minister for Finance), at the
@@ -58,11 +64,5 @@ sections:
       url: /case-commentaries
       image: /images/Case_Commentaries_Pic.jpg
       alt: Image alt text
-  - infopic:
-      title: Global IFA Travelling Lectureship Programme 2025
-      subtitle: 9 April 2025
-      id: infopic
-      button: Button Text
-      image: /images/IFA TLP 9 Apr/Singapore___Save_the_date_v2.jpg
 image: /images/isomer-logo.svg
 ---
