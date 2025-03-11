@@ -4,7 +4,7 @@ permalink: /the-international-tax-dispute-day/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Mark your calendars for 22 May 2025! A Landmark Conference Not To Miss!</strong></h2>
+<h2><strong>Mark your calendars for 22 May 2025! A Landmark Conference Not To Be Missed!</strong></h2>
 <h4></h4>
 <h4>The University of Lausanne and Tax Academy of Singapore jointly bring you the conference on "The International Tax Disputes Day: The Asian and Global Landscape"</h4>
 <h4>Join us for an unprecedented gathering of the world's leading tax experts and academics as they navigate the complex landscape of international tax disputes. From OECD insights to Asian perspectives, this conference promises to reshape your understanding of global tax dynamics.</h4>
