@@ -45,8 +45,9 @@ sections:
       title: Global IFA Travelling Lectureship Programme 2025
       subtitle: 9 April 2025
       id: infopic
-      button: Button Text
+      button: More Details
       image: /images/IFA TLP 9 Apr/Singapore___Save_the_date_v2.jpg
+      url: https://www.taxacademy.sg/global-ifa-travelling-lectureship-programme-2025/
   - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
