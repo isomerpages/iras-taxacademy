@@ -10,11 +10,11 @@ description: ""
 <h4>Join us for an unprecedented gathering of the world's leading tax experts and academics as they navigate the complex landscape of international tax disputes. From OECD insights to Asian perspectives, this conference promises to reshape your understanding of global tax dynamics.</h4>
 <h4><strong>Featuring an exceptional lineup of speakers including:</strong></h4>
 <blockquote>
-<h4>Mr. Ow Fook Chuen, Commissioner/CEO, IRAS</h4>
-<h4>Dr. Achim Pross, Deputy Director at OECD</h4>
-<h4>Prof. Dr. Robert Danon, University of Lausanne</h4>
-<h4>Prof. Dr. Guglielmo Maisto, Università Cattolica di Piacenza</h4>
-<h4>Prof. Dr. Adolfo Martin Jimenez, University of Cadiz ...and many more distinguished experts!</h4>
+<h4>Mr Ow Fook Chuen, Commissioner/CEO, IRAS</h4>
+<h4>Dr. Achim Pross, Deputy Director, Centre for Tax Policy and Administration, OECD</h4>
+<h4>Prof. Dr. Robert J. DANON, Head, Tax Policy Center, University of Lausanne and Founding Partner of DANON</h4>
+<h4>Prof. Dr. Guglielmo Maisto, Professor of Law, Università Cattolica di Piacenza, Partner, Maisto e Associati</h4>
+<h4>Prof. Dr. Adolfo Martin Jimenez, Professor of Law, University of Cadiz ... and many more distinguished experts!</h4>
 </blockquote>
 <p></p>
 <h4><strong>To enjoy Early Bird pricing before slots are taken, <a href="https://form.gov.sg/67aeaf121164e6c7c5df2786" rel="noopener nofollow" target="_blank">register here!</a></strong></h4>
