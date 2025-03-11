@@ -48,6 +48,7 @@ sections:
       button: More Details
       image: /images/IFA TLP 9 Apr/Singapore___Save_the_date_v2.jpg
       url: https://www.taxacademy.sg/global-ifa-travelling-lectureship-programme-2025/
+      alt: TLP
   - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
