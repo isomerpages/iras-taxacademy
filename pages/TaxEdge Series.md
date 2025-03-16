@@ -4,6 +4,11 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>23 Apr 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>Taxation and Climate Change</strong></h4>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong><sub>15 Apr 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</strong></h4>
 <p>Join Senior Counsel Edmund Leow (Senior Partner, Dentons Rodyk) for an
