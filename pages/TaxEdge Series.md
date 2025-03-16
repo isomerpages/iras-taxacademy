@@ -16,7 +16,7 @@ being used to address climate change in Singapore (and elsewhere) and will
 consider potential future applications of tax policy to further environmental
 goals.</p>
 <p>Join us in this seminar led by Professor Archie Parnell (Jindal Global
-Law School, India, and Ms Fang Eu-Linm Sustainability and Climate Change
+Law School, India, and Ms Fang Eu-Lin, Sustainability and Climate Change
 Practice Leader at PwC Singapore.&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Agenda</strong>
@@ -51,6 +51,43 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 </li>
 </ul>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>This webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 15 Apr 2025</p>
+</li>
+<li>
+<p>Time: 3pm to 5pm</p>
+</li>
+<li>
+<p>Fees: SGD 109 (incl. 9% GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/67ce7c62a85399bf2b9d6a8c" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<h4></h4>
 <p></p>
 <h4><strong><sub>15 Apr 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</strong></h4>
