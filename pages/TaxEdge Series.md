@@ -4,6 +4,32 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>15 Apr 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</strong></h4>
+<p>Join Senior Counsel Edmund Leow (Senior Partner, Dentons Rodyk) for an
+insightful webinar on Singapore's evolving family office landscape.</p>
+<p>Drawing from extensive experience, Edmund will explore recent tax and
+regulatory changes to the 13O and 13U schemes, sharing practical insights
+on establishing and operating family offices in Singapore.</p>
+<p><strong>Agenda:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Latest developments on tax incentive schemes for family offices</p>
+</li>
+<li>
+<p>Key considerations in operating a family office in Singapore</p>
+</li>
+<li>
+<p>Practical insights on the applications for the 13O and 13U tax incentive
+schemes</p>
+</li>
+<li>
+<p>Current market trends and challenges for family offices in Singapore</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <h4><strong><sub>20 Mar 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Johor-Singapore SEZ</strong></h4>
 <p>The Johor-Singapore Special Economic Zone (JS-SEZ) strengthens both regions'
