@@ -17,8 +17,14 @@ Thank you!</p>
 </p>
 </li>
 <li>
+<p>14 Mar: TaxTrek Series: Career Tax@SMU Yong Pung How School of Law</p>
+</li>
+<li>
 <p>20 Mar: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Johor-Singapore Special Economic Zone (JS-SEZ)</a>
 </p>
+</li>
+<li>
+<p>26 Mar: TaxTrek Series: Career Talk@NUS Faculty of Law</p>
 </li>
 </ul>
 <h5><strong>Feb 2025</strong></h5>
