@@ -68,23 +68,22 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>This webinar will be conducted via Zoom</p>
+<p>Venue: Discovery Room at Revenue House, 55 Newton Road S(307987)</p>
 </li>
 <li>
-<p>Date: 15 Apr 2025</p>
+<p>Date: 23 Apr 2025</p>
 </li>
 <li>
-<p>Time: 3pm to 5pm</p>
+<p>Time: 2pm to 5pm</p>
 </li>
 <li>
-<p>Fees: SGD 109 (incl. 9% GST)</p>
+<p>Fees: SGD 163.50 (incl. 9% GST)</p>
 </li>
 <li>
 <p>Registration is on first-come-first served.</p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/67ce7c62a85399bf2b9d6a8c" rel="noopener nofollow" target="_blank">Registration Form</a>
-</p>
+<p></p>
 </li>
 </ul>
 </div>
