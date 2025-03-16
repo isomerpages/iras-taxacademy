@@ -39,6 +39,10 @@ Thank you!</p>
 </p>
 </li>
 <li>
+<p>18 Feb: TaxEdge Series: The Trump Administration's Tax Policies: What
+APAC Businesses and Executives should prepare for</p>
+</li>
+<li>
 <p>19 Feb: <a href="https://events.cpaaustralia.com.au/event/1a06a7cf-1fd4-4bcf-befe-cee740beb94f/summary" rel="noopener nofollow" target="_blank">CPA-TA Lunchtime Webinar</a>
 </p>
 </li>
