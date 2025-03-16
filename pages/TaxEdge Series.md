@@ -37,7 +37,6 @@ schemes</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Edmund_Leow_bio.jpg">
 </div>
 <p></p>
-<p></p>
 </div>
 </details>
 </div>
@@ -45,7 +44,27 @@ schemes</p>
 <details class="isomer-details">
 <summary>Admin Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>This webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 15 Apr 2025</p>
+</li>
+<li>
+<p>Time: 3pm to 5pm</p>
+</li>
+<li>
+<p>Fees: SGD 109 (incl. 9% GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/67ce7c62a85399bf2b9d6a8c" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
