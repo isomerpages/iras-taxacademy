@@ -15,8 +15,8 @@ Asian and Global Landscape</p>
 <h5><strong>Apr 2025</strong></h5>
 <p>9 Apr: <a href="https://www.taxacademy.sg/global-ifa-travelling-lectureship-programme-2025/" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
 </p>
-<p>15 Apr: TaxEdge Series: Family Offices in Singapore: Tax Incentives &amp;
-Strategic Considerations</p>
+<p>15 Apr: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</a>
+</p>
 <p>23 Apr: TaxEdge Series: Taxation and Climate Change</p>
 <p>25 Apr: TaxTrek Series: A Career in Tax – Multifaceted Options and Opportunities</p>
 <p></p>
