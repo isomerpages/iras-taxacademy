@@ -13,7 +13,8 @@ Thank you!</p>
 <p>9 Apr: <a href="https://www.taxacademy.sg/global-ifa-travelling-lectureship-programme-2025/" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
 </p>
 <p>15 Apr: Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</p>
-<p></p>
+<p>23 Apr: Taxation and Climate Change</p>
+<p>25 Apr: A Career in Tax – Multifaceted Options and Opportunities</p>
 <p></p>
 <h5><strong>Mar 2025</strong></h5>
 <ul data-tight="true" class="tight">
