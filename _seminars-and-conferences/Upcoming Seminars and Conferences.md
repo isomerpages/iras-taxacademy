@@ -10,7 +10,10 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <h5><strong>Apr 2025</strong></h5>
-<p>9 Apr: IFA Travelling Lectureship Programme</p>
+<p>9 Apr: <a href="https://www.taxacademy.sg/global-ifa-travelling-lectureship-programme-2025/" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
+</p>
+<p>15 Apr: Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</p>
+<p></p>
 <p></p>
 <h5><strong>Mar 2025</strong></h5>
 <ul data-tight="true" class="tight">
