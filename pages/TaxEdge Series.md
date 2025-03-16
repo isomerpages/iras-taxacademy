@@ -56,6 +56,9 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 <summary>About the Speakers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speakers_bios_page_0001.jpg">
+</div>
 </div>
 </details>
 </div>
