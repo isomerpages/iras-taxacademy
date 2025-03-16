@@ -9,6 +9,8 @@ description: ""
 <p>Are you looking to learn more about a specific area of tax that is currently
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
+<h5><strong>Apr 2025</strong></h5>
+<p>9 Apr: IFA Travelling Lectureship Programme</p>
 <p></p>
 <h5><strong>Mar 2025</strong></h5>
 <ul data-tight="true" class="tight">
