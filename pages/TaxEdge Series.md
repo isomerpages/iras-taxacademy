@@ -6,7 +6,50 @@ description: ""
 ---
 <h4><strong><sub>23 Apr 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Taxation and Climate Change</strong></h4>
-<p></p>
+<p>Have you ever wondered how (and to what extent) taxation can be used to
+address the adverse consequences of climate change? This seminar will delve
+into the intersection of taxation and climate policy, exploring the role
+of taxation in mitigating climate change. We will examine international
+climate change agreements and the commitments made by sovereign signatories
+under those agreements. The seminar will then explore how taxation is currently
+being used to address climate change in Singapore (and elsewhere) and will
+consider potential future applications of tax policy to further environmental
+goals.</p>
+<p>Join us in this seminar led by Professor Archie Parnell (Jindal Global
+Law School, India, and Ms Fang Eu-Linm Sustainability and Climate Change
+Practice Leader at PwC Singapore.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Agenda</strong>
+</p>
+<p>2.00pm: Introduction</p>
+<p>2:15pm International Climate Agreements</p>
+<p>• UN Framework Convention on Climate Change (1992)</p>
+<p>• Kyoto Protocol (1997)</p>
+<p>• Paris Agreement (2015)</p>
+<p>• Signatories’ Nationally Determined Contributions</p>
+<p>&nbsp;</p>
+<p>3.00pm: Overview of Types of Carbon Taxes and Incentives</p>
+<p>• Carbon taxes</p>
+<p>• Emissions trading systems (a variant of carbon taxes)</p>
+<p>• Carbon border adjustments (tari`s and thus a variant of taxes)</p>
+<p>• Tax incentives that encourage (or discourage) climate mitigation</p>
+<p>&nbsp;</p>
+<p>4.00pm: Coffee Break</p>
+<p>&nbsp;</p>
+<p>4.15pm: Singapore</p>
+<p>• Singapore’s Nationally Determined Contributions</p>
+<p>• The Singapore Green Plan 2030</p>
+<p>• Carbon Tax - the Singapore Carbon Pricing Act 2018</p>
+<p>&nbsp;</p>
+<p>5.00pm</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Future Direction</p>
+</li>
+<li>
+<p>End of seminar</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <h4><strong><sub>15 Apr 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
