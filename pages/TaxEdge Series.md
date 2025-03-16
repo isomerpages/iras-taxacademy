@@ -83,7 +83,8 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 <p>Registration is on first-come-first served.</p>
 </li>
 <li>
-<p></p>
+<p><a href="https://form.gov.sg/67d709010b2641c0725399d0" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
 </li>
 </ul>
 </div>
@@ -569,4 +570,5 @@ purposes.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p><a href="https://form.gov.sg/67d709010b2641c0725399d0" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
