@@ -90,7 +90,6 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 </div>
 </details>
 </div>
-<h4></h4>
 <p></p>
 <h4><strong><sub>15 Apr 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</strong></h4>
