@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Topic: Pillar Two and its Ramifications</strong></h2>
 <h3><strong>9 April 2025 | 4pm to 6.30pm | Singapore</strong></h3>
-<h4></h4>
+<h4>This event is fully subscribed.</h4>
 <p>The Global IFA Travelling Lectureship Programme 2025 brings together leading
 tax experts to unravel the complexities and innovations emerging from the
 implementation of illar Two.</p>
