@@ -49,7 +49,7 @@ not-to-miss session!&nbsp;</p>
 <p>Date: 25 Apr 2025</p>
 </li>
 <li>
-<p>Time: 2pm to 5pm</p>
+<p>Time: 3pm to 5pm</p>
 </li>
 <li>
 <p>Fees: This is a complimentary seminar</p>
