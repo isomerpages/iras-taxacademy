@@ -58,7 +58,8 @@ not-to-miss session!&nbsp;</p>
 <p>Registration is on first-come-first served.</p>
 </li>
 <li>
-<p></p>
+<p><a href="https://form.gov.sg/67d7c95a736ce87ed24b0ead" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
 </li>
 </ul>
 </div>
