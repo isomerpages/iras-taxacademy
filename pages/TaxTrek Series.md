@@ -41,7 +41,26 @@ not-to-miss session!&nbsp;</p>
 <summary><strong>Admin Details</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Venue: Auditorium at Level 5, Revenue House, 55 Newton Road S(307987)</p>
+</li>
+<li>
+<p>Date: 25 Apr 2025</p>
+</li>
+<li>
+<p>Time: 2pm to 5pm</p>
+</li>
+<li>
+<p>Fees: This is a complimentary seminar</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+<li>
 <p></p>
+</li>
+</ul>
 </div>
 </details>
 </div>
