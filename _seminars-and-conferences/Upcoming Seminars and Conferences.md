@@ -17,8 +17,9 @@ Asian and Global Landscape</p>
 </p>
 <p>15 Apr: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</a>
 </p>
-<p>23 Apr: TaxEdge Series: Taxation and Climate Change</p>
-<p>25 Apr: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities </a>
+<p>23 Apr: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: Taxation and Climate Change</a>
+</p>
+<p>25 Apr: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
 </p>
 <p></p>
 <h5><strong>Mar 2025</strong></h5>
