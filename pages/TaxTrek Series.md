@@ -19,4 +19,22 @@ more tax professionals going forward irrespective of all the buzz about
 AI.</p>
 <p>Any misconceptions about tax as a boring career will be shattered at this
 not-to-miss session!&nbsp;</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>About the Speakers and Panelists</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dennis_Andy.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ken_Loon_Belinda.png">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
