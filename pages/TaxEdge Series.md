@@ -31,7 +31,7 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 <p>3.00pm: Overview of Types of Carbon Taxes and Incentives</p>
 <p>• Carbon taxes</p>
 <p>• Emissions trading systems (a variant of carbon taxes)</p>
-<p>• Carbon border adjustments (tari`s and thus a variant of taxes)</p>
+<p>• Carbon border adjustments (tariiffs and thus a variant of taxes)</p>
 <p>• Tax incentives that encourage (or discourage) climate mitigation</p>
 <p>&nbsp;</p>
 <p>4.00pm: Coffee Break</p>
