@@ -60,10 +60,10 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Archie.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eu_Lin.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fang_Eu_Lin.png">
+</div>
 </div>
 </details>
 </div>
