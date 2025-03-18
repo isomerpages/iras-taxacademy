@@ -73,7 +73,7 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Venue: Discovery Room at Revenue House, 55 Newton Road S(307987)</p>
+<p>Venue: Discovery Room at B1, Revenue House, 55 Newton Road S(307987)</p>
 </li>
 <li>
 <p>Date: 23 Apr 2025</p>
