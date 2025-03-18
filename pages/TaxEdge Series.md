@@ -19,16 +19,19 @@ goals.</p>
 Law School, India, and Ms Fang Eu-Lin, Sustainability and Climate Change
 Practice Leader at PwC Singapore.&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>Agenda</strong>
+<p><strong><u>Agenda</u></strong>
 </p>
-<p>2.00pm: Introduction</p>
-<p>2:15pm International Climate Agreements</p>
+<p><strong>Introduction</strong>
+</p>
+<p><strong>International Climate Agreements</strong>
+</p>
 <p>• UN Framework Convention on Climate Change (1992)</p>
 <p>• Kyoto Protocol (1997)</p>
 <p>• Paris Agreement (2015)</p>
 <p>• Signatories’ Nationally Determined Contributions</p>
 <p>&nbsp;</p>
-<p>3.00pm: Overview of Types of Carbon Taxes and Incentives</p>
+<p><strong>Overview of Types of Carbon Taxes and Incentives</strong>
+</p>
 <p>• Carbon taxes</p>
 <p>• Emissions trading systems (a variant of carbon taxes)</p>
 <p>• Carbon border adjustments (tariffs and thus a variant of taxes)</p>
