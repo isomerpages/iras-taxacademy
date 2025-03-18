@@ -31,25 +31,17 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 <p>3.00pm: Overview of Types of Carbon Taxes and Incentives</p>
 <p>• Carbon taxes</p>
 <p>• Emissions trading systems (a variant of carbon taxes)</p>
-<p>• Carbon border adjustments (tariiffs and thus a variant of taxes)</p>
+<p>• Carbon border adjustments (tariffs and thus a variant of taxes)</p>
 <p>• Tax incentives that encourage (or discourage) climate mitigation</p>
-<p>&nbsp;</p>
-<p>4.00pm: Coffee Break</p>
-<p>&nbsp;</p>
-<p>4.15pm: Singapore</p>
+<p></p>
+<p><strong>Singapore</strong>
+</p>
 <p>• Singapore’s Nationally Determined Contributions</p>
 <p>• The Singapore Green Plan 2030</p>
 <p>• Carbon Tax - the Singapore Carbon Pricing Act 2018</p>
-<p>&nbsp;</p>
-<p>5.00pm</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Future Direction</p>
-</li>
-<li>
-<p>End of seminar</p>
-</li>
-</ul>
+<p></p>
+<p><strong>Future Direction</strong>
+</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
