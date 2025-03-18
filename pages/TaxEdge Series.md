@@ -29,8 +29,7 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 <p>• Kyoto Protocol (1997)</p>
 <p>• Paris Agreement (2015)</p>
 <p>• Signatories’ Nationally Determined Contributions</p>
-<p>&nbsp;</p>
-<p><strong>Overview of Types of Carbon Taxes and Incentives</strong>
+<p>&nbsp;<strong>Overview of Types of Carbon Taxes and Incentives</strong>
 </p>
 <p>• Carbon taxes</p>
 <p>• Emissions trading systems (a variant of carbon taxes)</p>
