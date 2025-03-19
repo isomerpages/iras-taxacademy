@@ -19,37 +19,31 @@ goals.</p>
 Law School, India, and Ms Fang Eu-Lin, Sustainability and Climate Change
 Practice Leader at PwC Singapore.&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>Agenda</strong>
+<p><strong><u>Agenda</u></strong>
 </p>
-<p>2.00pm: Introduction</p>
-<p>2:15pm International Climate Agreements</p>
+<p><strong>Introduction</strong>
+</p>
+<p><strong>International Climate Agreements</strong>
+</p>
 <p>• UN Framework Convention on Climate Change (1992)</p>
 <p>• Kyoto Protocol (1997)</p>
 <p>• Paris Agreement (2015)</p>
 <p>• Signatories’ Nationally Determined Contributions</p>
-<p>&nbsp;</p>
-<p>3.00pm: Overview of Types of Carbon Taxes and Incentives</p>
+<p>&nbsp;<strong>Overview of Types of Carbon Taxes and Incentives</strong>
+</p>
 <p>• Carbon taxes</p>
 <p>• Emissions trading systems (a variant of carbon taxes)</p>
-<p>• Carbon border adjustments (tari`s and thus a variant of taxes)</p>
+<p>• Carbon border adjustments (tariffs and thus a variant of taxes)</p>
 <p>• Tax incentives that encourage (or discourage) climate mitigation</p>
-<p>&nbsp;</p>
-<p>4.00pm: Coffee Break</p>
-<p>&nbsp;</p>
-<p>4.15pm: Singapore</p>
+<p></p>
+<p><strong>Singapore</strong>
+</p>
 <p>• Singapore’s Nationally Determined Contributions</p>
 <p>• The Singapore Green Plan 2030</p>
 <p>• Carbon Tax - the Singapore Carbon Pricing Act 2018</p>
-<p>&nbsp;</p>
-<p>5.00pm</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Future Direction</p>
-</li>
-<li>
-<p>End of seminar</p>
-</li>
-</ul>
+<p></p>
+<p><strong>Future Direction</strong>
+</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -60,10 +54,10 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Archie.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eu_Lin.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fang_Eu_Lin.png">
+</div>
 </div>
 </details>
 </div>
@@ -73,7 +67,7 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Venue: Discovery Room at Revenue House, 55 Newton Road S(307987)</p>
+<p>Venue: Discovery Room at B1, Revenue House, 55 Newton Road S(307987)</p>
 </li>
 <li>
 <p>Date: 23 Apr 2025</p>
