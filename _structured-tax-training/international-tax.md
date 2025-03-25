@@ -22,14 +22,14 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024 Intake: <a href="/executive-tax-programmes/international-tax/#wu-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>2025 Intake: <a href="/executive-tax-programmes/international-tax/#wu-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
 <h5><strong>International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties Programme</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Feb 2025 intake: <a href="/executive-tax-programmes/international-tax/#leiden-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Feb 2025 intake: <a href="/executive-tax-programmes/international-tax/#leiden-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
@@ -69,8 +69,8 @@ will open six to eight weeks before the course commencement date.</p>
 Pricing Centre at the Institute for Austrian and International Tax Law
 at WU (Vienna University of Economics and Business) and the Tax Academy
 of Singapore.</p>
-<p>The 4-day programme is facilitated by a team of professors from the WU
-Transfer Pricing Centre and regional industry tax experts.</p>
+<p>The 4-day programme is facilitated by professors from the WU Transfer
+Pricing Centre and regional industry tax experts.</p>
 <p>The programme provides participants with the latest updates on international
 transfer pricing developments, and knowledge and insights to handle transfer
 pricing issues in specialised industries that are of relevance to the Asia-Pacific
@@ -79,10 +79,11 @@ for discussions.</p>
 <p>Don’t miss the opportunity to network with the TP experts from academic
 and industry both local and overseas as there will be a networking lunch
 on the first day of the programme.</p>
-<p>Dates of programme: 30 Sep, 1, 2 and 3 Oct 2024</p>
-<p><a href="https://go.gov.sg/jdlk77" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>{:target="_blank"}
-- <a href="/files/executive-tax-programmes/WU___TA_Advanced_Transfer_Pricing_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
-<p><strong>Registration is CLOSED for 2024 intake.</strong>
+<p>Dates of programme: 29 and 30 Sep, 1 and 2 Oct 2024</p>
+<p><a href="https://go.gov.sg/euowsx" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
+<a href="/files/WU_TA_Advanced_Transfer_Pricing_Prog_2025.pdf" rel="noopener nofollow" target="_blank">Details</a>
+</p>
+<p><strong>Registration is OPEN for 2025 intake.</strong>
 </p>
 <p></p>
 <p></p>
@@ -94,8 +95,8 @@ of recent developments in international taxation through technical learning
 and interactive case studies for MNCs.</p>
 <p>Dates of programme held at Revenue House (Singapore): 27 &amp; 28 Aug
 2024 (Each session : 9.00 a.m. to 5.00 p.m.)</p>
-<p><a href="https://form.gov.sg/6675991bfa4168de43c9f534" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>{:target="blank"}
-- <a href="/files/executive-tax-programmes/Advanced_ITP_2024_Programme_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<p><a href="https://form.gov.sg/6675991bfa4168de43c9f534" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
+<a href="/files/executive-tax-programmes/Advanced_ITP_2024_Programme_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
 <p><strong>Registration is OPEN for 2024 intake.</strong>
 </p>
