@@ -86,7 +86,6 @@ will be issued.</p>
 <p><strong>11. Administrative fee</strong>
 </p>
 <p>11.1 The following requests are subject to an administrative fee:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Purchase of course materials</p>
