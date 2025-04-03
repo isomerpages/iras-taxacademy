@@ -85,20 +85,23 @@ will be issued to participants.</p>
 will be issued.</p>
 <p><strong>11. Administrative fee</strong>
 </p>
-<p>11.1 The following requests are subject to an administrative fee of $109
-(9% GST inclusive) each:</p>
+<p>11.1 The following requests are subject to an administrative fee :</p>
+<p>$109 per pax (inclusive of GST) for below:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Purchase of course materials</p>
 </li>
 <li>
-<p>Re-sitting of exam</p>
-</li>
-<li>
 <p>Duplicate hardcopy of Certificate of Achievement (with grading)</p>
 </li>
 <li>
-<p>Deferment of course/module/exams</p>
+<p>Deferment of course/module</p>
+</li>
+</ul>
+<p>$218 per pax (inclusive of GST) for below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For re-sitting of exam/deferment of eams</p>
 </li>
 </ul>
 <p><strong>12. Withdrawal from course/webinar</strong>
