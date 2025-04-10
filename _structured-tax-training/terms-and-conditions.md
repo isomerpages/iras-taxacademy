@@ -85,8 +85,7 @@ will be issued to participants.</p>
 will be issued.</p>
 <p><strong>11. Administrative fee</strong>
 </p>
-<p>11.1 The following requests are subject to an administrative fee of $109
-(9% GST inclusive) each:</p>
+<p>11.1 The following requests are subject to an administrative fee:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Purchase of course materials</p>
@@ -99,6 +98,7 @@ will be issued.</p>
 </li>
 <li>
 <p>Deferment of course/module/exams</p>
+<p></p>
 </li>
 </ul>
 <p><strong>12. Withdrawal from course/webinar</strong>
