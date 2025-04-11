@@ -46,7 +46,7 @@ variant: tiptap
 treaties and transfer pricing.</p>
 <p><a href="https://go.gov.sg/l1int12025reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
 </p>
-<p><a href="/files/L1Inttaxcoursebrochure22024.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<p><a href="/files/executive-tax-programmes/income-tax/L1_Int_tax_course_brochure_1_2025.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p><strong>Registration is OPEN for intake 1/2025</strong>
 </p>
