@@ -2,5 +2,6 @@ collections:
   monthly-newsletter:
     output: true
     order:
+      - Mar 2025.md
       - Feb 2025.md
       - Jan 2025.md
