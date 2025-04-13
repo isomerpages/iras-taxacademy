@@ -50,13 +50,5 @@ sections:
       url: https://www.mof.gov.sg/news-publications/speeches/Address-By-Mr-Tharman-Shanmugaratnam-Minister-For-Education-And-Second-Minister-For-Finance-At-The-Launch-Of-The-Tax-Academy-And-Opening-Of-The-Transf
       image: /images/Quote__3_.png
       alt: Image alt text
-  - infopic:
-      id: infopic
-      description: Discover insightful case commentaries offering analysis, insights
-        and key takeaways on legal decisions.
-      button: Read More
-      url: /case-commentaries
-      image: /images/Case_Commentaries_Pic.jpg
-      alt: Image alt text
 image: /images/isomer-logo.svg
 ---
