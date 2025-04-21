@@ -24,7 +24,7 @@ variant: tiptap
 <h5><strong>GST Programme Level 3</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Advanced GST Programme 2023/24: <a href="/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Advanced GST Programme 2023/24: <a href="/executive-tax-programmes/goods-and-services-tax/#etp3gst-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
@@ -68,7 +68,8 @@ Participants must also have completed and passed the Tax Academy's GST
 Programme Level 2.</p>
 <p>Registration may be for the full course or for specific modules. For the
 full course, participants will have to complete three modules and one research
-paper over a ten-month period.</p>
+paper over a ten-month period - Registration for the full programme is
+closed.</p>
 <p><a href="https://form.gov.sg/67b836a3fb91891e44f44853" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Full Programme</a> -
 <a href="https://form.gov.sg/67b844d140f6d91ee077ceef" rel="noopener noreferrer nofollow" target="_blank">Registration Form - Modular</a>- <a href="/files/Adv_GST__2025_26__Info_Package_final.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
