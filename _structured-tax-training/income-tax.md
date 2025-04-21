@@ -46,7 +46,7 @@ accurately.</p>
 be available approximately six to eight weeks prior to the course commencement
 date. You may wish to register your interest for this intake and we will
 be in touch when registration opens.</p>
-<p><a href="https://form.gov.sg/67c16c61919eda4e7dd373a9" rel="noopener nofollow" target="_blank">Interest Form</a>
+<p><a href="https://form.gov.sg/6805e8ebdb22d4178357c6ad" rel="noopener nofollow" target="_blank">Interest Form</a>
 </p>
 <p>Passing the Income Tax Level 1 exam is not mandatory if you are intending
 to apply for the Income Tax Level 2 programme. You may proceed to apply
