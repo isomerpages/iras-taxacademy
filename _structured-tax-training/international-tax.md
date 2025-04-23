@@ -26,17 +26,10 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h5><strong>International Tax Programme Level 3 : Leiden-TA Advanced Tax Treaties Programme</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Feb 2025 intake: <a href="/executive-tax-programmes/international-tax/#leiden-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
-</p>
-</li>
-</ul>
 <h5><strong>International Tax Programme Level 3 : Advanced International Tax Planning Programme</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Aug 2024 Intake: <a href="/executive-tax-programmes/international-tax/#itp-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Aug 2024 Intake: <a href="/executive-tax-programmes/international-tax/#itp-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
@@ -57,8 +50,9 @@ will open six to eight weeks before the course commencement date.</p>
 <p>This course provides in-depth knowledge in international tax principles
 and concepts, with focus on specific issues on tax treaty and transfer
 pricing.</p>
-<p><a href="https://go.gov.sg/l2inttax12023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>{:target="_blank"}
-- <a href="/files/executive-tax-programmes/income-tax/coursebrochurel2internationaltax12023.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/l2inttax12023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
+<a href="/files/executive-tax-programmes/income-tax/coursebrochurel2internationaltax12023.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+</p>
 <p><strong>Registration is CLOSED for Intake 1/2023</strong>
 </p>
 <p>The next intake for the course will be held in Sep/Oct 2025. Registration
@@ -98,8 +92,7 @@ and interactive case studies for MNCs.</p>
 <p><a href="https://form.gov.sg/6675991bfa4168de43c9f534" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/executive-tax-programmes/Advanced_ITP_2024_Programme_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p><strong>Registration is OPEN for 2024 intake.</strong>
+<p><strong>Registration is CLOSED for 2024 intake.</strong>
 </p>
-<p><strong>Please read <a href="/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a>{:target="_blank"} for courses.</strong>
-<a href="/files/executive-tax-programmes/L1Inttaxcoursebrochure22024.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+<p><strong>Please read <a href="/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for courses.</strong>
 </p>
