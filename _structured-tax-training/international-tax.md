@@ -92,7 +92,7 @@ and interactive case studies for MNCs.</p>
 <p><a href="https://form.gov.sg/6675991bfa4168de43c9f534" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/executive-tax-programmes/Advanced_ITP_2024_Programme_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p><strong>Registration is OPEN for 2024 intake.</strong>
+<p><strong>Registration is CLOSED for 2024 intake.</strong>
 </p>
 <p><strong>Please read <a href="/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for courses.</strong>
 </p>
