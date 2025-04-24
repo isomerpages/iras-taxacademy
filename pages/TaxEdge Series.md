@@ -4,6 +4,9 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>7 May 2025 | 9.30 a.m. to 11.30 a.m.</sub></strong></h4>
+<p></p>
+<p></p>
 <h4><strong><sub>23 Apr 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Taxation and Climate Change</strong></h4>
 <p>Have you ever wondered how (and to what extent) taxation can be used to
