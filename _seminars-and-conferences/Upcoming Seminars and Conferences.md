@@ -10,8 +10,9 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <h5><strong>May 2025</strong></h5>
-<p>7 May: Liberation Day or Armageddon - Impact of U.S. Trade Measures for
-Businesses Navigating Through Treacherous Waters</p>
+<p>7 May: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">Liberation Day or Armageddon</a>-
+Impact of U.S. Trade Measures for Businesses Navigating Through Treacherous
+Waters</p>
 <p>14 May: FasTax Series: GST: A Practical Guide to Compliance</p>
 <p>22 May: <a href="https://www.taxacademy.sg/the-international-tax-dispute-day/" rel="noopener nofollow" target="_blank">The International Tax Disputes Day: </a>The
 Asian and Global Landscape</p>
