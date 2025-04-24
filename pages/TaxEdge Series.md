@@ -18,6 +18,29 @@ tariff measures and examine various options that companies may consider
 to minimize the impact of these tariffs on their products. The panel will
 delve into examples of strategies that companies are adopting to mitigate
 the effects of the U.S. tariff measures.&nbsp;</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Eugene_Lim.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Karmi_Leiman.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Aaron_M__Applebaum.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Benedict_Teow.png">
+</div>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong><sub>23 Apr 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Taxation and Climate Change</strong></h4>
