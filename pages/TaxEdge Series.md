@@ -11,7 +11,6 @@ description: ""
 </p>
 <p>Register Now! Please access this <a href="https://form.gov.sg/6809c3004de1b03ce7932d5d" rel="noopener noreferrer nofollow" target="_blank">Link</a> to register.
 This is a complimentary webinar.</p>
-<p>&nbsp;</p>
 <p>This panel webinar will explore the recent U.S. tariff measures and their
 implications for businesses in Asia. Join our esteemed panelists from Taxise
 Asia LLC and Sidley Austin LLP who will dissect the rollout of these U.S.
