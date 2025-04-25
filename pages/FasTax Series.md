@@ -4,6 +4,142 @@ permalink: /fastax-series-stamp-duty-101/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>14 Mar 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>GST: A Practical Guide to Compliance</strong></h4>
+<p>Looking to strengthen your GST practices? Join our experienced panel of
+tax experts as they share valuable insights on GST compliance and audit
+preparation.</p>
+<p>Speakers:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Mr Koh Soo How - Executive Director, Koh SH &amp; Associates Pte Ltd</em>
+</p>
+</li>
+<li>
+<p><em>Ms Elin Sou - Senior Manager, IRAS</em>
+</p>
+</li>
+<li>
+<p><em>Ms Norazlina Mohamed Saleh - Senior Manager, IRAS</em>
+</p>
+</li>
+<li>
+<p><em>Ms Yap Mei Mei - Group Tax Specialist, IRAS</em>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>In this webinar, you will learn:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>What to expect during an IRAS audit</em>
+</p>
+</li>
+<li>
+<p><em>Practical strategies to strengthen your GST compliance</em>
+</p>
+</li>
+<li>
+<p><em>Key risk areas and common pitfalls to avoid</em>
+</p>
+</li>
+</ul>
+<p><strong>Agenda</strong>
+</p>
+<p><u>IRAS Segment: GST Audit Insights</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>What to expect during an audit: process and information requests</em>
+</p>
+</li>
+<li>
+<p><em>Types of audits: potential triggers and case studies</em>
+</p>
+</li>
+<li>
+<p><em>Current areas of audits focus</em>
+</p>
+</li>
+</ul>
+<p><u>GST Compliance Strategies</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>GST compliance&nbsp;programmes and&nbsp;initiatives</em>
+</p>
+</li>
+<li>
+<p><em>Risk areas in GST reporting</em>
+</p>
+</li>
+<li>
+<p><em>Managing the audit process – a practitioner’s perspective</em>
+</p>
+</li>
+<li>
+<p><em>Proactive strategies/measures for GST compliance</em>
+</p>
+</li>
+<li>
+<p><em>Correcting past errors</em>
+</p>
+</li>
+</ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>About the Speakers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Soo_How.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Yap_Mei_Mei.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Norazlina_Mohamed_Saleh.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Elin_Sou.png">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Admin Details</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Webinar will be held via Zoom</p>
+</li>
+<li>
+<p>Date: 14 May 2025</p>
+</li>
+<li>
+<p>Time: 3pm to 5pm</p>
+</li>
+<li>
+<p>Fee: $109 (incl. GST)</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/6809fef5fee6529f5621aae9" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</div>
+</details>
+</div>
+<p></p>
 <h4><strong><sub>13 Mar 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>GST ASK - A Self Help Tool for GST Compliance</strong></h4>
 <p>This webinar will feature practical examples illustrating the use of ASK

@@ -4,6 +4,44 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>7 May 2025 | 9.30 a.m. to 11.30 a.m.</sub></strong></h4>
+<p></p>
+<h4><strong>Liberation Day or Armageddon - Impact of U.S. Trade Measures for Businesses Navigating Through Treacherous Waters</strong></h4>
+<p><em>This webinar is jointly organised by Taxise Asia LLC (WTS Taxise) &nbsp;and Tax Academy of Singapore.</em>
+</p>
+<p>Register Now! Please access this <a href="https://form.gov.sg/6809c3004de1b03ce7932d5d" rel="noopener noreferrer nofollow" target="_blank">Link</a> to register.
+This is a complimentary webinar.</p>
+<p>This panel webinar will explore the recent U.S. tariff measures and their
+implications for businesses in Asia. Join our esteemed panelists from Taxise
+Asia LLC and Sidley Austin LLP who will dissect the rollout of these U.S.
+tariff measures and examine various options that companies may consider
+to minimize the impact of these tariffs on their products. The panel will
+delve into examples of strategies that companies are adopting to mitigate
+the effects of the U.S. tariff measures.&nbsp;</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Eugene_Lim.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Karmi_Leiman.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Aaron_M__Applebaum.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Benedict_Teow.png">
+</div>
+</div>
+</details>
+</div>
+<p></p>
 <h4><strong><sub>23 Apr 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Taxation and Climate Change</strong></h4>
 <p>Have you ever wondered how (and to what extent) taxation can be used to
