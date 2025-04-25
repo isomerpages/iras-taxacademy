@@ -112,13 +112,30 @@ preparation.</p>
 </div>
 </details>
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Admin Details</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Webinar will be held via Zoom</p>
+</li>
+<li>
+<p>Date: 14 May 2025</p>
+</li>
+<li>
+<p>Time: 3pm to 5pm</p>
+</li>
+<li>
+<p>Fee: $109 (incl. GST)</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/6809fef5fee6529f5621aae9" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
+</li>
+</ul>
+<p>&nbsp;</p>
 </div>
 </details>
 </div>
