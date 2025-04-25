@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><sub>14 Mar 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
-<p></p>
+<h4><strong>GST: A Practical Guide to Compliance</strong></h4>
 <h4><strong><sub>13 Mar 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>GST ASK - A Self Help Tool for GST Compliance</strong></h4>
 <p>This webinar will feature practical examples illustrating the use of ASK
