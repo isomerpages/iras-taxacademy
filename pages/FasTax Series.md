@@ -87,7 +87,25 @@ preparation.</p>
 </p>
 </li>
 </ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>About the Speakers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Admin Details</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong><sub>13 Mar 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>GST ASK - A Self Help Tool for GST Compliance</strong></h4>
