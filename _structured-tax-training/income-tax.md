@@ -42,6 +42,8 @@ accurately.</p>
 <p>Please be informed that this programme is fully e-learning.</p>
 <p><a href="/files/Intake_1_Course_brochure_L1_IT_2025_v2.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
+<p><a href="https://form.gov.sg/68045ff076c7d84951ca3f64" rel="noopener nofollow" target="_blank">Registration</a>
+</p>
 <p>The next intake, Intake 2/2025, will be in August 2025. Registration will
 be available approximately six to eight weeks prior to the course commencement
 date. You may wish to register your interest for this intake and we will
