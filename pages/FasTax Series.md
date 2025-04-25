@@ -93,6 +93,22 @@ preparation.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Soo_How.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Yap_Mei_Mei.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Norazlina_Mohamed_Saleh.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Elin_Sou.png">
+</div>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
