@@ -4,7 +4,7 @@ permalink: /fastax-series-stamp-duty-101/
 variant: tiptap
 description: ""
 ---
-<h4><strong><sub>14 Mar 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong><sub>14 May 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>GST: A Practical Guide to Compliance</strong></h4>
 <p>Looking to strengthen your GST practices? Join our experienced panel of
 tax experts as they share valuable insights on GST compliance and audit
