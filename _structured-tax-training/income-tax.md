@@ -96,8 +96,7 @@ ACCA Advanced Singapore Taxation</p>
 In-house Singapore income tax training by Big 4 (state which big 4 organisation)</p>
 <p>Exemptions will be reviewed on a case-by-case basis.</p>
 <p>Intake 6/2024 (3 Mar to 26 Mar 2025)</p>
-<p><a href="https://go.gov.sg/l2it62024reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
-<a href="/files/executive-tax-programmes/income-tax/L2_IT_6_2024_course_brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
+<p><a href="/files/executive-tax-programmes/income-tax/L2_IT_6_2024_course_brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p>Registration is CLOSED.</p>
 <p></p>
