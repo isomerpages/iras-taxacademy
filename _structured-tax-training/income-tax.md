@@ -100,8 +100,8 @@ In-house Singapore income tax training by Big 4 (state which big 4 organisation)
 </p>
 <p>Registration is CLOSED.</p>
 <p></p>
-<p>Once registration is closed, you may wish to fill out the <a href="https://go.gov.sg/l2it2025interest" rel="noopener noreferrer nofollow" target="_blank">interest form </a>to
-indicate your interest.</p>
+<p>You may wish to fill out the <a href="https://go.gov.sg/l2it2025interest" rel="noopener noreferrer nofollow" target="_blank">interest form </a>to indicate
+your interest.</p>
 <p>The next intake for this course will be in Jul 2025. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
 <p></p>
