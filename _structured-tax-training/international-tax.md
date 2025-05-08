@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>May 2025 intake: <a href="/executive-tax-programmes/international-tax/#etp1IT-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>May 2025 intake: <a href="/executive-tax-programmes/international-tax/#etp1IT-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
@@ -37,11 +37,9 @@ variant: tiptap
 <h3><strong>International Tax Programme Level 1</strong></h3>
 <p>This course will enable participants to acquire basic knowledge in tax
 treaties and transfer pricing.</p>
-<p><a href="https://go.gov.sg/l1int12025reg" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
-</p>
 <p><a href="/files/executive-tax-programmes/income-tax/L1_Int_tax_course_brochure_1_2025.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p><strong>Registration is OPEN for intake 1/2025</strong>
+<p><strong>Registration is CLOSED for intake 1/2025</strong>
 </p>
 <p>The next intake for the course will be held in Oct 2025. Registration
 will open six to eight weeks before the course commencement date.</p>
@@ -50,8 +48,7 @@ will open six to eight weeks before the course commencement date.</p>
 <p>This course provides in-depth knowledge in international tax principles
 and concepts, with focus on specific issues on tax treaty and transfer
 pricing.</p>
-<p><a href="https://go.gov.sg/l2inttax12023registration" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
-<a href="/files/executive-tax-programmes/income-tax/coursebrochurel2internationaltax12023.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<p><a href="/files/executive-tax-programmes/income-tax/coursebrochurel2internationaltax12023.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
 <p><strong>Registration is CLOSED for Intake 1/2023</strong>
 </p>
