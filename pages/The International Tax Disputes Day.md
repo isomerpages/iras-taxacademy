@@ -17,7 +17,7 @@ description: ""
 <h4>Prof. Dr. Adolfo Martin Jimenez, Professor of Law, University of Cadiz and many more distinguished experts!</h4>
 </blockquote>
 <p></p>
-<h4><strong>To enjoy Early Bird pricing before slots are taken, <a href="https://form.gov.sg/67aeaf121164e6c7c5df2786" rel="noopener nofollow" target="_blank">register here!</a></strong></h4>
+<h4><strong>To join the event please, <a href="https://form.gov.sg/67aeaf121164e6c7c5df2786" rel="noopener nofollow" target="_blank">register here!</a></strong></h4>
 <h4><strong>Admin Details</strong></h4>
 <h4>Date and time: 22 May 2025 | 9am to 5pm</h4>
 <h4>Venue: Grand Hyatt Singapore, 10 Scotts Road Singapore 228211</h4>
