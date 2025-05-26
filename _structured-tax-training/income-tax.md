@@ -93,13 +93,13 @@ ACCA Singapore Taxation</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ACCA Advanced Singapore Taxation</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-In-house Singapore income tax training by Big 4 (state which big 4 organisation)</p>
+In-house Singapore income tax training by Big 4</p>
 <p>Exemptions will be reviewed on a case-by-case basis.</p>
 <p></p>
 <p>Intake 1/2025 (23 Jun to 5 Aug 2025)</p>
 <p><a href="/files/L2_IT_1_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://go.gov.sg/f7ourh" rel="noopener nofollow" target="_blank">Registration</a>
+<p><a href="https://go.gov.sg/l2it12025reg" rel="noopener nofollow" target="_blank">Registration</a>
 </p>
 <p>Intake 2/2025 (7 Jul to 7 Aug 2025)</p>
 <p><a href="/files/L2_IT_2_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
