@@ -16,7 +16,6 @@ description: ""
 </p>
 <p>&nbsp;</p>
 </blockquote>
-<hr>
 <p>Singapore stands as a beacon of tax certainty, where theory meets practice
 through IRAS' innovative approaches. At the International Tax Disputes
 Day conference on 22 May 2025, Tax Academy brought together over 200 distinguished
