@@ -10,7 +10,9 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <p></p>
-<h4><strong>Jun 2025<br></strong></h4>
+<h5><strong>Jun 2025</strong></h5>
+<p>4 Jun: Navigating-Cross Border Investment: Insights and Strategies Between
+Asia, Australia and the US</p>
 <p></p>
 <h5><strong>May 2025</strong></h5>
 <p>7 May: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">Liberation Day or Armageddon</a>-
