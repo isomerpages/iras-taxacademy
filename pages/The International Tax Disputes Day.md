@@ -32,14 +32,24 @@ complex global environment.</p>
 disputes: despite its significant economic weight - one-third of Inclusive
 Framework GDP - the region shows remarkably few MAP cases, demonstrating
 its success in dispute prevention over resolution.</p>
-<p>The conference featured dynamic discussions from xx distinguished speakers
+<p>The conference featured dynamic discussions from 19 distinguished speakers
 - a diverse mix of academics, practitioners, and policy makers from Singapore
 and overseas. Beyond intellectual discourse, the event provided an invaluable
 platform for networking, fostering connections between local and international
 tax professionals including students of Tax Academy NextGen awardees.</p>
 <p>Tax Academy would like to thank all speakers, panellists, guests and participants
 for making this conference a success!</p>
-<p></p>
+<p>Gain exclusive access to our recorded video featuring Commissioner of <strong><a href="https://www.linkedin.com/company/iras/" class="erpxQDjkfHUvBSuSUoUYIKbtZyUeNFjhqQuT" rel="noopener noreferrer nofollow" target="_self">Inland Revenue Authority of Singapore (IRAS)</a></strong>,
+Mr <strong><a href="https://www.linkedin.com/in/fook-chuen-ow-a459aaa6/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Fook Chuen Ow</a></strong>,
+welcome address, followed by Dr <strong><a href="https://www.linkedin.com/in/achim-pross-792292/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Achim Pross</a></strong>'s
+presentation on the OECD's tax certainty and evolving landscape of dispute
+prevention, <strong><a href="https://www.linkedin.com/in/prof-dr-robert-j-danon-39379742/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Prof. Dr. Robert J. DANON</a></strong> on
+dispute resolution and tax controversies and closing insights from <strong><a href="https://www.linkedin.com/in/dr-giammarco-cottani-ll-m-9658a55/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Dr. Giammarco Cottani, LL.M</a></strong> and
+Mr <strong><a href="https://www.linkedin.com/in/mukesh-butani-17041614/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Mukesh . Butani</a></strong>.
+Purchase access to the video recording now!
+<br>
+<br>Link: <strong><a href="https://www.linkedin.com/company/iras/" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gCeN8uRs</a></strong>
+</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
