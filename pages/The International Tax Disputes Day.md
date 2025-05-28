@@ -4,7 +4,7 @@ permalink: /the-international-tax-dispute-day/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Post Conference Highlights on International Tax Disputes Day: The Asian and Global Landscape, 22 May 2025</strong></h3>
+<h2><strong>Post Conference Highlights on International Tax Disputes Day: The Asian and Global Landscape, 22 May 2025</strong></h2>
 <blockquote>
 <p><strong>&nbsp;</strong><em>"Singapore, if you think about the topic of tax certainty, is one of the capitals, the lighthouse of international tax certainty, one of the capitals where tax certainty isn't just talked about but it's lived. It lives in our Inland Revenue approaches, so there's a lot that the world can learn…”</em>
 </p>
