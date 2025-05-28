@@ -23,7 +23,6 @@ professionals - including 70 senior partners and C-suite executives - to
 explore how tax certainty drives sustainable economic development. This
 high-level gathering exemplified our commitment to bridging expertise across
 tax administration, practice, and academia.</p>
-<p>&nbsp;</p>
 <p>In his opening address, IRAS Commissioner and CEO Mr Ow Fook Chuen highlighted
 Singapore's practical commitment to tax certainty. From our extensive treaty
 network to proactive dispute prevention measures, Singapore is building
