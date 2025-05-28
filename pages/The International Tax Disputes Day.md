@@ -28,18 +28,15 @@ Singapore's practical commitment to tax certainty. From our extensive treaty
 network to proactive dispute prevention measures, Singapore is building
 a tax ecosystem that gives businesses confidence to operate in an increasingly
 complex global environment.</p>
-<p>&nbsp;</p>
 <p>Dr Achim Pross's keynote highlighted APAC's distinctive approach to tax
 disputes: despite its significant economic weight - one-third of Inclusive
 Framework GDP - the region shows remarkably few MAP cases, demonstrating
 its success in dispute prevention over resolution.</p>
-<p>&nbsp;</p>
 <p>The conference featured dynamic discussions from xx distinguished speakers
 - a diverse mix of academics, practitioners, and policy makers from Singapore
 and overseas. Beyond intellectual discourse, the event provided an invaluable
 platform for networking, fostering connections between local and international
 tax professionals including students of Tax Academy NextGen awardees.</p>
-<p>&nbsp;</p>
 <p>Tax Academy would like to thank all speakers, panellists, guests and participants
 for making this conference a success!</p>
 <p></p>
