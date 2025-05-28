@@ -51,6 +51,10 @@ Purchase access to the video recording now!
 <br>Link: <strong><a href="https://www.linkedin.com/company/iras/" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gCeN8uRs</a></strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Black_White_Modern_Festive_New_Year_Party_Photo_Collage_Facebook_Post__1_.png">
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Conference Brochure</summary>
