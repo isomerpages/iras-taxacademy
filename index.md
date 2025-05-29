@@ -36,9 +36,8 @@ sections:
       announcement_items:
         - title: The International Tax Disputes Day
           date: 22 May 2025
-          announcement: 'The University of Lausanne and Tax Academy of Singapore jointly
-            bring you the conference on "The International Tax Disputes Day: The
-            Asian and Global Landscape".'
+          announcement: The conference jointly organised by The University of Lausanne and
+            Tax Academy of Singapore was a huge success!
           link_text: More details
           link_url: https://www.taxacademy.sg/the-international-tax-dispute-day/
   - infopic:
