@@ -1,0 +1,4 @@
+collections:
+  alumni-network:
+    output: true
+    order: []
