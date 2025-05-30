@@ -1,4 +1,5 @@
 collections:
   alumni-network:
     output: true
-    order: []
+    order:
+      - Alumni Network.md
