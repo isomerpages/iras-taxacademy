@@ -42,16 +42,7 @@ platform for networking, fostering connections between local and international
 tax professionals including students of Tax Academy NextGen awardees.</p>
 <p>Tax Academy would like to thank all speakers, panellists, guests and participants
 for making this conference a success!</p>
-<p>Gain exclusive access to our recorded video featuring Commissioner of <strong><a href="https://www.linkedin.com/company/iras/" class="erpxQDjkfHUvBSuSUoUYIKbtZyUeNFjhqQuT" rel="noopener noreferrer nofollow" target="_self">Inland Revenue Authority of Singapore (IRAS)</a></strong>,
-Mr <strong><a href="https://www.linkedin.com/in/fook-chuen-ow-a459aaa6/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Fook Chuen Ow</a></strong>,
-welcome address, followed by Dr <strong><a href="https://www.linkedin.com/in/achim-pross-792292/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Achim Pross</a></strong>'s
-presentation on the OECD's tax certainty and evolving landscape of dispute
-prevention, <strong><a href="https://www.linkedin.com/in/prof-dr-robert-j-danon-39379742/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Prof. Dr. Robert J. DANON</a></strong> on
-dispute resolution and tax controversies and closing insights from <strong><a href="https://www.linkedin.com/in/dr-giammarco-cottani-ll-m-9658a55/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Dr. Giammarco Cottani, LL.M</a></strong> and
-Mr <strong><a href="https://www.linkedin.com/in/mukesh-butani-17041614/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Mukesh . Butani</a></strong>.
-Purchase access to the video recording now!
-<br>
-</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Black_White_Modern_Festive_New_Year_Party_Photo_Collage_Facebook_Post__1_.png">
