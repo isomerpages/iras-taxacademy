@@ -51,7 +51,6 @@ dispute resolution and tax controversies and closing insights from <strong><a hr
 Mr <strong><a href="https://www.linkedin.com/in/mukesh-butani-17041614/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Mukesh . Butani</a></strong>.
 Purchase access to the video recording now!
 <br>
-<br><a href="https://form.gov.sg/68351d0e6f838064b3f33881" rel="noopener nofollow" target="_blank">Register now for access to the recorded video !</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
