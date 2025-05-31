@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Post Conference Highlights on International Tax Disputes Day: The Asian and Global Landscape, 22 May 2025</strong></h2>
+<p></p>
 <blockquote>
 <p><strong>&nbsp;</strong><em>"Singapore, if you think about the topic of tax certainty, is one of the capitals, the lighthouse of international tax certainty, one of the capitals where tax certainty isn't just talked about but it's lived. It lives in our Inland Revenue approaches, so there's a lot that the world can learn…”</em>
 </p>
@@ -14,7 +15,9 @@ description: ""
 <p><em>Hear more from the star of our tax community, Dr. Achim Pross, Deputy Director, Centre for Tax Policy and Administration, OECD – </em>
 <a href="https://www.linkedin.com/posts/tax-academy-of-singapore_we-are-delighted-to-share-an-exclusive-insight-activity-7331566581753282561--gI9?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAEN-pb0Bg9XAfjaBaXD_NGx-CakeqEJ7bfs" rel="noopener nofollow" target="_blank">Doorstop interview</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
+<p>Interested to hear more on the conference's keynote speeches? <a href="https://form.gov.sg/68351d0e6f838064b3f33881" rel="noopener nofollow" target="_blank"><u>Purchase access to the recorded video now!</u></a>
+</p>
 </blockquote>
 <p>Singapore stands as a beacon of tax certainty, where theory meets practice
 through IRAS' innovative approaches. At the International Tax Disputes
@@ -48,7 +51,6 @@ dispute resolution and tax controversies and closing insights from <strong><a hr
 Mr <strong><a href="https://www.linkedin.com/in/mukesh-butani-17041614/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Mukesh . Butani</a></strong>.
 Purchase access to the video recording now!
 <br>
-<br>Link: <strong><a href="https://www.linkedin.com/company/iras/" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gCeN8uRs</a></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
