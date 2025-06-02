@@ -9,7 +9,11 @@ description: ""
 <p>Are you looking to learn more about a specific area of tax that is currently
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
-<p></p>
+<h5><strong>Jul 2025</strong></h5>
+<p>1 Jul: FasTax Series: Withholding Tax - Implications of Tax Treaties</p>
+<p>3 Jul: TaxEdge Series: IP Considerations for Software Licensing Arrangements</p>
+<p>9 Jul: TEI-TA Thrive in Tax Series: Leadership-Transactional vs Transformational
+Leadership</p>
 <h5><strong>Jun 2025</strong></h5>
 <p>3 Jun: FasTax Series: GST ASK</p>
 <p>4 Jun: TaxEdge Series: Navigating-Cross Border Investment: Insights and
