@@ -55,23 +55,18 @@ IRAS</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0002.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0003.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0004.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0005.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0006.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0007.jpg">
 </div>
