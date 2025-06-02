@@ -87,6 +87,12 @@ of Singapore), Prof. Dr. Robert Danon, Dr. Achim Pross, Mr. Ow Fook Chuen</p>
 <p>Left to right: Mr. Mukesh Butani, Prof. Dr. Robert Danon, Ms. Seema Kejriwal
 Jariwala, Dr. Niv Tadmore, Ms. Sarah Lim</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Panel_on_Transfer_Pricing_Disputes.jpg">
+</div>
+<p>Left to right: Dr. Niv Tadmore, Dr. Giammarco Cottani, Mr. Justin Campolieta</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
