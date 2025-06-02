@@ -48,33 +48,6 @@ for making this conference a success!</p>
 </div>
 <p><strong>Opening Address</strong> by Mr. Ow Fook Chuen, Commissioner/CEO,
 IRAS</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Opening Address</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0002.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0003.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0004.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0005.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0006.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final_page_0007.jpg">
-</div>
-<p></p>
-<p></p>
-</div>
-</details>
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Achim__2_.jpg">
