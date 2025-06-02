@@ -154,14 +154,17 @@ focus area.</p>
 <p><strong>Singapore's Commitment</strong>
 </p>
 <p></p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Singapore, global
-trade and business is existential for our survival. We have built up a
-strong network of tax treaties and adopted mandatory binding arbitration
-under the BEPS Multilateral Instrument. Notably, Singapore has fully complied
-with all four key areas of an effective dispute resolution mechanism under
-the BEPS Action 14 Minimum Standard for the Mutual Agreement Procedure,
-or “MAP”, which is supported by peer reviews to promote accountability
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p>For Singapore, global trade and business is existential for our survival.
+We have built up a strong network of tax treaties and adopted mandatory
+binding arbitration under the BEPS Multilateral Instrument. Notably, Singapore
+has fully complied with all four key areas of an effective dispute resolution
+mechanism under the BEPS Action 14 Minimum Standard for the Mutual Agreement
+Procedure, or “MAP”, which is supported by peer reviews to promote accountability
 and consistent implementation.</p>
+</li>
+</ol>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dispute prevention
 remains a key pillar of Singapore’s approach to tax certainty. This is
 primarily achieved via Advance Pricing Arrangements, or “APAs”, which enables
