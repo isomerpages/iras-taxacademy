@@ -48,6 +48,62 @@ for making this conference a success!</p>
 </div>
 <p><strong>Opening Address</strong> by Mr. Ow Fook Chuen, Commissioner/CEO,
 IRAS</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Opening Address</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>The University of Lausanne and Tax Academy of Singapore conference on “The International Tax Disputes Day: The Asian and Global Landscape” (22 May 2025)</strong>
+</p>
+<p></p>
+<p></p>
+<p><strong>Opening</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Achim Pross, Deputy
+Director, Centre for Tax Policy and Administration, OECD</p>
+<p>Prof. Dr. Robert J. Danon, Head, Tax Policy Centre, University of Lausanne</p>
+<p>Mr Dennis Lui, Chief Executive Officer of the Tax Academy</p>
+<p>Distinguished guests,</p>
+<p>Ladies and Gentlemen,</p>
+<p></p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good morning. I am
+pleased to welcome you to the "International Tax Disputes Day: The Asian
+and Global Landscape" conference, jointly organised by The University of
+Lausanne and the Tax Academy of Singapore.</p>
+<p></p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This marks a significant
+milestone - our first collaboration with the University of Lausanne and
+I am honoured to open this event.</p>
+<p></p>
+<p><strong>Why we are here</strong>
+</p>
+<p></p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The theme “International
+Tax Disputes Day” is deliberately provocative, highlighting tax disputes
+as a real challenge faced by businesses in global trade. It underscores
+the importance of tax certainty in creating a stable and predictable environment
+for cross-border business so that global economies can grow and thrive.&nbsp;
+The Singapore Government and IRAS are committed to this priority.</p>
+<p></p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In recent months, we
+have seen how global shifts – rising trade tensions, economic nationalism,
+and fundamental changes in global tax rules – have made the international
+landscape very challenging, reshaping global supply chains and business
+models.&nbsp; For governments, this means balancing the need to generate
+and mobilise domestic resources with the call for a fairer tax system.
+For businesses, it means navigating uncertainty and adapting to new realities.</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amid volatility and,
+at times, chaos, a predictable, rules-based international order and tax
+certainty will be invaluable to businesses. Effective dispute resolution,
+and even more importantly, dispute prevention, are essential foundations
+for sustained and dynamic economic development.</p>
+<p>This tax conference thus presents a great opportunity for us to reflect
+on the evolving dynamics of the trade environment and the importance of
+effective dispute prevention and resolution in strengthening global tax
+cooperation, enhancing certainty for businesses, and supporting sustainable
+economic development.</p>
+</div>
+</details>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Achim__2_.jpg">
