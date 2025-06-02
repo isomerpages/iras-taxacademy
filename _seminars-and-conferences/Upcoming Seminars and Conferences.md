@@ -11,6 +11,7 @@ not covered in our events ? Do share with us through this <a href="https://form.
 Thank you!</p>
 <p></p>
 <h5><strong>Jun 2025</strong></h5>
+<p>3 Jun: FasTax Series: GST ASK</p>
 <p>4 Jun: Navigating-Cross Border Investment: Insights and Strategies Between
 Asia, Australia and the US</p>
 <p>23 Jun: U.S. Tariffs &amp; Taxes: Preparing Business for Policy Shifts</p>
