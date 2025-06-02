@@ -57,8 +57,15 @@ Policy and Administration, OECD</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Robert.jpg">
 </div>
-<p>Keynote Presentation by Prof. Dr. Robert Danon, Head, Tax Policy Center,
-University of Lausanne and Founding Partner of DANON</p>
+<p>by Prof. Dr. Robert Danon, Head, Tax Policy Center, University of Lausanne
+and Founding Partner of DANON</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Sandra.jpg">
+</div>
+<p><strong>Future of Peer Review and possible improvements to the commentary on Article 25</strong>&nbsp;by
+Ms. Sandra Knaepen, Deputy Head of the Tax Administration and VAT Division
+alongside being Co-head of the Tax Certainty Unit</p>
 <p></p>
 <p></p>
 <p></p>
