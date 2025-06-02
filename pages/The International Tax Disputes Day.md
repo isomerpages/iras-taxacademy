@@ -59,7 +59,7 @@ OECD</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Robert.jpg">
 </div>
-<p><strong>Current practical challenges of dispute prevention and resolution, building a holistic &nbsp; approach in global tax controversies: from Tax to Investment Law &amp; Trade Law ramifications</strong>&nbsp;by
+<p><strong>Current practical challenges of dispute prevention and resolution </strong>by
 Prof. Dr. Robert Danon, Head, Tax Policy Center, University of Lausanne
 and Founding Partner of DANON</p>
 <p></p>
@@ -67,8 +67,8 @@ and Founding Partner of DANON</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Sandra.jpg">
 </div>
 <p><strong>Future of Peer Review and possible improvements to the commentary on Article 25</strong>&nbsp;by
-Ms. Sandra Knaepen, Deputy Head of the Tax Administration and VAT Division
-alongside being Co-head of the Tax Certainty Unit</p>
+Ms. Sandra Knaepen, Deputy Head of the Tax Administration and VAT Division,
+Co-head of the Tax Certainty Unit, OECD</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Dennis_Robert_Achim_CIR.jpg">
@@ -129,6 +129,10 @@ Robert Danon, Mr. Riyaz Dattu</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Closure_The_End.jpg">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/21_May_Dinner.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/TA_Team.jpg">
