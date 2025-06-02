@@ -55,20 +55,25 @@ IRAS</p>
 <p><strong>The University of Lausanne and Tax Academy of Singapore conference on “The International Tax Disputes Day: The Asian and Global Landscape” (22 May 2025)</strong>
 </p>
 <p></p>
-<p></p>
 <p><strong>Opening</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Achim Pross, Deputy
-Director, Centre for Tax Policy and Administration, OECD</p>
-<p>Prof. Dr. Robert J. Danon, Head, Tax Policy Centre, University of Lausanne</p>
-<p>Mr Dennis Lui, Chief Executive Officer of the Tax Academy</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Dr Achim Pross, Deputy Director, Centre for Tax Policy and Administration,
+OECD, Prof. Dr. Robert J. Danon, Head, Tax Policy Centre, University of
+Lausanne, Mr Dennis Lui, Chief Executive Officer of the Tax Academy</p>
+</li>
+</ol>
 <p>Distinguished guests,</p>
 <p>Ladies and Gentlemen,</p>
 <p></p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good morning. I am
-pleased to welcome you to the "International Tax Disputes Day: The Asian
-and Global Landscape" conference, jointly organised by The University of
-Lausanne and the Tax Academy of Singapore.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Good morning. I am pleased to welcome you to the "International Tax Disputes
+Day: The Asian and Global Landscape" conference, jointly organised by The
+University of Lausanne and the Tax Academy of Singapore.</p>
+</li>
+</ol>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
