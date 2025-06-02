@@ -19,7 +19,6 @@ Policy Shifts</p>
 <p>25 Jun: FasTax Series: Navigating GST Essentials</p>
 <p>27 June: Law 101 for Tax Professionals: Employment Law</p>
 <p></p>
-<p></p>
 <h5><strong>May 2025</strong></h5>
 <p>7 May: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">Liberation Day or Armageddon</a>-
 Impact of U.S. Trade Measures for Businesses Navigating Through Treacherous
