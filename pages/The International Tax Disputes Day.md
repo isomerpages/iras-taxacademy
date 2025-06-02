@@ -92,7 +92,11 @@ Jariwala, Dr. Niv Tadmore, Ms. Sarah Lim</p>
 </div>
 <p>Left to right: Dr. Niv Tadmore, Dr. Giammarco Cottani, Mr. Justin Campolieta</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Panel_on_Current_Challenged_and_Pressure_Areas.jpg">
+</div>
+<p>Left to right: Dr. Peter Schreiner, Mr. Vineet Rachh, Dr. Giammarco Cottani,
+Mr. Nathaniel Carden</p>
 <p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
