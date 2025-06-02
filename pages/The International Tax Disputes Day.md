@@ -98,6 +98,12 @@ Jariwala, Dr. Niv Tadmore, Ms. Sarah Lim</p>
 <p>Left to right: Dr. Peter Schreiner, Mr. Vineet Rachh, Dr. Giammarco Cottani,
 Mr. Nathaniel Carden</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Panel_on_Disputes_PreventionResolution_involving_the_Global_Min_Tax.jpg">
+</div>
+<p>This panel was moderated virtually by Prof. Dr. Guglielmo Maisto. Left
+to right: Ms. Karen Goh, Dr. Achim Pross, Dr. Nadia Altenburg, Prof. Dr.
+Adolfo Martin Jimenez</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
