@@ -77,30 +77,49 @@ I am honoured to open this event.</p>
 <p><strong>Why we are here</strong>
 </p>
 <p></p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The theme “International
-Tax Disputes Day” is deliberately provocative, highlighting tax disputes
-as a real challenge faced by businesses in global trade. It underscores
-the importance of tax certainty in creating a stable and predictable environment
-for cross-border business so that global economies can grow and thrive.&nbsp;
-The Singapore Government and IRAS are committed to this priority.</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>The theme “International Tax Disputes Day” is deliberately provocative,
+highlighting tax disputes as a real challenge faced by businesses in global
+trade. It underscores the importance of tax certainty in creating a stable
+and predictable environment for cross-border business so that global economies
+can grow and thrive.&nbsp; The Singapore Government and IRAS are committed
+to this priority.</p>
+</li>
+</ol>
 <p></p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In recent months, we
-have seen how global shifts – rising trade tensions, economic nationalism,
-and fundamental changes in global tax rules – have made the international
-landscape very challenging, reshaping global supply chains and business
-models.&nbsp; For governments, this means balancing the need to generate
-and mobilise domestic resources with the call for a fairer tax system.
-For businesses, it means navigating uncertainty and adapting to new realities.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amid volatility and,
-at times, chaos, a predictable, rules-based international order and tax
-certainty will be invaluable to businesses. Effective dispute resolution,
-and even more importantly, dispute prevention, are essential foundations
-for sustained and dynamic economic development.</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>In recent months, we have seen how global shifts – rising trade tensions,
+economic nationalism, and fundamental changes in global tax rules – have
+made the international landscape very challenging, reshaping global supply
+chains and business models.&nbsp; For governments, this means balancing
+the need to generate and mobilise domestic resources with the call for
+a fairer tax system. For businesses, it means navigating uncertainty and
+adapting to new realities.</p>
+</li>
+</ol>
+<p></p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>Amid volatility and, at times, chaos, a predictable, rules-based international
+order and tax certainty will be invaluable to businesses. Effective dispute
+resolution, and even more importantly, dispute prevention, are essential
+foundations for sustained and dynamic economic development.</p>
+</li>
+</ol>
+<p></p>
+<ol start="7" data-tight="true" class="tight">
+<li>
 <p>This tax conference thus presents a great opportunity for us to reflect
 on the evolving dynamics of the trade environment and the importance of
 effective dispute prevention and resolution in strengthening global tax
 cooperation, enhancing certainty for businesses, and supporting sustainable
 economic development.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
