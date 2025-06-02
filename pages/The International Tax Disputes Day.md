@@ -76,6 +76,18 @@ alongside being Co-head of the Tax Certainty Unit</p>
 <p>Left to right: Mr. Dennis Lui (Deputy Commissioner, IRAS/CEO, Tax Academy
 of Singapore), Prof. Dr. Robert Danon, Dr. Achim Pross, Mr. Ow Fook Chuen</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Giammarco_Mukesh_Anne.jpg">
+</div>
+<p>Left to right: Dr. Giammarco Cottani, Mr. Mukesh Butani, Ms. Anne Gordon</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Panel_on_Tax_Treaty_Disputes.jpg">
+</div>
+<p>Left to right: Mr. Mukesh Butani, Prof. Dr. Robert Danon, Ms. Seema Kejriwal
+Jariwala, Dr. Niv Tadmore, Ms. Sarah Lim</p>
+<p></p>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -113,6 +125,8 @@ of Singapore), Prof. Dr. Robert Danon, Dr. Achim Pross, Mr. Ow Fook Chuen</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
