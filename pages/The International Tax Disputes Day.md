@@ -54,7 +54,11 @@ for making this conference a success!</p>
 <p>Keynote Presentation by Dr. Achim Pross, Deputy Director, Centre for Tax
 Policy and Administration, OECD</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Robert.jpg">
+</div>
+<p>Keynote Presentation by Prof. Dr. Robert Danon, Head, Tax Policy Center,
+University of Lausanne and Founding Partner of DANON</p>
 <p></p>
 <p></p>
 <p></p>
