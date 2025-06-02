@@ -12,9 +12,13 @@ Thank you!</p>
 <p></p>
 <h5><strong>Jun 2025</strong></h5>
 <p>3 Jun: FasTax Series: GST ASK</p>
-<p>4 Jun: Navigating-Cross Border Investment: Insights and Strategies Between
-Asia, Australia and the US</p>
-<p>23 Jun: U.S. Tariffs &amp; Taxes: Preparing Business for Policy Shifts</p>
+<p>4 Jun: TaxEdge Series: Navigating-Cross Border Investment: Insights and
+Strategies Between Asia, Australia and the US</p>
+<p>23 Jun: TaxEdge Series: U.S. Tariffs &amp; Taxes: Preparing Business for
+Policy Shifts</p>
+<p>25 Jun: FasTax Series: Navigating GST Essentials</p>
+<p>27 June: Law 101 for Tax Professionals: Employment Law</p>
+<p></p>
 <p></p>
 <h5><strong>May 2025</strong></h5>
 <p>7 May: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">Liberation Day or Armageddon</a>-
