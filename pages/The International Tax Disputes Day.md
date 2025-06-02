@@ -128,6 +128,14 @@ economic development.</p>
 </li>
 </ol>
 <p></p>
+<p><strong>International and Regional Progress</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
