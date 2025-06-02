@@ -130,7 +130,77 @@ economic development.</p>
 <p></p>
 <p><strong>International and Regional Progress</strong>
 </p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Globally, initiatives like the OECD / G20 Inclusive Framework and the
+United Nations’ focus on tax dispute prevention and resolution under the
+UN Framework Convention on International Tax Cooperation further reflects
+the growing recognition and increasing emphasis on the importance of tax
+certainty.</p>
 <p></p>
+</li>
+<li>
+<p>The OECD Forum on Tax Administration, or “FTA”, has also played a key
+role in advancing this agenda through its Tax Administration Series, which
+highlight practices of jurisdictions and promote ongoing improvements in
+administrative and cooperative approaches to dispute resolution.&nbsp;
+In Asia, the Study Group on Asia-Pacific Tax Administration and Research,
+or “SGATAR” has also identified dispute prevention and resolution as a
+focus area.</p>
+</li>
+</ol>
+<h1><a rel="noopener noreferrer nofollow" target="_blank">Singapore’s Commitment</a></h1>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Singapore, global
+trade and business is existential for our survival. We have built up a
+strong network of tax treaties and adopted mandatory binding arbitration
+under the BEPS Multilateral Instrument. Notably, Singapore has fully complied
+with all four key areas of an effective dispute resolution mechanism under
+the BEPS Action 14 Minimum Standard for the Mutual Agreement Procedure,
+or “MAP”, which is supported by peer reviews to promote accountability
+and consistent implementation.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dispute prevention
+remains a key pillar of Singapore’s approach to tax certainty. This is
+primarily achieved via Advance Pricing Arrangements, or “APAs”, which enables
+businesses to obtain upfront certainty on transfer pricing issues. Our
+commitment towards tax certainty has been recognised at the OECD Tax Certainty
+Day 2024, where we came in as the first runner-up for the inaugural APA
+Award for Focus on Dispute Prevention.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore has also
+participated in the International Compliance Assurance Programme, or “ICAP”.
+This multilateral initiative brings together tax administrations and multinational
+groups to assess and provide assurance on tax risks associated with cross-border
+activities.</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We also contribute
+actively to global and regional forums such as the “FTA” and “SGATAR”.&nbsp;
+Singapore was also part of the Steering Group of the Inclusive Framework
+and has been part of the Steering Group of the Global Forum on Transparency
+and Exchange of Information for Tax Purposes. More recently, Singapore
+is represented at the Bureau of the Intergovernmental Negotiating Committee
+on the UN Framework Convention on International Tax Cooperation.</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the domestic front,
+we engage closely with the business community to gather feedback, understand
+their challenges, and ensure our tax system remains clear, consistent and
+relevant.</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We regularly publish
+detailed tax guidance and conduct public consultations to provide clarity
+on tax rules and policies. Our engagement platforms include regular dialogue
+sessions with tax practitioners and the business community. These sessions
+enable IRAS to gain valuable insights into industry perspectives, ensuring
+that our tax policies and rules remain practical, relevant and responsive
+to the evolving needs of businesses.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For large businesses,
+we offer the Enhanced Taxpayer Relationship programme. This enables early
+and open dialogue on the tax implications of significant business decisions,
+providing certainty and helping taxpayers navigate complex tax matters.</p>
+<h1><a rel="noopener noreferrer nofollow" target="_blank">Conclusion</a></h1>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp; The international tax landscape will keep
+evolving and so will we.&nbsp; IRAS is committed to refining our approach,
+deepening our partnerships, and supporting a fair and stable global tax
+environment.&nbsp;</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp; I look forward to the insightful discussions
+ahead and trust that this conference will spark valuable ideas and connections
+for all.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp; Thank you.</p>
 <p></p>
 <p></p>
 <p></p>
