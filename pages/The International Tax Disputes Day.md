@@ -70,9 +70,12 @@ pleased to welcome you to the "International Tax Disputes Day: The Asian
 and Global Landscape" conference, jointly organised by The University of
 Lausanne and the Tax Academy of Singapore.</p>
 <p></p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This marks a significant
-milestone - our first collaboration with the University of Lausanne and
-I am honoured to open this event.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>This marks a significant milestone - our first collaboration with the
+University of Lausanne and I am honoured to open this event.</p>
+</li>
+</ol>
 <p></p>
 <p><strong>Why we are here</strong>
 </p>
@@ -250,8 +253,6 @@ Robert Danon, Mr. Riyaz Dattu</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
