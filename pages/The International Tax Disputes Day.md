@@ -46,18 +46,21 @@ for making this conference a success!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Opening Address by Mr. Ow Fook Chuen, Commissioner/CEO, IRAS" src="/images/22 May 2025 Conference/CIR.jpg">
 </div>
-<p>Opening Address by Mr. Ow Fook Chuen, Commissioner/CEO, IRAS</p>
+<p><strong>Opening Address</strong> by Mr. Ow Fook Chuen, Commissioner/CEO,
+IRAS</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Achim__2_.jpg">
 </div>
-<p>Keynote Presentation by Dr. Achim Pross, Deputy Director, Centre for Tax
-Policy and Administration, OECD</p>
+<p><strong>Future of OECD Tax Certainty agenda and dispute prevention and resolution</strong> by
+Dr. Achim Pross, Deputy Director, Centre for Tax Policy and Administration,
+OECD</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Robert.jpg">
 </div>
-<p>by Prof. Dr. Robert Danon, Head, Tax Policy Center, University of Lausanne
+<p><strong>Current practical challenges of dispute prevention and resolution, building a holistic &nbsp; approach in global tax controversies: from Tax to Investment Law &amp; Trade Law ramifications</strong>&nbsp;by
+Prof. Dr. Robert Danon, Head, Tax Policy Center, University of Lausanne
 and Founding Partner of DANON</p>
 <p></p>
 <div class="isomer-image-wrapper">
