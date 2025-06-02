@@ -60,12 +60,13 @@ IRAS</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Dr Achim Pross, Deputy Director, Centre for Tax Policy and Administration,
-OECD, Prof. Dr. Robert J. Danon, Head, Tax Policy Centre, University of
-Lausanne, Mr Dennis Lui, Chief Executive Officer of the Tax Academy</p>
-</li>
-</ol>
+OECD</p>
+<p>Prof. Dr. Robert J. Danon, Head, Tax Policy Centre, University of Lausanne</p>
+<p>Mr Dennis Lui, Chief Executive Officer of the Tax Academy</p>
 <p>Distinguished guests,</p>
 <p>Ladies and Gentlemen,</p>
+</li>
+</ol>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
