@@ -47,7 +47,7 @@ for making this conference a success!</p>
 <img style="width: 100%" height="auto" width="100%" alt="Opening Address by Mr. Ow Fook Chuen, Commissioner/CEO, IRAS" src="/images/22 May 2025 Conference/CIR.jpg">
 </div>
 <p><strong>Opening Address</strong> by Mr. Ow Fook Chuen, Commissioner/CEO,
-IRAS</p>
+IRAS |</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Achim__2_.jpg">
