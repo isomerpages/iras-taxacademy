@@ -130,6 +130,7 @@ economic development.</p>
 <p></p>
 <p><strong>International and Regional Progress</strong>
 </p>
+<p></p>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Globally, initiatives like the OECD / G20 Inclusive Framework and the
@@ -149,7 +150,10 @@ or “SGATAR” has also identified dispute prevention and resolution as a
 focus area.</p>
 </li>
 </ol>
-<h1><a rel="noopener noreferrer nofollow" target="_blank">Singapore’s Commitment</a></h1>
+<p></p>
+<p><strong>Singapore's Commitment</strong>
+</p>
+<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Singapore, global
 trade and business is existential for our survival. We have built up a
 strong network of tax treaties and adopted mandatory binding arbitration
