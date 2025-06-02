@@ -67,8 +67,8 @@ and Founding Partner of DANON</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Sandra.jpg">
 </div>
 <p><strong>Future of Peer Review and possible improvements to the commentary on Article 25</strong>&nbsp;by
-Ms. Sandra Knaepen, Deputy Head of the Tax Administration and VAT Division
-alongside being Co-head of the Tax Certainty Unit</p>
+Ms. Sandra Knaepen, Deputy Head of the Tax Administration and VAT Division,
+Co-head of the Tax Certainty Unit, OECD</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Dennis_Robert_Achim_CIR.jpg">
