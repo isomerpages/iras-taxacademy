@@ -43,10 +43,97 @@ tax professionals including students of Tax Academy NextGen awardees.</p>
 <p>Tax Academy would like to thank all speakers, panellists, guests and participants
 for making this conference a success!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Opening Address by Mr. Ow Fook Chuen, Commissioner/CEO, IRAS" src="/images/22 May 2025 Conference/CIR.jpg">
+</div>
+<p><strong>Opening Address</strong> by Mr. Ow Fook Chuen, Commissioner/CEO,
+IRAS</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Black_White_Modern_Festive_New_Year_Party_Photo_Collage_Facebook_Post__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Achim__2_.jpg">
 </div>
+<p><strong>Future of OECD Tax Certainty agenda and dispute prevention and resolution</strong> by
+Dr. Achim Pross, Deputy Director, Centre for Tax Policy and Administration,
+OECD</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Robert.jpg">
+</div>
+<p><strong>Current practical challenges of dispute prevention and resolution, building a holistic &nbsp; approach in global tax controversies: from Tax to Investment Law &amp; Trade Law ramifications</strong>&nbsp;by
+Prof. Dr. Robert Danon, Head, Tax Policy Center, University of Lausanne
+and Founding Partner of DANON</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Sandra.jpg">
+</div>
+<p><strong>Future of Peer Review and possible improvements to the commentary on Article 25</strong>&nbsp;by
+Ms. Sandra Knaepen, Deputy Head of the Tax Administration and VAT Division
+alongside being Co-head of the Tax Certainty Unit</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Dennis_Robert_Achim_CIR.jpg">
+</div>
+<p>Left to right: Mr. Dennis Lui (Deputy Commissioner, IRAS/CEO, Tax Academy
+of Singapore), Prof. Dr. Robert Danon, Dr. Achim Pross, Mr. Ow Fook Chuen</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Giammarco_Mukesh_Anne.jpg">
+</div>
+<p>Left to right: Dr. Giammarco Cottani, Mr. Mukesh Butani, Ms. Anne Gordon</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Panel_on_Tax_Treaty_Disputes.jpg">
+</div>
+<p>Left to right: Mr. Mukesh Butani, Prof. Dr. Robert Danon, Ms. Seema Kejriwal
+Jariwala, Dr. Niv Tadmore, Ms. Sarah Lim</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Panel_on_Transfer_Pricing_Disputes.jpg">
+</div>
+<p>Left to right: Dr. Niv Tadmore, Dr. Giammarco Cottani, Mr. Justin Campolieta</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Panel_on_Current_Challenged_and_Pressure_Areas.jpg">
+</div>
+<p>Left to right: Dr. Peter Schreiner, Mr. Vineet Rachh, Dr. Giammarco Cottani,
+Mr. Nathaniel Carden</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Panel_on_Disputes_PreventionResolution_involving_the_Global_Min_Tax.jpg">
+</div>
+<p>This panel was moderated virtually by Prof. Dr. Guglielmo Maisto. Left
+to right: Ms. Karen Goh, Dr. Achim Pross, Dr. Nadia Altenburg, Prof. Dr.
+Adolfo Martin Jimenez</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Panel_on_Trade_Law_Ramification_IIAs_ISDS.jpg">
+</div>
+<p>Left to right: Ms. Z. J. Jennifer Lim, Ms. Fereshte D Sethna, Prof. Dr.
+Robert Danon, Mr. Riyaz Dattu</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Ballroom_fullhouse.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Mingling_at_Foyer.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Student_Awards.jpg">
+</div>
+<p>NextGen Award winners</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Closure_The_End.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/TA_Team.jpg">
+</div>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -84,4 +171,8 @@ for making this conference a success!</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
