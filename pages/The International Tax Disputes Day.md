@@ -70,6 +70,11 @@ and Founding Partner of DANON</p>
 Ms. Sandra Knaepen, Deputy Head of the Tax Administration and VAT Division
 alongside being Co-head of the Tax Certainty Unit</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Dennis_Robert_Achim_CIR.jpg">
+</div>
+<p>Left to right: Mr. Dennis Lui (Deputy Commissioner, IRAS/CEO, Tax Academy
+of Singapore), Prof. Dr. Robert Danon, Dr. Achim Pross, Mr. Ow Fook Chuen</p>
 <p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -108,4 +113,6 @@ alongside being Co-head of the Tax Certainty Unit</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p></p>
