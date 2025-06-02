@@ -59,7 +59,7 @@ OECD</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Robert.jpg">
 </div>
-<p><strong>Current practical challenges of dispute prevention and resolution, building a holistic &nbsp; approach in global tax controversies: from Tax to Investment Law &amp; Trade Law ramifications</strong>&nbsp;by
+<p><strong>Current practical challenges of dispute prevention and resolution </strong>by
 Prof. Dr. Robert Danon, Head, Tax Policy Center, University of Lausanne
 and Founding Partner of DANON</p>
 <p></p>
