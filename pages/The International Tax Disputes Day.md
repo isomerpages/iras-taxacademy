@@ -105,6 +105,23 @@ Mr. Nathaniel Carden</p>
 to right: Ms. Karen Goh, Dr. Achim Pross, Dr. Nadia Altenburg, Prof. Dr.
 Adolfo Martin Jimenez</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Panel_on_Trade_Law_Ramification_IIAs_ISDS.jpg">
+</div>
+<p>Left to right: Ms. Z. J. Jennifer Lim, Ms. Fereshte D Sethna, Prof. Dr.
+Robert Danon, Mr. Riyaz Dattu</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Ballroom_fullhouse.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Mingling_at_Foyer.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Robert_CIR_Talking.jpg">
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Conference Brochure</summary>
