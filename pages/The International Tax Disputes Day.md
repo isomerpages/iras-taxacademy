@@ -47,7 +47,8 @@ for making this conference a success!</p>
 <img style="width: 100%" height="auto" width="100%" alt="Opening Address by Mr. Ow Fook Chuen, Commissioner/CEO, IRAS" src="/images/22 May 2025 Conference/CIR.jpg">
 </div>
 <p><strong>Opening Address</strong> by Mr. Ow Fook Chuen, Commissioner/CEO,
-IRAS |</p>
+IRAS | <a href="20250522_CIR_Opening_Address_for_UNIL_TA_Conference__The_International_Tax_Disputes_Day_The_Asian_and_Global_Landscape__final__1.pdf" rel="noopener nofollow" target="_blank">Click here for opening address</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22 May 2025 Conference/Achim__2_.jpg">
