@@ -104,5 +104,5 @@ APAC Businesses and Executives should prepare for</p>
 <h5></h5>
 <hr>
 <h4></h4>
-<p><strong>Please read <a href="https://production-iras-tax-academy.netlify.com/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for seminars.</strong>
+<p><strong>Please read <a href="https://www.taxacademy.sg/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for seminars.</strong>
 </p>
