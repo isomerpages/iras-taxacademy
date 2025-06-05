@@ -17,7 +17,22 @@ Tax Academy’s Level 3 Income Tax and GST Programmes.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CEO_speech1.jpg">
 </div>
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/021.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/card1.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mingle_wine.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
