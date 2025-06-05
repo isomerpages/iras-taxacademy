@@ -1,4 +1,5 @@
 collections:
   welcome-reception:
     output: true
-    order: []
+    order:
+      - Alumni Network Welcome Reception.md
