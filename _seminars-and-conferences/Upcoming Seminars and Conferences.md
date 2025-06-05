@@ -9,6 +9,11 @@ description: ""
 <p>Are you looking to learn more about a specific area of tax that is currently
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
+<p></p>
+<h5><strong>Aug 2025</strong></h5>
+<p>1 Aug: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
+</p>
+<p></p>
 <h5><strong>Jul 2025</strong></h5>
 <p><strong>1 Jul</strong>: FasTax Series: Withholding Tax - Implications
 of Tax Treaties</p>
@@ -39,8 +44,6 @@ Asian and Global Landscape</p>
 <p>15 Apr: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</a>
 </p>
 <p>23 Apr: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Taxation and Climate Change</a>
-</p>
-<p>25 Apr: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
 </p>
 <p></p>
 <h5><strong>Mar 2025</strong></h5>
