@@ -12,9 +12,9 @@ links:
     collection: research
   - title: Events
     collection: appreciation-events
-  - title: Contact Us
-    url: /contact-us/
-  - title: Monthly Newsletter
-    collection: monthly-newsletter
   - title: Alumni Network
     collection: alumni-network
+  - title: Monthly Newsletter
+    collection: monthly-newsletter
+  - title: Contact Us
+    url: /contact-us/
