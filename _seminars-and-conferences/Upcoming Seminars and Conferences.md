@@ -10,18 +10,20 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <h5><strong>Jul 2025</strong></h5>
-<p>1 Jul: FasTax Series: Withholding Tax - Implications of Tax Treaties</p>
-<p>3 Jul: TaxEdge Series: IP Considerations for Software Licensing Arrangements</p>
-<p>9 Jul: TEI-TA Thrive in Tax Series: Leadership-Transactional vs Transformational
-Leadership</p>
+<p><strong>1 Jul</strong>: FasTax Series: Withholding Tax - Implications
+of Tax Treaties</p>
+<p><strong>3 Jul</strong>: TaxEdge Series: IP Considerations for Software
+Licensing Arrangements</p>
+<p><strong>9 Jul</strong>: TEI-TA Thrive in Tax Series: Leadership-Transactional
+vs Transformational Leadership</p>
 <h5><strong>Jun 2025</strong></h5>
-<p>3 Jun: FasTax Series: GST ASK</p>
-<p>4 Jun: TaxEdge Series: Navigating-Cross Border Investment: Insights and
-Strategies Between Asia, Australia and the US</p>
-<p>23 Jun: TaxEdge Series: U.S. Tariffs &amp; Taxes: Preparing Business for
-Policy Shifts</p>
-<p>25 Jun: FasTax Series: Navigating GST Essentials</p>
-<p>27 June: Law 101 for Tax Professionals: Employment Law</p>
+<p><strong>3 Jun</strong>: FasTax Series: GST ASK</p>
+<p><strong>4 Jun</strong>: TaxEdge Series: Navigating-Cross Border Investment:
+Insights and Strategies Between Asia, Australia and the US</p>
+<p><strong>23 Jun</strong>: TaxEdge Series: U.S. Tariffs &amp; Taxes: Preparing
+Business for Policy Shifts</p>
+<p><strong>25 Jun</strong>: FasTax Series: Navigating GST Essentials</p>
+<p><strong>27 Jun</strong>: Law 101 for Tax Professionals: Employment Law</p>
 <p></p>
 <h5><strong>May 2025</strong></h5>
 <p>7 May: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">Liberation Day or Armageddon</a>-
