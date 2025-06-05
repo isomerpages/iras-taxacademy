@@ -4,7 +4,7 @@ permalink: /taxtrek-series/
 variant: tiptap
 description: ""
 ---
-<h4><strong><sub>25 Apr 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong><sub>1 Aug 2025 | 3.30 p.m. to 5.30 p.m.</sub></strong></h4>
 <h4><strong>A Career in Tax – Multifaceted Options and Opportunities</strong></h4>
 <p>Join us in this exciting fireside chat to hear from senior tax practitioners
 on their tax career journey as they “spill the beans” and share why they
@@ -46,10 +46,10 @@ not-to-miss session!&nbsp;</p>
 <p>Venue: Auditorium at Level 5, Revenue House, 55 Newton Road S(307987)</p>
 </li>
 <li>
-<p>Date: 25 Apr 2025</p>
+<p>Date: 1 Aug 2025</p>
 </li>
 <li>
-<p>Time: 3pm to 5pm</p>
+<p>Time: 3.30pm to 5.30pm</p>
 </li>
 <li>
 <p>Fees: This is a complimentary seminar</p>
@@ -58,7 +58,7 @@ not-to-miss session!&nbsp;</p>
 <p>Registration is on first-come-first served.</p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/67d7c95a736ce87ed24b0ead" rel="noopener nofollow" target="_blank">Registration Form</a>
+<p><a href="https://form.gov.sg/68417d7267c83ab8faa67a01" rel="noopener nofollow" target="_blank">Registration Form</a>
 </p>
 </li>
 </ul>
