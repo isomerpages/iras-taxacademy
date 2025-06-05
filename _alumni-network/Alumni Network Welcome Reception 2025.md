@@ -41,9 +41,6 @@ Tax Academy’s Level 3 Income Tax and GST Programmes.</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cocktail_table3.jpg">
-</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -55,5 +52,37 @@ Tax Academy’s Level 3 Income Tax and GST Programmes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Darren_Vikna.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/055.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH_table.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/group_table.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/round1.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/group_bar.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/184.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
