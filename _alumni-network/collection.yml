@@ -2,5 +2,5 @@ collections:
   alumni-network:
     output: true
     order:
-      - Alumni Network Welcome Reception 2025.md
       - About the Network.md
+      - Alumni Network Welcome Reception 2025.md
