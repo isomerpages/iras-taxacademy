@@ -1,0 +1,4 @@
+collections:
+  welcome-reception:
+    output: true
+    order: []
