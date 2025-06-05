@@ -11,8 +11,11 @@ not covered in our events ? Do share with us through this <a href="https://form.
 Thank you!</p>
 <p></p>
 <h5><strong>Aug 2025</strong></h5>
-<p>1 Aug: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
+<p><strong>1 Aug</strong>: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
 </p>
+<p><strong>22 Aug</strong>: Law 101 for Tax Professionals: Company Law</p>
+<p><strong>28 Aug</strong>: Joint TA-IVAS Seminar on Navigating IP, Valuation
+and Tax Considerations in M&amp;A Transactions</p>
 <p></p>
 <h5><strong>Jul 2025</strong></h5>
 <p><strong>1 Jul</strong>: FasTax Series: Withholding Tax - Implications
