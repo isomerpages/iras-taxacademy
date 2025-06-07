@@ -40,6 +40,7 @@ sections:
       button: Register Here
       url: https://go.gov.sg/ai-and-tax
       alt: Image alt text
+      image: /images/image005.png
   - announcements:
       title: Post Conference Highlights
       id: announcements
