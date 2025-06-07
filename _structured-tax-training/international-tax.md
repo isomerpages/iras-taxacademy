@@ -70,7 +70,7 @@ for discussions.</p>
 <p>Don’t miss the opportunity to network with the TP experts from academic
 and industry both local and overseas as there will be a networking lunch
 on the first day of the programme.</p>
-<p>Dates of programme: 29 and 30 Sep, 1 and 2 Oct 2024</p>
+<p>Dates of programme: 29 and 30 Sep, 1 and 2 Oct 2025</p>
 <p><a href="https://go.gov.sg/euowsx" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/WU_TA_Advanced_Transfer_Pricing_Prog_2025.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
