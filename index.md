@@ -30,6 +30,16 @@ sections:
           description: Levels 1 to 3
           url: /executive-tax-programmes/international-tax/
       variant: side
+  - infopic:
+      title: AI & Tax Training
+      subtitle: AI & Tax Training
+      id: infopic
+      description: Get ready to be at the forefront of tax innovation! Join us for
+        first-ever AI & Tax training programme, an exciting collaboration with
+        PwC Singapore!
+      button: Register Here
+      url: https://go.gov.sg/ai-and-tax
+      alt: Image alt text
   - announcements:
       title: Post Conference Highlights
       id: announcements
