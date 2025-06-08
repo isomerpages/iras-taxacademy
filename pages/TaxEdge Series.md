@@ -39,6 +39,9 @@ history, operations, and strategic business planning implications:</p>
 <summary>About the Speakers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Andy_Shafiqah_Tracy.jpg">
+</div>
 <p></p>
 <p></p>
 </div>
