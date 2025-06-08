@@ -6,6 +6,38 @@ description: ""
 ---
 <h4><strong><sub>23 Jun 2025 | 3.00 p.m. to 6.00 p.m.</sub></strong></h4>
 <h4><strong>US Tariffs &amp; Taxes: Preparing Business for Policy Shifts</strong></h4>
+<p>Join us for this session with our panel of experts from KPMG Singapore
+as we explore a comprehensive analysis of US tariffs, covering their recent
+history, operations, and strategic business planning implications:</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Background and What’s happened so far on the US tariffs front</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The latest US tariff developments</p>
+</li>
+<li>
+<p>What can we expect on the US tariffs front</p>
+</li>
+<li>
+<p>Related tax considerations</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>The Ins and Outs of how Tariffs Work</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Overview of how tariffs work</p>
+</li>
+<li>
+<p>Relevant considerations</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p></p>
 <h4><strong><sub>7 May 2025 | 9.30 a.m. to 11.30 a.m.</sub></strong></h4>
 <p></p>
