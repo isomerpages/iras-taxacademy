@@ -4,6 +4,9 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>23 Jun 2025 | 3.00 p.m. to 6.00 p.m.</sub></strong></h4>
+<h4><strong>US Tariffs &amp; Taxes: Preparing Business for Policy Shifts</strong></h4>
+<p></p>
 <h4><strong><sub>7 May 2025 | 9.30 a.m. to 11.30 a.m.</sub></strong></h4>
 <p></p>
 <h4><strong>Liberation Day or Armageddon - Impact of U.S. Trade Measures for Businesses Navigating Through Treacherous Waters</strong></h4>
