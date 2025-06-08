@@ -9,8 +9,6 @@ description: ""
 <p>Join us for this session with our panel of experts from KPMG Singapore
 as we explore a comprehensive analysis of US tariffs, covering their recent
 history, operations, and strategic business planning implications:</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Background and What’s happened so far on the US tariffs front</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -24,8 +22,6 @@ history, operations, and strategic business planning implications:</p>
 <p>Related tax considerations</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>The Ins and Outs of how Tariffs Work</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -36,8 +32,26 @@ history, operations, and strategic business planning implications:</p>
 <p>Relevant considerations</p>
 </li>
 </ul>
+<p><strong>How companies can be prepared and planning options</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p></p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong><sub>7 May 2025 | 9.30 a.m. to 11.30 a.m.</sub></strong></h4>
 <p></p>
