@@ -20,8 +20,8 @@ and Tax Considerations in M&amp;A Transactions</p>
 <h5><strong>Jul 2025</strong></h5>
 <p><strong>1 Jul</strong>: FasTax Series: Withholding Tax - Implications
 of Tax Treaties</p>
-<p><strong>3 Jul</strong>: TaxEdge Series: IP Considerations for Software
-Licensing Arrangements</p>
+<p><strong>3 Jul</strong>: TaxEdge Series: Practical IP and Tax Considerations
+for Software Licensing Agreements</p>
 <p><strong>9 Jul</strong>: TEI-TA Thrive in Tax Series: Leadership-Transactional
 vs Transformational Leadership</p>
 <h5><strong>Jun 2025</strong></h5>
