@@ -30,7 +30,8 @@ vs Transformational Leadership</p>
 Insights and Strategies Between Asia, Australia and the US</p>
 <p><strong>23 Jun</strong>: TaxEdge Series: U.S. Tariffs &amp; Taxes: Preparing
 Business for Policy Shifts</p>
-<p><strong>25 Jun</strong>: FasTax Series: Navigating GST Essentials</p>
+<p><strong>25 Jun</strong>: FasTax Series: Navigating GST Essentials - From
+Basics to Current Priorities</p>
 <p><strong>27 Jun</strong>: Law 101 for Tax Professionals: Employment Law</p>
 <p></p>
 <h5><strong>May 2025</strong></h5>
