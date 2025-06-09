@@ -13,6 +13,7 @@ Thank you!</p>
 <h5><strong>Aug 2025</strong></h5>
 <p><strong>1 Aug</strong>: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
 </p>
+<p><strong>12 Aug:</strong> CSIS 10th CSPs Conference 2025</p>
 <p><strong>22 Aug</strong>: Law 101 for Tax Professionals: Company Law</p>
 <p><strong>28 Aug</strong>: Joint TA-IVAS Seminar on Navigating IP, Valuation
 and Tax Considerations in M&amp;A Transactions</p>
