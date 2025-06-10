@@ -37,8 +37,8 @@ Gates-TA)</p>
 <p><strong>4 June:</strong> The International Tax Conference 2025: Recent
 Trends in Managing International Corporate Tax Controversies Conference
 (King's College London-TA)</p>
-<p><strong>23 Jun</strong>: TaxEdge Series: U.S. Tariffs &amp; Taxes: Preparing
-Business for Policy Shifts</p>
+<p><strong>23 Jun</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: U.S. Tariffs &amp; Taxes: Preparing Business for Policy Shifts</a>
+</p>
 <p><strong>24 Jun:</strong>  <a href="https://lnkd.in/gvQV_RcB" rel="noopener nofollow" target="_blank">Navigating Intangible Asset Valuation for Financial Reporting, Tax, and Transfer Pricing: A Singapore Perspective</a>
 </p>
 <p><strong>25 Jun</strong>: FasTax Series: Navigating GST Essentials - From
