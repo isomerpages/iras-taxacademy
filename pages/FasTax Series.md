@@ -11,7 +11,6 @@ description: ""
 GST concepts and current GST developments. Whether you are new to GST or
 looking to stay updated, this session will walk you through the essentials
 and common issues that all GST-registered businesses should know.</p>
-<p>&nbsp;</p>
 <p><strong>Agenda highlights:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -67,7 +66,7 @@ and common issues that all GST-registered businesses should know.</p>
 <p>This webinar will be conducted via Zoom</p>
 </li>
 <li>
-<p>Date: 13 Mar 2025</p>
+<p>Date: 25 Jun 2025</p>
 </li>
 <li>
 <p>Time: 2pm to 5pm</p>
@@ -77,10 +76,6 @@ and common issues that all GST-registered businesses should know.</p>
 </li>
 <li>
 <p>Registration is on first-come-first served.</p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/67bef50ff61179dd4ac8ea19" rel="noopener nofollow" target="_blank">Registration Form</a>
-</p>
 </li>
 </ul>
 <p></p>
