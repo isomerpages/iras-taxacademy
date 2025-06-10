@@ -41,8 +41,8 @@ Trends in Managing International Corporate Tax Controversies Conference
 </p>
 <p><strong>24 Jun:</strong>  <a href="https://lnkd.in/gvQV_RcB" rel="noopener nofollow" target="_blank">Navigating Intangible Asset Valuation for Financial Reporting, Tax, and Transfer Pricing: A Singapore Perspective</a>
 </p>
-<p><strong>25 Jun</strong>: FasTax Series: Navigating GST Essentials - From
-Basics to Current Priorities</p>
+<p><strong>25 Jun</strong>: F<a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Navigating GST Essentials - From Basics to Current Priorities</a>
+</p>
 <p><strong>27 Jun</strong>: Law 101 for Tax Professionals: Employment Law</p>
 <p></p>
 <h5><strong>May 2025</strong></h5>
