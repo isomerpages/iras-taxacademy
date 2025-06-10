@@ -63,7 +63,7 @@ history, operations, and strategic business planning implications:</p>
 </details>
 </div>
 <p></p>
-<h4><strong><sub>7 May 2025 | 9.30 a.m. to 11.30 a.m.</sub></strong></h4>
+<h4><strong><sub>7 May 2025 | 9.30 a.m. to 11.30 a.m. | Zoom</sub></strong></h4>
 <p></p>
 <h4><strong>Liberation Day or Armageddon - Impact of U.S. Trade Measures for Businesses Navigating Through Treacherous Waters</strong></h4>
 <p><em>This webinar is jointly organised by Taxise Asia LLC (WTS Taxise) &nbsp;and Tax Academy of Singapore.</em>
@@ -101,7 +101,7 @@ the effects of the U.S. tariff measures.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<h4><strong><sub>23 Apr 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong><sub>23 Apr 2025 | 2.00 p.m. to 5.00 p.m. | Revenue House</sub></strong></h4>
 <h4><strong>Taxation and Climate Change</strong></h4>
 <p>Have you ever wondered how (and to what extent) taxation can be used to
 address the adverse consequences of climate change? This seminar will delve
@@ -187,7 +187,7 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<h4><strong><sub>15 Apr 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong><sub>15 Apr 2025 | 3.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</strong></h4>
 <p>Join Senior Counsel Edmund Leow (Senior Partner, Dentons Rodyk) for an
 insightful webinar on Singapore's evolving family office landscape.</p>
@@ -252,7 +252,7 @@ schemes</p>
 </details>
 </div>
 <p></p>
-<h4><strong><sub>20 Mar 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong><sub>20 Mar 2025 | 3.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>Johor-Singapore SEZ</strong></h4>
 <p>The Johor-Singapore Special Economic Zone (JS-SEZ) strengthens both regions'
 competitiveness through enhanced cross-border connectivity, smoother people
