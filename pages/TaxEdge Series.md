@@ -4,9 +4,13 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
-<h4><strong><sub>23 Jun 2025 | 3.00 p.m. to 6.00 p.m.</sub></strong></h4>
+<h4><strong><sub>23 Jun 2025 | 3.00 p.m. to 6.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>US Tariffs &amp; Taxes: Preparing Business for Policy Shifts</strong></h4>
+<p><a href="https://form.gov.sg/68383b03ac624a346b5933ea" rel="noopener nofollow" target="_blank">Register Now!</a>
+</p>
 <p>Join us for this session with our panel of experts from KPMG Singapore
+- <a href="https://www.linkedin.com/in/andy-baik-77084736/" rel="noopener nofollow" target="_blank">Andy Baik (Partner)</a>,
+<a href="https://www.linkedin.com/in/shafiqah-abdul-samat-9a967156/" rel="noopener nofollow" target="_blank">Shafiqah Abdul Samat (Principal Advisor)</a>, <a href="https://www.linkedin.com/in/tracy-c-4a3867b4/" rel="noopener nofollow" target="_blank">Tracy Chu (Senior Manager)</a>,
 as we explore a comprehensive analysis of US tariffs, covering their recent
 history, operations, and strategic business planning implications:</p>
 <p><strong>Background and What’s happened so far on the US tariffs front</strong>
@@ -51,7 +55,10 @@ history, operations, and strategic business planning implications:</p>
 <details class="isomer-details">
 <summary>Admin Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>This webinar will be conducted via Zoom.</p>
+<p>Date: 23 Jun 2025</p>
+<p>Time: 3pm to 6pm</p>
+<p>Fee:&nbsp; $163.50 (incl. GST) per person</p>
 </div>
 </details>
 </div>
