@@ -10,6 +10,9 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <p></p>
+<h5><strong>Sep 2025</strong></h5>
+<p><strong>1 &amp; 2 Sep: </strong><a href="https://www.unil.ch/news/fr/1747729178585" rel="noopener nofollow" target="_blank">The MAP Day (UniL-TA)</a>
+</p>
 <h5><strong>Aug 2025</strong></h5>
 <p><strong>1 Aug</strong>: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
 </p>
