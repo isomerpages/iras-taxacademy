@@ -50,24 +50,10 @@ and common issues that all GST-registered businesses should know.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Elin Sou</strong>
-</p>
-<p><strong>Senior Manager, GST Division, IRAS</strong>
-</p>
-<p>Elin is currently a Senior Manager with the IRAS GST Division (General
-Branch). She has more than 10 years of experience in GST work and has undertaken
-various functions in the GST Division ranging from ACAP reviews and audits
-on large businesses to service-related projects.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Cheryl_Lina_Elin.png">
+</div>
 <p></p>
-<p><strong>Yeo Haig Ian</strong>
-</p>
-<p><strong>Manager, GST Division, IRAS</strong>
-</p>
-<p>Ian has more than 20 years of professional experience specializing in
-goods and services taxation. As an auditor, he educates taxpayers on their
-tax obligations and compliance with the applicable tax laws and practices.
-He also conducts audits on taxpayers to deter non-compliance and improve
-voluntary compliance.</p>
 </div>
 </details>
 </div>
