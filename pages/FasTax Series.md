@@ -5,10 +5,45 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><sub>25 Jun 2025 | 2.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
-<h4><strong>GST ASK</strong></h4>
-<p>This webinar will feature practical examples illustrating the use of ASK
-for good GST compliance. You will learn how ASK can be used to safeguard
-your business from making costly GST mistakes.</p>
+<h4><strong>Navigating GST Essentials - From Basics to Current Priorities</strong></h4>
+<h4><a href="https://form.gov.sg/683bc3569213c240690a701b" rel="noopener nofollow" target="_blank">Register Now!</a></h4>
+<p>Join us for a half-day webinar designed to provide an overview of key
+GST concepts and current GST developments. Whether you are new to GST or
+looking to stay updated, this session will walk you through the essentials
+and common issues that all GST-registered businesses should know.</p>
+<p>&nbsp;</p>
+<p><strong>Agenda highlights:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Responsibilities of a GST-registered business</em>
+</p>
+</li>
+<li>
+<p><em>Key GST concepts</em>
+</p>
+</li>
+<li>
+<p><em>Common errors</em>
+</p>
+</li>
+<li>
+<p><em>Zero-rating of exports and international services</em>
+</p>
+</li>
+<li>
+<p><em>Reimbursement and disbursement of expenses</em>
+</p>
+</li>
+<li>
+<p><em>Fringe benefit</em>
+</p>
+</li>
+<li>
+<p><em>Current areas of audit</em>
+</p>
+</li>
+</ul>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>About the Speakers</strong>
