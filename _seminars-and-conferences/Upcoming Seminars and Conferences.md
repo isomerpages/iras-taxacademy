@@ -32,7 +32,8 @@ vs Transformational Leadership</p>
 <h5><strong>Jun 2025</strong></h5>
 <p><strong>3 Jun</strong>: FasTax Series: GST ASK</p>
 <p><strong>4 Jun</strong>: TaxEdge Series: Navigating-Cross Border Investment:
-Insights and Strategies Between Asia, Australia and the US</p>
+Insights and Strategies Between Asia, Australia and the US (TEI-K&amp;L
+Gates-TA)</p>
 <p><strong>4 June:</strong> The International Tax Conference 2025: Recent
 Trends in Managing International Corporate Tax Controversies Conference
 (King's College London)</p>
