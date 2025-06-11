@@ -4,7 +4,118 @@ permalink: /fastax-series-stamp-duty-101/
 variant: tiptap
 description: ""
 ---
-<h4><strong><sub>14 May 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong><sub>25 Jun 2025 | 2.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
+<h4><strong>Navigating GST Essentials - From Basics to Current Priorities</strong></h4>
+<h4><a href="https://form.gov.sg/683bc3569213c240690a701b" rel="noopener nofollow" target="_blank">Register Now!</a></h4>
+<p>Join us for a half-day webinar designed to provide an overview of key
+GST concepts and current GST developments. Whether you are new to GST or
+looking to stay updated, this session will walk you through the essentials
+and common issues that all GST-registered businesses should know.</p>
+<p><strong>Agenda highlights:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Responsibilities of a GST-registered business</em>
+</p>
+</li>
+<li>
+<p><em>Key GST concepts</em>
+</p>
+</li>
+<li>
+<p><em>Common errors</em>
+</p>
+</li>
+<li>
+<p><em>Zero-rating of exports and international services</em>
+</p>
+</li>
+<li>
+<p><em>Reimbursement and disbursement of expenses</em>
+</p>
+</li>
+<li>
+<p><em>Fringe benefit</em>
+</p>
+</li>
+<li>
+<p><em>Current areas of audit</em>
+</p>
+</li>
+</ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>About the Speakers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Cheryl_Lina_Elin.png">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Admin Details</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>This webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 25 Jun 2025</p>
+</li>
+<li>
+<p>Time: 2pm to 5pm</p>
+</li>
+<li>
+<p>Fees: SGD 163.50 (incl. 9% GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+</ul>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong><sub>3 Jun 2025 | 2.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
+<h4><strong>GST ASK - A Self Help Tool for GST Compliance</strong></h4>
+<p>This webinar will feature practical examples illustrating the use of ASK
+for good GST compliance. You will learn how ASK can be used to safeguard
+your business from making costly GST mistakes.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Admin Details</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>This webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 3 Jun 2025</p>
+</li>
+<li>
+<p>Time: 2pm to 5pm</p>
+</li>
+<li>
+<p>Fees: SGD 163.50 (incl. 9% GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served.</p>
+</li>
+</ul>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong><sub>14 May 2025 | 3.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>GST: A Practical Guide to Compliance</strong></h4>
 <p>Looking to strengthen your GST practices? Join our experienced panel of
 tax experts as they share valuable insights on GST compliance and audit
@@ -140,7 +251,7 @@ preparation.</p>
 </details>
 </div>
 <p></p>
-<h4><strong><sub>13 Mar 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong><sub>13 Mar 2025 | 2.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>GST ASK - A Self Help Tool for GST Compliance</strong></h4>
 <p>This webinar will feature practical examples illustrating the use of ASK
 for good GST compliance. You will learn how ASK can be used to safeguard

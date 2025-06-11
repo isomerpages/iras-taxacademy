@@ -10,6 +10,9 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <p></p>
+<h5><strong>Sep 2025</strong></h5>
+<p><strong>1 &amp; 2 Sep: </strong><a href="https://www.unil.ch/news/fr/1747729178585" rel="noopener nofollow" target="_blank">The MAP Day (UniL-TA)</a>
+</p>
 <h5><strong>Aug 2025</strong></h5>
 <p><strong>1 Aug</strong>: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
 </p>
@@ -20,17 +23,26 @@ and Tax Considerations in M&amp;A Transactions</p>
 <h5><strong>Jul 2025</strong></h5>
 <p><strong>1 Jul</strong>: FasTax Series: Withholding Tax - Implications
 of Tax Treaties</p>
-<p><strong>3 Jul</strong>: TaxEdge Series: IP Considerations for Software
-Licensing Arrangements</p>
+<p><strong>3 Jul</strong>: TaxEdge Series: Practical IP and Tax Considerations
+for Software Licensing Agreements</p>
 <p><strong>9 Jul</strong>: TEI-TA Thrive in Tax Series: Leadership-Transactional
 vs Transformational Leadership</p>
+<p><strong>28 Jul:</strong>  <a href="https://lnkd.in/g7swRZu6" rel="noopener nofollow" target="_blank">Taxation and the Breakdown of Globalization: Navigating the New Economic Landscape</a>
+</p>
 <h5><strong>Jun 2025</strong></h5>
 <p><strong>3 Jun</strong>: FasTax Series: GST ASK</p>
 <p><strong>4 Jun</strong>: TaxEdge Series: Navigating-Cross Border Investment:
-Insights and Strategies Between Asia, Australia and the US</p>
-<p><strong>23 Jun</strong>: TaxEdge Series: U.S. Tariffs &amp; Taxes: Preparing
-Business for Policy Shifts</p>
-<p><strong>25 Jun</strong>: FasTax Series: Navigating GST Essentials</p>
+Insights and Strategies Between Asia, Australia and the US (TEI-K&amp;L
+Gates-TA)</p>
+<p><strong>4 June:</strong> The International Tax Conference 2025: Recent
+Trends in Managing International Corporate Tax Controversies Conference
+(King's College London-TA)</p>
+<p><strong>23 Jun</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: U.S. Tariffs &amp; Taxes: Preparing Business for Policy Shifts</a>
+</p>
+<p><strong>24 Jun:</strong>  <a href="https://lnkd.in/gvQV_RcB" rel="noopener nofollow" target="_blank">Navigating Intangible Asset Valuation for Financial Reporting, Tax, and Transfer Pricing: A Singapore Perspective</a>
+</p>
+<p><strong>25 Jun</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Navigating GST Essentials - From Basics to Current Priorities</a>
+</p>
 <p><strong>27 Jun</strong>: Law 101 for Tax Professionals: Employment Law</p>
 <p></p>
 <h5><strong>May 2025</strong></h5>

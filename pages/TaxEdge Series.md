@@ -4,7 +4,66 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
-<h4><strong><sub>7 May 2025 | 9.30 a.m. to 11.30 a.m.</sub></strong></h4>
+<h4><strong><sub>23 Jun 2025 | 3.00 p.m. to 6.00 p.m. | Zoom</sub></strong></h4>
+<h4><strong>US Tariffs &amp; Taxes: Preparing Business for Policy Shifts</strong></h4>
+<p><a href="https://form.gov.sg/68383b03ac624a346b5933ea" rel="noopener nofollow" target="_blank">Register Now!</a>
+</p>
+<p>Join us for this session with our panel of experts from KPMG Singapore
+- <a href="https://www.linkedin.com/in/andy-baik-77084736/" rel="noopener nofollow" target="_blank">Andy Baik (Partner)</a>,
+<a href="https://www.linkedin.com/in/shafiqah-abdul-samat-9a967156/" rel="noopener nofollow" target="_blank">Shafiqah Abdul Samat (Principal Advisor)</a>, <a href="https://www.linkedin.com/in/tracy-c-4a3867b4/" rel="noopener nofollow" target="_blank">Tracy Chu (Senior Manager)</a>,
+as we explore a comprehensive analysis of US tariffs, covering their recent
+history, operations, and strategic business planning implications:</p>
+<p><strong>Background and What’s happened so far on the US tariffs front</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The latest US tariff developments</p>
+</li>
+<li>
+<p>What can we expect on the US tariffs front</p>
+</li>
+<li>
+<p>Related tax considerations</p>
+</li>
+</ul>
+<p><strong>The Ins and Outs of how Tariffs Work</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Overview of how tariffs work</p>
+</li>
+<li>
+<p>Relevant considerations</p>
+</li>
+</ul>
+<p><strong>How companies can be prepared and planning options</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Andy_Shafiqah_Tracy.jpg">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This webinar will be conducted via Zoom.</p>
+<p>Date: 23 Jun 2025</p>
+<p>Time: 3pm to 6pm</p>
+<p>Fee:&nbsp; $163.50 (incl. GST) per person</p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong><sub>7 May 2025 | 9.30 a.m. to 11.30 a.m. | Zoom</sub></strong></h4>
 <p></p>
 <h4><strong>Liberation Day or Armageddon - Impact of U.S. Trade Measures for Businesses Navigating Through Treacherous Waters</strong></h4>
 <p><em>This webinar is jointly organised by Taxise Asia LLC (WTS Taxise) &nbsp;and Tax Academy of Singapore.</em>
@@ -42,7 +101,7 @@ the effects of the U.S. tariff measures.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<h4><strong><sub>23 Apr 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong><sub>23 Apr 2025 | 2.00 p.m. to 5.00 p.m. | Revenue House</sub></strong></h4>
 <h4><strong>Taxation and Climate Change</strong></h4>
 <p>Have you ever wondered how (and to what extent) taxation can be used to
 address the adverse consequences of climate change? This seminar will delve
@@ -128,7 +187,7 @@ Practice Leader at PwC Singapore.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<h4><strong><sub>15 Apr 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong><sub>15 Apr 2025 | 3.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</strong></h4>
 <p>Join Senior Counsel Edmund Leow (Senior Partner, Dentons Rodyk) for an
 insightful webinar on Singapore's evolving family office landscape.</p>
@@ -193,7 +252,7 @@ schemes</p>
 </details>
 </div>
 <p></p>
-<h4><strong><sub>20 Mar 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong><sub>20 Mar 2025 | 3.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>Johor-Singapore SEZ</strong></h4>
 <p>The Johor-Singapore Special Economic Zone (JS-SEZ) strengthens both regions'
 competitiveness through enhanced cross-border connectivity, smoother people
