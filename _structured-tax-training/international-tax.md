@@ -85,7 +85,7 @@ the key concepts of international tax planning and assesses the impact
 of recent developments in international taxation through technical learning
 and interactive case studies for MNCs.</p>
 <p>Dates of programme held at Revenue House (Singapore): 11 &amp; 12 Sep
-(Each session : 9.00 a.m. to 5.00 p.m.)</p>
+(Each session: 9.00 a.m. to 5.00 p.m.)</p>
 <p><a href="https://form.gov.sg/68423ff412a1cbfeedbe35e6" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/Advanced_ITP_2025_Programme_Brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
