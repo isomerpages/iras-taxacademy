@@ -29,7 +29,7 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 3 : Advanced International Tax Planning Programme</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Aug 2024 Intake: <a href="/executive-tax-programmes/international-tax/#itp-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Sep 2025 Intake: <a href="/executive-tax-programmes/international-tax/#itp-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
@@ -84,12 +84,12 @@ main issues faced by multinational corporations (MNCs) in Asia. It covers
 the key concepts of international tax planning and assesses the impact
 of recent developments in international taxation through technical learning
 and interactive case studies for MNCs.</p>
-<p>Dates of programme held at Revenue House (Singapore): 27 &amp; 28 Aug
-2024 (Each session : 9.00 a.m. to 5.00 p.m.)</p>
+<p>Dates of programme held at Revenue House (Singapore): 11 &amp; 12 Sep
+(Each session : 9.00 a.m. to 5.00 p.m.)</p>
 <p><a href="https://form.gov.sg/6675991bfa4168de43c9f534" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/executive-tax-programmes/Advanced_ITP_2024_Programme_Brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p><strong>Registration is CLOSED for 2024 intake.</strong>
+<p><strong>The next intake will be in Aug/Sep 2026.</strong>
 </p>
 <p><strong>Please read <a href="/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for courses.</strong>
 </p>
