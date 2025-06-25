@@ -25,6 +25,8 @@ and Tax Considerations in M&amp;A Transactions</p>
 of Tax Treaties</p>
 <p><strong>3 Jul</strong>: TaxEdge Series: Practical IP and Tax Considerations
 for Software Licensing Agreements</p>
+<p><strong>7 Jul:</strong>  <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4lGqJ26laKFQX1vdmZ2tgSMSqTb5_NoTjzROxyGto9bfFYQ/viewform" rel="noopener nofollow" target="_blank">CCLA x Tax Academy Seminar: The tax residence of individuals under Canada’s Double Tax Agreements: A comparative analysis with other common law countries (SMU)</a>
+</p>
 <p><strong>9 Jul</strong>: TEI-TA Thrive in Tax Series: Leadership-Transactional
 vs Transformational Leadership</p>
 <p><strong>28 Jul:</strong>  <a href="https://lnkd.in/g7swRZu6" rel="noopener nofollow" target="_blank">Taxation and the Breakdown of Globalization: Navigating the New Economic Landscape</a>
