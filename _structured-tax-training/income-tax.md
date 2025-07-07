@@ -16,7 +16,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jul 2025 intakes: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Jul 2025 intakes: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 <p></p>
 </li>
@@ -96,24 +96,19 @@ ACCA Advanced Singapore Taxation</p>
 In-house Singapore income tax training by Big 4</p>
 <p>Exemptions will be reviewed on a case-by-case basis.</p>
 <p></p>
-<p>Intake 1/2025 (23 Jun to 5 Aug 2025)</p>
+<p>Intake 1/2025 (Registration is closed)</p>
 <p><a href="/files/L2_IT_1_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://go.gov.sg/l2it12025reg" rel="noopener nofollow" target="_blank">Registration</a>
-</p>
-<p>Intake 2/2025 (7 Jul to 7 Aug 2025)</p>
+<p></p>
+<p>Intake 2/2025 (Registration is closed)</p>
 <p><a href="/files/L2_IT_2_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://go.gov.sg/l2it22025reg" rel="noopener nofollow" target="_blank">Registration</a>
-</p>
-<p>Registration is OPEN.</p>
-<p></p>
-<p>If the classes are full, you may wish to fill out the waiting list form.</p>
-<p><a href="https://go.gov.sg/itl2waitinglist" rel="noopener nofollow" target="_blank">Waiting list</a>
-</p>
 <p>The next intake for this course will be in Sep 2025. Registration will
-be available six to eight weeks prior to the course commencement date.</p>
-<p></p>
+be available six to eight weeks prior to the course commencement date.
+You may wish to register your interest for this intake and we will be in
+touch when registration opens.</p>
+<p><a href="https://go.gov.sg/l2it32025interest" rel="noopener nofollow" target="_blank">Interest form</a>
+</p>
 <h3><strong>Income Tax Programme Level 3: Advanced Tax Programme</strong></h3>
 <p>The Advanced Tax Programme (ATP) is the foremost training programme for
 tax professionals. It offers rigorous training on a wide range of core
