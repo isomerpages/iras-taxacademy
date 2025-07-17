@@ -8,7 +8,7 @@ description: ""
 <h3><strong>Get ready to be at the forefront of tax innovation! Join us for Tax Academy's first-ever AI &amp; Tax training programme, an exciting collaboration powered by PwC Singapore!</strong></h3>
 </blockquote>
 <p></p>
-<p>Register now at @ $763 incl. GST
+<p>Register now at @ $763 per pax incl. GST
 <br><a href="https://go.gov.sg/ai-and-tax" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ai-and-tax</a>
 </p>
 <p><strong>Date </strong>: 4 Aug 2025
