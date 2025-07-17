@@ -37,8 +37,8 @@ sections:
       description: Get ready to be at the forefront of tax innovation! Join us for
         first-ever AI & Tax training programme, an exciting collaboration with
         PwC Singapore!
-      button: Register Here
-      url: https://go.gov.sg/ai-and-tax
+      button: More Details
+      url: https://www.taxacademy.sg/ai-tax-training-programme/
       alt: Image alt text
       image: /images/image005.png
   - announcements:
