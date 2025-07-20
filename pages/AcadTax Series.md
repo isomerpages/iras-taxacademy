@@ -71,6 +71,9 @@ taxation landscape!</p>
 <summary>About the Speaker</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Dr_Leopoldo.png">
+</div>
 <p></p>
 </div>
 </details>
