@@ -54,6 +54,14 @@ taxation landscape!</p>
 </p>
 </li>
 </ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong><sub>12 Aug 2025 | 3.00 p.m. to 5.00 p.m. | Revenue House Discovery and Courage Rooms</sub></strong></h4>
 <h4><strong>Global Tax Reform and Trade Tariffs - China's Perspective</strong></h4>
