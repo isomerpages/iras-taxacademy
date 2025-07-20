@@ -66,7 +66,15 @@ taxation landscape!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p></p>
+</div>
+</details>
+</div>
 <h4><strong><sub>12 Aug 2025 | 3.00 p.m. to 5.00 p.m. | Revenue House Discovery and Courage Rooms</sub></strong></h4>
 <h4><strong>Global Tax Reform and Trade Tariffs - China's Perspective</strong></h4>
 <h4><a href="https://form.gov.sg/68761caed3df5682c99a16d5" rel="noopener nofollow" target="_blank"><u>Register Now!</u></a></h4>
