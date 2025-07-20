@@ -58,6 +58,10 @@ taxation landscape!</p>
 <details class="isomer-details">
 <summary>Admin Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Date and Time: 13 Aug 25, 3pm to 4.30pm</p>
+<p>Fee: $109 (incl GST)</p>
+<p>Venue: Revenue House Auditorium</p>
+<p>Refreshment will be provided</p>
 <p></p>
 </div>
 </details>
