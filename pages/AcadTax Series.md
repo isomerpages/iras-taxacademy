@@ -19,7 +19,6 @@ this option remains viable through a balanced, four-pronged approach that
 includes a clear commitment to international frameworks or a complete depart
 from them, an EU-wide coordination that avoids discriminatory pitfalls,
 and the use of strategic diplomacy.</p>
-<p>&nbsp;</p>
 <p>Dr. Parada will also analyse the feasibility of using Europe’s Value Added
 Tax (VAT) system as a superior alternative to an EU-wide DST. Despite certain
 limitations in B2B contexts and redistributive effects, Dr Parada argues
