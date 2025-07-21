@@ -8,7 +8,11 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2025 (May 2025): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Intake 1/2025 (May 2025): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+</p>
+</li>
+<li>
+<p>Intake 2/2025 (Aug 2025): <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank">Registration is OPEN</a>
 </p>
 <p></p>
 </li>
@@ -40,15 +44,15 @@ the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
 <p>Please be informed that this programme is fully e-learning.</p>
-<p><a href="/files/Intake_1_Course_brochure_L1_IT_2025_v2.pdf" rel="noopener nofollow" target="_blank">Details</a>
+<p><a href="https://go.gov.sg/kj0y00" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p><a href="https://form.gov.sg/68045ff076c7d84951ca3f64" rel="noopener nofollow" target="_blank">Registration</a>
+<p><a href="https://form.gov.sg/684b821e095c7f327ae154c6" rel="noopener nofollow" target="_blank">Registration</a>
 </p>
-<p>The next intake, Intake 2/2025, will be in August 2025. Registration will
-be available approximately six to eight weeks prior to the course commencement
-date. You may wish to register your interest for this intake and we will
-be in touch when registration opens.</p>
-<p><a href="https://form.gov.sg/681aa7f8df1504746fe19d85" rel="noopener nofollow" target="_blank">Interest Form</a>
+<p>The next intake, Intake 3/2025, will be in End Nov 2025. Registration
+will be available approximately six to eight weeks prior to the course
+commencement date. You may wish to register your interest for this intake
+and we will be in touch when registration opens.</p>
+<p><a href="https://form.gov.sg/686cd654baeccc60b2496117" rel="noopener nofollow" target="_blank">Interest Form (Intake 3/2025)</a>
 </p>
 <p>Passing the Income Tax Level 1 exam is not mandatory if you are intending
 to apply for the Income Tax Level 2 programme. You may proceed to apply
