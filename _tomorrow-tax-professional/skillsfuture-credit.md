@@ -77,9 +77,6 @@ of registration:</p>
 <p>Full Name (as per NRIC)</p>
 </li>
 <li>
-<p>last 4 digits of your NRIC number including the alphabet</p>
-</li>
-<li>
 <p>screenshot showing the available Skillsfuture Credit in your Skillsfuture
 portal and</p>
 </li>
