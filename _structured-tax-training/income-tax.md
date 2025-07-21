@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Intake 2/2025 (Aug 2025): <a href="https://form.gov.sg/684b821e095c7f327ae154c6" rel="noopener nofollow" target="_blank">Registration is OPEN</a>
+<p>Intake 2/2025 (Aug 2025): <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank">Registration is OPEN</a>
 </p>
 <p></p>
 </li>
