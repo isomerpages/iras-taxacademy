@@ -20,7 +20,8 @@ Thank you!</p>
 </p>
 <p><strong>13 Aug</strong>: <a href="https://www.taxacademy.sg/acadtax-series/" rel="noopener nofollow" target="_blank">Balancing Digital Taxes and Geopolitics: The European Dilemma</a>
 </p>
-<p><strong>22 Aug</strong>: Law 101 for Tax Professionals: Company Law</p>
+<p><strong>22 Aug</strong>: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals: Company Law</a>
+</p>
 <p><strong>28 Aug</strong>: Joint TA-IVAS Seminar on Navigating IP, Valuation
 and Tax Considerations in M&amp;A Transactions</p>
 <p></p>
