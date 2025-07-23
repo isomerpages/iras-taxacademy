@@ -7,6 +7,32 @@ description: ""
 <h4><strong><sub>22 Aug 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Company Law</strong></h4>
 <p></p>
+<p>Understanding the nuances of corporate governance, statutory compliance,
+and the requirements within the Companies Act enable tax practitioners
+to provide comprehensive advice to stakeholders while aligning tax planning
+with legal regulations.</p>
+<p>Join us for this in-person seminar conducted by Mr <a href="https://www.linkedin.com/in/ngpeitong/" rel="noopener noreferrer nofollow" target="_blank"><u>Ng Pei Tong</u></a>&nbsp;(Head,
+Mergers &amp; Acquisitions and Capital Markets at Covenant Chambers LLC)
+and Mr <a href="https://www.linkedin.com/in/shi-yong-yang-ab1b1ab9/" rel="noopener noreferrer nofollow" target="_blank"><u>Yang Shi Yong</u></a>&nbsp;(Director
+at Drew and Napier LLC) who will cover the following:</p>
+<p><em>Requirements under the Companies Act for common corporate actions</em>
+</p>
+<p><em>The Company Constitution – what is it and why is it important</em>
+</p>
+<p><em>The Company Secretary</em>
+</p>
+<p><em>The Company Directors</em>
+</p>
+<p><em>Re-Domiciliation</em>
+</p>
+<p><em>Amalgamation</em>
+</p>
+<p><em>Requirements on Financial Statements and Audit under Part 6 of the Companies Act</em>
+</p>
+<p><em>Directors’ Duties</em>
+</p>
+<p><em>Various Case Studies</em>
+</p>
 <p></p>
 <h4><strong><sub>27 Jun 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Employment Law</strong></h4>
