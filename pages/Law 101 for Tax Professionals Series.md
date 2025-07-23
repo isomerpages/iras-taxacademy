@@ -4,6 +4,26 @@ permalink: /law-101-for-tax-professionals-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>27 Jun 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>Employment Law</strong></h4>
+<p>Join our speakers from Baker McKenzie Wong &amp; Leow – Ms <a href="https://www.iras.gov.sg/aa88ee3c-d13d-4751-ba3f-7538ecc6b2ca?sf=3AA3B6C0C635https%3a%2f%2fwww.linkedin.com%2fin%2festher-pang-719455150%2f&amp;c=1Cgeidg%2fAR550qoDBE4ARR1g5nA%3d" rel="noopener noreferrer nofollow" target="_blank">Esther Pang</a> (Senior
+Associate, Employment) and Ms <a href="https://www.iras.gov.sg/aa88ee3c-d13d-4751-ba3f-7538ecc6b2ca?sf=3AA3B6C0C635https%3a%2f%2fwww.linkedin.com%2fin%2fsamantha-tan-29927564%2f&amp;c=1Cgeidg%2fAR550qoDBE4ARR1g5nA%3d" rel="noopener noreferrer nofollow" target="_blank">Samantha Tan</a> (Senior
+Associate) as they provide an overview of the employment lifecycle and
+related tax implications from an employer's perspective.</p>
+<p></p>
+<p><strong>Agenda</strong>
+</p>
+<p><strong>Hiring of employees<br></strong>An introduction into the requirements
+that employers should keep in mind when hiring employees in Singapore</p>
+<p><strong>Managing employees<br></strong>A brief discussion on the common
+issues that arise during an employment relationship, including performance
+issues and misconduct</p>
+<p><strong>Termination of employment<br></strong>An introduction on how an
+employer should go about terminating the employment of an employee in Singapore</p>
+<p><strong>Tax applications in the employment context - common issues that arise<br></strong><em>Labelling termination payments as "ex-gratia" or "severance"<br></em>Issues
+relating to employees working remotely</p>
+<p></p>
+<p></p>
 <h4><strong><sub>10 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Tax Crimes and Money Laundering</strong></h4>
 <p>Join us in this webinar, where our speakers Mr <a href="https://www.linkedin.com/in/charles-l-03884718/" rel="noopener nofollow" target="_blank">Charles Li</a>,
