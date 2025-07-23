@@ -31,7 +31,19 @@ relating to employees working remotely</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Admin details<br></strong>The webinar will be conducted via Zoom
+<br>Date: 27 Jun 2025
+<br>Time: 3.00pm to 5.00pm
+<br>Fees: SGD 109 (incl. GST)
+<br>Registration is on first-come-first served</p>
 <p></p>
+</div>
+</details>
+</div>
 <h4><strong><sub>10 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Tax Crimes and Money Laundering</strong></h4>
 <p>Join us in this webinar, where our speakers Mr <a href="https://www.linkedin.com/in/charles-l-03884718/" rel="noopener nofollow" target="_blank">Charles Li</a>,
