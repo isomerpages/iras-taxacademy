@@ -10,7 +10,6 @@ description: ""
 Associate, Employment) and Ms <a href="https://www.iras.gov.sg/aa88ee3c-d13d-4751-ba3f-7538ecc6b2ca?sf=3AA3B6C0C635https%3a%2f%2fwww.linkedin.com%2fin%2fsamantha-tan-29927564%2f&amp;c=1Cgeidg%2fAR550qoDBE4ARR1g5nA%3d" rel="noopener noreferrer nofollow" target="_blank">Samantha Tan</a> (Senior
 Associate) as they provide an overview of the employment lifecycle and
 related tax implications from an employer's perspective.</p>
-<p></p>
 <p><strong>Agenda</strong>
 </p>
 <p><strong>Hiring of employees<br></strong>An introduction into the requirements
