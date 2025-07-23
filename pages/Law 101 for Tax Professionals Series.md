@@ -6,7 +6,7 @@ description: ""
 ---
 <h4><strong><sub>22 Aug 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Company Law</strong></h4>
-<p></p>
+<h4><a href="https://form.gov.sg/687b560d7a2cf82da03b75ce" rel="noopener nofollow" target="_blank">Register Now!</a></h4>
 <p>Understanding the nuances of corporate governance, statutory compliance,
 and the requirements within the Companies Act enable tax practitioners
 to provide comprehensive advice to stakeholders while aligning tax planning
@@ -15,24 +15,44 @@ with legal regulations.</p>
 Mergers &amp; Acquisitions and Capital Markets at Covenant Chambers LLC)
 and Mr <a href="https://www.linkedin.com/in/shi-yong-yang-ab1b1ab9/" rel="noopener noreferrer nofollow" target="_blank"><u>Yang Shi Yong</u></a>&nbsp;(Director
 at Drew and Napier LLC) who will cover the following:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em>Requirements under the Companies Act for common corporate actions</em>
 </p>
+</li>
+<li>
 <p><em>The Company Constitution – what is it and why is it important</em>
 </p>
+</li>
+<li>
 <p><em>The Company Secretary</em>
 </p>
+</li>
+<li>
 <p><em>The Company Directors</em>
 </p>
+</li>
+<li>
 <p><em>Re-Domiciliation</em>
 </p>
+</li>
+<li>
 <p><em>Amalgamation</em>
 </p>
+</li>
+<li>
 <p><em>Requirements on Financial Statements and Audit under Part 6 of the Companies Act</em>
 </p>
+</li>
+<li>
 <p><em>Directors’ Duties</em>
 </p>
+</li>
+<li>
 <p><em>Various Case Studies</em>
 </p>
+</li>
+</ul>
 <p></p>
 <h4><strong><sub>27 Jun 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Employment Law</strong></h4>
