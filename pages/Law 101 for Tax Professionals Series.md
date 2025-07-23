@@ -22,7 +22,15 @@ issues and misconduct</p>
 employer should go about terminating the employment of an employee in Singapore</p>
 <p><strong>Tax applications in the employment context - common issues that arise<br></strong><em>Labelling termination payments as "ex-gratia" or "severance"<br></em>Issues
 relating to employees working remotely</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h4><strong><sub>10 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Tax Crimes and Money Laundering</strong></h4>
