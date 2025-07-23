@@ -75,7 +75,7 @@ relating to employees working remotely</p>
 <details class="isomer-details">
 <summary>Admin Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Admin details<br></strong>The webinar will be conducted via Zoom
+<p><strong><br></strong>The webinar will be conducted via Zoom
 <br>Date: 27 Jun 2025
 <br>Time: 3.00pm to 5.00pm
 <br>Fees: SGD 109 (incl. GST)
