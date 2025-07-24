@@ -4,6 +4,98 @@ permalink: /law-101-for-tax-professionals-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>22 Aug 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>Company Law</strong></h4>
+<h4><a href="https://form.gov.sg/687b560d7a2cf82da03b75ce" rel="noopener nofollow" target="_blank">Register Now!</a></h4>
+<p>Understanding the nuances of corporate governance, statutory compliance,
+and the requirements within the Companies Act enable tax practitioners
+to provide comprehensive advice to stakeholders while aligning tax planning
+with legal regulations.</p>
+<p>Join us for this in-person seminar conducted by Mr <a href="https://www.linkedin.com/in/ngpeitong/" rel="noopener noreferrer nofollow" target="_blank"><u>Ng Pei Tong</u></a>&nbsp;(Head,
+Mergers &amp; Acquisitions and Capital Markets at Covenant Chambers LLC)
+and Mr <a href="https://www.linkedin.com/in/shi-yong-yang-ab1b1ab9/" rel="noopener noreferrer nofollow" target="_blank"><u>Yang Shi Yong</u></a>&nbsp;(Director
+at Drew and Napier LLC) who will cover the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Requirements under the Companies Act for common corporate actions</em>
+</p>
+</li>
+<li>
+<p><em>The Company Constitution – what is it and why is it important</em>
+</p>
+</li>
+<li>
+<p><em>The Company Secretary</em>
+</p>
+</li>
+<li>
+<p><em>The Company Directors</em>
+</p>
+</li>
+<li>
+<p><em>Re-Domiciliation</em>
+</p>
+</li>
+<li>
+<p><em>Amalgamation</em>
+</p>
+</li>
+<li>
+<p><em>Requirements on Financial Statements and Audit under Part 6 of the Companies Act</em>
+</p>
+</li>
+<li>
+<p><em>Directors’ Duties</em>
+</p>
+</li>
+<li>
+<p><em>Various Case Studies</em>
+</p>
+</li>
+</ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This seminar will be conducted in-person</p>
+<p>Date: 22 Aug 2025</p>
+<p>Time: 2.00pm to 5.00pm</p>
+<p>Venue: Revenue House Discovery and Courage Rooms@B1</p>
+<p>Fees: SGD 163.50 (incl. GST)</p>
+<p>Registration is on first-come-first served</p>
+</div>
+</details>
+</div>
+<h4><strong><sub>27 Jun 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
+<h4><strong>Employment Law</strong></h4>
+<p>Join our speakers from Baker McKenzie Wong &amp; Leow – Ms <a href="https://www.iras.gov.sg/aa88ee3c-d13d-4751-ba3f-7538ecc6b2ca?sf=3AA3B6C0C635https%3a%2f%2fwww.linkedin.com%2fin%2festher-pang-719455150%2f&amp;c=1Cgeidg%2fAR550qoDBE4ARR1g5nA%3d" rel="noopener noreferrer nofollow" target="_blank">Esther Pang</a> (Senior
+Associate, Employment) and Ms <a href="https://www.iras.gov.sg/aa88ee3c-d13d-4751-ba3f-7538ecc6b2ca?sf=3AA3B6C0C635https%3a%2f%2fwww.linkedin.com%2fin%2fsamantha-tan-29927564%2f&amp;c=1Cgeidg%2fAR550qoDBE4ARR1g5nA%3d" rel="noopener noreferrer nofollow" target="_blank">Samantha Tan</a> (Senior
+Associate) as they provide an overview of the employment lifecycle and
+related tax implications from an employer's perspective.</p>
+<p><strong>Agenda</strong>
+</p>
+<p><strong>Hiring of employees<br></strong>An introduction into the requirements
+that employers should keep in mind when hiring employees in Singapore</p>
+<p><strong>Managing employees<br></strong>A brief discussion on the common
+issues that arise during an employment relationship, including performance
+issues and misconduct</p>
+<p><strong>Termination of employment<br></strong>An introduction on how an
+employer should go about terminating the employment of an employee in Singapore</p>
+<p><strong>Tax applications in the employment context - common issues that arise<br></strong><em>Labelling termination payments as "ex-gratia" or "severance"<br></em>Issues
+relating to employees working remotely</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong><br></strong>The webinar will be conducted via Zoom
+<br>Date: 27 Jun 2025
+<br>Time: 3.00pm to 5.00pm
+<br>Fees: SGD 109 (incl. GST)
+<br>Registration is on first-come-first served</p>
+<p></p>
+</div>
+</details>
+</div>
 <h4><strong><sub>10 Jan 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Tax Crimes and Money Laundering</strong></h4>
 <p>Join us in this webinar, where our speakers Mr <a href="https://www.linkedin.com/in/charles-l-03884718/" rel="noopener nofollow" target="_blank">Charles Li</a>,
@@ -171,4 +263,5 @@ Tax Review. He also successfully led the firm to win Singapore Tax Disputes
 </details>
 </div>
 <hr>
+<h4></h4>
 <p></p>
