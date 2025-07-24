@@ -15,7 +15,7 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sep/Oct 2023 intake: <a href="/executive-tax-programmes/international-tax/#etp2IT-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Sep/Oct 2025 intake: <a href="https://go.gov.sg/l2intreg2025" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 </li>
 </ul>
@@ -48,11 +48,12 @@ will open six to eight weeks before the course commencement date.</p>
 <p>This course provides in-depth knowledge in international tax principles
 and concepts, with focus on specific issues on tax treaty and transfer
 pricing.</p>
-<p><a href="/files/executive-tax-programmes/income-tax/coursebrochurel2internationaltax12023.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<p><a href="https://go.gov.sg/l2intreg2025" rel="noopener nofollow" target="_blank">Registration Link</a> -
+<a href="/files/International_Tax_L2_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p><strong>Registration is CLOSED for Intake 1/2023</strong>
+<p><strong>Registration is OPEN for Intake 1/2025</strong>
 </p>
-<p>The next intake for the course will be held in Sep/Oct 2025. Registration
+<p>The next intake for the course will be held in Sep/Oct 2026. Registration
 will open six to eight weeks before the course commencement date.</p>
 <p></p>
 <h3><strong>International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme</strong></h3>
