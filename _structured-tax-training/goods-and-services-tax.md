@@ -52,7 +52,7 @@ Construction, Manufacturing, Logistics, Hotel, Travel &amp; Various Services.</p
 <p>Please note participants will have to complete Tax Academy’s GST Programme
 Level 1 and have 1-2 years of relevant working experience in taxation prior
 to taking the GST Programme Level 2.</p>
-<p>Registration is OPEN for intake 2/2025 (Sep 2025 intake).
+<p>Registration is OPEN for intake 2/2025 (Aug 2025 intake).
 <br>If the registration is fully subscribed, you may wish to fill out the
 <a href="https://go.gov.sg/waitlist-level2gst" rel="noopener noreferrer nofollow" target="_blank">interest form</a>to indicate your interest.</p>
 <p>The next intake for this course will be in Feb 2026. Registration will
