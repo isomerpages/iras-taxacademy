@@ -46,7 +46,7 @@ be available six to eight weeks prior to the course commencement date.</p>
 <p>This course comprises one module on overall GST concepts and applications,
 and five modules on specific industry sectors of Finance, Real Estate &amp;
 Construction, Manufacturing, Logistics, Hotel, Travel &amp; Various Services.</p>
-<p><a href="https://form.gov.sg/gst-programme-level2-intake2-2025" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
+<p><a href="https://go.gov.sg/gst-programme-level2-intake2-2025" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/Course_Programme_GST_L2_2_2025.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p>Please note participants will have to complete Tax Academy’s GST Programme
