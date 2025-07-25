@@ -132,7 +132,7 @@ Investigation, and Stamp Duty.</p>
 <p><strong>Intake 2/2025, August 2025 to September 2026: Registration is CLOSED.</strong>
 </p>
 <p><a href="https://form.gov.sg/6796ecf35bbd2288c0f5ea42" rel="noopener noreferrer nofollow" target="_blank"><u>Registration Form - Full Programme</u></a> -
-<a href="https://www.taxacademy.sg/files/ATP2_2025_Schedulev3.pdf" rel="noopener nofollow" target="_blank"><u>Schedule</u>
+<a href="https://www.taxacademy.sg/files/ATP22025Schedulev3" rel="noopener nofollow" target="_blank"><u>Schedule</u>
 </a>
 </p>
 <p></p>
