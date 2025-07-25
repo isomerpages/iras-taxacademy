@@ -101,7 +101,7 @@ In-house Singapore income tax training by Big 4</p>
 <p>Exemptions will be reviewed on a case-by-case basis.</p>
 <p></p>
 <p>Intake 3/2025 (Registration is OPEN)</p>
-<p><a href="https://www.taxacademy.sg/files/L2_IT_3_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank"><u>Details</u></a>
+<p><a href="https://www.taxacademy.sg/files/L2 IT 3 2025 course brochure.pdf" rel="noopener nofollow" target="_blank"><u>Details</u></a>
 </p>
 <p><a href="https://go.gov.sg/itl232025reg" rel="noopener nofollow" target="_blank"><u>Registration</u></a>
 </p>
