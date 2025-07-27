@@ -7,10 +7,6 @@ description: ""
 <h4><strong><sub>22 Aug 2025 | 2.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Company Law</strong></h4>
 <h4><a href="https://form.gov.sg/687b560d7a2cf82da03b75ce" rel="noopener nofollow" target="_blank">Register Now!</a></h4>
-<p>Understanding the nuances of corporate governance, statutory compliance,
-and the requirements within the Companies Act enable tax practitioners
-to provide comprehensive advice to stakeholders while aligning tax planning
-with legal regulations.</p>
 <p>Join us for this in-person seminar conducted by Mr <a href="https://www.linkedin.com/in/ngpeitong/" rel="noopener noreferrer nofollow" target="_blank"><u>Ng Pei Tong</u></a>&nbsp;(Head,
 Mergers &amp; Acquisitions and Capital Markets at Covenant Chambers LLC)
 and Mr <a href="https://www.linkedin.com/in/shi-yong-yang-ab1b1ab9/" rel="noopener noreferrer nofollow" target="_blank"><u>Yang Shi Yong</u></a>&nbsp;(Director
@@ -73,6 +69,13 @@ at Drew and Napier LLC) who will cover the following:</p>
 <summary>About the Speakers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Ng_Pei_Tong.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Yang_Shi_Yong.png">
+</div>
 </div>
 </details>
 </div>
