@@ -6,7 +6,7 @@ description: AcadTax Series represents the bridge between academic excellence
   and practical tax knowledge, transforming theoretical concepts into actionable
   insights.
 ---
-<h4><strong><sub>13 Aug 2025 | 3.00 p.m. to 4.30 p.m. | Revenue House Auditorium</sub></strong></h4>
+<h4><strong><sub>13 Aug 2025 | 3.00 p.m. to 4.30 p.m. | Zoom</sub></strong></h4>
 <h4><strong>Balancing Digital Taxes and Geopolitics: The European Dilemma</strong></h4>
 <h4><a href="https://form.gov.sg/68752bf15e644e91cd41591c" rel="noopener nofollow" target="_blank"><u>Register Now!</u></a></h4>
 <p>Join us for an insightful seminar with Dr. Leopoldo Parada as he examines
@@ -56,10 +56,9 @@ taxation landscape!</p>
 <details class="isomer-details">
 <summary>Admin Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>This event will be conducted via Zoom.</p>
 <p>Date and Time: 13 Aug 25, 3pm to 4.30pm</p>
 <p>Fee: $109 (incl GST)</p>
-<p>Venue: Revenue House Auditorium</p>
-<p>Refreshment will be provided</p>
 <p></p>
 </div>
 </details>
