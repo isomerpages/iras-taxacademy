@@ -55,6 +55,22 @@ at Drew and Napier LLC) who will cover the following:</p>
 </ul>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Agenda_page_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Agenda_page_2.png">
+</div>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary>Admin Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This seminar will be conducted in-person</p>
@@ -66,6 +82,8 @@ at Drew and Napier LLC) who will cover the following:</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <h4><strong><sub>27 Jun 2025 | 3.00 p.m. to 5.00 p.m.</sub></strong></h4>
 <h4><strong>Employment Law</strong></h4>
 <p>Join our speakers from Baker McKenzie Wong &amp; Leow – Ms <a href="https://www.iras.gov.sg/aa88ee3c-d13d-4751-ba3f-7538ecc6b2ca?sf=3AA3B6C0C635https%3a%2f%2fwww.linkedin.com%2fin%2festher-pang-719455150%2f&amp;c=1Cgeidg%2fAR550qoDBE4ARR1g5nA%3d" rel="noopener noreferrer nofollow" target="_blank">Esther Pang</a> (Senior
