@@ -8,11 +8,11 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2025 (May 2025): <a href="/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Intake 1/2025 (May 2025): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is CLOSED</u></a>
 </p>
 </li>
 <li>
-<p>Intake 2/2025 (Aug 2025): <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank">Registration is OPEN</a>
+<p>Intake 2/2025 (Aug 2025): <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank"><u>Registration is CLOSED</u></a>
 </p>
 <p></p>
 </li>
@@ -20,7 +20,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jul 2025 intakes: <a href="/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Sep 2025 intake: <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is OPEN</u></a>
 </p>
 <p></p>
 </li>
@@ -28,11 +28,11 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 3</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2025 (April 2025 to April 2026): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Intake 1/2025 (April 2025 to April 2026): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is CLOSED</u></a>
 </p>
 </li>
 <li>
-<p>Intake 2/2025 (August 2025 to September 2026): <a href="/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Intake 2/2025 (August 2025 to September 2026): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is OPEN</u></a>
 </p>
 </li>
 </ul>
@@ -44,15 +44,15 @@ the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
 <p>Please be informed that this programme is fully e-learning.</p>
-<p><a href="https://go.gov.sg/kj0y00" rel="noopener nofollow" target="_blank">Details</a>
+<p><a href="https://go.gov.sg/kj0y00" rel="noopener nofollow" target="_blank"><u>Details</u></a>
 </p>
-<p><a href="https://form.gov.sg/684b821e095c7f327ae154c6" rel="noopener nofollow" target="_blank">Registration</a>
+<p><a href="https://form.gov.sg/684b821e095c7f327ae154c6" rel="noopener nofollow" target="_blank"><u>Registration</u></a>
 </p>
 <p>The next intake, Intake 3/2025, will be in End Nov 2025. Registration
 will be available approximately six to eight weeks prior to the course
 commencement date. You may wish to register your interest for this intake
 and we will be in touch when registration opens.</p>
-<p><a href="https://form.gov.sg/686cd654baeccc60b2496117" rel="noopener nofollow" target="_blank">Interest Form (Intake 3/2025)</a>
+<p><a href="https://form.gov.sg/686cd654baeccc60b2496117" rel="noopener nofollow" target="_blank"><u>Interest Form (Intake 3/2025)</u></a>
 </p>
 <p>Passing the Income Tax Level 1 exam is not mandatory if you are intending
 to apply for the Income Tax Level 2 programme. You may proceed to apply
@@ -100,18 +100,16 @@ ACCA Advanced Singapore Taxation</p>
 In-house Singapore income tax training by Big 4</p>
 <p>Exemptions will be reviewed on a case-by-case basis.</p>
 <p></p>
-<p>Intake 1/2025 (Registration is closed)</p>
-<p><a href="/files/L2_IT_1_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
+<p>Intake 3/2025 (Registration is OPEN)</p>
+<p><a href="/files/L2IT32025coursebrochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p></p>
-<p>Intake 2/2025 (Registration is closed)</p>
-<p><a href="/files/L2_IT_2_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
+<p><a href="https://go.gov.sg/itl232025reg" rel="noopener nofollow" target="_blank"><u>Registration</u></a>
 </p>
-<p>The next intake for this course will be in Sep 2025. Registration will
+<p>The next intake for this course will be in Jan 2026. Registration will
 be available six to eight weeks prior to the course commencement date.
 You may wish to register your interest for this intake and we will be in
 touch when registration opens.</p>
-<p><a href="https://go.gov.sg/l2it32025interest" rel="noopener nofollow" target="_blank">Interest form</a>
+<p><a href="https://go.gov.sg/l2it32025interest" rel="noopener nofollow" target="_blank"><u>Interest form</u></a>
 </p>
 <h3><strong>Income Tax Programme Level 3: Advanced Tax Programme</strong></h3>
 <p>The Advanced Tax Programme (ATP) is the foremost training programme for
@@ -121,26 +119,27 @@ Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax
 Planning and Goods and Services Tax. The elective component offers modules
 on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and
 Investigation, and Stamp Duty.</p>
-<p><a href="/files/ATP_FY25_Brochure.pdf" rel="noopener nofollow" target="_blank">Brochure</a>
+<p><a href="https://www.taxacademy.sg/files/ATP_FY25_Brochure.pdf" rel="noopener nofollow" target="_blank"><u>Brochure</u></a>
 </p>
 <p></p>
 <p><strong>Intake 1/2025, April 2025 to April 2026: Registration is closed.</strong>
 </p>
-<p><a href="https://form.gov.sg/6796ea002ea9e745821b7a24" rel="noopener nofollow" target="_blank">Registration Form - Full Programme</a>
+<p><a href="https://form.gov.sg/6796ea002ea9e745821b7a24" rel="noopener nofollow" target="_blank"><u>Registration Form - Full Programme</u></a>
 </p>
-<p><a href="/files/ATP1_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
+<p><a href="https://www.taxacademy.sg/files/ATP1_2025_Schedule.pdf" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
 </p>
 <p></p>
-<p><strong>Intake 2/2025, August 2025 to September 2026: Registration is OPEN.</strong>
+<p><strong>Intake 2/2025, August 2025 to September 2026: Registration is CLOSED.</strong>
 </p>
 <p><a href="https://form.gov.sg/6796ecf35bbd2288c0f5ea42" rel="noopener noreferrer nofollow" target="_blank"><u>Registration Form - Full Programme</u></a> -
-<a href="/files/ATP2_2025_Schedule.pdf" rel="noopener nofollow" target="_blank">Schedule</a>
+<a href="https://www.taxacademy.sg/files/ATP22025Schedulev3" rel="noopener nofollow" target="_blank"><u>Schedule</u>
+</a>
 </p>
 <p></p>
 <p>Intakes 1/2025 &amp; 2/2025 are also available for modular registration.
 Registration closes 1 month before the commencement of each module. Please
 refer to the schedules above for more details.</p>
-<p><a href="https://form.gov.sg/679780c0dbe89599f5a6e30a" rel="noopener nofollow" target="_blank">Modular Registration Form</a>
+<p><a href="https://form.gov.sg/679780c0dbe89599f5a6e30a" rel="noopener nofollow" target="_blank"><u>Modular Registration Form</u></a>
 </p>
 <p></p>
 <p><strong>Please note: Under the new admission requirement for intakes commencing from 1 Apr 2023 onwards, participants are required to:</strong>
@@ -160,7 +159,7 @@ refer to the schedules above for more details.</p>
 <p><strong>- Accredited Tax Practitioner with SCTP</strong>
 </p>
 <p>For more details on TA Programme Admission Requirement, please refer to
-[<a href="https://www.taxacademy.sg/executive-tax-programmes/tax-training-roadmap/" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>]</p>
+[<a href="https://www.taxacademy.sg/executive-tax-programmes/tax-training-roadmap/" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ</u></a>]</p>
 <h3><strong>Book Prizes</strong></h3>
 <p>Full programme participants who achieve the highest score for selected
 modules of the Advanced Tax Programme will be presented with a Book Prize.
@@ -170,11 +169,12 @@ Pte Ltd, Deloitte &amp; Touche LLP and PricewaterhouseCoopers Singapore
 Pte Ltd.</p>
 <p><strong>Intake 1/2023 Book Prize Winners</strong>
 </p>
-<p><a href="/files/ATP_INTAKE_1_TA_WEBSITE.pdf" rel="noopener nofollow" target="_blank">Book Prize Winners</a>
+<p><a href="https://www.taxacademy.sg/files/ATP_INTAKE_1_TA_WEBSITE.pdf" rel="noopener nofollow" target="_blank"><u>Book Prize Winners</u></a>
 </p>
 <p><strong>Intake 2/2023 Book Prize Winners</strong>
 </p>
-<p><a href="/files/ATP_INTAKE_2_TA_WEBSITE.pdf" rel="noopener nofollow" target="_blank">Book Prize Winners</a>
+<p><a href="https://www.taxacademy.sg/files/ATP_INTAKE_2_TA_WEBSITE.pdf" rel="noopener nofollow" target="_blank"><u>Book Prize Winners</u></a>
 </p>
-<p><strong>Please read <a href="https://www.taxacademy.sg/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for courses.</strong>
+<p><strong>Please read <a href="https://www.taxacademy.sg/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank"><u>Terms and Conditions</u></a> for courses.</strong>
 </p>
+<p></p>
