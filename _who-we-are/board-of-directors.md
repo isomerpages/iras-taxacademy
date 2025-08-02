@@ -190,21 +190,20 @@ ISCA Taskforce on “Artificial Intelligence for Accountancy Industry”. He
 graduated with a Bachelor of Accountancy (Honours) from Nanyang Technological
 University.</p>
 <p></p>
-<p><strong>Professor Sum Yee Loong</strong> 
-<br>Professor of Accounting (Practice)
-<br>Singapore Management University
+<p><strong>Mr Tay Hong Beng</strong>
+<br>Chairman
+<br>Singapore Chartered Tax Professionals
 <br>
 </p>
-<p>Professor Sum has specialised in taxation for over 30 years and he was
-tax partner in Deloitte Singapore from 1987 to 2011. He has substantial
-experience providing advisory tax services to multi-national companies,
-local corporate clients and financial institutions. His specialties include
-corporate structuring, restructuring for IPO, acquisitions and mergers,
-cross-border transactions, structured finance and international tax planning.</p>
-<p>Professor Sum had been nominated on several occasions as one of the top
-10 leading Tax Advisers in Singapore by International Tax Review and was
-also featured as one of the World’s Leading Tax Advisers in the Legal Media
-Group 2011 Guide to the World’s Leading Tax Advisers. He served on the
-Board of the Tax Academy of Singapore from August 2006 to August 2011 and
-was also previously a Senior Consultant with IRAS. He was a Council Member
-of the National Arts Council and a Board Member of IRAS from 2016-2022.</p>
+<p>Mr Tay is a tax consultant by profession. He was a partner at KPMG Singapore,
+where he was its head of tax practice and then its CFO and COO before his
+retirement from the firm in 2024. He has more than 30 years of experience
+in tax consulting for the real estate and financial services sectors and
+was heavily involved in advising on complex tax issues including structured
+transactions, merger and acquisition deals, corporate restructuring, international
+tax planning and investment projects. He was a regular speaker at tax seminars
+and contributed numerous articles and commentaries on current and topical
+tax-related issues.</p>
+<p>&nbsp;Mr Tay is a Chartered Accountant of Institute of Singapore Chartered
+Accountants and an Accredited Tax Advisor (Income Tax) of Singapore Chartered
+Tax Professionals.</p>
