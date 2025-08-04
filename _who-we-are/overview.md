@@ -25,3 +25,6 @@ on Asian economies and tax systems.</p>
 on global tax developments through its seminars and conferences. It brings
 together tax experts from the industry, academia and the government, both
 locally and from overseas, to engage in professional exchanges.</p>
+<p></p>
+<p>For more details about our programmes and initiatives, please refer to
+the Tax Academy <u>introductory deck</u>.</p>
