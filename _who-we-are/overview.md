@@ -27,4 +27,4 @@ together tax experts from the industry, academia and the government, both
 locally and from overseas, to engage in professional exchanges.</p>
 <p></p>
 <p>For more details about our programmes and initiatives, please refer to
-the Tax Academy <a href="/files/TA_Intro_Slides__updated_2_Aug_.pdf" rel="noopener nofollow" target="_blank">introductory deck</a>.</p>
+the Tax Academy</p>
