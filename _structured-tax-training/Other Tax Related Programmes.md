@@ -2,29 +2,40 @@
 title: Other Tax Related Programmes
 permalink: /structured-tax-training/other-tax-related-programmes/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-##### **UPCOMING PROGRAMMES**
-
-
-
-### **Accounting Standards and Tax Adjustments**
-
-Join us in this workshop if you would like to learn about the impact of financial accounting on tax computations. This workshop will be facilitated by Mr Khoo Teng Aun, former Associate Professor of Accounting at Singapore Management University.
-
-[Registration](https://form.gov.sg/66ac7bbd64b73c332cf5e19b) - [Details](/files/accounting_std_and_tax_adj_2024.pdf){:target="_blank"}
-
-Registration is OPEN for intake 2024.
-
-The next intake for this course will be in 2025.
-
-
-### **Programme on Property Tax Valuation (Intake 2024)**
-
-Join us in this 1-day workshop to gain a deeper understanding of how the Annual Values for different types of properties are valued or assessed using various valuation methods and the statutorily prescribed bases of assessment. The workshop will be facilitated by Ms Ang Sock Tiang, former Chief Valuer.
-
-[Details](/files/executive-tax-programmes/property_tax_valuation_brochure_2024_updated9May.pdf){:target="_blank"}
-
-Registration is CLOSED for intake 2024.
-
-The next intake for this course will be in 2025.
+<h5><strong>UPCOMING PROGRAMMES</strong></h5>
+<h3><strong>Accounting Standards and Tax Adjustments</strong></h3>
+<h4><a href="https://form.gov.sg/6890a9835beb3d9dc3a43ef7" rel="noopener nofollow" target="_blank">Register Now!</a></h4>
+<p>Join us in this workshop if you would like to learn about the impact of
+financial accounting on tax computations.&nbsp;This workshop will be facilitated
+by Mr Khoo Teng Aun, former Associate Professor of Accounting at Singapore
+Management University.</p>
+<p>Registration is OPEN for intake 2025. The next intake for this course
+will be in 2026.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Programme Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Accounting_Standards_and_Tax_Adjustments_Programme_Brochure_2025_page_0001.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Accounting_Standards_and_Tax_Adjustments_Programme_Brochure_2025_page_0002.jpg">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h3><strong>Programme on Property Tax Valuation (Intake 2024)</strong></h3>
+<p>Join us in this 1-day workshop to gain a deeper understanding of how the
+Annual Values for different types of properties are valued or assessed
+using various valuation methods and the statutorily prescribed bases of
+assessment. The workshop will be facilitated by Ms Ang Sock Tiang, former
+Chief Valuer.</p>
+<p><a href="/files/executive-tax-programmes/property_tax_valuation_brochure_2024_updated9May.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
+<p>Registration is CLOSED for intake 2024.</p>
+<p>The next intake for this course will be in 2025.</p>
