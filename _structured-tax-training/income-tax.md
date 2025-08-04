@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Intake 2/2025 (August 2025 to September 2026): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is OPEN</u></a>
+<p>Intake 2/2025 (August 2025 to September 2026): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is CLOSED</u></a>
 </p>
 </li>
 </ul>
@@ -124,16 +124,12 @@ Investigation, and Stamp Duty.</p>
 <p></p>
 <p><strong>Intake 1/2025, April 2025 to April 2026: Registration is closed.</strong>
 </p>
-<p><a href="https://form.gov.sg/6796ea002ea9e745821b7a24" rel="noopener nofollow" target="_blank"><u>Registration Form - Full Programme</u></a>
-</p>
 <p><a href="https://www.taxacademy.sg/files/ATP1_2025_Schedule.pdf" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
 </p>
 <p></p>
 <p><strong>Intake 2/2025, August 2025 to September 2026: Registration is CLOSED.</strong>
 </p>
-<p><a href="https://form.gov.sg/6796ecf35bbd2288c0f5ea42" rel="noopener noreferrer nofollow" target="_blank"><u>Registration Form - Full Programme</u></a> -
-<a href="https://www.taxacademy.sg/files/ATP22025Schedulev3" rel="noopener nofollow" target="_blank"><u>Schedule</u>
-</a>
+<p><a href="https://www.taxacademy.sg/files/atp22025schedulev3" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
 </p>
 <p></p>
 <p>Intakes 1/2025 &amp; 2/2025 are also available for modular registration.
