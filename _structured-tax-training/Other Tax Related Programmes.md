@@ -17,7 +17,13 @@ will be in 2026.</p>
 <summary>Programme Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Accounting_Standards_and_Tax_Adjustments_Programme_Brochure_2025_page_0001.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Webinar Bios/Accounting_Standards_and_Tax_Adjustments_Programme_Brochure_2025_page_0002.jpg">
+</div>
 <p></p>
 </div>
 </details>
