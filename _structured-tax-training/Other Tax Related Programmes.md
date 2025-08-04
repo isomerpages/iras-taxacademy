@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <h5><strong>UPCOMING PROGRAMMES</strong></h5>
 <h3><strong>Accounting Standards and Tax Adjustments</strong></h3>
+<h4><a href="https://form.gov.sg/6890a9835beb3d9dc3a43ef7" rel="noopener nofollow" target="_blank">Register Now!</a></h4>
 <p>Join us in this workshop if you would like to learn about the impact of
 financial accounting on tax computations.&nbsp;This workshop will be facilitated
 by Mr Khoo Teng Aun, former Associate Professor of Accounting at Singapore
