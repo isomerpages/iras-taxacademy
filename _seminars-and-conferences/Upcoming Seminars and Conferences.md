@@ -22,8 +22,8 @@ Thank you!</p>
 </p>
 <p><strong>22 Aug</strong>: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals: Company Law</a>
 </p>
-<p><strong>28 Aug</strong>: Joint TA-IVAS Seminar on Navigating IP, Valuation
-and Tax Considerations in M&amp;A Transactions</p>
+<p><strong>28 Aug</strong>: <a href="https://www.taxacademy.sg/navigating-ip-valuation-and-tax-considerations-in-m-a-transactions/" rel="noopener nofollow" target="_blank">Joint TA-IVAS Seminar on Navigating IP, Valuation and Tax Considerations in M&amp;A Transactions</a>
+</p>
 <p></p>
 <h5><strong>Jul 2025</strong></h5>
 <p><strong>1 Jul</strong>: FasTax Series: Withholding Tax - Implications
