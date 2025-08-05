@@ -9,14 +9,21 @@ variant: tiptap
 <p>Join us in this workshop to learn about the Global Minimum Tax in Singapore,
 where speakers from IRAS and Big Four accounting firms will share insights
 on MTT and DTT.</p>
-<p><strong>&nbsp;</strong>
+<p><strong>Target Audience</strong>
 </p>
+<p>Tax team members from MNE groups that are in-scope of Pillar Two GloBE
+rules</p>
+<p><strong>Prerequisites</strong>
+</p>
+<p>Participants must belong to MNE groups that are in-scope of Pillar Two
+GloBE rules (Each company may send up to <u>TWO</u>&nbsp;participants)</p>
+<p>Completion of IRAS e-Learning modules on GloBE Rules &amp; DTT via IRAS
+website prior to attending the workshop</p>
 <p><strong>Details</strong>
 </p>
 <p>Dates: 26 or 29 Aug 2025</p>
-<p></p>
 <p>Time: 9.00 a.m. to 5.00 p.m.</p>
-<p>Venue: IRAS, 5<sup>th</sup>&nbsp;storey, auditorium</p>
+<p>Venue: IRAS, 5th&nbsp;storey, auditorium</p>
 <p>Fee: Complimentary</p>
 <p><a href="/files/executive-tax-programmes/BEPSWorkshopbrochureAug.pdf" rel="noopener nofollow" target="_blank">Workshop Details</a>
 </p>
