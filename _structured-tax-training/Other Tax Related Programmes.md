@@ -33,6 +33,9 @@ website prior to attending the workshop</p>
 <p><a href="https://go.gov.sg/beps29aug" rel="noopener nofollow" target="_blank">Register for 29 Aug 2025</a>
 </p>
 <p></p>
+<p>Once registration is closed, kindly join the waiting list below:</p>
+<p><a href="https://go.gov.sg/bepsaugwaiting" rel="noopener nofollow" target="_blank">Waiting list</a>
+</p>
 <p>There will be two more upcoming workshops in Sep &amp; Oct 2025. Registration
 will open in mid Aug.</p>
 <h3><strong>Accounting Standards and Tax Adjustments</strong></h3>
