@@ -70,4 +70,4 @@ assessment. The workshop will be facilitated by Ms Ang Sock Tiang, former
 Chief Valuer.</p>
 <p><a href="/files/executive-tax-programmes/property_tax_valuation_brochure_2024_updated9May.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
-<p></p>
+<p>Next Intake to be advised.</p>
