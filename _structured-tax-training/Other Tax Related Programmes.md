@@ -62,7 +62,7 @@ will be in 2026.</p>
 </details>
 </div>
 <p></p>
-<h3><strong>Programme on Property Tax Valuatio</strong></h3>
+<h3><strong>Programme on Property Tax Valuation</strong></h3>
 <p>Join us in this 1-day workshop to gain a deeper understanding of how the
 Annual Values for different types of properties are valued or assessed
 using various valuation methods and the statutorily prescribed bases of
