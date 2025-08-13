@@ -21,23 +21,22 @@ GloBE rules (Each company may send up to <u>TWO</u>&nbsp;participants)</p>
 website prior to attending the workshop</p>
 <p><strong>Details</strong>
 </p>
-<p>Dates: 26 or 29 Aug 2025</p>
+<p>Dates: 11 Sep or 2 Oct 2025</p>
 <p>Time: 9.00 a.m. to 5.00 p.m.</p>
 <p>Venue: IRAS, 5th&nbsp;storey, auditorium</p>
 <p>Fee: Complimentary</p>
-<p><a href="/files/executive-tax-programmes/BEPSWorkshopbrochureAug.pdf" rel="noopener nofollow" target="_blank">Workshop Details</a>
+<p><a href="/files/BEPSSepOctworkshops.pdf" rel="noopener nofollow" target="_blank">Workshop Details</a>
 </p>
 <p>Register for 1 date only:</p>
-<p><a href="https://go.gov.sg/bepsreg26aug" rel="noopener nofollow" target="_blank">Register for 26 Aug 2025</a>
+<p><a href="https://go.gov.sg/bepsreg11sep" rel="noopener nofollow" target="_blank">Register for 11 Sep 2025</a>
 </p>
-<p><a href="https://go.gov.sg/beps29aug" rel="noopener nofollow" target="_blank">Register for 29 Aug 2025</a>
+<p><a href="https://go.gov.sg/bepsreg2oct" rel="noopener nofollow" target="_blank">Register for 2 Oct 2025</a>
 </p>
 <p></p>
 <p>Once registration is closed, kindly join the waiting list below:</p>
 <p><a href="https://go.gov.sg/bepsaugwaiting" rel="noopener nofollow" target="_blank">Waiting list</a>
 </p>
-<p>There will be two more upcoming workshops in Sep &amp; Oct 2025. Registration
-will open in mid Aug.</p>
+<p></p>
 <h3><strong>Accounting Standards and Tax Adjustments</strong></h3>
 <h4><a href="https://form.gov.sg/6890a9835beb3d9dc3a43ef7" rel="noopener nofollow" target="_blank">Register Now!</a></h4>
 <p>Join us in this workshop if you would like to learn about the impact of
