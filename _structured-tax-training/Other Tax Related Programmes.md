@@ -25,9 +25,9 @@ website prior to attending the workshop</p>
 <p>Time: 9.00 a.m. to 5.00 p.m.</p>
 <p>Venue: IRAS, 5th&nbsp;storey, auditorium</p>
 <p>Fee: Complimentary</p>
-<p><a href="/files/BEPSWorkshopbrochureAug.pdf" rel="noopener nofollow" target="_blank">Workshop details for Aug class</a>
+<p><a href="/files/brochureAug.pdf" rel="noopener nofollow" target="_blank">Workshop details for Aug class</a>
 </p>
-<p><a href="/files/BEPSSepOctworkshops.pdf" rel="noopener nofollow" target="_blank">Workshop Details for Sep &amp; Oct class</a>
+<p><a href="/files/brochureSep_Octworkshops.pdf" rel="noopener nofollow" target="_blank">Workshop details for Sep and Oct class</a>
 </p>
 <p>Register for 1 date only:</p>
 <p><a href="https://go.gov.sg/beps29aug" rel="noopener nofollow" target="_blank">Register for 29 Aug 2025</a>
