@@ -25,7 +25,7 @@ website prior to attending the workshop</p>
 <p>Time: 9.00 a.m. to 5.00 p.m.</p>
 <p>Venue: IRAS, 5th&nbsp;storey, auditorium</p>
 <p>Fee: Complimentary</p>
-<p><a href="/files/BEPSWorkshopbrochureAug.pdf" rel="noopener nofollow" target="_blank">Workshop Details for Aug class</a>
+<p><a href="/files/BEPSWorkshopbrochureAug.pdf" rel="noopener nofollow" target="_blank">Workshop details for Aug class</a>
 </p>
 <p><a href="/files/BEPSSepOctworkshops.pdf" rel="noopener nofollow" target="_blank">Workshop Details for Sep &amp; Oct class</a>
 </p>
