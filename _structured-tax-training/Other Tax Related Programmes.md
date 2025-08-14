@@ -21,13 +21,17 @@ GloBE rules (Each company may send up to <u>TWO</u>&nbsp;participants)</p>
 website prior to attending the workshop</p>
 <p><strong>Details</strong>
 </p>
-<p>Dates: 11 Sep or 2 Oct 2025</p>
+<p>Dates: 29 Aug 2025, 11 Sep or 2 Oct 2025</p>
 <p>Time: 9.00 a.m. to 5.00 p.m.</p>
 <p>Venue: IRAS, 5th&nbsp;storey, auditorium</p>
 <p>Fee: Complimentary</p>
-<p><a href="/files/BEPSSepOctworkshops.pdf" rel="noopener nofollow" target="_blank">Workshop Details</a>
+<p><a href="/files/brochureAug.pdf" rel="noopener nofollow" target="_blank">Workshop details for Aug class</a>
+</p>
+<p><a href="/files/brochureSep_Octworkshops.pdf" rel="noopener nofollow" target="_blank">Workshop details for Sep and Oct class</a>
 </p>
 <p>Register for 1 date only:</p>
+<p><a href="https://go.gov.sg/beps29aug" rel="noopener nofollow" target="_blank">Register for 29 Aug 2025</a>
+</p>
 <p><a href="https://go.gov.sg/bepsreg11sep" rel="noopener nofollow" target="_blank">Register for 11 Sep 2025</a>
 </p>
 <p><a href="https://go.gov.sg/bepsreg2oct" rel="noopener nofollow" target="_blank">Register for 2 Oct 2025</a>
@@ -62,12 +66,12 @@ will be in 2026.</p>
 </details>
 </div>
 <p></p>
-<h3><strong>Programme on Property Tax Valuation (Intake 2024)</strong></h3>
+<h3><strong>Programme on Property Tax Valuation</strong></h3>
 <p>Join us in this 1-day workshop to gain a deeper understanding of how the
 Annual Values for different types of properties are valued or assessed
 using various valuation methods and the statutorily prescribed bases of
 assessment. The workshop will be facilitated by Ms Ang Sock Tiang, former
 Chief Valuer.</p>
-<p><a href="/files/executive-tax-programmes/property_tax_valuation_brochure_2024_updated9May.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>{:target="_blank"}</p>
-<p>Registration is CLOSED for intake 2024.</p>
-<p>The next intake for this course will be in 2025.</p>
+<p><a href="/files/executive-tax-programmes/property_tax_valuation_brochure_2024_updated9May.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+</p>
+<p>Next Intake to be advised.</p>
