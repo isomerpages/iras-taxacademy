@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Intake 2/2025 (Aug 2025): <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank"><u>Registration is CLOSED</u></a>
+<p>Intake 2/2025 (Aug 2025): <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank"><u>Registration is OPEN</u></a>
 </p>
 <p></p>
 </li>
