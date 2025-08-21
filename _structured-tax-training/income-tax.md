@@ -8,11 +8,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2025 (May 2025): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp1oct-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is CLOSED</u></a>
-</p>
-</li>
-<li>
-<p>Intake 2/2025 (Aug 2025): <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank"><u>Registration is CLOSED</u></a>
+<p>Aug 2025 intake: <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank"><u>Registration is OPEN</u></a>
 </p>
 <p></p>
 </li>
