@@ -15,6 +15,5 @@ This course provides basic knowledge on the principles and practices of property
 
 [Details](/files/Property_Tax_Level_1_Brochure_1_2025.pdf) 
 
-Registration is OPEN for 2025 intake.
+[Registration is OPEN for 2025 intake](https://form.gov.sg/68a73fabfe9afe7634b231f8)
 
-You may wish to fill out the [interest form](https://form.gov.sg/67171cc42443725766cfb608) to indicate your interest.
