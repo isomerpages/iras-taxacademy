@@ -39,7 +39,7 @@ compliance.</p>
 <p>Registration is OPEN for intake 3/2025 (Sep 2025 intake).</p>
 <p>Once registration is closed, you may wish to fill out the <a href="https://form.gov.sg/689d5770abbc469a0ae79ae2" rel="noopener noreferrer nofollow" target="_blank"><u>interest form </u></a>to
 indicate your interest.</p>
-<p>The next intake for this course will be in Feb 2025. Registration will
+<p>The next intake for this course will be in Feb 2026. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
 <p></p>
 <h3><strong>GST Programme Level 2</strong></h3>
