@@ -85,3 +85,83 @@ Writing Workshop is $654 per person.
 𝘣𝘢𝘴𝘪𝘴! 𝘚𝘦𝘤𝘶𝘳𝘦 𝘺𝘰𝘶𝘳 𝘱𝘭𝘢𝘤𝘦 𝘵𝘰𝘥𝘢𝘺 𝘵𝘰 𝘦𝘯𝘫𝘰𝘺
 𝘵𝘩𝘦 𝘴𝘱𝘦𝘤𝘪𝘢𝘭 𝘳𝘢𝘵𝘦!</p>
 <p></p>
+<p></p>
+<p>What a wonderful full-circle moment hosting Dr <a href="https://www.linkedin.com/in/leopoldo-parada-86818824/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Leopoldo Parada</a> for
+lunch in Singapore!
+<br>
+<br>Our paths first crossed in Jan 2023 through Associate Professor <a href="https://www.linkedin.com/in/drvincentooi/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Vincent Ooi</a>'s
+introduction, and now here we are, celebrating the launch of this significant
+initiative in international tax research, <a href="https://www.linkedin.com/company/stari-sg/" class="rvxSAhdspoaQIXROVGmqmgSjAEonUrxjJfTUU" rel="noopener noreferrer nofollow" target="_self">STARI-SG</a>.
+<br>
+<br>Over local delicacies and sake, we explored the evolving landscape of
+international tax research and education. Dr Leopoldo's deep insights into
+global tax developments added valuable perspectives to our vision for STARI.
+His enthusiasm for research was evident throughout our discussion - a reminder
+of how scholarly passion can truly inspire and drive innovation in tax
+education.
+<br>
+<br>Dr <a href="https://www.linkedin.com/in/leopoldo-parada-86818824/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Leopoldo Parada</a> –
+thank you for being part of this journey. We look forward to welcoming
+you back to Singapore to continue these meaningful discussions - perhaps
+your favourite sake! 😉</p>
+<p></p>
+<p>𝐄𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐍𝐞𝐰𝐬: 𝐒𝐢𝐧𝐠𝐚𝐩𝐨𝐫𝐞 𝐓𝐫𝐢𝐮𝐦𝐩𝐡𝐬 𝐚𝐭 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥
+𝐓𝐚𝐱 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐂𝐚𝐬𝐞 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧!
+<br>
+<br>We are delighted to share that our Singapore teams have achieved remarkable
+success at the <a href="https://www.linkedin.com/company/tax-executives-institute/" class="rvxSAhdspoaQIXROVGmqmgSjAEonUrxjJfTUU" rel="noopener noreferrer nofollow" target="_self">Tax Executives Institute</a> International
+Tax Student Case Competition, held from 14 to 16 August 2025 in Montreal,
+Canada. Tax Academy proudly supported two teams from <a href="https://www.linkedin.com/company/ntusg/" class="rvxSAhdspoaQIXROVGmqmgSjAEonUrxjJfTUU" rel="noopener noreferrer nofollow" target="_self">Nanyang Technological University Singapore</a> and
+<a href="https://www.linkedin.com/company/national-university-of-singapore/" class="rvxSAhdspoaQIXROVGmqmgSjAEonUrxjJfTUU" rel="noopener noreferrer nofollow" target="_self">National University of Singapore</a>in this prestigious competition.
+<br>
+<br>The NTU team demonstrated exceptional skill in solving complex international
+tax cases, securing first place against strong competition from universities
+worldwide, including experienced postgraduate students with years of tax
+practice. Their victory is a testament to Singapore's excellence in tax
+education. The NUS team also displayed outstanding talent and represented
+Singapore with distinction. Both teams, guided by dedicated mentors (
+<a href="https://www.linkedin.com/in/lee-ying-jow-36604a5/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Lee Ying Jow</a>, <a href="https://www.linkedin.com/in/simon-poh-69b9a415/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Simon Poh</a>,
+<a href="https://www.linkedin.com/in/walter-kolligs-286a2810/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">WALTER KOLLIGS</a>and <a href="https://www.linkedin.com/in/sam-sim-20aa171/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Sam Sim</a>),
+underwent months of rigorous preparation for this challenge.
+<br>
+<br>This marks the third year of the TEI International Tax Student Case Competition,
+which offers students invaluable exposure to real-world tax scenarios while
+fostering connections with international practitioners and peers.
+<br>
+<br>This achievement is particularly meaningful as we recently signed a Memorandum
+of Understanding (MOU) with TEI, focusing on knowledge exchange through
+various initiatives including seminars, networking events, and student
+development programmes.
+<br>
+<br>Special thanks to <a href="https://www.linkedin.com/in/josie-scalia-cpa/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Josephine (Josie) Scalia</a> from
+TEI for organizing such an enriching competition that provided our students
+with an exceptional learning experience and international exposure. The
+team also had great honour to meet up with the Honorary Consul of Singapore,
+Mr <a href="https://www.linkedin.com/in/chia-yi-chua-icd-d-8912a310/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Chia-yi Chua, ICD.D</a>,
+just before the commencement of the competition.
+<br>
+<br>Congratulations to both teams for their outstanding performance and for
+flying Singapore's flag high on the international stage! <a href="https://www.linkedin.com/search/results/all/?keywords=%23teamsingapore&amp;origin=HASH_TAG_FROM_FEED" class="rvxSAhdspoaQIXROVGmqmgSjAEonUrxjJfTUU" rel="noopener noreferrer nofollow" target="_blank">hashtag#teamsingapore</a>
+</p>
+<p></p>
+<p>Our inaugural Corporate Service Providers (CSP) programme has concluded,
+and the results are nothing short of specTAXcular!
+<br>
+<br>💡From concept to execution, this journey with <a href="https://www.linkedin.com/in/lancasterlee/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Lancaster Lee 【李宣翰】</a>,
+who is also a council member at <a href="https://www.linkedin.com/company/chartered-secretaries-institute-of-singapore/" class="rvxSAhdspoaQIXROVGmqmgSjAEonUrxjJfTUU" rel="noopener noreferrer nofollow" target="_self">Chartered Secretaries Institute Of Singapore</a>,
+has set a new benchmark for professional tax education.
+<br>
+<br>🎯 The results speak volumes:
+<br>- 100% of participants agreed their knowledge on the subject matter increased
+after attending the programme
+<br>- Feedback included: “Very clear explanation with relevant examples” and
+“It was very well done!”
+<br>
+<br>A heartfelt thank you to our dedicated trainers (<a href="https://www.linkedin.com/in/lancasterlee/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Lancaster Lee 【李宣翰】</a>and
+<a href="https://www.linkedin.com/in/hui-juan-chan-383aa014/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Hui Juan Chan</a>) and engaged participants for making this programme
+a success. The strong interest shown on this programme at the recent CSIS
+10th CSPs Conference was incredibly encouraging.
+<br>
+<br>Want to enhance your Corporate Service Provider expertise with fundamental
+knowledge of Income Tax and GST? Register your interest now: <a href="https://www.linkedin.com/in/lancasterlee/" rel="noopener noreferrer nofollow" target="_blank">https://lnkd.in/gkv_sCEb</a>
+</p>
