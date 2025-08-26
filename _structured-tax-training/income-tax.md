@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Aug 2025 intake: <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank"><u>Registration is OPEN</u></a>
+<p>Aug 2025 intake: <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank"><u>Registration is CLOSED</u></a>
 </p>
 <p></p>
 </li>
@@ -40,10 +40,6 @@ the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
 <p>Please be informed that this programme is fully e-learning.</p>
-<p><a href="https://go.gov.sg/kj0y00" rel="noopener nofollow" target="_blank"><u>Details</u></a>
-</p>
-<p><a href="https://form.gov.sg/684b821e095c7f327ae154c6" rel="noopener nofollow" target="_blank"><u>Registration</u></a>
-</p>
 <p>The next intake, Intake 3/2025, will be in End Nov 2025. Registration
 will be available approximately six to eight weeks prior to the course
 commencement date. You may wish to register your interest for this intake
