@@ -18,6 +18,7 @@ of Singapore’s GST system</p>
 <p><strong>3 Sep:</strong> Realigning international tax and trade rules: ‘One
 Big Beautiful Bill’, U.S. trade policy and implications for businesses
 in Asia</p>
+<p>5 Sep:</p>
 <p></p>
 <h5><strong>Aug 2025</strong></h5>
 <p><strong>1 Aug</strong>: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
@@ -139,3 +140,4 @@ APAC Businesses and Executives should prepare for</p>
 <h4></h4>
 <p><strong>Please read <a href="https://www.taxacademy.sg/executive-tax-programmes/terms-and-conditions/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> for seminars.</strong>
 </p>
+<p></p>
