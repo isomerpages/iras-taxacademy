@@ -13,8 +13,12 @@ Thank you!</p>
 <h5><strong>Sep 2025</strong></h5>
 <p><strong>1 &amp; 2 Sep: </strong><a href="https://www.unil.ch/news/fr/1747729178585" rel="noopener nofollow" target="_blank">The MAP Day (UniL-TA)</a>
 </p>
-<p><strong>2 Sep: CPA-TA Lunchtime Webinar:</strong> Deepen your understanding
+<p><strong>2 Sep: </strong>CPA-TA Lunchtime Webinar: Deepen your understanding
 of Singapore’s GST system</p>
+<p><strong>3 Sep:</strong> Realigning international tax and trade rules: ‘One
+Big Beautiful Bill’, U.S. trade policy and implications for businesses
+in Asia</p>
+<p></p>
 <h5><strong>Aug 2025</strong></h5>
 <p><strong>1 Aug</strong>: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
 </p>
