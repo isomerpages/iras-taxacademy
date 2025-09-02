@@ -20,8 +20,9 @@ Big Beautiful Bill’, U.S. trade policy and implications for businesses
 in Asia</p>
 <p><strong>5 Sep:</strong> An overview of the US Federal Tax System and its
 Application to Non-US Individuals</p>
-<p>16 Sep: IFA-TA Joint Seminar - Demystifying intangible asset valuation
-– Practical insights for tax, transfer pricing and financial reporting</p>
+<p><strong>16 Sep:</strong> IFA-TA Joint Seminar - Demystifying intangible
+asset valuation – Practical insights for tax, transfer pricing and financial
+reporting</p>
 <p></p>
 <h5><strong>Aug 2025</strong></h5>
 <p><strong>1 Aug</strong>: <a href="https://www.taxacademy.sg/taxtrek-series/" rel="noopener nofollow" target="_blank">TaxTrek Series: A Career in Tax - Multifaceted Options and Opportunities</a>
