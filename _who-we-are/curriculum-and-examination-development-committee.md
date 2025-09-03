@@ -7,10 +7,10 @@ variant: markdown
 **The Curriculum and Examination Development Committee provides recommendations on strategic curriculum and examination development in accordance with the market needs and for industry relevance.**
 
 #### **Chairman**
-**Ms Sim Siew Moon** <br>
+**Mr Simon Poh Siew Beng** <br>
 Chairman <br>
-Head of Tax <br>
-Baker Tilly Singapore <br>
+Associate Professor (Practice), Accounting Department <br>
+National University of Singapore<br>
 
 #### **Members**
 
