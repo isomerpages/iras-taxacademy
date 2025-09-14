@@ -23,6 +23,8 @@ Application to Non-US Individuals</p>
 <p><strong>16 Sep:</strong> IFA-TA Joint Seminar - Demystifying intangible
 asset valuation – Practical insights for tax, transfer pricing and financial
 reporting</p>
+<p><strong>17 Sep</strong>: The Pepsi Challenge: The PepsiCo Case and Its
+Impact on Multinational Tax Structures</p>
 <p><strong>18 Sep</strong>: FasTax Series: GST ASK - A Self-help Tool for
 GST Compliance</p>
 <p></p>
