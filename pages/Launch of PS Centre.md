@@ -43,28 +43,7 @@ partners to help enterprises thrive regionally.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/db6e05c2_5a3d_4d5a_b8f2_e62430bc140e.jpg">
 </div>
 <p>text</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d7385b8d_5857_4eb8_8aa7_a15fb120791d.jpg">
-</div>
-<p>text</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/60f35c6b_b64a_4820_ac29_7d7bed603e8c.jpg">
-</div>
-<p>text</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2e5b82e8_35a6_4e5b_b660_bb109c2e13d7.jpg">
-</div>
-<p>text</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/be187cca_dd36_4778_aead_bdd5ef598445.jpg">
-</div>
-<p>text</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/205e37b1_9f14_4bb5_9d5e_4eca6368797b.jpg">
-</div>
-<p>text</p>
 <p></p>
-<p>text</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>CEO of Tax Academy's Speech</summary>
