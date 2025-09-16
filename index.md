@@ -50,5 +50,12 @@ sections:
       url: https://www.mof.gov.sg/news-publications/speeches/Address-By-Mr-Tharman-Shanmugaratnam-Minister-For-Education-And-Second-Minister-For-Finance-At-The-Launch-Of-The-Tax-Academy-And-Opening-Of-The-Transf
       image: /images/Quote__3_.png
       alt: Image alt text
+  - infopic:
+      subtitle: 15 September 2025
+      id: infopic
+      description: Launch of Professional Services (PS) Centre in Vietnam!
+      button: More details
+      url: https://taxacademy.sg
+      alt: Image alt text
 image: /images/isomer-logo.svg
 ---
