@@ -46,7 +46,7 @@ sections:
       id: infopic
       description: Launch of Professional Services (PS) Centre in Vietnam!
       button: More details
-      url: https://taxacademy.sg
+      url: https://taxacademy.sg/launch-of-ps-centre/
       alt: Image alt text
       image: /images/7602f119_48f2_444c_9889_3d50b14d90a3.jpg
   - infopic:
