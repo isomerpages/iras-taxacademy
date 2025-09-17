@@ -42,6 +42,14 @@ sections:
           link_text: More details
           link_url: https://www.taxacademy.sg/the-international-tax-dispute-day/
   - infopic:
+      subtitle: 15 September 2025
+      id: infopic
+      description: Launch of Professional Services (PS) Centre in Vietnam!
+      button: More details
+      url: https://taxacademy.sg
+      alt: Image alt text
+      image: /images/7602f119_48f2_444c_9889_3d50b14d90a3.jpg
+  - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
         (then Minister for Education and Second Minister for Finance), at the
