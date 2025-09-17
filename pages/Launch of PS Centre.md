@@ -65,7 +65,7 @@ Luo</p>
 of the PS Centre in Ho Chi Minh City</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/image013.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/image013.jpg">
 </div>
 <p>&nbsp;CEO of Tax Academy of Singapore delivering his speech to distinguished
 guests at the official launch of the PS Centre &nbsp;</p>
