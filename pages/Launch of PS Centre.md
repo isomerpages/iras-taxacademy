@@ -11,37 +11,50 @@ description: ""
 <blockquote>
 <p>Strengthening Singapore-Vietnam ties: President Mr Teo Ser Luck with Consul-General
 Mr Pang Te Cheng</p>
-</blockquote>
 <p></p>
-<p>The Professional Services (PS) Centre Ho Chi Minh City has officially
-opened, providing a one-stop hub for businesses seeking to expand into
-Vietnam’s dynamic economy.
+</blockquote>
+<p>Exciting news! The Professional Services (PS) Centre @ Ho Chi Minh City
+has officially opened its doors, creating a vibrant one-stop hub for businesses
+ready to explore and expand into Vietnam's incredibly dynamic economy.</p>
+<p>Tax Academy is delighted to witness and celebrate this momentous opening
+of the PS Centre—a truly groundbreaking hub thoughtfully designed to empower
+and support businesses as they embark on their exciting journey into Vietnam's
+flourishing<strong> </strong>economy.
 <br>
 <br>Through the PS Centre, enterprises can:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Access professional services expertise in areas such as accountancy, law,
-tax, valuation, and corporate advisory.</p>
+tax, valuation, and corporate advisory</p>
 </li>
 <li>
 <p>Tap into trusted local partners and networks for in-market insights and
-opportunities.</p>
+opportunities</p>
 </li>
 <li>
-<p>Build cross-border connections that support long-term, sustainable growth.
-<br>
-</p>
-<p></p>
+<p>Build cross-border connections that support long-term, sustainable growth</p>
 </li>
 </ul>
-<p>The launch was graced by Mr Pang Te Cheng, Consul-General of Singapore
+<p>
+<br>The launch was graced by Mr Pang Te Cheng, Consul-General of Singapore
 in HCMC, and attended by business leaders and associations from both Singapore
 and Vietnam, highlighting strong support for deeper collaboration between
 our two economies.
 <br>
 <br>This is a collective effort by The Alliance, bringing together eight founding
-partners to help enterprises thrive regionally.</p>
-<p></p>
+partners to help enterprises thrive regionally. We extend our sincere appreciation
+to ISCA for their instrumental role in this initiative, under the visionary
+leadership of President Mr Teo Ser Luck and CEO Ms Fann Kor. We are also
+truly honoured that ISCA invited Tax Academy to be part of this strategic
+alliance.</p>
+<p>For Tax Academy, this Centre represents a dynamic platform where we can
+bring our distinctive tri-partite approach directly to businesses navigating
+the complexities of cross-border expansion in Vietnam. By integrating government
+insights, industry expertise, and academic rigour, we're positioned to
+deliver exceptional value.</p>
+<p>We're excited to empower businesses with the practical insights, training,
+and strategic guidance needed to succeed and thrive in this new chapter
+of regional growth and opportunity!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/db6e05c2_5a3d_4d5a_b8f2_e62430bc140e.jpg">
 </div>
