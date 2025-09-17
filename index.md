@@ -48,7 +48,7 @@ sections:
       button: More details
       url: https://taxacademy.sg/launch-of-ps-centre/
       alt: Image alt text
-      image: /images/7602f119_48f2_444c_9889_3d50b14d90a3.jpg
+      image: /images/205e37b1_9f14_4bb5_9d5e_4eca6368797b.jpg
   - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
