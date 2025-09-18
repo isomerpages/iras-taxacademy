@@ -10,7 +10,7 @@ description: ""
 </div>
 <blockquote>
 <p>Strengthening Singapore-Vietnam ties: President Mr Teo Ser Luck with Consul-General
-Mr Pang Te Cheng</p>
+of Singapore in HCMC Mr Pang Te Cheng</p>
 <p></p>
 </blockquote>
 <p>The Professional Services (PS) Centre @ Ho Chi Minh City has officially
@@ -94,8 +94,8 @@ the launch ceremony of the PS Centre</p>
 </div>
 <p>Group photo of key stakeholders and partners at the opening of the PS
 Centre in Ho Chi Minh City - Ms Fann Kor, Mr Dennis Lui, Mr Yuit Ang, Mr
-Teo Ser Luck, Consul-General Mr Pang Te Cheng, Mr Ernie Koh, Ms Lisa Sam
-and Mr Tan Wei Luo</p>
+Teo Ser Luck, Consul-General of Singapore in HCMC Mr Pang Te Cheng, Mr
+Ernie Koh, Ms Lisa Sam and Mr Tan Wei Luo</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image019.jpg">
