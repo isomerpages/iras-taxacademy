@@ -93,7 +93,9 @@ the launch ceremony of the PS Centre</p>
 <img style="width: 100%" height="auto" width="100%" alt="Group photo of key stakeholders and partners at the opening of the PS Centre in Ho Chi Minh City" src="/images/205e37b1_9f14_4bb5_9d5e_4eca6368797b.jpg">
 </div>
 <p>Group photo of key stakeholders and partners at the opening of the PS
-Centre in Ho Chi Minh City</p>
+Centre in Ho Chi Minh City - Ms Fann Kor, Mr Dennis Lui, Mr Yuit Ang, Mr
+Teo Ser Luck, Consul-General Mr Pang Te Cheng, Mr Ernie Koh, Ms Lisa Sam
+and Mr Tan Wei Luo</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image019.jpg">
