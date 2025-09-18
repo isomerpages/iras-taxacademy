@@ -30,6 +30,14 @@ sections:
           description: Levels 1 to 3
           url: /executive-tax-programmes/international-tax/
       variant: side
+  - infopic:
+      subtitle: 15 September 2025
+      id: infopic
+      description: Launch of Professional Services (PS) Centre in Vietnam!
+      button: More details
+      url: https://taxacademy.sg/launch-of-ps-centre/
+      alt: Image alt text
+      image: /images/205e37b1_9f14_4bb5_9d5e_4eca6368797b.jpg
   - announcements:
       title: Post Conference Highlights
       id: announcements
@@ -41,14 +49,6 @@ sections:
             conference's keynote speeches now!
           link_text: More details
           link_url: https://www.taxacademy.sg/the-international-tax-dispute-day/
-  - infopic:
-      subtitle: 15 September 2025
-      id: infopic
-      description: Launch of Professional Services (PS) Centre in Vietnam!
-      button: More details
-      url: https://taxacademy.sg/launch-of-ps-centre/
-      alt: Image alt text
-      image: /images/205e37b1_9f14_4bb5_9d5e_4eca6368797b.jpg
   - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
