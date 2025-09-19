@@ -10,7 +10,7 @@ description: ""
 </div>
 <blockquote>
 <p>Strengthening Singapore-Vietnam ties: President Mr Teo Ser Luck with Consul-General
-of Singapore in Ho Chi Minh City Mr Pang Te Cheng</p>
+of Singapore in Ho Chi Minh City, Mr Pang Te Cheng</p>
 <p></p>
 </blockquote>
 <p>The Professional Services (PS) Centre @ Ho Chi Minh City has officially
@@ -33,10 +33,10 @@ opportunities.</p>
 </p>
 </li>
 </ul>
-<p>The launch was graced by Mr Pang Te Cheng, Consul-General of Singapore
-in Ho Chi Minh City, and attended by business leaders and associations
-from both Singapore and Vietnam, highlighting strong support for deeper
-collaboration between our two economies.
+<p>The launch was graced by Consul-General of Singapore in Ho Chi Minh City,
+Mr Pang Te Cheng, and attended by business leaders and associations from
+both Singapore and Vietnam, highlighting strong support for deeper collaboration
+between our two economies.
 <br>
 <br>This is a collective effort by The Alliance, bringing together eight founding
 partners to help enterprises thrive regionally.</p>
@@ -94,8 +94,8 @@ the launch ceremony of the PS Centre</p>
 </div>
 <p>Group photo of key stakeholders and partners at the opening of the PS
 Centre in Ho Chi Minh City - Ms Fann Kor, Mr Dennis Lui, Mr Yuit Ang, Mr
-Teo Ser Luck, Consul-General of Singapore in Ho Chi Minh City Mr Pang Te
-Cheng, Mr Ernie Koh, Ms Lisa Sam and Mr Tan Wei Luo</p>
+Teo Ser Luck, Consul-General of Singapore in Ho Chi Minh City, Mr Pang
+Te Cheng, Mr Ernie Koh, Ms Lisa Sam and Mr Tan Wei Luo</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image019.jpg">
@@ -104,8 +104,8 @@ Cheng, Mr Ernie Koh, Ms Lisa Sam and Mr Tan Wei Luo</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image020.jpg">
 </div>
-<p>Private dinner with the Consul-General of Singapore, Mr Pang Te Cheng,
-in Ho Chi Minh City on 14 Sep 2025. <em>Find out more about the private dinner on our LinkedIn page: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7373600289322557440" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7373600289322557440</a></em>
+<p>Private dinner with the Consul-General of Singapore in Ho Chi Minh City,
+Mr Pang Te Cheng on 14 Sep 2025. <em>Find out more about the private dinner on our LinkedIn page: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7373600289322557440" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7373600289322557440</a></em>
 </p>
 <p>&nbsp;
 <br>
