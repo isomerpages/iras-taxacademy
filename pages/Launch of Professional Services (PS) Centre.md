@@ -1,5 +1,5 @@
 ---
-title: Launch of PS Centre
+title: Launch of Professional Services (PS) Centre
 permalink: /launch-of-ps-centre/
 variant: tiptap
 description: ""
