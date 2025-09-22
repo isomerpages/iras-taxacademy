@@ -107,7 +107,32 @@ Te Cheng, Mr Ernie Koh, Ms Lisa Sam and Mr Tan Wei Luo</p>
 <p>Private dinner with the Consul-General of Singapore in Ho Chi Minh City,
 Mr Pang Te Cheng on 14 Sep 2025. <em>Find out more about the private dinner on our LinkedIn page: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7373600289322557440" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7373600289322557440</a></em>
 </p>
-<p>&nbsp;
+<p><strong>Strengthening International Tax Partnerships</strong>
+</p>
+<p>CEO of Tax Academy, Mr Dennis Lui, attended the private dinner reception
+to foster collaboration with prominent Vietnamese tax and business leaders.
+The evening provided an invaluable opportunity to discuss emerging tax
+challenges, share best practices, and explore potential education partnerships
+between Singapore and Vietnam's tax communities.</p>
+<p>The distinguished guests represented key organisations across Vietnam's
+tax and business landscape, bringing diverse perspectives on regional tax
+developments and cross-border compliance matters.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/460dac6a_b288_43f0_979b_8c9c38a9c8e3.jpg">
+</div>
+<p>Mr Hoang Bong, Head of HCMC, VAA</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7b2d73f1_563c_40c2_8abe_51cb8bcbcec9.jpg">
+</div>
+<p>Mr Tam Nguyen, Owner, W Business Center &amp; Nai Real Estate (WBC)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a55a310d_cc3c_4cc9_85d8_234617e92d51.jpg">
+</div>
+<p>Mr Hung Hoang, IIA Vietnam, President</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4a7ef11d_70fc_4958_8422_81ce743daf29.jpg">
+</div>
+<p>Mr Duc Dang, Secretary General, VNIDA
 <br>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
