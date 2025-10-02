@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>GST Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sep 2025 intake: <a href="/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Sep 2025 intake: <a href="/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 <p></p>
 </li>
@@ -33,11 +33,8 @@ variant: tiptap
 <p>This course covers the scope of GST, and concepts relating to supply of
 goods and services, exempt supplies, import and export schemes and GST
 compliance.</p>
-<p><a href="https://go.gov.sg/gst-programme-level1-intake3-2025" rel="noopener nofollow" target="_blank">Registration Form</a> -
-<a href="/files/Course_Brochure___GST_Programme_Level_1__Intake_3_2025__v2.pdf" rel="noopener nofollow" target="_blank">Details</a>
-</p>
-<p>Registration is OPEN for intake 3/2025 (Sep 2025 intake).</p>
-<p>Once registration is closed, you may wish to fill out the <a href="https://go.gov.sg/waitlist-level1gst" rel="noopener noreferrer nofollow" target="_blank"><u>interest form </u></a>to
+<p>Registration is closed for intake 3/2025 (Sep 2025 intake).</p>
+<p>You may wish to fill out the <a href="https://go.gov.sg/waitlist-level1gst" rel="noopener noreferrer nofollow" target="_blank"><u>interest form </u></a>to
 indicate your interest.</p>
 <p>The next intake for this course will be in Feb 2026. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
