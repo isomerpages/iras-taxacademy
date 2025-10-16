@@ -2,6 +2,7 @@ collections:
   monthly-newsletter:
     output: true
     order:
+      - Seo 2025.md
       - Aug 2025.md
       - Jul 2025.md
       - Jun 2025.md
