@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Oct 2025 intake: <a href="/executive-tax-programmes/international-tax/#etp1IT-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Oct 2025 intake: <a href="/executive-tax-programmes/international-tax/#etp1IT-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
@@ -37,13 +37,12 @@ variant: tiptap
 <h3><strong>International Tax Programme Level 1</strong></h3>
 <p>This course will enable participants to acquire basic knowledge in tax
 treaties and transfer pricing.</p>
-<p><a href="https://go.gov.sg/int-tax-lvl-1-intake2-2025" rel="noopener nofollow" target="_blank">Registration Link</a> -
-<a href="/files/Course_Brochure___International_Tax_Programme_Level_1__Intake_2_2025_.pdf" rel="noopener nofollow" target="_blank">Details</a>
-</p>
-<p><strong>Registration is OPEN for intake 2/2025</strong>
+<p><strong>Registration is CLOSED for intake 2/2025</strong>
 </p>
 <p>The next intake for the course will be held in May 2026. Registration
 will open six to eight weeks before the course commencement date.</p>
+<p>Interest form for next intake - <a href="https://form.gov.sg/689d5577abbc469a0ae71a67" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 <p></p>
 <h3><strong>International Tax Programme Level 2</strong></h3>
 <p>This course provides in-depth knowledge in international tax principles
