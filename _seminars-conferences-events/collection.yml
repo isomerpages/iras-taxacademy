@@ -1,5 +1,5 @@
 collections:
-  seminars-and-conferences:
+  seminars-conferences-events:
     output: true
     order:
       - Upcoming Seminars and Conferences.md
