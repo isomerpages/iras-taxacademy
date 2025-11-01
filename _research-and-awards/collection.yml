@@ -2,8 +2,6 @@ collections:
   research-and-awards:
     output: true
     order:
-      - call-for-papers.md
-      - research-papers.md
       - Research Papers.md
       - overview.md
       - book-prizes.md
@@ -12,3 +10,5 @@ collections:
       - union-training-assistance-programme.md
       - going-places-in-tax.md
       - Publications.md
+      - research-papers.md
+      - call-for-papers.md
