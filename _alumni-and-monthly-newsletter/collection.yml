@@ -2,6 +2,7 @@ collections:
   alumni-and-monthly-newsletter:
     output: true
     order:
+      - About the Network.md
       - Sep 2025.md
       - Aug 2025.md
       - Jul 2025.md
