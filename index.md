@@ -16,7 +16,7 @@ sections:
       title: Tax Academy Singapore
       subtitle: A not-for-profit institution set up by the Inland Revenue Authority of
         Singapore in collaboration with international accounting firms
-      background: /images/LinkedinQR.png
+      background: /images/banner_gardenbay.png
       button: Learn More
       url: /who-we-are/overview/
       key_highlights:
@@ -29,7 +29,7 @@ sections:
         - title: INTERNATIONAL TAX PROGRAMME
           description: Levels 1 to 3
           url: /executive-tax-programmes/international-tax/
-      variant: side
+      variant: center
   - infopic:
       subtitle: 15 September 2025
       id: infopic
