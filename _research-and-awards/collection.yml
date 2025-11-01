@@ -1,8 +1,11 @@
 collections:
-  tomorrow-tax-professional:
+  research-and-awards:
     output: true
     order:
       - overview.md
+      - Publications.md
+      - research-papers.md
+      - call-for-papers.md
       - book-prizes.md
       - TA Merit Book Prizes.md
       - skillsfuture-credit.md

@@ -1,0 +1,15 @@
+collections:
+  alumni-and-monthly-newsletter:
+    output: true
+    order:
+      - About the Network.md
+      - Alumni Network Welcome Reception 2025.md
+      - "Monthly Newsletter: Sep 2025.md"
+      - "Monthly Newsletter: Aug 2025.md"
+      - "Monthly Newsletter: Jul 2025.md"
+      - "Monthly Newsletter: Jun 2025.md"
+      - "Monthly Newsletter: May 2025.md"
+      - "Monthly Newsletter: Apr 2025.md"
+      - "Monthly Newsletter: Mar 2025.md"
+      - "Monthly Newsletter: Feb 2025.md"
+      - "Monthly Newsletter: Jan 2025.md"

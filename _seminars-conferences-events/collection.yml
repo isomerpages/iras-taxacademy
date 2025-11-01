@@ -1,7 +1,8 @@
 collections:
-  seminars-and-conferences:
+  seminars-conferences-events:
     output: true
     order:
       - Upcoming Seminars and Conferences.md
       - Case Commentaries.md
+      - Appreciation Event.md
       - Archives.md

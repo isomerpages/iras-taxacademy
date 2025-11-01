@@ -1,5 +1,5 @@
 ---
-title: Apr 2025
+title: "Monthly Newsletter: Apr 2025"
 permalink: /apr-2025/
 variant: tiptap
 description: ""

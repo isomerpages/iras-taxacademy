@@ -49,7 +49,7 @@ breadcrumb: Research Papers
 
 22. [Critical Evaluation of Action 14 – Recommendations and the Suggested Way Forward for Singapore](/research/research-papers/#22-ta-id)
 
-23. [Mismatches in Tax Outcomes in the Light of BEPS Actions 2 & 5](/research/research-papers/#23-ta-id)
+23. [Mismatches in Tax Outcomes in the Light of BEPS Actions 2 &amp; 5](/research/research-papers/#23-ta-id)
 
 24. [Territorial Tax System Reform and Multinationals' Foreign Cash Holdings: New Evidence from Japan](/research/research-papers/#24-ta-id)
 
@@ -81,13 +81,13 @@ Dr Jasmin Kollmann, EY Munich
 <a id="4-ta-id"></a>
 **International Tax Competition, Capital Mobility, and Inequality: Empirical Evidence from Asia-Pacific Economies** [Main Paper](/files/research-papers/tax comp cap mob and inequality-20190103-xcw and ycf.pdf){:target="_blank"}
 
-Dr Xu Chengwei, Research Fellow, SMU-TA Centre for Excellence in Taxation & Ms Yeh Chin Feng, Principal Tax Specialist, Inland Revenue Authority of Singapore 
+Dr Xu Chengwei, Research Fellow, SMU-TA Centre for Excellence in Taxation &amp; Ms Yeh Chin Feng, Principal Tax Specialist, Inland Revenue Authority of Singapore 
 
 <a id="5-ta-id"></a>
 **Necessity of the Dependent Agent Permanent Establishment** 
 [Main Paper](/files/research-papers/paper_tommy and sing yuan_final.pdf){:target="_blank"}
 
-Ms Yong Sing Yuan, Tax Director, Inland Revenue Authority of Singapore & Mr Tommy Yee, Senior Lecturer, Singapore University of Social Sciences
+Ms Yong Sing Yuan, Tax Director, Inland Revenue Authority of Singapore &amp; Mr Tommy Yee, Senior Lecturer, Singapore University of Social Sciences
 
 <a id="6-ta-id"></a>
 **International Trade in B2B Services under VAT/GST Law and the Role of Permanent/Fixed Establishments: A Comparison of EU VAT and Singaporean GST in the Light of the OECD VAT/GST Guidelines**
@@ -108,7 +108,7 @@ Dr Dong Yue, Research Fellow, SMU-TA Centre for Excellence in Taxation
 **Reviewing the OECD’s and the EU’s Assessment of Singapore’s Development and Expansion Incentive**
 [Main Paper](/files/research-papers/oecd’s and the eu’s assessment of singapore’s development and expansion incentive.pdf){:target="_blank"}
 
-Dr Frederik Boulogne, Tax Lawyer at Lubbers, Boer & Douma and Researcher at VU University Amsterdam (VU Nexus Centre)
+Dr Frederik Boulogne, Tax Lawyer at Lubbers, Boer &amp; Douma and Researcher at VU University Amsterdam (VU Nexus Centre)
 
  <a id="9-ta-id"></a>
 **A step forward for tax dispute resolution between China and ASEAN countries under the Belt and Road Initiative**
@@ -120,9 +120,9 @@ Dr Xu Diheng, Research Fellow, SMU-TA Centre for Excellence in Taxation
 <a id="10-ta-id"></a>
 **An Assessment of the Potential Economic Impact of BEPS Project Action 4 on Companies in Asia**
 
-This paper is published in the Bulletin for International Taxation and can be accessed [here](https://online.ibfd.org/kbase/#topic=doc&url=/collections/bit/html/bit_2019_01_cn_1.html){:target="_blank"}
+This paper is published in the Bulletin for International Taxation and can be accessed [here](https://online.ibfd.org/kbase/#topic=doc&amp;url=/collections/bit/html/bit_2019_01_cn_1.html){:target="_blank"}
 
-Dr Dong Yue, Research Fellow, SMU-TA Centre for Excellence in Taxation & Ms Balbir Kaur, Group Tax Specialist, Inland Revenue Authority of Singapore
+Dr Dong Yue, Research Fellow, SMU-TA Centre for Excellence in Taxation &amp; Ms Balbir Kaur, Group Tax Specialist, Inland Revenue Authority of Singapore
   
  <a id="11-ta-id"></a>
 **Developing an Artificial Intelligence’s Tax Assistant in International Tax Avoidance Cases: The Case Study under the PPT** 
@@ -134,7 +134,7 @@ Dr Blazej Kuzniacki, Research Fellow, SMU-TA Centre for Excellence in Taxation
 <a id="12-ta-id"></a>
 **The Covergence and Divergence between China’s Implementation and OECD/G20 BEPS Minimum Standards**
 
-This paper is published in the World Tax Journal and can be accessed [here](https://online.ibfd.org/kbase/#topic=doc&url=/spider/collections/wtj/html/wtj_2018_03_int_1.html){:target="_blank"}
+This paper is published in the World Tax Journal and can be accessed [here](https://online.ibfd.org/kbase/#topic=doc&amp;url=/spider/collections/wtj/html/wtj_2018_03_int_1.html){:target="_blank"}
 
 Dr Xu Diheng, Research Fellow, SMU-TA Centre for Excellence in Taxation
   
@@ -150,7 +150,7 @@ Dr Matthias Petutschnig, Assistant Professor, Vienna University of Economics and
 [Abstract](/files/research-papers/abstract_related parties as used in transfer pricing.pdf){:target="_blank"}
 This paper is published in IBFD and can be accessed [here](https://www.ibfd.org/IBFD-Products/Journal-Articles/International-Transfer-Pricing-Journal/collections/itpj/html/itpj_2017_06_int_2.html){:target="_blank"}
 
-Ms Yong Sing Yuan, Tax Director, Inland Revenue Authority of Singapore & Ms Jow Lee Ying, Senior Lecturer, Nanyang Technological University, Singapore
+Ms Yong Sing Yuan, Tax Director, Inland Revenue Authority of Singapore &amp; Ms Jow Lee Ying, Senior Lecturer, Nanyang Technological University, Singapore
 
 <a id="15-ta-id"></a> 
 **What is the cost of transparency? Does it outweigh the benefits obtained from greater transparency?**
@@ -185,34 +185,34 @@ Dr Blazej Kuzniacki, Research Fellow, SMU-TA Centre for Excellence in Taxation
 [Abstract](/files/research-papers/objective or subjective_abstract.pdf){:target="_blank"}
 [Main Paper](/files/research-papers/objective or subjective - anti-treaty shopping policy.pdf){:target="_blank"}
 
-Mr Andy Baik, Principal, Ernst & Young LLP & Dr Matthias Petutschnig, Associate Professor, Vienna University of Economics and Business
+Mr Andy Baik, Principal, Ernst &amp; Young LLP &amp; Dr Matthias Petutschnig, Associate Professor, Vienna University of Economics and Business
   
 <a id="20-ta-id"></a>   
 **Impact of OECD BEPS Action 7 proposals on modification of Articles 5(4), 5(5) and 5(6) of OECD Model Convention: An evaluation of Action 7 on the future of intra-group transactions and business models of MNEs in their cross-border investments**
 [Abstract](/files/research-papers/abstract - impact of oecd beps action 7 proposals on modification of articles.pdf){:target="_blank"}
 [Main Paper](/files/research-papers/impact of oecd beps action 7 proposals on modification of articles.pdf){:target="_blank"}
 
-Mr Tan Ching Khee, Partner, Ernst & Young Solutions LLP & Mr Henry Syrett, Partner, Ernst & Young Solutions LLP
+Mr Tan Ching Khee, Partner, Ernst &amp; Young Solutions LLP &amp; Mr Henry Syrett, Partner, Ernst &amp; Young Solutions LLP
   
 <a id="21-ta-id"></a>   
 **Local tax incentives and behavior of foreign enterprises: evidence from a large developing country**
 [Abstract](/files/research-papers/abstract - local tax incentives and behavior of foreign enterprises.pdf){:target="_blank"}
 [Main Paper](/files/research-papers/local tax incentives and behavior of foreign enterprises.pdf){:target="_blank"}
 
-Prof Jing Xing, Assistant Professor, Shanghai Jiao Tong University, Prof Wei Cui,  Associate Professor, The University of British Columbia & Prof Xi Qu, Associate Professor, Shanghai Jiao Tong University
+Prof Jing Xing, Assistant Professor, Shanghai Jiao Tong University, Prof Wei Cui,  Associate Professor, The University of British Columbia &amp; Prof Xi Qu, Associate Professor, Shanghai Jiao Tong University
   
 <a id="22-ta-id"></a>
 **Critical Evaluation of Action 14 – Recommendations and the Suggested Way Forward for Singapore**
 [Main Paper](/files/research-papers/critical evaluation of action 14.pdf){:target="_blank"}
 
-Mr Luis Coronado, Partner, Ernst & Young Solutions LLP& Mr Jerome van Staden, International Director, Ernst & Young Solutions LLP
+Mr Luis Coronado, Partner, Ernst &amp; Young Solutions LLP&amp; Mr Jerome van Staden, International Director, Ernst &amp; Young Solutions LLP
   
 <a id="23-ta-id"></a>
-**Mismatches in Tax Outcomes in the Light of BEPS Actions 2 & 5**
+**Mismatches in Tax Outcomes in the Light of BEPS Actions 2 &amp; 5**
 [Abstract](/files/research-papers/summary - mismatches in tax outcomes in the light of beps.pdf){:target="_blank"}
 [Main Paper](/files/research-papers/mismatches in tax outcomes in the light of beps-actions 2 and 5.pdf){:target="_blank"}
 
-Mr Lukas Mechtler, PhD candidate, Vienna University of Economics and Business & Ms Cindy Wong, Group Tax Specialist, Inland Revenue Authority of Singapore
+Mr Lukas Mechtler, PhD candidate, Vienna University of Economics and Business &amp; Ms Cindy Wong, Group Tax Specialist, Inland Revenue Authority of Singapore
   
 <a id="24-ta-id"></a>
 **Territorial Tax System Reform and Multinationals' Foreign Cash Holdings: New Evidence from Japan**
@@ -220,7 +220,7 @@ Mr Lukas Mechtler, PhD candidate, Vienna University of Economics and Business & 
 [Abstract](/files/research-papers/abstract - territorial tax system reform.pdf){:target="_blank"}
 This paper is published in the Journal of Corporate Finance and be accessed [here](https://www.sciencedirect.com/science/article/pii/S0929119917305412){:target="_blank"}
 
-Dr Jing Xing, Assistant Professor, Shanghai Jiao Tong University, Dr Stephen Bond, University of Oxford & Dr Giorgia Maffini, Leverhulme Trust Fellow, University of Oxford
+Dr Jing Xing, Assistant Professor, Shanghai Jiao Tong University, Dr Stephen Bond, University of Oxford &amp; Dr Giorgia Maffini, Leverhulme Trust Fellow, University of Oxford
 
 <a id="25-ta-id"></a>
 **International Tax Law in the Post-BEPS World**

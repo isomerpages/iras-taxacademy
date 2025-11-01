@@ -4,17 +4,11 @@ links:
     collection: who-we-are
   - title: Structured Tax Training
     collection: structured-tax-training
-  - title: Seminars/Conferences
-    collection: seminars-and-conferences
-  - title: Awards And Schemes
-    collection: tomorrow-tax-professional
-  - title: Research
-    collection: research
-  - title: Events
-    collection: appreciation-events
-  - title: Alumni Network
-    collection: alumni-network
-  - title: Monthly Newsletter
-    collection: monthly-newsletter
+  - title: Seminars, Conferences & Events
+    collection: seminars-conferences-events
+  - title: Research & Awards
+    collection: research-and-awards
+  - title: Alumni & Monthly Newsletter
+    collection: alumni-and-monthly-newsletter
   - title: Contact Us
     url: /contact-us/

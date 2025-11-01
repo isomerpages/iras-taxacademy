@@ -1,8 +1,0 @@
-collections:
-  research:
-    output: true
-    order:
-      - overview.md
-      - publications.md
-      - research-papers.md
-      - call-for-papers.md
