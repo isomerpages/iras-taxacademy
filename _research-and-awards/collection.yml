@@ -2,7 +2,6 @@ collections:
   research-and-awards:
     output: true
     order:
-      - Research Papers.md
       - overview.md
       - book-prizes.md
       - TA Merit Book Prizes.md
