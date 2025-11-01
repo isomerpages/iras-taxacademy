@@ -1,6 +1,0 @@
-collections:
-  research:
-    output: true
-    order:
-      - overview.md
-      - publications.md
