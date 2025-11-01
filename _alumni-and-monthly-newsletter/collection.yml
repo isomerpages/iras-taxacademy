@@ -1,5 +1,5 @@
 collections:
-  monthly-newsletter:
+  alumni-and-monthly-newsletter:
     output: true
     order:
       - Sep 2025.md
