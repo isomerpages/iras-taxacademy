@@ -1,5 +1,5 @@
 collections:
-  tomorrow-tax-professional:
+  research-and-awards:
     output: true
     order:
       - overview.md
