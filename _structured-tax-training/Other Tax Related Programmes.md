@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h5><strong>UPCOMING PROGRAMMES</strong></h5>
 <h4><strong>Understanding BEPS Programme</strong></h4>
-<p>Join this blended programme through self-paced elearning videos before
+<p>Join this blended programme through self-paced e-learning videos before
 attending a 2-day workshop!</p>
 <p><strong>Learning Takeways</strong>
 </p>
