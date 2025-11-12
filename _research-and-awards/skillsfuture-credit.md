@@ -59,6 +59,9 @@ SFC account via <a href="https://www.myskillsfuture.gov.sg/content/portal/en/ind
 <li>
 <p>Advanced International Tax Planning Programme - TGS-2019507227</p>
 </li>
+<li>
+<p>Understanding BEPS Programme - TGS-2025060236</p>
+</li>
 </ul>
 <p>(*applicable for full programme only)</p>
 <p><strong>Claim Process</strong>
