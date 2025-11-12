@@ -5,34 +5,50 @@ description: ""
 variant: tiptap
 ---
 <h5><strong>UPCOMING PROGRAMMES</strong></h5>
-<h4><strong>GLOBAL MINIMUM TAX IN SINGAPORE: MULTINATIONAL ENTERPRISE TOP-UP TAX (MTT) AND DOMESTIC TOP-UP TAX (DTT)</strong></h4>
-<p>Join us in this workshop to learn about the Global Minimum Tax in Singapore,
-where speakers from IRAS and Big Four accounting firms will share insights
-on MTT and DTT.</p>
-<p><strong>Target Audience</strong>
+<h4><strong>Understanding BEPS Programme</strong></h4>
+<p>Join this blended programme through self-paced e-learning videos before
+attending a 2-day workshop!</p>
+<p><strong>Learning Takeways</strong>
 </p>
-<p>Tax team members from MNE groups that are in-scope of Pillar Two GloBE
-rules</p>
-<p><strong>Prerequisites</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Overview of BEPS developments</p>
+</li>
+<li>
+<p>Practical understanding of the Pillar 1 and Pillar 2 rules</p>
+</li>
+<li>
+<p>Understanding of the genesis and rationale of key BEPS initiatives</p>
+</li>
+</ul>
+<p><strong>Admission requirements</strong>
 </p>
-<p>Participants must belong to MNE groups that are in-scope of Pillar Two
-GloBE rules (Each company may send up to <u>TWO</u>&nbsp;participants)</p>
-<p>Completion of IRAS e-Learning modules on GloBE Rules &amp; DTT via IRAS
-website prior to attending the workshop</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basic knowledge of Income Tax and International Tax</p>
+</li>
+<li>
+<p>1 to 2 years of working experience in tax</p>
+</li>
+</ul>
 <p><strong>Details</strong>
 </p>
-<p>Dates: 2 Oct 2025</p>
+<p>Dates:</p>
+<p>Intake 1: 15 &amp; 16 Jan 2026 or</p>
+<p>Intake 2: 23 &amp; 30 Jan 2026</p>
 <p>Time: 9.00 a.m. to 5.00 p.m.</p>
-<p>Venue: IRAS, 5th&nbsp;storey, auditorium</p>
-<p>Fee: Complimentary</p>
-<p><a href="/files/brochureSep_Octworkshops.pdf" rel="noopener nofollow" target="_blank">Workshop details for Sep and Oct class</a>
+<p>Venue: IRAS, 55 Newton Road, Discovery training room</p>
+<p>Fees: Special launch fee $981 per pax</p>
+<p><a href="/files/Brochure_Understanding_BEPS_intake_1_and_intake_2_v2.pdf" rel="noopener nofollow" target="_blank">Brochure BEPS Intake 1 and 2</a>
 </p>
 <p>Register for 1 date only:</p>
-<p><a href="https://go.gov.sg/bepsreg2oct" rel="noopener nofollow" target="_blank">Register for 2 Oct 2025</a>
+<p><a href="https://go.gov.sg/bepsreg12025" rel="noopener nofollow" target="_blank">Register for Intake 1/2025</a>
+</p>
+<p><a href="https://go.gov.sg/bepsreg22025" rel="noopener nofollow" target="_blank">Register for Intake 2/2025</a>
 </p>
 <p></p>
 <p>Once registration is closed, kindly join the waiting list below:</p>
-<p><a href="https://go.gov.sg/bepsaugwaiting" rel="noopener nofollow" target="_blank">Waiting list</a>
+<p><a href="https://go.gov.sg/beps1and2waitinglist" rel="noopener nofollow" target="_blank">Waiting list</a>
 </p>
 <p></p>
 <h3><strong>Accounting Standards and Tax Adjustments</strong></h3>
