@@ -28,7 +28,7 @@ attending a 2-day workshop!</p>
 <p>Basic knowledge of Income Tax and International Tax</p>
 </li>
 <li>
-<p>1 to 2 years of tax working experience</p>
+<p>1 to 2 years of working experience in tax</p>
 </li>
 </ul>
 <p><strong>Details</strong>
