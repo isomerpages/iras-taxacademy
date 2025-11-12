@@ -38,7 +38,7 @@ attending a 2-day workshop!</p>
 <p>Intake 2: 23 &amp; 30 Jan 2026</p>
 <p>Time: 9.00 a.m. to 5.00 p.m.</p>
 <p>Venue: IRAS, 55 Newton Road, Discovery training room</p>
-<p>Fees: Special launch fee $872 per pax</p>
+<p>Fees: Special launch fee $981 per pax</p>
 <p><a href="/files/Brochure_Understanding_BEPS_intake_1_and_intake_2.pdf" rel="noopener nofollow" target="_blank">Brochure for Intake 1 and Intake 2</a>
 </p>
 <p>Register for 1 date only:</p>
