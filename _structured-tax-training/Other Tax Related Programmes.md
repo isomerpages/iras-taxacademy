@@ -40,7 +40,7 @@ attending a 2-day workshop!</p>
 <p>Venue: IRAS, 55 Newton Road, Discovery training room</p>
 <p>Fees: $1635 per pax</p>
 <p>(Early bird registration has reached full capacity)</p>
-<p><a href="/files/Brochure_Understanding_BEPS_standard_fees.pdf" rel="noopener nofollow" target="_blank">Brochure for Intake 1 and Intake 2</a>
+<p><a href="/files/Brochure_Understanding_BEPS_final_standard_fees.pdf" rel="noopener nofollow" target="_blank">Brochure BEPS Intake 1 &amp; 2</a>
 </p>
 <p>Register for 1 date only:</p>
 <p><a href="https://form.gov.sg/69154e0a9b3d9c8045cdff61" rel="noopener nofollow" target="_blank">Register for Intake 1/2025</a>
