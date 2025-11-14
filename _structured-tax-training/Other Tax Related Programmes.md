@@ -39,6 +39,7 @@ attending a 2-day workshop!</p>
 <p>Time: 9.00 a.m. to 5.00 p.m.</p>
 <p>Venue: IRAS, 55 Newton Road, Discovery training room</p>
 <p>Fees: $1635 per pax</p>
+<p>(Early bird registration has reached full capacity)</p>
 <p><a href="/files/Brochure_Understanding_BEPS_standard_fees.pdf" rel="noopener nofollow" target="_blank">Brochure for Intake 1 and Intake 2</a>
 </p>
 <p>Register for 1 date only:</p>
