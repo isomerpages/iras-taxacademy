@@ -83,7 +83,34 @@ separately managed by IRAS.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Merit Book Prize Winners/Book_Prize_Winners_Property_Tax_L1_page_0001.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IT_L1_4_5_2024__1_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IT_L1_4_5_2024__2_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IT_L1_4_5_2024__3_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IT_L1_4_5_2024__4_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IT_L1_4_5_2024__5_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IT_L1_4_5_2024__6_.png">
+</div>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
