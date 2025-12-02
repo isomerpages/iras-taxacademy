@@ -12,10 +12,9 @@ Year-End Party for Alumni Network Members, bringing together approximately
 <p>The event celebrated the dedication and invaluable contributions of our
 trainers, course advisors, examiners and mentors, who have been instrumental
 in TA's growth and success. As the network of networks, this gathering
-brought together tax professionals to forge meaningful connections with
-trainers, examiners, mentors and alumni. As we look ahead to our 20th anniversary
-next year, we extend our heartfelt gratitude to everyone who has been part
-of this remarkable journey.</p>
+brought together tax professionals to forge meaningful connections. As
+we look ahead to our 20th anniversary next year, we extend our heartfelt
+gratitude to everyone who has been part of this journey.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/0086.jpg">
