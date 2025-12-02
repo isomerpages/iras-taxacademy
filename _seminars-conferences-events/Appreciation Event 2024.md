@@ -1,6 +1,6 @@
 ---
-title: Appreciation Event
-permalink: /appreciation-event/
+title: Appreciation Event 2024
+permalink: /appreciation-event-2024/
 variant: tiptap
 description: ""
 ---
