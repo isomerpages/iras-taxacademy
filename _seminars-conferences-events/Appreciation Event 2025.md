@@ -37,7 +37,7 @@ of this remarkable journey.</p>
 </div>
 </blockquote>
 <blockquote>
-<p><strong><em>TA Income Tax Programme Levels 1 &amp; 2 </em></strong>
+<p><strong><em>TA Income Tax Programme Levels 1 &amp; 2</em></strong>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
