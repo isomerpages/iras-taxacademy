@@ -59,10 +59,10 @@ gratitude to everyone who has been part of this journey.</p>
 <blockquote>
 <p><strong><em>TA Property Tax, International Tax, CPA, Customised Programmes &amp; WU- TA Advanced Transfer Pricing Programme</em></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/0278.jpg">
-</div>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/0279.jpg">
+</div>
 <blockquote>
 <p><strong><em>Webinars</em></strong>
 </p>
