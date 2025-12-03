@@ -12,7 +12,9 @@ Thank you!</p>
 <h5><strong>Dec 2025</strong></h5>
 <p></p>
 <h5><strong>Nov 2025</strong></h5>
-<p></p>
+<p><strong>17 Nov</strong>: Navigating the Future of Tax Dispute Resolution
+in Australia: The Mutual Agreement Procedure and Oracle (Minter Ellison
+- TA)</p>
 <h5><strong>Oct 2025</strong></h5>
 <p><strong>24 Oct</strong>: CPA-TA Lunchtime Webinar: Navigating the BEPS
 landscape</p>
