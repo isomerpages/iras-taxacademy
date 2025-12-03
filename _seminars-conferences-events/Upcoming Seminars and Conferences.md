@@ -14,7 +14,8 @@ Thank you!</p>
 <h5><strong>Nov 2025</strong></h5>
 <p></p>
 <h5><strong>Oct 2025</strong></h5>
-<p><strong>24 Oct</strong>:</p>
+<p><strong>24 Oct</strong>: CPA-TA Lunchtime Webinar: Navigating the BEPS
+landscape</p>
 <p><strong>23 Oct</strong>: Tax Controversy Roundtable: Compliance to Controversy
 – Why China’s and Indonesia’s Tax Landscapes Demand Attention (Baker Mckenzie
 - TEI - TA)</p>
