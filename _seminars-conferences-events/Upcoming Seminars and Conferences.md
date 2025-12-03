@@ -14,9 +14,10 @@ Thank you!</p>
 <h5><strong>Nov 2025</strong></h5>
 <p></p>
 <h5><strong>Oct 2025</strong></h5>
-<p>23 Oct: Tax Controversy Roundtable: Compliance to Controversy – Why China’s
-and Indonesia’s Tax Landscapes Demand Attention (Baker Mckenzie - TEI -
-TA)</p>
+<p><strong>24 Oct</strong>:</p>
+<p><strong>23 Oct</strong>: Tax Controversy Roundtable: Compliance to Controversy
+– Why China’s and Indonesia’s Tax Landscapes Demand Attention (Baker Mckenzie
+- TEI - TA)</p>
 <p></p>
 <h5><strong>Sep 2025</strong></h5>
 <p><strong>1 &amp; 2 Sep: </strong><a href="https://www.unil.ch/news/fr/1747729178585" rel="noopener nofollow" target="_blank">The MAP Day (UniL-TA)</a>
