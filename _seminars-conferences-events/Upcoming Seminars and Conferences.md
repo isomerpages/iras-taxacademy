@@ -10,7 +10,8 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <h5><strong>Dec 2025</strong></h5>
-<p></p>
+<p><strong>11 Dec: </strong>YIN-TA Joint Webinar: The Tax Challenges Arising
+from Digitalization of the Economy</p>
 <h5><strong>Nov 2025</strong></h5>
 <p><strong>17 Nov</strong>: Navigating the Future of Tax Dispute Resolution
 in Australia: The Mutual Agreement Procedure and Oracle (Minter Ellison
