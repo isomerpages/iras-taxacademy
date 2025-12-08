@@ -9,6 +9,20 @@ description: ""
 <p>Are you looking to learn more about a specific area of tax that is currently
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
+<h5><strong>Dec 2025</strong></h5>
+<p><strong>18 Dec</strong>: FasTax Series: Stamp Duty 101</p>
+<p><strong>11 Dec: </strong>YIN-TA Joint Webinar: The Tax Challenges Arising
+from Digitalization of the Economy</p>
+<h5><strong>Nov 2025</strong></h5>
+<p><strong>17 Nov</strong>: Navigating the Future of Tax Dispute Resolution
+in Australia: The Mutual Agreement Procedure and Oracle (Minter Ellison
+- TA)</p>
+<h5><strong>Oct 2025</strong></h5>
+<p><strong>24 Oct</strong>: CPA-TA Lunchtime Webinar: Navigating the BEPS
+landscape</p>
+<p><strong>23 Oct</strong>: Tax Controversy Roundtable: Compliance to Controversy
+– Why China’s and Indonesia’s Tax Landscapes Demand Attention (Baker Mckenzie
+- TEI - TA)</p>
 <p></p>
 <h5><strong>Sep 2025</strong></h5>
 <p><strong>1 &amp; 2 Sep: </strong><a href="https://www.unil.ch/news/fr/1747729178585" rel="noopener nofollow" target="_blank">The MAP Day (UniL-TA)</a>
