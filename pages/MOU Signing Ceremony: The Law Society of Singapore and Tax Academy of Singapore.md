@@ -43,5 +43,5 @@ Singapore.</p>
 <p></p>
 <h3>Opening Remarks by CEO of Tax Academy, Mr Dennis Lui</h3>
 <hr>
-<p><a href="/files/TA_Appreciation_Day_Speech_v0_3.pdf" rel="noopener nofollow" target="_blank">Click Here to Read &lt;CEO's Opening Speech&gt;</a>
+<p><a href="/files/Law_Soc_Tax_Academy_MOU_Signing___CEO_Opening_Speech_final.pdf" rel="noopener nofollow" target="_blank">Click Here to Read &lt;CEO's Opening Remarks&gt;</a>
 </p>
