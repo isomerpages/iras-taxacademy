@@ -47,7 +47,7 @@ sections:
       description: The Law Society of Singapore and Tax Academy of Singapore
       button: Read More
       alt: Image alt text
-      url: https://taxacademy.sg/
+      url: https://taxacademy.sg//mou-signing-ceremony-the-law-society-of-singapore-and-tax-academy-of-singapore/
       image: /images/IMG_7693.jpg
   - infopic:
       subtitle: 15 September 2025
