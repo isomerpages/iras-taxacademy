@@ -48,6 +48,7 @@ sections:
       button: Read More
       alt: Image alt text
       url: https://taxacademy.sg/
+      image: /images/IMG_7693.jpg
   - infopic:
       subtitle: 15 September 2025
       id: infopic
