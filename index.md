@@ -42,6 +42,13 @@ sections:
       image: /images/Learner_Site.png
       alt: Image alt text
   - infopic:
+      subtitle: MOU Signing Ceremony
+      id: infopic
+      description: The Law Society of Singapore and Tax Academy of Singapore
+      button: Read More
+      alt: Image alt text
+      url: https://taxacademy.sg/
+  - infopic:
       subtitle: 15 September 2025
       id: infopic
       description: Launch of Professional Services (PS) Centre in Vietnam!
@@ -68,13 +75,6 @@ sections:
       button: Full Speech
       url: https://www.mof.gov.sg/news-publications/speeches/Address-By-Mr-Tharman-Shanmugaratnam-Minister-For-Education-And-Second-Minister-For-Finance-At-The-Launch-Of-The-Tax-Academy-And-Opening-Of-The-Transf
       image: /images/Quote__3_.png
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
 image: /images/isomer-logo.svg
 ---
