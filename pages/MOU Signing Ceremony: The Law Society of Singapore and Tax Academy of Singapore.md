@@ -5,7 +5,7 @@ permalink: /mou-signing-ceremony-the-law-society-of-singapore-and-tax-academy-of
 variant: tiptap
 description: ""
 ---
-<h4>A New Chapter for Singapore's Tax Legal Community </h4>
+<h4>A New Chapter for Singapore's Tax Legal Community</h4>
 <p>On 9 December 2025, The Law Society of Singapore and Tax Academy of Singapore
 signed a Memorandum of Understanding, marking a significant milestone in
 our longstanding partnership and our shared commitment to tax excellence.</p>
@@ -41,3 +41,7 @@ Dhillon</p>
 in tax practice, and nurture the next generation of tax professionals in
 Singapore.</p>
 <p></p>
+<h3>Opening Remarks by CEO of Tax Academy, Mr Dennis Lui</h3>
+<hr>
+<p><a href="/files/TA_Appreciation_Day_Speech_v0_3.pdf" rel="noopener nofollow" target="_blank">Click Here to Read &lt;CEO's Opening Speech&gt;</a>
+</p>
