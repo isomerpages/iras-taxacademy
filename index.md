@@ -49,14 +49,6 @@ sections:
       alt: Image alt text
       url: https://www.taxacademy.sg/mou-signing-ceremony-the-law-society-of-singapore-and-tax-academy-of-singapore/
       image: /images/IMG_7693.jpg
-  - infopic:
-      subtitle: 15 September 2025
-      id: infopic
-      description: Launch of Professional Services (PS) Centre in Vietnam!
-      button: More details
-      url: https://taxacademy.sg/launch-of-ps-centre/
-      alt: Image alt text
-      image: /images/205e37b1_9f14_4bb5_9d5e_4eca6368797b.jpg
   - announcements:
       title: Post Conference Highlights
       id: announcements
@@ -76,6 +68,13 @@ sections:
       button: Full Speech
       url: https://www.mof.gov.sg/news-publications/speeches/Address-By-Mr-Tharman-Shanmugaratnam-Minister-For-Education-And-Second-Minister-For-Finance-At-The-Launch-Of-The-Tax-Academy-And-Opening-Of-The-Transf
       image: /images/Quote__3_.png
+      alt: Image alt text
+  - infopic:
+      subtitle: Appreciation Event 2025
+      id: infopic
+      description: TA hosted an Appreciation Event on 2 December 2025.
+      button: Read More
+      url: https://www.taxacademy.sg/appreciation-event-2025/
       alt: Image alt text
 image: /images/isomer-logo.svg
 ---
