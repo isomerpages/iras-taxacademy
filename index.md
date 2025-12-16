@@ -70,11 +70,13 @@ sections:
       image: /images/Quote__3_.png
       alt: Image alt text
   - infopic:
-      subtitle: Appreciation Event 2025
+      subtitle: 2 December 2025
       id: infopic
-      description: TA hosted an Appreciation Event on 2 December 2025.
+      description: TA hosted an Appreciation Event and Year-End Party for Alunni
+        Network Members.
       button: Read More
       url: https://www.taxacademy.sg/appreciation-event-2025/
       alt: Image alt text
+      image: /images/0258.jpg
 image: /images/isomer-logo.svg
 ---
