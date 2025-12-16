@@ -42,21 +42,23 @@ sections:
       image: /images/Learner_Site.png
       alt: Image alt text
   - infopic:
-      subtitle: MOU Signing Ceremony
+      subtitle: 9 December 2025
       id: infopic
-      description: The Law Society of Singapore and Tax Academy of Singapore
+      description: "MOU Signing Ceremony: The Law Society of Singapore and Tax Academy
+        of Singapore."
       button: Read More
       alt: Image alt text
       url: https://www.taxacademy.sg/mou-signing-ceremony-the-law-society-of-singapore-and-tax-academy-of-singapore/
       image: /images/IMG_7693.jpg
   - infopic:
-      subtitle: 15 September 2025
+      subtitle: 2 December 2025
       id: infopic
-      description: Launch of Professional Services (PS) Centre in Vietnam!
-      button: More details
-      url: https://taxacademy.sg/launch-of-ps-centre/
+      description: TA hosted an Appreciation Event and Year-End Party for Alunni
+        Network Members.
+      button: Read More
+      url: https://www.taxacademy.sg/appreciation-event-2025/
       alt: Image alt text
-      image: /images/205e37b1_9f14_4bb5_9d5e_4eca6368797b.jpg
+      image: /images/0258.jpg
   - announcements:
       title: Post Conference Highlights
       id: announcements
