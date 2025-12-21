@@ -79,5 +79,12 @@ sections:
       url: https://www.mof.gov.sg/news-publications/speeches/Address-By-Mr-Tharman-Shanmugaratnam-Minister-For-Education-And-Second-Minister-For-Finance-At-The-Launch-Of-The-Tax-Academy-And-Opening-Of-The-Transf
       image: /images/Quote__3_.png
       alt: Image alt text
+  - infopic:
+      subtitle: Highlights of 2025
+      id: infopic
+      description: A Year of Growth, Connection and Excellence at Tax Academy
+      button: Read More
+      url: https://www.taxacademy.sg/
+      alt: Image alt text
 image: /images/isomer-logo.svg
 ---
