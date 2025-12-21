@@ -104,10 +104,4 @@ legal professionals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/appreciation___ta.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/law_soc_mou.jpg">
-</div>
-<p>
-<br>
-</p>
 <p></p>
