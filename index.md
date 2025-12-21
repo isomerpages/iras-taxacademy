@@ -84,7 +84,8 @@ sections:
       id: infopic
       description: A Year of Growth, Connection and Excellence at Tax Academy
       button: Read More
-      url: https://www.taxacademy.sg/
+      url: https://www.taxacademy.sg/highlights-of-2025/
       alt: Image alt text
+      image: /images/Gold_Modern_Happy_New_Year_2026_Banner_Landscape_2.png
 image: /images/isomer-logo.svg
 ---
