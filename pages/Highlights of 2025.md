@@ -73,6 +73,9 @@ Initiative, connecting academic research with real-world tax practice.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/stari_mou.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mou_nus.jpg">
+</div>
 <p></p>
 <p><strong>September</strong> energised our community with the Young IFA Network
 (YIN) - Singapore launch, creating a dynamic platform for exchange among
