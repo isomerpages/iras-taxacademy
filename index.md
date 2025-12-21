@@ -42,6 +42,14 @@ sections:
       image: /images/Learner_Site.png
       alt: Image alt text
   - infopic:
+      subtitle: Highlights of 2025
+      id: infopic
+      description: A Year of Growth, Connection and Excellence at Tax Academy
+      button: Read More
+      url: https://www.taxacademy.sg/highlights-of-2025/
+      alt: Image alt text
+      image: /images/Gold_Modern_Happy_New_Year_2026_Banner_Landscape_2.png
+  - infopic:
       subtitle: 9 December 2025
       id: infopic
       description: "MOU Signing Ceremony: The Law Society of Singapore and Tax Academy
@@ -79,13 +87,5 @@ sections:
       url: https://www.mof.gov.sg/news-publications/speeches/Address-By-Mr-Tharman-Shanmugaratnam-Minister-For-Education-And-Second-Minister-For-Finance-At-The-Launch-Of-The-Tax-Academy-And-Opening-Of-The-Transf
       image: /images/Quote__3_.png
       alt: Image alt text
-  - infopic:
-      subtitle: Highlights of 2025
-      id: infopic
-      description: A Year of Growth, Connection and Excellence at Tax Academy
-      button: Read More
-      url: https://www.taxacademy.sg/highlights-of-2025/
-      alt: Image alt text
-      image: /images/Gold_Modern_Happy_New_Year_2026_Banner_Landscape_2.png
 image: /images/isomer-logo.svg
 ---
