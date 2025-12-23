@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nov 2025 intake: <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank"><u>Registration is OPEN</u></a>
+<p>Feb 2026 intake: <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank"><u>Registration is OPEN</u></a>
 </p>
 <p></p>
 </li>
@@ -40,16 +40,15 @@ the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
 <p>Please be informed that this programme is fully e-learning.</p>
-<p>Registration is open for Intake 3/2025 (30 Nov 2025 intake).</p>
-<p><a href="https://go.gov.sg/incometaxl13-25" rel="noopener nofollow" target="_blank">Registration form</a> -
-<a href="https://go.gov.sg/bb1svx" rel="noopener nofollow" target="_blank">Details</a>
+<p>Registration is open for Intake 4/2025 (Feb 2026 intake).</p>
+<p><a href="https://taxacademy-sg.edutechonline.com/company/course/detail/133ef4f0-86f3-46b5-8a5b-3dbe6ee49754/a3953c97-b054-4933-9560-c90e2dca22a6" rel="noopener nofollow" target="_blank">Registration Link</a> -
+<a href="https://go.gov.sg/ww6p0o" rel="noopener nofollow" target="_blank">Brochure</a>
 </p>
-<p>The next intake, Intake 4/2025, will be in Feb 2026. Registration will
+<p>The next intake, Intake 1/2026, will be in May 2026. Registration will
 be available approximately six to eight weeks prior to the course commencement
 date. You may wish to register your interest for this intake and we will
 be in touch when registration opens.</p>
-<p><a href="https://go.gov.sg/incometaxl1-intform425" rel="noopener nofollow" target="_blank"><u>Interest Form (Intake 4/2025)</u></a>
-</p>
+<p></p>
 <p>Passing the Income Tax Level 1 exam is not mandatory if you are intending
 to apply for the Income Tax Level 2 programme. You may proceed to apply
 for the Income Tax Level 2 programme as soon as you have completed the
