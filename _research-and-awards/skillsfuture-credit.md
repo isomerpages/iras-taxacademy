@@ -7,9 +7,7 @@ variant: tiptap
 <h3><strong>SkillsFuture Credit</strong></h3>
 <p>SkillsFuture Credit aims to encourage individuals to take ownership of
 their skills development and lifelong learning. All Singaporeans aged 25
-and above will receive an opening credit of S$500 from January 2016. From
-1 Oct 2020, Singapore citizens aged 25 or above will receive a one-time
-$500 Skillsfuture Credit Top-up.</p>
+and above will receive an opening credit of S$500 from January 2016.</p>
 <p>For more information on SkillsFuture Credit claims, please visit <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture_Credit.html" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Credit | Education, Career and Personal Development (myskillsfuture.gov.sg)</a>
 </p>
 <p><strong>Claiming Your SkillsFuture Credit</strong>
