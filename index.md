@@ -42,6 +42,14 @@ sections:
       image: /images/Learner_Site.png
       alt: Image alt text
   - infopic:
+      subtitle: Highlights of 2025
+      id: infopic
+      description: A Year of Growth, Connection and Excellence at Tax Academy
+      button: Read More
+      url: https://www.taxacademy.sg/highlights-of-2025/
+      alt: Image alt text
+      image: /images/Gold_Modern_Happy_New_Year_2026_Banner_Landscape_2.png
+  - infopic:
       subtitle: 9 December 2025
       id: infopic
       description: "MOU Signing Ceremony: The Law Society of Singapore and Tax Academy
