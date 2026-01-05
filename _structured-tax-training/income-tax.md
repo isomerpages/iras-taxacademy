@@ -16,7 +16,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jan 2026 intakes: <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is OPEN</u></a>
+<p>Jan 2026 intakes: <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is CLOSED</u></a>
 </p>
 <p></p>
 </li>
@@ -98,18 +98,18 @@ In-house Singapore income tax training by Big 4</p>
 <p>Intake 4/2025 (Course dates: 6 Jan to 28 Jan 2026)</p>
 <p><a href="/files/L2_IT_4_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank">Brochure for Intake 4/2025</a>
 </p>
-<p><a href="https://go.gov.sg/l2it42025reg" rel="noopener nofollow" target="_blank">Registration for Intake 4/2025</a>
+<p><a href="https://go.gov.sg/l2it42025reg" rel="noopener nofollow" target="_blank">Registration for Intake 4/2025 (CLOSED)</a>
 </p>
 <p>Intake 5/2025 (Course dates: 21 Jan to 11 Feb 2026)</p>
 <p><a href="/files/L2_IT_5_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank">Brochure for Intake 5/2025</a>
 </p>
-<p><a href="https://go.gov.sg/itl252025reg" rel="noopener nofollow" target="_blank">Registration for Intake 5/2025</a>
+<p><a href="https://go.gov.sg/itl252025reg" rel="noopener nofollow" target="_blank">Registration for Intake 5/2025 (CLOSED)</a>
 </p>
 <p></p>
 <p>The next intake for this course will be in Jul 2026. Registration will
 be available eight weeks prior to the course commencement date. You may
-wish to register your interest for this intake and we will be in touch
-when registration opens.</p>
+wish to register your interest and we will be in touch when registration
+opens.</p>
 <p><a href="https://go.gov.sg/l2it32025interest" rel="noopener nofollow" target="_blank"><u>Interest form</u></a>
 </p>
 <h3><strong>Income Tax Programme Level 3: Advanced Tax Programme</strong></h3>
