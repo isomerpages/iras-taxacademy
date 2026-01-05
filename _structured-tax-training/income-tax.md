@@ -106,7 +106,7 @@ In-house Singapore income tax training by Big 4</p>
 <p><a href="https://go.gov.sg/itl252025reg" rel="noopener nofollow" target="_blank">Registration for Intake 5/2025 (CLOSED)</a>
 </p>
 <p></p>
-<p>The next intake for this course will be in Jul 2026. Registration will
+<p>The next intake for this course will be in May 2026. Registration will
 be available eight weeks prior to the course commencement date. You may
 wish to register your interest and we will be in touch when registration
 opens.</p>
