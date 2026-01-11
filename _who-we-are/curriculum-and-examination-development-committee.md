@@ -20,10 +20,10 @@ National University of Singapore<br>
 <td style="padding-left: 0">
 <p>
 
-<b>Mrs Eng Li Ming</b>
+<b>Mr Koh Soo How</b>
 <br>
-Tax Advisor <br>
-LM APPS
+Executive Director<br>
+Koh SH &amp; Associates Pte Ltd
 </p>
 </td>
 <td>
