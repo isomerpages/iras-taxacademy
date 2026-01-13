@@ -14,7 +14,7 @@ Thank you!</p>
 Money Laundering</p>
 <p><strong>26 Feb</strong>: ACCA Lunchtime webinar: Spotting Corporate Tax
 Risks Early – A Practical Guide for Accountants</p>
-<p><strong>26 Feb</strong>: <a href="https://go.gov.sg/q4i4co" rel="noopener nofollow" target="_blank">GST ASK: A Self-help Tool for GST Compliance</a>
+<p><strong>26 Feb</strong>: <a href="https://go.gov.sg/bagams" rel="noopener nofollow" target="_blank">GST ASK: A Self-help Tool for GST Compliance</a>
 </p>
 <h5><strong>Jan 2026</strong></h5>
 <p><strong>19 Jan</strong>: <a href="https://go.gov.sg/hypqsg" rel="noopener nofollow" target="_blank">TaxEdge: India’s Evolving Trade and Tax Landscape: Key Developments and Implications on Global Trade</a>
