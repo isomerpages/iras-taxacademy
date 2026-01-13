@@ -14,10 +14,11 @@ Thank you!</p>
 Money Laundering</p>
 <p><strong>26 Feb</strong>: ACCA Lunchtime webinar: Spotting Corporate Tax
 Risks Early – A Practical Guide for Accountants</p>
-<p><strong>26 Feb</strong>: GST ASK: A Self-help Tool for GST Compliance</p>
+<p><strong>26 Feb</strong>: <a href="https://go.gov.sg/q4i4co" rel="noopener nofollow" target="_blank">GST ASK: A Self-help Tool for GST Compliance</a>
+</p>
 <h5><strong>Jan 2026</strong></h5>
-<p><strong>19 Jan</strong>: TaxEdge: India’s Evolving Trade and Tax Landscape:
-Key Developments and Implications on Global Trade</p>
+<p><strong>19 Jan</strong>: <a href="https://go.gov.sg/hypqsg" rel="noopener nofollow" target="_blank">TaxEdge: India’s Evolving Trade and Tax Landscape: Key Developments and Implications on Global Trade</a>
+</p>
 <h5><strong>Dec 2025</strong></h5>
 <p><strong>18 Dec</strong>: FasTax Series: Stamp Duty 101</p>
 <p><strong>11 Dec: </strong>YIN-TA Joint Webinar: The Tax Challenges Arising
