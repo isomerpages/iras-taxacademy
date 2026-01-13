@@ -9,6 +9,15 @@ description: ""
 <p>Are you looking to learn more about a specific area of tax that is currently
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
+<h5><strong>Feb 2026</strong></h5>
+<p><strong>11 Feb</strong>: CPA Australia Lunchtime webinar: Understanding
+Money Laundering</p>
+<p><strong>26 Feb</strong>: ACCA Lunchtime webinar: Spotting Corporate Tax
+Risks Early – A Practical Guide for Accountants</p>
+<p><strong>26 Feb</strong>: GST ASK: A Self-help Tool for GST Compliance</p>
+<h5><strong>Jan 2026</strong></h5>
+<p><strong>19 Jan</strong>: TaxEdge: India’s Evolving Trade and Tax Landscape:
+Key Developments and Implications on Global Trade</p>
 <h5><strong>Dec 2025</strong></h5>
 <p><strong>18 Dec</strong>: FasTax Series: Stamp Duty 101</p>
 <p><strong>11 Dec: </strong>YIN-TA Joint Webinar: The Tax Challenges Arising
@@ -82,81 +91,50 @@ Trends in Managing International Corporate Tax Controversies Conference
 <p><strong>27 Jun</strong>: Law 101 for Tax Professionals: Employment Law</p>
 <p></p>
 <h5><strong>May 2025</strong></h5>
-<p>7 May: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">Liberation Day or Armageddon</a>-
+<p><strong>7 May</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">Liberation Day or Armageddon</a>-
 Impact of U.S. Trade Measures for Businesses Navigating Through Treacherous
 Waters</p>
-<p>14 May: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">GST: A Practical Guide to Compliance</a>
+<p><strong>14 May</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">GST: A Practical Guide to Compliance</a>
 </p>
-<p>22 May: <a href="https://www.taxacademy.sg/the-international-tax-dispute-day/" rel="noopener nofollow" target="_blank">The International Tax Disputes Day: </a>The
+<p><strong>22 May</strong>: <a href="https://www.taxacademy.sg/the-international-tax-dispute-day/" rel="noopener nofollow" target="_blank">The International Tax Disputes Day: </a>The
 Asian and Global Landscape</p>
 <h5><strong>Apr 2025</strong></h5>
-<p>9 Apr: <a href="https://www.taxacademy.sg/global-ifa-travelling-lectureship-programme-2025/" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
+<p><strong>9 Apr</strong>: <a href="https://www.taxacademy.sg/global-ifa-travelling-lectureship-programme-2025/" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
 </p>
-<p>15 Apr: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</a>
+<p><strong>15 Apr</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Family Offices in Singapore: Tax Incentives &amp; Strategic Considerations</a>
 </p>
-<p>23 Apr: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Taxation and Climate Change</a>
+<p><strong>23 Apr</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Taxation and Climate Change</a>
 </p>
 <p></p>
 <h5><strong>Mar 2025</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>13 Mar: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: GST ASK - A Self-Help Tool for GST Compliance</a>
+<p><strong>13 Mar</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: GST ASK - A Self-Help Tool for GST Compliance</a>
 </p>
-</li>
-<li>
-<p>14 Mar: TaxTrek Series: Career Tax@SMU Yong Pung How School of Law</p>
-</li>
-<li>
-<p>20 Mar: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Johor-Singapore Special Economic Zone (JS-SEZ)</a>
+<p><strong>14 Mar</strong>: TaxTrek Series: Career Tax@SMU Yong Pung How
+School of Law</p>
+<p><strong>20 Mar</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Johor-Singapore Special Economic Zone (JS-SEZ)</a>
 </p>
-</li>
-<li>
-<p>26 Mar: TaxTrek Series: Career Talk@NUS Faculty of Law</p>
-</li>
-</ul>
+<p><strong>26 Mar</strong>: TaxTrek Series: Career Talk@NUS Faculty of Law</p>
 <h5><strong>Feb 2025</strong></h5>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>4 Feb: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Navigating Intangible Asset Valuation for Financial Reporting, Tax and Transfer Pricing Purposes</a>
+<p><strong>4 Feb</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Navigating Intangible Asset Valuation for Financial Reporting, Tax and Transfer Pricing Purposes</a>
 </p>
-</li>
-<li>
-<p>12 Feb: <a href="/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Managing Tax Compliance</a>
+<p><strong>12 Feb</strong>: <a href="/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Managing Tax Compliance</a>
 </p>
-</li>
-<li>
-<p>18 Feb: TaxEdge Series: The Trump Administration's Tax Policies: What
-APAC Businesses and Executives should prepare for</p>
-</li>
-<li>
-<p>19 Feb: <a href="https://events.cpaaustralia.com.au/event/1a06a7cf-1fd4-4bcf-befe-cee740beb94f/summary" rel="noopener nofollow" target="_blank">CPA-TA Lunchtime Webinar</a>
+<p><strong>18 Feb</strong>: TaxEdge Series: The Trump Administration's Tax
+Policies: What APAC Businesses and Executives should prepare for</p>
+<p><strong>19 Feb</strong>: <a href="https://events.cpaaustralia.com.au/event/1a06a7cf-1fd4-4bcf-befe-cee740beb94f/summary" rel="noopener nofollow" target="_blank">CPA-TA Lunchtime Webinar</a>
 </p>
-</li>
-</ul>
 <h5><strong>Jan 2025</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>10 Jan: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals Series: Tax Crimes and Money Laundering</a>
+<p><strong>10 Jan</strong>: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals Series: Tax Crimes and Money Laundering</a>
 </p>
-</li>
-<li>
-<p>13 Jan: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Legal Documentation for Transfer Pricing of Intangibles</a>
+<p><strong>13 Jan</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Legal Documentation for Transfer Pricing of Intangibles</a>
 </p>
-</li>
-<li>
-<p>16 Jan: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</a>
+<p><strong>16 Jan</strong>: <a href="https://www.taxacademy.sg/law-101-for-tax-professionals-series/" rel="noopener nofollow" target="_blank">Law 101 for Tax Professionals Series: Overview of 2024 Tax Cases</a>
 </p>
-</li>
-<li>
-<p>22 Jan: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</a>
+<p><strong>22 Jan</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Update on recent U.S. inbound tax developments and tax policy outlook</a>
 </p>
-</li>
-<li>
-<p>22 Jan: <a href="https://events.cpaaustralia.com.au/event/1425b47a-6716-4b6a-b06b-3e24ca830106/summary" rel="noopener nofollow" target="_blank">CPA-TA Lunchtime Webinar</a>
+<p><strong>22 Jan</strong>: <a href="https://events.cpaaustralia.com.au/event/1425b47a-6716-4b6a-b06b-3e24ca830106/summary" rel="noopener nofollow" target="_blank">CPA-TA Lunchtime Webinar</a>
 </p>
-</li>
-</ul>
 <h5></h5>
 <hr>
 <h4></h4>
