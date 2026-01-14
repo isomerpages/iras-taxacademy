@@ -10,8 +10,6 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <h5><strong>Feb 2026</strong></h5>
-<p><strong>11 Feb</strong>: CPA Australia Lunchtime webinar: Understanding
-Money Laundering</p>
 <p><strong>26 Feb</strong>: ACCA Lunchtime webinar: Spotting Corporate Tax
 Risks Early – A Practical Guide for Accountants</p>
 <p><strong>26 Feb</strong>: <a href="https://go.gov.sg/bagams" rel="noopener nofollow" target="_blank">GST ASK: A Self-help Tool for GST Compliance</a>
