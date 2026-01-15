@@ -10,8 +10,8 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <h5><strong>Feb 2026</strong></h5>
-<p><strong>26 Feb</strong>: ACCA Lunchtime webinar: Spotting Corporate Tax
-Risks Early – A Practical Guide for Accountants</p>
+<p><strong>26 Feb</strong>: <a href="https://www.accapdhub.com/Course/Details/d8c304726c61c506217cb958147392b9/ACCA%E2%80%93Tax-Academy--Spotting-Corporate-Tax-Risks-Early-%E2%80%93-A-Practical-Guide-for-Accountants" rel="noopener nofollow" target="_blank">ACCA Lunchtime webinar: Spotting Corporate Tax Risks Early – A Practical Guide for Accountants</a>
+</p>
 <p><strong>26 Feb</strong>: <a href="https://go.gov.sg/bagams" rel="noopener nofollow" target="_blank">GST ASK: A Self-help Tool for GST Compliance</a>
 </p>
 <h5><strong>Jan 2026</strong></h5>
