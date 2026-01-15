@@ -9,6 +9,8 @@ description: ""
 <p>Are you looking to learn more about a specific area of tax that is currently
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
+<h5><strong>May 2026</strong></h5>
+<p><strong>19 May</strong>: Reinventing the Tax Landscape: Get Future Ready!</p>
 <h5><strong>Apr 2026</strong></h5>
 <p><strong>13 Apr</strong>: Transfer Pricing and VAT/GST</p>
 <p><strong>22 Apr</strong>: Global IFA Travelling Lectureship Programme</p>
