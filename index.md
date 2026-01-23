@@ -7,10 +7,10 @@ description: Tax Academy of Singapore is a not-for-profit institution set up by
   PricewaterhouseCoopers, the Institute of Singapore Chartered Accountants and
   the Law Society of Singapore
 permalink: /
-notification: Our office will be closed from 24 December 2025 to 2 January 2026.
-  During this period, we remain contactable online for any enquiries at
-  tax_academy@iras.gov.sg. Our office will reopen on 5 January 2026.   Wishing
-  everyone a Merry Christmas and a Happy New Year!
+notification: You may wish to refer to the respective pages on this website for
+  latest updates on our programmes. For enquiries, please contact us via <a
+  href="https://form.gov.sg/#!/5d2c51283703d80011e52615">Enquiries and Feedback
+  Form.</a>
 sections:
   - hero:
       title: Tax Academy Singapore
