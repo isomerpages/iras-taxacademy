@@ -12,6 +12,7 @@ Thank you!</p>
 <h5><strong>May 2026</strong></h5>
 <p><strong>19 May</strong>: Reinventing the Tax Landscape: Get Future Ready!</p>
 <h5><strong>Apr 2026</strong></h5>
+<p><strong>8 Apr: </strong>CPA Lunchtime Webinar: Understanding Money Laundering</p>
 <p><strong>13 Apr</strong>: Transfer Pricing and VAT/GST</p>
 <p><strong>22 Apr</strong>: Global IFA Travelling Lectureship Programme</p>
 <h5><strong>Mar 2026</strong></h5>
