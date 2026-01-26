@@ -24,11 +24,11 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 3</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2025 (April 2025 to April 2026): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is CLOSED</u></a>
+<p>Intake 1/2026 (April 2025 to April 2026): <a href="https://form.gov.sg/696f3b32d31fe2ad6cf3676d" rel="noopener noreferrer nofollow" target="_blank"><u>Register NOW!</u></a>
 </p>
 </li>
 <li>
-<p>Intake 2/2025 (August 2025 to September 2026): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#atp-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is CLOSED</u></a>
+<p>Intake 2/2026 (August 2025 to September 2026): <a href="https://form.gov.sg/696f401089fe4aeed912f708" rel="noopener noreferrer nofollow" target="_blank"><u>Register NOW!</u></a>
 </p>
 </li>
 </ul>
@@ -120,23 +120,23 @@ Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax
 Planning and Goods and Services Tax. The elective component offers modules
 on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and
 Investigation, and Stamp Duty.</p>
-<p><a href="https://www.taxacademy.sg/files/ATP_FY25_Brochure.pdf" rel="noopener nofollow" target="_blank"><u>Brochure</u></a>
+<p><a href="https://go.gov.sg/atp26brochure" rel="noopener nofollow" target="_blank"><u>Brochure</u></a>
 </p>
 <p></p>
-<p><strong>Intake 1/2025, April 2025 to April 2026: Registration is closed.</strong>
+<p><strong>Intake 1/2026, April 2026 to April 2027: </strong><a href="https://form.gov.sg/696f3b32d31fe2ad6cf3676d" rel="noopener noreferrer nofollow" target="_blank"><u>Register NOW!</u></a>
 </p>
-<p><a href="https://www.taxacademy.sg/files/ATP1_2025_Schedule.pdf" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
+<p><a href="https://go.gov.sg/atp2601schedule" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
 </p>
 <p></p>
-<p><strong>Intake 2/2025, August 2025 to September 2026: Registration is CLOSED.</strong>
+<p><strong>Intake 2/2026, August 2026 to September 2027: </strong><a href="https://form.gov.sg/696f401089fe4aeed912f708" rel="noopener noreferrer nofollow" target="_blank"><u>Register NOW!</u></a>
 </p>
-<p><a href="https://www.taxacademy.sg/files/atp22025schedulev3.pdf" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
+<p><a href="https://go.gov.sg/atp22026schedule" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
 </p>
 <p></p>
 <p>Intakes 1/2025 &amp; 2/2025 are also available for modular registration.
 Registration closes 1 month before the commencement of each module. Please
 refer to the schedules above for more details.</p>
-<p><a href="https://form.gov.sg/679780c0dbe89599f5a6e30a" rel="noopener nofollow" target="_blank"><u>Modular Registration Form</u></a>
+<p><a href="https://go.gov.sg/atp26modularreg" rel="noopener nofollow" target="_blank"><u>Modular Registration Form</u></a>
 </p>
 <p></p>
 <p><strong>Please note: Under the new admission requirement for intakes commencing from 1 Apr 2023 onwards, participants are required to:</strong>
