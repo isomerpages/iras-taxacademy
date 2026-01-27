@@ -10,16 +10,21 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <h5><strong>May 2026</strong></h5>
-<p><strong>19 May</strong>: Reinventing the Tax Landscape: Get Future Ready!</p>
+<p><strong>19 May</strong>: <a href="https://taconference19may.eventbrite.sg" rel="noopener nofollow" target="_blank">Reinventing the Tax Landscape: Get Future Ready!</a>
+</p>
 <h5><strong>Apr 2026</strong></h5>
 <p><strong>8 Apr: </strong>CPA Lunchtime Webinar: Understanding Money Laundering</p>
-<p><strong>13 Apr</strong>: Transfer Pricing and VAT/GST</p>
-<p><strong>22 Apr</strong>: Global IFA Travelling Lectureship Programme</p>
+<p><strong>13 Apr</strong>: <a href="https://taxedgetrfpricingvatgst13apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Transfer Pricing and VAT/GST</a>
+</p>
+<p><strong>22 Apr</strong>: <a href="https://globalifatlpxta22apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
+</p>
 <h5><strong>Mar 2026</strong></h5>
 <p><strong>5 Mar</strong>: <a href="https://forms.office.com/r/Ud27f2Zr9a" rel="noopener nofollow" target="_blank">IP &amp; Tax Seminar</a>
 </p>
-<p><strong>9 Mar</strong>: FasTax Series: Managing Tax Compliance</p>
-<p><strong>11 Mar</strong>: FasTax Series: Singapore Transfer Pricing Essentials</p>
+<p><strong>9 Mar</strong>: <a href="https://fastaxmanagingtaxcompliance9mar26.eventbrite.sg/" rel="noopener nofollow" target="_blank">FasTax Series: Managing Tax Compliance</a>
+</p>
+<p><strong>11 Mar</strong>: <a href="https://faxtaxsgtrfpricingessentials11mar.eventbrite.sg" rel="noopener nofollow" target="_blank">FasTax Series: Singapore Transfer Pricing Essentials</a>
+</p>
 <h5><strong>Feb 2026</strong></h5>
 <p><strong>26 Feb</strong>: <a href="https://www.accapdhub.com/Course/Details/d8c304726c61c506217cb958147392b9/ACCA%E2%80%93Tax-Academy--Spotting-Corporate-Tax-Risks-Early-%E2%80%93-A-Practical-Guide-for-Accountants" rel="noopener nofollow" target="_blank">ACCA Lunchtime webinar: Spotting Corporate Tax Risks Early – A Practical Guide for Accountants</a>
 </p>
