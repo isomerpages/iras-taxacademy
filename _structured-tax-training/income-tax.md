@@ -41,7 +41,7 @@ the deduction of expenses and conditions for claim of reliefs.</p>
 accurately.</p>
 <p>Please be informed that this programme is fully e-learning.</p>
 <p>Registration is open for Intake 4/2025 (Feb 2026 intake).</p>
-<p><a href="https://taxacademy-sg.edutechonline.com/company/course/detail/133ef4f0-86f3-46b5-8a5b-3dbe6ee49754/a3953c97-b054-4933-9560-c90e2dca22a6" rel="noopener nofollow" target="_blank">Registration Link</a> -
+<p><a href="https://go.gov.sg/itl1-4-25" rel="noopener nofollow" target="_blank">Registration Link</a> -
 <a href="https://go.gov.sg/p1a2mz" rel="noopener nofollow" target="_blank">Brochure</a>
 </p>
 <p>The next intake, Intake 1/2026, will be in May 2026. Registration will

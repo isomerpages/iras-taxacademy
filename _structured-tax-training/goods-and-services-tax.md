@@ -34,7 +34,7 @@ variant: tiptap
 goods and services, exempt supplies, import and export schemes and GST
 compliance.</p>
 <p>Registration is open for intake 4/2025 (Feb 2026 intake).</p>
-<p><a href="https://taxacademy-sg.edutechonline.com/company/course/detail/133b5c59-6446-4645-a2b2-2ad0c8ff03ec/d791dd83-86a8-4ac9-97ff-caa405c13a6d" rel="noopener nofollow" target="_blank">Registration Link</a> -
+<p><a href="https://go.gov.sg/gstl1-4-25" rel="noopener nofollow" target="_blank">Registration Link</a> -
 <a href="https://go.gov.sg/zx2oue" rel="noopener nofollow" target="_blank">Brochure</a>
 </p>
 <p>The next intake for this course will be in May 2026. Registration will
