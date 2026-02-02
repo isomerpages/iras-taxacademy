@@ -64,25 +64,22 @@ Tax Advisor (Income Tax) – Singapore Institute of Accredited Tax Professionals
 Learning and Assessment Committee, Tax Academy's Curriculum and Examination
 Development (CED) Committee and Singapore Shipping Association’s Tax Sub-Committee</p>
 <p></p>
-<p><strong>Mr Chester Wee</strong>
-<br>Partner and EY Asean International Tax and Transaction Services Leader
+<p><strong>Ms Amy Ang</strong>
+<br>Partner, Head of Tax, Singapore
+<br>ASEAN Managed Services Leader
 <br>Ernst &amp; Young Solutions LLP</p>
-<p>Chester leads EY Asean’s International Tax and Transaction Services practice.
-He has more than 25 years of experience in advising on cross-border tax
-issues, helping businesses to manage tax controversy as well as handling
-tax compliance and reporting — in both inbound and outbound investments.</p>
-<p>Chester has deep knowledge in reviewing holding structures and operating
-models, identifying and managing tax residence issues, withholding tax
-exposure and permanent establishment risks, advising on intellectual property
-strategies and migration, and tax-efﬁcient repatriation of proﬁts and cross-border
-ﬁnancing. He has been recognised for his focus and practical experience
-on BEPS 2.0 Pillar 2.</p>
-<p>Chester earned his Bachelor of Accountancy (First Class Honours) from
-Nanyang Technological University and Master of Laws in Cross-border Business
-and Finance Law in Asia from Singapore Management University. He is a member
-of the Institute of Singapore Chartered Accountants and an Accredited Tax
-Advisor (Income Tax) – Singapore Institute of Accredited Tax Professionals
-(SIATP).</p>
+<p>Amy leads the Tax practice at Ernst &amp; Young Solutions LLP in Singapore
+and is EY ASEAN Managed Services Leader. She is also the Global Client
+Service Partner for an Asia-Pacific sovereign wealth fund. She has been
+a tax adviser for more than 30 years, focusing on companies in the private
+equity, funds, and wealth and asset management industries.</p>
+<p>Amy has obtained a Bachelor of Accountancy (First Class Honours) from
+Nanyang Technological University.</p>
+<p>Currently, Amy is also a Director on the Board of Directors at Singapore
+Chartered Tax Professionals (SCTP) and a Director at Gloucester Insurance
+Board. She is a member of the Institute of Singapore Chartered Accountants
+and an Accredited Tax Advisor (Income Tax) – Singapore Institute of Accredited
+Tax Professionals (SIATP), the current SCTP.</p>
 <p></p>
 <p><strong>Mr Ajay Sanganeria</strong> 
 <br>Partner, Head of Tax
