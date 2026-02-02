@@ -2,44 +2,16 @@
 title: Book Prizes
 permalink: /tomorrow-tax-professional/book-prizes/
 breadcrumb: Book Prizes
+variant: markdown
 ---
-
 Tax Academy of Singapore sponsors book prizes to students taking the taxation modules in the local universities and polytechnics.
 
-### **2020/2021 Academic Year Tax Academy Book Prize Recipient from Nanyang Technological University**
+![Winner 1](/images/2025%20Merit%20Book%20Prize%20Winners/Book_prize_1.png)
 
-![Image of Tax Academy Book Prize](/images/wong qi en.jpg)
-Wong Qi En<br>
-Best Performance in International Tax and Trading Law<br>
+![Winners 2](/images/2025%20Merit%20Book%20Prize%20Winners/Book_Prize_2.png)
 
-### **2021/2022 Academic Year Tax Academy Book Prize Recipient from Singapore Management University**
+![Winner 3](/images/2025%20Merit%20Book%20Prize%20Winners/Book_Prize_3.png)
 
-![Image of Tax Academy Book Prize](/images/timothy.jpg)
-Tay Le Xuan Timothy<br>
-Best Performance in Advanced Taxation<br>
+![Winner 4](/images/2025%20Merit%20Book%20Prize%20Winners/Book_Prize_4.png)
 
-### **2021/2022 Academic Year Tax Academy Book Prize Recipients from Nanyang Polytechnic**
 
-![Image of Tax Academy Book Prize](/images/khorwanxuan.jpg)
-Khor Wan Xuan<br>
-Best Performance in Taxation Module<br>
-
-![Image of Tax Academy Book Prize](/images/brennan.jpg)
-Brennan Jermaine Loh<br>
-Best Performance in Taxation Module<br>
-
-![Image of Tax Academy Book Prize](/images/jonathan.jpeg)
-Jonathan Yong Hon Zhe <br>
-Best Performance in Taxation Module<br>
-
-### **2021/2022 Academic Year Tax Academy Book Prize Recipient from Temasek Polytechnic**
-
-![Image of Tax Academy Book Prize](/images/valliammai.jpg)
-Valliammai d/o Lakshmanan<br>
-Top Student in Taxation Module<br>
-
-### **2018/2019 Academic Year Tax Academy Book Prize Recipient from Singapore Polytechnic**
-
-![Image of Tax Academy Book Prize](/images/sp si dian.jpg)
-Koo Si Dian<br>
-Top Student in Taxation Module<br>
