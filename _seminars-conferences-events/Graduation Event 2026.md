@@ -64,4 +64,6 @@ celebration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9566.jpg">
 </div>
-<p></p>
+<h3>Opening Speech Delivered by CEO of Tax Academy, Mr Dennis Lui</h3>
+<p><a href="https://www.taxacademy.sg/files/Appreciation_Event___CEO_Opening_Speech_2025.pdf" rel="noopener nofollow" target="_blank"><u>Click Here to Read &lt;CEO's Opening Speech&gt;</u></a>
+</p>
