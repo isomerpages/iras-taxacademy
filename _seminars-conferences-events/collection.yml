@@ -2,6 +2,7 @@ collections:
   seminars-conferences-events:
     output: true
     order:
+      - Graduation Event 2026.md
       - Upcoming Seminars and Conferences.md
       - Case Commentaries.md
       - Appreciation Event 2025.md
