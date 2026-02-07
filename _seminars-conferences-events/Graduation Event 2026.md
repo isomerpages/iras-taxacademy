@@ -24,6 +24,11 @@ sessions with industry experts, opening doors to meaningful career development.<
 A special thank you to our wonderful community of attendees who made our
 Graduation Event &amp; NextGen Award Ceremony such a meaningful and joyous
 celebration.</p>
+<p>A special acknowledgement to our valued sponsors and supporting partners
+– Acclime Singapore, e2i, Deloitte Singapore, and Forvis Mazars – your
+generous partnership made this celebration even more meaningful. Thank
+you for your continued support in nurturing tax talent and contributing
+to our professional community!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_9565.jpg">
