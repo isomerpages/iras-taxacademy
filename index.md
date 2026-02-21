@@ -89,7 +89,8 @@ sections:
       title: Infopic
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
+      description: International Taxation of UHNW Individuals, Family Offices and
+        Trusts with Cross-Border Investments
       button: Button Text
       alt: Image alt text
 image: /images/isomer-logo.svg
