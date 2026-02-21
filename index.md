@@ -86,12 +86,13 @@ sections:
       image: /images/Quote__3_.png
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: New Programme
+      subtitle: 25 - 27 March 2026
       id: infopic
       description: International Taxation of UHNW Individuals, Family Offices and
         Trusts with Cross-Border Investments
-      button: Button Text
+      button: Register Now
       alt: Image alt text
+      url: https://go.gov.sg/uhnw-standard
 image: /images/isomer-logo.svg
 ---
