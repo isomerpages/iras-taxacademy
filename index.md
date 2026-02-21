@@ -86,7 +86,7 @@ sections:
       image: /images/Quote__3_.png
       alt: Image alt text
   - infopic:
-      title: New Programme
+      title: New Programme!
       subtitle: 25 - 27 March 2026
       id: infopic
       description: International Taxation of UHNW Individuals, Family Offices and
