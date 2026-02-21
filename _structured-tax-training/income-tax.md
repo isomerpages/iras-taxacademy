@@ -125,7 +125,7 @@ Investigation, and Stamp Duty.</p>
 <p></p>
 <p><strong>Intake 1/2026, April 2026 to April 2027: </strong><a href="https://form.gov.sg/696f3b32d31fe2ad6cf3676d" rel="noopener noreferrer nofollow" target="_blank"><u>Register NOW!</u></a>
 </p>
-<p><a href="https://go.gov.sg/atp2601schedule" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
+<p><a href="https://go.gov.sg/atp12026v2" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
 </p>
 <p></p>
 <p><strong>Intake 2/2026, August 2026 to September 2027: </strong><a href="https://form.gov.sg/696f401089fe4aeed912f708" rel="noopener noreferrer nofollow" target="_blank"><u>Register NOW!</u></a>
