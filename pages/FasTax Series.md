@@ -4,6 +4,58 @@ permalink: /fastax-series-stamp-duty-101/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>11 Mar 2026 | 2.00 p.m. to 5.00 p.m. | Revenue House</sub></strong></h4>
+<h4><strong>Singapore Transfer Pricing Essentials</strong></h4>
+<p>Having a proper set of transfer pricing documentation is essential for
+businesses not only for reporting purpose, it will be useful in times of
+transfer pricing disputes with foreign tax authorities.</p>
+<p>Join us in this seminar, where our speakers from Deloitte, Mr <a href="https://www.linkedin.com/in/avik-bose-63776014/" rel="nofollow noopener noreferrer" target="_blank"><u>Avik Bose</u></a> (Tax
+Partner) and Mr Tay Eng Hong (Director, Transfer Pricing), together with
+IRAS, Ms Julia Chew (Deputy Director) and Ms Grace Cai (Tax Specialist),
+provide you with insights and experiences in the areas of Singapore’s Transfer
+Pricing regime.</p>
+<p><strong>Agenda highlights:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Overview of Singapore’s TP regime</p>
+</li>
+<li>
+<p>TP documentation and mistakes to avoid</p>
+</li>
+<li>
+<p>TP disputes—prevention and resolution
+<br>
+</p>
+</li>
+</ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Admin Details</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Seminar will be held at Revenue House, Discovery and Courage Rooms@B1</p>
+</li>
+<li>
+<p>Date: 11 March 2026</p>
+</li>
+<li>
+<p>Time: 2.00pm to 5.00pm</p>
+</li>
+<li>
+<p>Fee: $163.50 (incl. GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served</p>
+</li>
+</ul>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <h4><strong><sub>9 Mar 2026 | 2.00 p.m. to 4.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>Managing Tax Compliance</strong></h4>
 <p>This webinar aims to enhance your understanding of IRAS’ compliance approach
