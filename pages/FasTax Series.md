@@ -16,19 +16,19 @@ your business from making costly GST mistakes.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>This webinar will be conducted via Zoom</p>
+<p>The webinar will be conducted via Zoom</p>
 </li>
 <li>
-<p>Date: 3 Jun 2025</p>
+<p>Date: 26 Feb 2026</p>
 </li>
 <li>
-<p>Time: 2pm to 5pm</p>
+<p>Time: 2.00pm to 5.00pm</p>
 </li>
 <li>
-<p>Fees: SGD 163.50 (incl. 9% GST)</p>
+<p>Fees: SGD 163.50 (incl. GST)</p>
 </li>
 <li>
-<p>Registration is on first-come-first served.</p>
+<p>Registration is on first-come-first served</p>
 </li>
 </ul>
 <p></p>
