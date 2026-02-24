@@ -31,13 +31,10 @@ attending a 2-day workshop!</p>
 <p>1 to 2 years of working experience in tax</p>
 </li>
 </ul>
-<p></p>
-<p><strong>The next </strong>
+<p>The next intake will be held in 2nd half of year 2026. Please register
+your interest below:</p>
+<p><a href="https://go.gov.sg/beps2026interest" rel="noopener nofollow" target="_blank">Interest form</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h3><strong>Accounting Standards and Tax Adjustments</strong></h3>
 <h4><a href="https://form.gov.sg/6890a9835beb3d9dc3a43ef7" rel="noopener nofollow" target="_blank">Register Now!</a></h4>
 <p>Join us in this workshop if you would like to learn about the impact of
