@@ -10,10 +10,11 @@ description: ""
 </p>
 <p>International tax rules are undergoing their most dramatic transformation
 in decades. The tax landscape isn't just evolving—we're witnessing a complete
-redefinition of how global taxation operates. Join over 20 distinguished
-speakers from government, industry, academia and the legal sector both
-local and overseas as they tackle the pivotal issues reshaping Asia's tax
-future at this conference.</p>
+redefinition of how global taxation operates.</p>
+<p></p>
+<p>Join over 20 distinguished speakers from government, industry, academia
+and the legal sector both local and overseas as they tackle the pivotal
+issues reshaping Asia's tax future at this conference.</p>
 <p></p>
 <p><strong>Key Highlights:<br></strong>• Opening Address by Ms <strong><a href="https://www.linkedin.com/in/indranee-rajah/" rel="noopener nofollow" target="_blank">Indranee Rajah</a></strong>,
 Minister in the Prime Minister's Office and Second Minister for Finance
@@ -34,9 +35,10 @@ government officials across Asia and beyond.
 <br>📊 Standard Rate: SGD 1,308*
 <br>🔥 Early Bird Special: SGD 981* (Save 25%!)
 <br>👥 Team Bundle: 5 participants for SGD 4,360* (Best value!)</p>
-<p><em>* Overseas participants, who in their business capacity belong overseas and are sponsored by overseas employers, will pay SGD900 (excluding GST) for early bird special.</em>
+<p><em>* </em>🌏<em>Overseas participants, who in their business capacity belong overseas and are sponsored by overseas employers, will pay SGD900 (excluding GST) for early bird special. </em>
 </p>
-<p>Early Bird Special is subjected to availability.</p>
+<p><strong>Early Bird rates are limited and subject to availability. Secure your seat early to avoid disappointment.</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cover.png">
