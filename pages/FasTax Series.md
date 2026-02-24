@@ -4,6 +4,52 @@ permalink: /fastax-series-stamp-duty-101/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>9 Mar 2026 | 2.00 p.m. to 4.00 p.m. | Zoom</sub></strong></h4>
+<h4><strong>Managing Tax Compliance</strong></h4>
+<p>This webinar aims to enhance your understanding of IRAS’ compliance approach
+towards companies and how you can better assist your company in complying
+with its tax obligations. IRAS’ speakers from the Corporate Tax Division
+and Investigation &amp; Forensics Division will share on:</p>
+<p><strong>Agenda highlights:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>IRAS’ audit and investigation approaches</p>
+</li>
+<li>
+<p>Findings from IRAS’ audits and investigations</p>
+</li>
+<li>
+<p>Ways to avoid common mistakes and improve tax compliance</p>
+</li>
+</ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Admin Details</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>The webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 9 March 2026</p>
+</li>
+<li>
+<p>Time: 2.00pm to 4.00pm</p>
+</li>
+<li>
+<p>Fees: SGD 109 (incl. GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served</p>
+</li>
+</ul>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <h4><strong><sub>26 Feb 2026 | 2.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>GST ASK - A Self Help Tool for GST Compliance</strong></h4>
 <p>This webinar will feature practical examples illustrating the use of ASK
