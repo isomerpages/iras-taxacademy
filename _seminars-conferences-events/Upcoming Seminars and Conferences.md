@@ -29,7 +29,7 @@ Thank you!</p>
 <h5><strong>Feb 2026</strong></h5>
 <p><strong>26 Feb</strong>: <a href="https://www.accapdhub.com/Course/Details/d8c304726c61c506217cb958147392b9/ACCA%E2%80%93Tax-Academy--Spotting-Corporate-Tax-Risks-Early-%E2%80%93-A-Practical-Guide-for-Accountants" rel="noopener nofollow" target="_blank">ACCA Lunchtime webinar: Spotting Corporate Tax Risks Early – A Practical Guide for Accountants</a>
 </p>
-<p><strong>26 Feb</strong>: <a href="https://go.gov.sg/bagams" rel="noopener nofollow" target="_blank">GST ASK: A Self-help Tool for GST Compliance</a>
+<p><strong>26 Feb</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">GST ASK: A Self-help Tool for GST Compliance</a>
 </p>
 <h5><strong>Jan 2026</strong></h5>
 <p><strong>19 Jan</strong>: <a href="https://go.gov.sg/hypqsg" rel="noopener nofollow" target="_blank">TaxEdge: India’s Evolving Trade and Tax Landscape: Key Developments and Implications on Global Trade</a>
