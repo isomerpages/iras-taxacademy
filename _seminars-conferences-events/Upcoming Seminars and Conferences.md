@@ -10,7 +10,7 @@ description: ""
 not covered in our events ? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <h5><strong>May 2026</strong></h5>
-<p><strong>19 May</strong>: <a href="https://go.gov.sg/19may26-ta-conference" rel="noopener nofollow" target="_blank">Reinventing the Tax Landscape: Get Future Ready!</a>
+<p><strong>19 May</strong>: <a href="https://www.taxacademy.sg/20th-anniversary-conference-2026/" rel="noopener nofollow" target="_blank">Reinventing the Tax Landscape: Get Future Ready!</a>
 </p>
 <h5><strong>Apr 2026</strong></h5>
 <p><strong>8 Apr: </strong>CPA Lunchtime Webinar: Understanding Money Laundering</p>
