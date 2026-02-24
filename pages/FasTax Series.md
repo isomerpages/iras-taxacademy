@@ -6,6 +6,8 @@ description: ""
 ---
 <h4><strong><sub>11 Mar 2026 | 2.00 p.m. to 5.00 p.m. | Revenue House</sub></strong></h4>
 <h4><strong>Singapore Transfer Pricing Essentials</strong></h4>
+<p><strong><a href="https://faxtaxsgtrfpricingessentials11mar.eventbrite.sg/" rel="noopener nofollow" target="_blank">Register Now!</a></strong>
+</p>
 <p>Having a proper set of transfer pricing documentation is essential for
 businesses not only for reporting purpose, it will be useful in times of
 transfer pricing disputes with foreign tax authorities.</p>
@@ -58,6 +60,8 @@ Pricing regime.</p>
 <p></p>
 <h4><strong><sub>9 Mar 2026 | 2.00 p.m. to 4.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>Managing Tax Compliance</strong></h4>
+<p><a href="https://fastaxmanagingtaxcompliance9mar26.eventbrite.sg/" rel="noopener nofollow" target="_blank">Register Now!</a>
+</p>
 <p>This webinar aims to enhance your understanding of IRAS’ compliance approach
 towards companies and how you can better assist your company in complying
 with its tax obligations. IRAS’ speakers from the Corporate Tax Division
