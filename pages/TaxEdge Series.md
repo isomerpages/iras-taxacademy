@@ -4,6 +4,66 @@ permalink: /taxedge-series/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>13 Apr 2025 | 3.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
+<h4><strong>Transfer Pricing and VAT/GST</strong></h4>
+<p><a href="https://taxedgetrfpricingvatgst13apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Register Now!</a>
+</p>
+<p>Join the Tax Academy of Singapore for this webinar, led by Dr Stefanie
+Geringer (University of Vienna, Masaryk University, BDO Austria), in which
+she explores the dynamic field of transfer pricing and VAT/GST in Europe
+and beyond.</p>
+<p></p>
+<p>The recent decisions by the Court of Justice of the European Union (CJEU)
+in <em>Weatherford Atlas Gip</em> (C-527/23), <em>Högkullen</em> (C-808/23)
+and <em>Arcomet Towercranes</em> (C-726/23) have provided valuable insights
+into the correct treatment of transfer prices and transfer pricing adjustments
+under EU VAT law. Similarly, they have highlighted the importance of proactive
+engagement with the possible VAT/GST implications of transfer pricing,
+and how taxpayers and their advisers may consider them in their tax and
+business strategies.</p>
+<p></p>
+<p><strong>Agenda</strong>
+</p>
+<p>· Essentials of transfer pricing from a VAT/GST perspective</p>
+<p>An overview of the principles and functions of transfer pricing, and the
+role they take on in VAT/GST</p>
+<p>· Arm’s length standard in VAT/GST</p>
+<p>Provisions in EU and national VAT/GST laws to counter abusive arrangements
+between related parties concerning transactions that are not at arm’s length</p>
+<p>· Impact of transfer pricing adjustments on VAT/GST treatment</p>
+<p>State of opinion in policy documents, expert statements, and the literature</p>
+<p>· CJEU case law</p>
+<p>Insights into the Court’s reasoning, key findings, and what the Court
+said about the possible VAT/GST implications of transfer pricing</p>
+<p>· Plan Strategically</p>
+<p>What to consider in cost allocation arrangements from a VAT/GST point
+of view, how to manage transfer pricing adjustments, and the importance
+of optimal documentation</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speakers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TaxEdge Series : Transfer Pricing and VAT/GST by Tax Academy of Singapore" src="/images/TaxEdge_Series__Transfer_Pricing__and_VATGST_Law.png">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The webinar will be conducted via Zoom</p>
+<p>Date: 13 April 2026</p>
+<p>Time: 3.00pm to 5.00pm</p>
+<p>Fees: SGD 109 (incl. GST)</p>
+<p>Registration is on first-come-first served</p>
+</div>
+</details>
+</div>
+<p></p>
 <h4><strong><sub>23 Jun 2025 | 3.00 p.m. to 6.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>US Tariffs &amp; Taxes: Preparing Business for Policy Shifts</strong></h4>
 <p><a href="https://form.gov.sg/68383b03ac624a346b5933ea" rel="noopener nofollow" target="_blank">Register Now!</a>
