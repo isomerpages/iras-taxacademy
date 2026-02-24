@@ -13,7 +13,8 @@ Thank you!</p>
 <p><strong>19 May</strong>: <a href="https://www.taxacademy.sg/20th-anniversary-conference-2026/" rel="noopener nofollow" target="_blank">Reinventing the Tax Landscape: Get Future Ready!</a>
 </p>
 <h5><strong>Apr 2026</strong></h5>
-<p><strong>8 Apr: </strong>CPA Lunchtime Webinar: Understanding Money Laundering</p>
+<p><strong>8 Apr: </strong><a href="https://UnderstandingMoneyLaundering8apr.eventbrite.sg" rel="noopener nofollow" target="_blank">CPA Lunchtime Webinar: Singapore Anti-Money Laundering Essentials for Accountants &amp; Tax Professionals</a>
+</p>
 <p><strong>13 Apr</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series : Transfer Pricing and VAT/GST</a>
 </p>
 <p><strong>22 Apr</strong>: <a href="https://globalifatlpxta22apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
