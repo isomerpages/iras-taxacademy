@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>GST Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Feb 2026 intake: <a href="/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Feb 2026 intake: <a href="/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 <p></p>
 </li>
@@ -33,13 +33,12 @@ variant: tiptap
 <p>This course covers the scope of GST, and concepts relating to supply of
 goods and services, exempt supplies, import and export schemes and GST
 compliance.</p>
-<p>Registration is open for intake 4/2025 (Feb 2026 intake).</p>
-<p><a href="https://go.gov.sg/gstl1-4-25" rel="noopener nofollow" target="_blank">Registration Link</a> -
-<a href="https://go.gov.sg/zx2oue" rel="noopener nofollow" target="_blank">Brochure</a>
+<p>Registration is closed for intake 4/2025 (Feb 2026 intake) - <a href="https://go.gov.sg/zx2oue" rel="noopener nofollow" target="_blank">Brochure</a>
 </p>
 <p>The next intake for this course will be in May 2026. Registration will
 be available six to eight weeks prior to the course commencement date.</p>
-<p></p>
+<p><a href="https://go.gov.sg/waitlist-level1gst" rel="noopener nofollow" target="_blank">Interest Form</a> 
+</p>
 <h3><strong>GST Programme Level 2</strong></h3>
 <p>This course comprises one module on overall GST concepts and applications,
 and five modules on specific industry sectors of Finance, Real Estate &amp;

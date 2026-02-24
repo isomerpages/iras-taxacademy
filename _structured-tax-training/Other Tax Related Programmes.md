@@ -31,27 +31,10 @@ attending a 2-day workshop!</p>
 <p>1 to 2 years of working experience in tax</p>
 </li>
 </ul>
-<p><strong>Details</strong>
+<p>The next intake will be held in 2nd half of year 2026. Please register
+your interest below:</p>
+<p><a href="https://go.gov.sg/beps2026interest" rel="noopener nofollow" target="_blank">Interest form</a>
 </p>
-<p>Dates:</p>
-<p>Intake 1: 15 &amp; 16 Jan 2026 or</p>
-<p>Intake 2: 23 &amp; 30 Jan 2026</p>
-<p>Time: 9.00 a.m. to 5.00 p.m.</p>
-<p>Venue: IRAS, 55 Newton Road, Discovery training room</p>
-<p>Fees: $1635 per pax</p>
-<p>(Early bird registration has reached full capacity)</p>
-<p><a href="/files/Brochure_Understanding_BEPS_final_standard_fees.pdf" rel="noopener nofollow" target="_blank">Brochure BEPS Intake 1 &amp; 2</a>
-</p>
-<p>Register for 1 date only:</p>
-<p><a href="https://form.gov.sg/69154e0a9b3d9c8045cdff61" rel="noopener nofollow" target="_blank">Register for Intake 1/2025</a>
-</p>
-<p><a href="https://form.gov.sg/6915500cf13a63ed632bdaca" rel="noopener nofollow" target="_blank">Register for Intake 2/2025</a>
-</p>
-<p></p>
-<p>Once registration is closed, kindly join the waiting list below:</p>
-<p><a href="https://go.gov.sg/beps1and2waitinglist" rel="noopener nofollow" target="_blank">Waiting list</a>
-</p>
-<p></p>
 <h3><strong>Accounting Standards and Tax Adjustments</strong></h3>
 <h4><a href="https://form.gov.sg/6890a9835beb3d9dc3a43ef7" rel="noopener nofollow" target="_blank">Register Now!</a></h4>
 <p>Join us in this workshop if you would like to learn about the impact of

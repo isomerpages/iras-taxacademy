@@ -14,7 +14,7 @@ Thank you!</p>
 </p>
 <h5><strong>Apr 2026</strong></h5>
 <p><strong>8 Apr: </strong>CPA Lunchtime Webinar: Understanding Money Laundering</p>
-<p><strong>13 Apr</strong>: <a href="https://taxedgetrfpricingvatgst13apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Transfer Pricing and VAT/GST</a>
+<p><strong>13 Apr</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series : Transfer Pricing and VAT/GST</a>
 </p>
 <p><strong>22 Apr</strong>: <a href="https://globalifatlpxta22apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
 </p>
