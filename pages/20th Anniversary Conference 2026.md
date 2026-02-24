@@ -32,3 +32,10 @@ government officials across Asia and beyond.
 <br>📊 Standard Rate: SGD 1,308*
 <br>🔥 Early Bird Special: SGD 981* (Save 25%!)
 <br>👥 Team Bundle: 5 participants for SGD 4,360* (Best value!)</p>
+<p></p>
+<p><em>* Overseas participants, who in their business capacity belong overseas and are sponsored by overseas employers, will pay SGD900 (excluding GST) for early bird special.</em>
+</p>
+<p></p>
+<p>
+<br>
+</p>
