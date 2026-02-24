@@ -94,19 +94,19 @@ and common issues that all GST-registered businesses should know.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>The webinar will be conducted via Zoom</p>
+<p>This webinar will be conducted via Zoom</p>
 </li>
 <li>
-<p>Date: 26 Feb 2026</p>
+<p>Date: 25 Jun 2025</p>
 </li>
 <li>
-<p>Time: 2.00pm to 5.00pm</p>
+<p>Time: 2pm to 5pm</p>
 </li>
 <li>
-<p>Fees: SGD 163.50 (incl. GST)</p>
+<p>Fees: SGD 163.50 (incl. 9% GST)</p>
 </li>
 <li>
-<p>Registration is on first-come-first served</p>
+<p>Registration is on first-come-first served.</p>
 </li>
 </ul>
 <p></p>
