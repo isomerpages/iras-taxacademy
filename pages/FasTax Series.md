@@ -60,7 +60,7 @@ Pricing regime.</p>
 <p></p>
 <h4><strong><sub>9 Mar 2026 | 2.00 p.m. to 4.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>Managing Tax Compliance</strong></h4>
-<p><a href="https://fastaxmanagingtaxcompliance9mar26.eventbrite.sg/" rel="noopener nofollow" target="_blank">Register Now!</a>
+<p><strong><a href="https://fastaxmanagingtaxcompliance9mar26.eventbrite.sg/" rel="noopener nofollow" target="_blank">Register Now!</a></strong>
 </p>
 <p>This webinar aims to enhance your understanding of IRAS’ compliance approach
 towards companies and how you can better assist your company in complying
