@@ -22,9 +22,9 @@ Thank you!</p>
 <h5><strong>Mar 2026</strong></h5>
 <p><strong>5 Mar</strong>: <a href="https://forms.office.com/r/Ud27f2Zr9a" rel="noopener nofollow" target="_blank">IP &amp; Tax Seminar</a>
 </p>
-<p><strong>9 Mar</strong>: <a href="https://fastaxmanagingtaxcompliance9mar26.eventbrite.sg/" rel="noopener nofollow" target="_blank">FasTax Series: Managing Tax Compliance</a>
+<p><strong>9 Mar</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Managing Tax Compliance</a>
 </p>
-<p><strong>11 Mar</strong>: <a href="https://faxtaxsgtrfpricingessentials11mar.eventbrite.sg" rel="noopener nofollow" target="_blank">FasTax Series: Singapore Transfer Pricing Essentials</a>
+<p><strong>11 Mar</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Singapore Transfer Pricing Essentials</a>
 </p>
 <h5><strong>Feb 2026</strong></h5>
 <p><strong>26 Feb</strong>: <a href="https://www.accapdhub.com/Course/Details/d8c304726c61c506217cb958147392b9/ACCA%E2%80%93Tax-Academy--Spotting-Corporate-Tax-Risks-Early-%E2%80%93-A-Practical-Guide-for-Accountants" rel="noopener nofollow" target="_blank">ACCA Lunchtime webinar: Spotting Corporate Tax Risks Early – A Practical Guide for Accountants</a>
