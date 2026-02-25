@@ -4,7 +4,7 @@ permalink: /20th-anniversary-conference-2026/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Reinventing the Tax Landscape: Get Future Ready! - 19 May 2025</strong></h2>
+<h2><strong>Reinventing the Tax Landscape: Get Future Ready! - 19 May 2026</strong></h2>
 <hr>
 <p><strong><a href="http://go.gov.sg/19may26-ta-conference" rel="noopener nofollow" target="_blank">Register Now!</a></strong>
 </p>
@@ -35,7 +35,7 @@ government officials across Asia and beyond.
 <br>📊 Standard Rate: SGD 1,308*
 <br>🔥 Early Bird Special: SGD 981* (Save 25%!)
 <br>👥 Team Bundle: 5 participants for SGD 4,360* (Best value!)</p>
-<p><em>* </em>🌏<em>Overseas participants, who in their business capacity belong overseas and are sponsored by overseas employers, will pay SGD900 (excluding GST) for early bird special. </em>
+<p><em>* </em>🌏<em>Overseas participants, who in their business capacity belong overseas and are sponsored by overseas employers, will pay SGD900 (excluding GST) for early bird special.</em>
 </p>
 <p><strong>Early Bird rates are limited and subject to availability. Secure your seat early to avoid disappointment.</strong>
 </p>
