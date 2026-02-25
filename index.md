@@ -95,5 +95,13 @@ sections:
       url: https://www.mof.gov.sg/news-publications/speeches/Address-By-Mr-Tharman-Shanmugaratnam-Minister-For-Education-And-Second-Minister-For-Finance-At-The-Launch-Of-The-Tax-Academy-And-Opening-Of-The-Transf
       image: /images/Quote__3_.png
       alt: Image alt text
+  - infopic:
+      title: 20th Anniversary Conference 2026
+      subtitle: Add an image and text
+      id: infopic
+      description: "Reinventing the Tax Landscape: Get Future Ready! on 19 May 2025"
+      button: Find out More
+      url: https://www.taxacademy.sg/20th-anniversary-conference-2026/
+      alt: Image alt text
 image: /images/isomer-logo.svg
 ---
