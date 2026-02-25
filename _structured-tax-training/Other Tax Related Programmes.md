@@ -31,12 +31,18 @@ world of international taxation for high-net-worth clients.</p>
 <summary>Programme Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uhnw1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uhnw2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uhnw3.png">
+</div>
 </div>
 </details>
 </div>
-<p></p>
 <h4><strong>Understanding BEPS Programme</strong></h4>
 <p>Join this blended programme through self-paced e-learning videos before
 attending a 2-day workshop!</p>
