@@ -43,7 +43,7 @@ sections:
       title: "Reinventing the Tax Landscape: Get Future Ready!"
       subtitle: 20th Anniversary Conference
       id: infopic
-      description: Join us on 19 May 2025. 🎟️ Early Bird tickets are available now —
+      description: Join us on 19 May 2026. 🎟️ Early Bird tickets are available now —
         grab yours while stocks last!
       button: Find out More
       url: https://www.taxacademy.sg/20th-anniversary-conference-2026/
