@@ -25,6 +25,18 @@ world of international taxation for high-net-worth clients.</p>
 𝘴𝘦𝘢𝘵𝘴 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦 - 𝘴𝘦𝘤𝘶𝘳𝘦 𝘺𝘰𝘶𝘳 𝘱𝘭𝘢𝘤𝘦 𝘵𝘰𝘥𝘢𝘺!</p>
 <p><a href="https://go.gov.sg/uhnw-standard" rel="noopener nofollow" target="_blank">Registration Form</a>
 </p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Programme Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <h4><strong>Understanding BEPS Programme</strong></h4>
 <p>Join this blended programme through self-paced e-learning videos before
 attending a 2-day workshop!</p>
