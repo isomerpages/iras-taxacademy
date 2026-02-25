@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h5><strong>UPCOMING PROGRAMMES</strong></h5>
+<h4><strong>International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments </strong></h4>
+<p></p>
 <h4><strong>Understanding BEPS Programme</strong></h4>
 <p>Join this blended programme through self-paced e-learning videos before
 attending a 2-day workshop!</p>
