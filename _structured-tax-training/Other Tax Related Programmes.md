@@ -5,6 +5,44 @@ description: ""
 variant: tiptap
 ---
 <h5><strong>UPCOMING PROGRAMMES</strong></h5>
+<h4><strong>International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments</strong></h4>
+<p>As Singapore continues to establish itself as a premier global wealth
+management hub, this 3-day programme will provide in-depth coverage of
+critical areas including international tax frameworks, family wealth management,
+UHNWI taxation, cross-border investments, compliance, reporting, and real-world
+case studies. Don't miss this opportunity to enhance your expertise in
+one of the most specialised and rapidly evolving areas of international
+taxation! Stay tuned as more trainers are joining this programme!</p>
+<p>𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲 𝗗𝗮𝘁𝗲𝘀: 25 to 27 March 2026 (in-person at Revenue
+House)</p>
+<p>𝗦𝗽𝗲𝗮𝗸𝗲𝗿𝘀: This programme features renowned experts including Professor
+Martin Wenz from the Universität Liechtenstein, Edmund Leow, SC from Dentons
+Rodyk, Chan Xue Pei from Forvis Mazars, Han Junwei from Allen &amp; Gledhill
+LLP, Lim Ping Ping from LGT Private Banking and Goh Eng-Cher from J.P.
+Morgan Private Bank, who will provide invaluable perspectives into the
+world of international taxation for high-net-worth clients.</p>
+<p>𝗙𝗲𝗲𝘀: $𝟮,𝟳𝟮𝟱 (𝗶𝗻𝗰𝗹𝘂𝘀𝗶𝘃𝗲 𝗼𝗳 𝟵% 𝗚𝗦𝗧) 𝘓𝘪𝘮𝘪𝘵𝘦𝘥
+𝘴𝘦𝘢𝘵𝘴 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦 - 𝘴𝘦𝘤𝘶𝘳𝘦 𝘺𝘰𝘶𝘳 𝘱𝘭𝘢𝘤𝘦 𝘵𝘰𝘥𝘢𝘺!</p>
+<p><a href="https://go.gov.sg/uhnw-standard" rel="noopener nofollow" target="_blank">Registration Form</a>
+</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Programme Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uhnw1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uhnw2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uhnw3.png">
+</div>
+</div>
+</details>
+</div>
 <h4><strong>Understanding BEPS Programme</strong></h4>
 <p>Join this blended programme through self-paced e-learning videos before
 attending a 2-day workshop!</p>
