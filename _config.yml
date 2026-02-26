@@ -61,3 +61,4 @@ is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
+resources_name: test
