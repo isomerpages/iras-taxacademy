@@ -100,7 +100,7 @@ and industry both local and overseas as there will be a networking lunch
 on the first day of the programme.</p>
 <p>Dates of programme: 28, 29, 30 Sep and 1 Oct 2026</p>
 <p><a href="https://go.gov.sg/wutaprogramme-2026" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
-<a href="/files/WU_TA_Advanced_Transfer_Pricing_Prog_2025.pdf" rel="noopener nofollow" target="_blank">Details</a>
+<a href="/files/Publicity_for_WU_TA_Advanced_Transfer_Pricing_Prog_2026.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p><strong>Registration is OPEN for 2026 intake.</strong>
 </p>
