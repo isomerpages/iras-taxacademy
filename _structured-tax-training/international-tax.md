@@ -62,7 +62,7 @@ pricing.</p>
 </p>
 <p>The next intake for the course will be held in Sep/Oct 2026. Registration
 will open six to eight weeks before the course commencement date.</p>
-<h3><strong>International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investment </strong></h3>
+<h3><strong>International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investment</strong></h3>
 <p>As Singapore continues to establish itself as a premier global wealth
 management hub, this 3-day programme will provide in-depth coverage of
 critical areas including international tax frameworks, family wealth management,
