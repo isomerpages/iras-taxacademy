@@ -12,7 +12,7 @@ critical areas including international tax frameworks, family wealth management,
 UHNWI taxation, cross-border investments, compliance, reporting, and real-world
 case studies. Don't miss this opportunity to enhance your expertise in
 one of the most specialised and rapidly evolving areas of international
-taxation! Stay tuned as more trainers are joining this programme!</p>
+taxation!</p>
 <p>𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲 𝗗𝗮𝘁𝗲𝘀: 25 to 27 March 2026 (in-person at Revenue
 House)</p>
 <p>𝗦𝗽𝗲𝗮𝗸𝗲𝗿𝘀: This programme features renowned experts including Professor
