@@ -17,6 +17,8 @@ Thank you!</p>
 </p>
 <p><strong>13 Apr</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Transfer Pricing and VAT/GST</a>
 </p>
+<p><strong>16 Apr</strong>: <a href="https://NavigatingGSTEssentials-16Apr26.eventbrite.sg" rel="noopener nofollow" target="_blank">Navigating GST Essentials: From Basics to Current Priorities</a>
+</p>
 <p><strong>22 Apr</strong>: <a href="https://globalifatlpxta22apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
 </p>
 <h5><strong>Mar 2026</strong></h5>
@@ -25,6 +27,8 @@ Thank you!</p>
 <p><strong>9 Mar</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Managing Tax Compliance</a>
 </p>
 <p><strong>11 Mar</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Singapore Transfer Pricing Essentials</a>
+</p>
+<p><strong>24 Mar</strong>: <a href="https://NavigatingIndiaBudget26.eventbrite.sg" rel="noopener nofollow" target="_blank">Navigating India Budget 2026 and the Tiger Global Case – opportunities or challenges?</a>
 </p>
 <h5><strong>Feb 2026</strong></h5>
 <p><strong>26 Feb</strong>: <a href="https://www.accapdhub.com/Course/Details/d8c304726c61c506217cb958147392b9/ACCA%E2%80%93Tax-Academy--Spotting-Corporate-Tax-Risks-Early-%E2%80%93-A-Practical-Guide-for-Accountants" rel="noopener nofollow" target="_blank">ACCA Lunchtime webinar: Spotting Corporate Tax Risks Early – A Practical Guide for Accountants</a>
