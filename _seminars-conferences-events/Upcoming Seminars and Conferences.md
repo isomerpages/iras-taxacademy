@@ -28,6 +28,8 @@ Thank you!</p>
 </p>
 <p><strong>11 Mar</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Singapore Transfer Pricing Essentials</a>
 </p>
+<p><strong>20 Mar</strong>: <a href="https://seminar-20mar.eventbrite.sg" rel="noopener nofollow" target="_blank">Understanding OECD Pillar Two Side-by-Side Package: New Safe Harbours and Singapore Implications</a>
+</p>
 <p><strong>24 Mar</strong>: TaxEdge Series: <a href="https://NavigatingIndiaBudget26.eventbrite.sg" rel="noopener nofollow" target="_blank">Navigating India Budget 2026 and the Tiger Global Case – opportunities or challenges?</a>
 </p>
 <h5><strong>Feb 2026</strong></h5>
