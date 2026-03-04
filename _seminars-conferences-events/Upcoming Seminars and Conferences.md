@@ -10,7 +10,7 @@ description: ""
 not covered in our events? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
 <h5><strong>May 2026</strong></h5>
-<p><strong>19 May</strong>: <a href="https://www.taxacademy.sg/20th-anniversary-conference-2026/" rel="noopener nofollow" target="_blank">Reinventing the Tax Landscape: Get Future Ready!</a>
+<p><strong>19 May</strong>: TA Conference: <a href="https://www.taxacademy.sg/20th-anniversary-conference-2026/" rel="noopener nofollow" target="_blank">Reinventing the Tax Landscape: Get Future Ready!</a>
 </p>
 <h5><strong>Apr 2026</strong></h5>
 <p><strong>8 Apr: </strong><a href="https://UnderstandingMoneyLaundering8apr.eventbrite.sg" rel="noopener nofollow" target="_blank">CPA Lunchtime Webinar: Singapore Anti-Money Laundering Essentials for Accountants &amp; Tax Professionals</a>
@@ -28,7 +28,9 @@ Thank you!</p>
 </p>
 <p><strong>11 Mar</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">FasTax Series: Singapore Transfer Pricing Essentials</a>
 </p>
-<p><strong>24 Mar</strong>: <a href="https://NavigatingIndiaBudget26.eventbrite.sg" rel="noopener nofollow" target="_blank">Navigating India Budget 2026 and the Tiger Global Case – opportunities or challenges?</a>
+<p><strong>20 Mar</strong>: <a href="https://seminar-20mar.eventbrite.sg" rel="noopener nofollow" target="_blank">Understanding OECD Pillar Two Side-by-Side Package: New Safe Harbours and Singapore Implications</a>
+</p>
+<p><strong>24 Mar</strong>: TaxEdge Series: <a href="https://NavigatingIndiaBudget26.eventbrite.sg" rel="noopener nofollow" target="_blank">Navigating India Budget 2026 and the Tiger Global Case – opportunities or challenges?</a>
 </p>
 <h5><strong>Feb 2026</strong></h5>
 <p><strong>26 Feb</strong>: <a href="https://www.accapdhub.com/Course/Details/d8c304726c61c506217cb958147392b9/ACCA%E2%80%93Tax-Academy--Spotting-Corporate-Tax-Risks-Early-%E2%80%93-A-Practical-Guide-for-Accountants" rel="noopener nofollow" target="_blank">ACCA Lunchtime webinar: Spotting Corporate Tax Risks Early – A Practical Guide for Accountants</a>
