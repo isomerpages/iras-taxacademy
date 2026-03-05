@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>GST Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Feb 2026 intake: <a href="/executive-tax-programmes/goods-and-services-tax/#etp1gst-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
+<p>Apr 2026 intake: <a href="https://go.gov.sg/gstl112026registration" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
 </p>
 <p></p>
 </li>
@@ -16,7 +16,7 @@ variant: tiptap
 <h5><strong>GST Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Feb 2026 intake: <a href="https://taxacademy-sg.edutechonline.com/student/course/detail/d5c5dade-eb23-4dac-8b7d-e85ae9b0824d/8ba042a4-6de6-4018-9e2c-ddcd642cb7ca" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>May 2026 intake: COMING SOON
 <br>
 </p>
 </li>
@@ -33,11 +33,11 @@ variant: tiptap
 <p>This course covers the scope of GST, and concepts relating to supply of
 goods and services, exempt supplies, import and export schemes and GST
 compliance.</p>
-<p>Registration is closed for intake 4/2025 (Feb 2026 intake) - <a href="https://go.gov.sg/zx2oue" rel="noopener nofollow" target="_blank">Brochure</a>
+<p>Registration is open for intake 1/2026 (Apr 2026 intake) - <a href="https://go.gov.sg/gstl112026brochure" rel="noopener nofollow" target="_blank">Brochure</a>
 </p>
-<p>The next intake for this course will be in May 2026. Registration will
-be available six to eight weeks prior to the course commencement date.</p>
-<p><a href="https://go.gov.sg/waitlist-level1gst" rel="noopener nofollow" target="_blank">Interest Form</a> 
+<p>The next intake for this course will be in Aug/Sep 2026. Registration
+will be available six to eight weeks prior to the course commencement date.</p>
+<p><a href="https://go.gov.sg/waitlist-level1gst" rel="noopener nofollow" target="_blank">Interest Form</a>
 </p>
 <h3><strong>GST Programme Level 2</strong></h3>
 <p>This course comprises one module on overall GST concepts and applications,
