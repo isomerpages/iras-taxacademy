@@ -2,6 +2,7 @@ collections:
   alumni-and-monthly-newsletter:
     output: true
     order:
+      - "Monthly Newsletter: Feb 2026.md"
       - About the Network.md
       - Alumni Network Welcome Reception 2025.md
       - "Monthly Newsletter: Jan 2026.md"
