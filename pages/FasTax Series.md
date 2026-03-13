@@ -4,6 +4,38 @@ permalink: /fastax-series-stamp-duty-101/
 variant: tiptap
 description: ""
 ---
+<h4><strong><sub>11 Jun 2026 | 2.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
+<h4><strong>GST ASK - A Self Help Tool for GST Compliance</strong></h4>
+<p><strong><a href="https://gstask-11jun26.eventbrite.sg" rel="noopener nofollow" target="_blank">Register Opening Soon</a></strong>
+</p>
+<p>This webinar will feature practical examples illustrating the use of ASK
+for good GST compliance. You will learn how ASK can be used to safeguard
+your business from making costly GST mistakes.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Admin Details</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>The webinar will be conducted via Zoom</p>
+</li>
+<li>
+<p>Date: 11 Jun 2026</p>
+</li>
+<li>
+<p>Time: 2.00pm to 5.00pm</p>
+</li>
+<li>
+<p>Fees: SGD 163.50 (incl. GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <h4><strong><sub>11 Mar 2026 | 2.00 p.m. to 5.00 p.m. | Revenue House</sub></strong></h4>
 <h4><strong>Singapore Transfer Pricing Essentials</strong></h4>
 <p><strong><a href="https://faxtaxsgtrfpricingessentials11mar.eventbrite.sg/" rel="noopener nofollow" target="_blank">Register Now!</a></strong>
@@ -60,7 +92,7 @@ Pricing regime.</p>
 <p></p>
 <h4><strong><sub>9 Mar 2026 | 2.00 p.m. to 4.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>Managing Tax Compliance</strong></h4>
-<p><strong><a href="https://fastaxmanagingtaxcompliance9mar26.eventbrite.sg/" rel="noopener nofollow" target="_blank">Register Now!</a></strong>
+<p><strong><a href="https://fastaxmanagingtaxcompliance9mar26.eventbrite.sg/" rel="noopener nofollow" target="_blank">Registration Closed</a></strong>
 </p>
 <p>This webinar aims to enhance your understanding of IRAS’ compliance approach
 towards companies and how you can better assist your company in complying

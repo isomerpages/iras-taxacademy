@@ -9,6 +9,9 @@ description: ""
 <p>Are you looking to learn more about a specific area of tax that is currently
 not covered in our events? Do share with us through this <a href="https://form.gov.sg/5d2c51283703d80011e52615" rel="noopener noreferrer nofollow" target="_blank">Learning Needs Request Form</a>.
 Thank you!</p>
+<h5><strong>June 2026</strong></h5>
+<p><strong>11 June</strong>: <a href="https://www.taxacademy.sg/fastax-series-stamp-duty-101/" rel="noopener nofollow" target="_blank">GST ASK: A Self-help Tool for GST Compliance</a>
+</p>
 <h5><strong>May 2026</strong></h5>
 <p><strong>19 May</strong>: TA Conference: <a href="https://www.taxacademy.sg/20th-anniversary-conference-2026/" rel="noopener nofollow" target="_blank">Reinventing the Tax Landscape: Get Future Ready!</a>
 </p>
@@ -19,7 +22,7 @@ Thank you!</p>
 </p>
 <p><strong>16 Apr</strong>: <a href="https://NavigatingGSTEssentials-16Apr26.eventbrite.sg" rel="noopener nofollow" target="_blank">Navigating GST Essentials: From Basics to Current Priorities</a>
 </p>
-<p><strong>22 Apr</strong>: <a href="https://globalifatlpxta22apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
+<p><strong>22 Apr</strong>: <a href="https://www.taxacademy.sg/global-ifa-travelling-lectureship-programme-2026/" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
 </p>
 <h5><strong>Mar 2026</strong></h5>
 <p><strong>5 Mar</strong>: <a href="https://forms.office.com/r/Ud27f2Zr9a" rel="noopener nofollow" target="_blank">IP &amp; Tax Seminar</a>
