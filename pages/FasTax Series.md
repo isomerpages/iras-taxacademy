@@ -6,6 +6,8 @@ description: ""
 ---
 <h4><strong><sub>11 Jun 2026 | 2.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>GST ASK - A Self Help Tool for GST Compliance</strong></h4>
+<p><strong><a href="https://gstask-11jun26.eventbrite.sg" rel="noopener nofollow" target="_blank">Register Now!</a></strong>
+</p>
 <p>This webinar will feature practical examples illustrating the use of ASK
 for good GST compliance. You will learn how ASK can be used to safeguard
 your business from making costly GST mistakes.</p>
