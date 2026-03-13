@@ -7,6 +7,11 @@ description: ""
 <h2><strong>Topic: The International Dimension of Withholding Taxes (Tax Treaties and Beyond)</strong></h2>
 <p></p>
 <h3><strong>22 April 2026 | 4.30pm to 7.30pm | Singapore</strong></h3>
+<p></p>
+<blockquote>
+<p><a href="https://www.ifa.nl/other-projects/global-ifa-travelling-lectureship-programme/global-ifa-travelling-lectureship-programme-2026/tlp-2026-asia-pacific/singapore-registration-form" rel="noopener nofollow" target="_blank">Register Now! </a>
+</p>
+</blockquote>
 <p>This programme will address critical withholding tax challenges faced
 by practitioners globally, including classification issues across different
 income types, source rule applications, treaty relief procedures, compliance
