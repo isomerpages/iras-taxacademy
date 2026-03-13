@@ -21,7 +21,7 @@ Thank you!</p>
 </p>
 <p><strong>16 Apr</strong>: <a href="https://NavigatingGSTEssentials-16Apr26.eventbrite.sg" rel="noopener nofollow" target="_blank">Navigating GST Essentials: From Basics to Current Priorities</a>
 </p>
-<p><strong>22 Apr</strong>: <a href="https://globalifatlpxta22apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
+<p><strong>22 Apr</strong>: <a href="https://www.ifa.nl/other-projects/global-ifa-travelling-lectureship-programme/global-ifa-travelling-lectureship-programme-2026/tlp-2026-asia-pacific/singapore-registration-form" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
 </p>
 <h5><strong>Mar 2026</strong></h5>
 <p><strong>5 Mar</strong>: <a href="https://forms.office.com/r/Ud27f2Zr9a" rel="noopener nofollow" target="_blank">IP &amp; Tax Seminar</a>
