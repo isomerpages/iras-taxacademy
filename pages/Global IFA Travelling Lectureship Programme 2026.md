@@ -13,6 +13,15 @@ income types, source rule applications, treaty relief procedures, compliance
 requirements for bundled transactions, and practical coordination between
 withholding tax agents and taxpayers. The session will also explore dispute
 resolution mechanisms and anti-abuse measures in cross-border contexts.</p>
+<p>𝐅𝐞𝐚𝐭𝐮𝐫𝐢𝐧𝐠:
+<br>• <strong><a href="https://www.linkedin.com/in/vikna-rajah/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Vikna Rajah</a></strong> Rajah,
+International Fiscal Association (IFA) Singapore President
+<br>• <strong><a href="https://www.linkedin.com/in/christian-kaeser-0373ba73/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Christian Kaeser</a></strong> ,
+Global IFA Vice President
+<br>• <strong><a href="https://www.linkedin.com/in/shefali-goradia/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Shefali Goradia</a></strong>,
+Global IFA Permanent Scientific Committee (PSC) Vice Chair
+<br>• <strong><a href="https://www.linkedin.com/in/patricia-brown-4659a3a/" class="ember-view" rel="noopener noreferrer nofollow" target="_blank">Patricia Brown</a></strong>,
+Lecturer, Senior Economic Affairs Officer UN</p>
 <p><strong>Admin Details</strong>
 </p>
 <p>Date: 22 April 2026</p>
