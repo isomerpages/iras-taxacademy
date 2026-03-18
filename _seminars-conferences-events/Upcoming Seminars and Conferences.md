@@ -20,7 +20,7 @@ Thank you!</p>
 </p>
 <p><strong>13 Apr</strong>: <a href="https://www.taxacademy.sg/taxedge-series/" rel="noopener nofollow" target="_blank">TaxEdge Series: Transfer Pricing and VAT/GST</a>
 </p>
-<p><strong>16 Apr</strong>: <a href="https://NavigatingGSTEssentials-16Apr26.eventbrite.sg" rel="noopener nofollow" target="_blank">Navigating GST Essentials: From Basics to Current Priorities</a>
+<p><strong>21 Apr</strong>: <a href="https://NavigatingGSTEssentials-16Apr26.eventbrite.sg" rel="noopener nofollow" target="_blank">Navigating GST Essentials: From Basics to Current Priorities</a>
 </p>
 <p><strong>22 Apr</strong>: <a href="https://www.taxacademy.sg/global-ifa-travelling-lectureship-programme-2026/" rel="noopener nofollow" target="_blank">Global IFA Travelling Lectureship Programme</a>
 </p>
