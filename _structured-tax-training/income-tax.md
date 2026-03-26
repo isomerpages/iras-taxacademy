@@ -16,7 +16,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jan 2026 intakes: <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is CLOSED</u></a>
+<p>May 2026 intake: <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is OPEN</u></a>
 </p>
 <p></p>
 </li>
@@ -95,23 +95,18 @@ ACCA Advanced Singapore Taxation</p>
 In-house Singapore income tax training by Big 4</p>
 <p>Exemptions will be reviewed on a case-by-case basis.</p>
 <p></p>
-<p>Intake 4/2025 (Course dates: 6 Jan to 28 Jan 2026)</p>
-<p><a href="/files/L2_IT_4_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank">Brochure for Intake 4/2025</a>
+<p>Intake 1/2026 (Course dates: 5 May to 29 May 2026)</p>
+<p><a href="/files/L2_IT_1_2026_course_brochure.pdf" rel="noopener nofollow" target="_blank">Course brochure for L2 IT 1/2026</a>
 </p>
-<p><a href="https://go.gov.sg/l2it42025reg" rel="noopener nofollow" target="_blank">Registration for Intake 4/2025 (CLOSED)</a>
-</p>
-<p>Intake 5/2025 (Course dates: 21 Jan to 11 Feb 2026)</p>
-<p><a href="/files/L2_IT_5_2025_course_brochure.pdf" rel="noopener nofollow" target="_blank">Brochure for Intake 5/2025</a>
-</p>
-<p><a href="https://go.gov.sg/itl252025reg" rel="noopener nofollow" target="_blank">Registration for Intake 5/2025 (CLOSED)</a>
+<p><a href="https://go.gov.sg/l2it12026reg" rel="noopener nofollow" target="_blank">Registration form</a>
 </p>
 <p></p>
-<p>The next intake for this course will be in May 2026. Registration will
-be available eight weeks prior to the course commencement date. You may
-wish to register your interest and we will be in touch when registration
-opens.</p>
-<p><a href="https://go.gov.sg/l2it32025interest" rel="noopener nofollow" target="_blank"><u>Interest form</u></a>
+<p>Do join waiting list if the registration for Intake 1/2026 is full:</p>
+<p><a href="https://go.gov.sg/l2it12026wait" rel="noopener nofollow" target="_blank">Join waiting list</a>
 </p>
+<p></p>
+<p>The next intake for this course will be in Jul/Aug 2026. Registration
+will be available eight weeks prior to the course commencement date.</p>
 <h3><strong>Income Tax Programme Level 3: Advanced Tax Programme</strong></h3>
 <p>The Advanced Tax Programme (ATP) is the foremost training programme for
 tax professionals. It offers rigorous training on a wide range of core
@@ -169,7 +164,7 @@ Pte Ltd.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Book Prizes/atp_1_2024.jpg">
 </div>
-<p><strong>Intake 2/2024 Book Prize Winners </strong>
+<p><strong>Intake 2/2024 Book Prize Winners</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Book Prizes/atp_2_2024.jpg">
