@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Feb 2026 intake: <a href="https://staging-lite.d3w2b1tr7gtdnd.amplifyapp.com/executive-tax-programmes/income-tax/" rel="noopener nofollow" target="_blank"><u>Registration is OPEN</u></a>
+<p>Intake 1/2026 (May 2026 intake): <a href="https://go.gov.sg/it-l1-2026-reg" rel="noopener nofollow" target="_blank"><u>Register NOW!</u></a>
 </p>
 <p></p>
 </li>
@@ -40,11 +40,11 @@ the deduction of expenses and conditions for claim of reliefs.</p>
 <p>Participants will learn to compute income tax liability for individuals
 accurately.</p>
 <p>Please be informed that this programme is fully e-learning.</p>
-<p>Registration is open for Intake 4/2025 (Feb 2026 intake).</p>
-<p><a href="https://go.gov.sg/itl1-4-25" rel="noopener nofollow" target="_blank">Registration Link</a> -
-<a href="https://go.gov.sg/p1a2mz" rel="noopener nofollow" target="_blank">Brochure</a>
+<p>Registration is open for Intake 1/2026 (May 2026 intake).</p>
+<p><a href="https://go.gov.sg/it-l1-2026-reg" rel="noopener nofollow" target="_blank">Registration Link</a> -
+<a href="https://go.gov.sg/it-l1-i1-2026-brochure" rel="noopener nofollow" target="_blank">Brochure</a>
 </p>
-<p>The next intake, Intake 1/2026, will be in May 2026. Registration will
+<p>The next intake, Intake 2/2026, will be in August 2026. Registration will
 be available approximately six to eight weeks prior to the course commencement
 date. You may wish to register your interest for this intake and we will
 be in touch when registration opens.</p>
