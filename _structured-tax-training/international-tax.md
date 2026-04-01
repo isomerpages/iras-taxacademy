@@ -36,7 +36,7 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 3 : Advanced International Tax Planning Programme</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sep/Aug 2026 Intake: <a href="/executive-tax-programmes/international-tax/#itp-id" rel="noopener noreferrer nofollow" target="_blank">Stay tuned to the registration!</a>
+<p>Sep/Aug 2026 Intake: <a href="/executive-tax-programmes/international-tax/#itp-id" rel="noopener noreferrer nofollow" target="_blank">Stay tuned for registration details!</a>
 </p>
 </li>
 </ul>
