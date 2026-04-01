@@ -36,7 +36,7 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 3 : Advanced International Tax Planning Programme</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sep 2025 Intake: <a href="/executive-tax-programmes/international-tax/#itp-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>Sep/Aug 2026 Intake: <a href="/executive-tax-programmes/international-tax/#itp-id" rel="noopener noreferrer nofollow" target="_blank">Stay tuned to the registration!</a>
 </p>
 </li>
 </ul>
@@ -114,8 +114,7 @@ of recent developments in international taxation through technical learning
 and interactive case studies for MNCs.</p>
 <p>Dates of programme held at Revenue House (Singapore): 11 &amp; 12 Sep
 (Each session: 9.00 a.m. to 5.00 p.m.)</p>
-<p><a href="https://form.gov.sg/68423ff412a1cbfeedbe35e6" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
-<a href="/files/Advanced_ITP_2025_Programme_Brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
+<p><a href="/files/Advanced_ITP_2025_Programme_Brochure.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
 <p><strong>The next intake will be in Aug/Sep 2026.</strong>
 </p>
