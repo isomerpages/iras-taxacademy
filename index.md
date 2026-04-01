@@ -29,17 +29,6 @@ sections:
           url: /executive-tax-programmes/international-tax/
       variant: center
   - infopic:
-      title: Tax Academy Learner Website
-      subtitle: Upcoming / Ongoing Programmes
-      id: infopic
-      description: Looking to enhance your skills or advance your career? Head over to
-        our one-stop hub for exploring and registering for all upcoming Tax
-        Academy programmes.
-      button: Bring me there
-      url: https://taxacademy-sg.edutechonline.com/
-      image: /images/Learner_Site.png
-      alt: Image alt text
-  - infopic:
       title: "Reinventing the Tax Landscape: Get Future Ready!"
       subtitle: 20th Anniversary Conference
       id: infopic
