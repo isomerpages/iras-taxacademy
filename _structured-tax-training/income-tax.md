@@ -8,7 +8,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 1</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2026 (May 2026 intake): <a href="https://go.gov.sg/it-l1-2026-reg" rel="noopener nofollow" target="_blank"><u>Register NOW!</u></a>
+<p>Intake 1/2026 (May 2026 intake): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is OPEN</u></a>
 </p>
 <p></p>
 </li>
@@ -16,7 +16,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>May 2026 intake: <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is OPEN</u></a>
+<p>Intake 1/2026 (May 2026 intake): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is OPEN</u></a>
 </p>
 <p></p>
 </li>
