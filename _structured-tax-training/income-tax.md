@@ -24,11 +24,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 3</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2026 (April 2025 to April 2026): <a href="https://form.gov.sg/696f3b32d31fe2ad6cf3676d" rel="noopener noreferrer nofollow" target="_blank"><u>Register NOW!</u></a>
-</p>
-</li>
-<li>
-<p>Intake 2/2026 (August 2025 to September 2026): <a href="https://form.gov.sg/696f401089fe4aeed912f708" rel="noopener noreferrer nofollow" target="_blank"><u>Register NOW!</u></a>
+<p>Intake Aug 2026 (August 2026 to September 2027): <a href="https://form.gov.sg/696f401089fe4aeed912f708" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is OPEN</u></a>
 </p>
 </li>
 </ul>
@@ -96,18 +92,16 @@ In-house Singapore income tax training by Big 4</p>
 <p>Exemptions will be reviewed on a case-by-case basis.</p>
 <p></p>
 <p>Intake 1/2026 (Course dates: 5 May to 29 May 2026)</p>
-<p><a href="/files/L2_IT_1_2026_course_brochure.pdf" rel="noopener nofollow" target="_blank">Course brochure for L2 IT 1/2026</a>
+<p><a href="https://go.gov.sg/l2it12026reg" rel="noopener noreferrer nofollow" target="_blank">Registration link</a> -
+<a href="/files/L2_IT_1_2026_course_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Brochure</a>
 </p>
-<p><a href="https://go.gov.sg/l2it12026reg" rel="noopener nofollow" target="_blank">Registration form</a>
-</p>
-<p></p>
 <p>Do join waiting list if the registration for Intake 1/2026 is full:</p>
-<p><a href="https://go.gov.sg/l2it12026wait" rel="noopener nofollow" target="_blank">Join waiting list</a>
+<p><a href="https://go.gov.sg/l2it12026wait" rel="noopener noreferrer nofollow" target="_blank">Join waiting list</a>
 </p>
 <p></p>
 <p>The next intake for this course will be in Jul/Aug 2026. Registration
 will be available eight weeks prior to the course commencement date.</p>
-<h3><strong>Income Tax Programme Level 3: Advanced Tax Programme</strong></h3>
+<h3><strong>Income Tax Programme Level 3 (Advanced Tax Programme)</strong></h3>
 <p>The Advanced Tax Programme (ATP) is the foremost training programme for
 tax professionals. It offers rigorous training on a wide range of core
 subjects covering: Tax Policy, Legal Framework, Singapore Individual and
@@ -115,23 +109,14 @@ Corporate Income Tax, Tax Treaties, Transfer Pricing, International Tax
 Planning and Goods and Services Tax. The elective component offers modules
 on Regional (China &amp; India) and US Tax, Tax Incentives, Tax Fraud and
 Investigation, and Stamp Duty.</p>
-<p><a href="https://go.gov.sg/atp26brochure" rel="noopener nofollow" target="_blank"><u>Brochure</u></a>
+<p>Intake 2026 (Course dates: August 2026 to September 2027)</p>
+<p><a href="https://go.gov.sg/atp-22026" rel="noopener noreferrer nofollow" target="_blank">Registration Link</a> -
+<a href="https://go.gov.sg/atp26brochure" rel="noopener noreferrer nofollow" target="_blank">Brochure</a>- <a href="https://go.gov.sg/atp22026schedule" rel="noopener noreferrer nofollow" target="_blank">Schedule</a>
 </p>
-<p></p>
-<p><strong>Intake 1/2026, April 2026 to April 2027: </strong><a href="https://form.gov.sg/696f3b32d31fe2ad6cf3676d" rel="noopener noreferrer nofollow" target="_blank"><u>Register NOW!</u></a>
-</p>
-<p><a href="https://go.gov.sg/atp12026v2" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
-</p>
-<p></p>
-<p><strong>Intake 2/2026, August 2026 to September 2027: </strong><a href="https://form.gov.sg/696f401089fe4aeed912f708" rel="noopener noreferrer nofollow" target="_blank"><u>Register NOW!</u></a>
-</p>
-<p><a href="https://go.gov.sg/atp22026schedule" rel="noopener nofollow" target="_blank"><u>Schedule</u></a>
-</p>
-<p></p>
-<p>Intakes 1/2025 &amp; 2/2025 are also available for modular registration.
-Registration closes 1 month before the commencement of each module. Please
-refer to the schedules above for more details.</p>
-<p><a href="https://go.gov.sg/atp26modularreg" rel="noopener nofollow" target="_blank"><u>Modular Registration Form</u></a>
+<p>Intake 2026 is also available for modular registration. Registration closes
+1 month before the commencement of each module. Please refer to the schedule
+above for more details.</p>
+<p><a href="https://go.gov.sg/atp26modularreg" rel="noopener noreferrer nofollow" target="_blank">Modular Registration Link</a>
 </p>
 <p></p>
 <p><strong>Please note: Under the new admission requirement for intakes commencing from 1 Apr 2023 onwards, participants are required to:</strong>
@@ -142,6 +127,7 @@ refer to the schedules above for more details.</p>
 </p>
 <p><strong>(iii) a degree from a recognised university or relevant professional qualification.</strong>
 </p>
+<p></p>
 <p><strong>All applications will be subject to shortlisting.</strong>
 </p>
 <p><strong>Tax Academy will consider exemptions for (i), on a case-to-case basis if participants have met the following criteria:</strong>
