@@ -39,16 +39,6 @@ sections:
       alt: Image alt text
       image: /images/Cover.png
   - infopic:
-      title: New Programme!
-      subtitle: 25 - 27 March 2026
-      id: infopic
-      description: International Taxation of UHNW Individuals, Family Offices and
-        Trusts with Cross-Border Investments
-      button: Register Now
-      alt: Image alt text
-      url: https://go.gov.sg/uhnw-standard
-      image: /images/Wealth_Programme.png
-  - infopic:
       subtitle: Highlights of 2025
       id: infopic
       description: A Year of Growth, Connection and Excellence at Tax Academy
