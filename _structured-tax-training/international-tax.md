@@ -22,7 +22,7 @@ variant: tiptap
 <h5><strong>International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>25 to 27 March 2026: <a href="/executive-tax-programmes/international-tax/#wu-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
+<p>25 to 27 March 2026: <a href="/executive-tax-programmes/international-tax/#wu-ta-id" rel="noopener noreferrer nofollow" target="_blank">Registration is CLOSED</a>
 </p>
 </li>
 </ul>
@@ -80,7 +80,7 @@ world of international taxation for high-net-worth clients.</p>
 <p><a href="https://go.gov.sg/uhnw-standard" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a> -
 <a href="/files/UHNWI_publicity___25_Feb_2026.pdf" rel="noopener nofollow" target="_blank">Details</a>
 </p>
-<p><strong>Registration is OPEN for this intake! </strong>
+<p><strong>Registration is CLOSED for this intake! </strong>
 <br>
 </p>
 <h3><strong>International Tax Programme Level 3 : WU-TA Advanced Transfer Pricing Programme</strong></h3>
