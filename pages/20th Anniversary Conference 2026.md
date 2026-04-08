@@ -43,49 +43,59 @@ government officials across Asia and beyond.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cover.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0002.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0003.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0004.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0005.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0006.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0007.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0008.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0009.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0010.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0011.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0012.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0013.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0014.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0015.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0016.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0017.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0018.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0019.jpg">
 </div>
 <p>
 <br>
