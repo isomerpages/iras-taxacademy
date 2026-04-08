@@ -9,7 +9,7 @@ description: ""
 <h3><strong>22 April 2026 | 4.30pm to 7.30pm | Singapore</strong></h3>
 <p></p>
 <blockquote>
-<p><a href="https://www.ifa.nl/other-projects/global-ifa-travelling-lectureship-programme/global-ifa-travelling-lectureship-programme-2026/tlp-2026-asia-pacific/singapore-registration-form" rel="noopener nofollow" target="_blank">Register Now! </a>
+<p><a href="https://www.ifa.nl/other-projects/global-ifa-travelling-lectureship-programme/global-ifa-travelling-lectureship-programme-2026/tlp-2026-asia-pacific/singapore-registration-form" rel="noopener nofollow" target="_blank">Register Now!</a>
 </p>
 </blockquote>
 <p>This programme will address critical withholding tax challenges faced
@@ -43,7 +43,7 @@ Lecturer, Senior Economic Affairs Officer UN</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/singapore_2026_tlp_leaflet_090326_images_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_2026_TLP_Leaflet_Final_page_0003.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
