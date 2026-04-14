@@ -15,8 +15,7 @@ variant: tiptap
 <h5><strong>International Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sep/Oct 2025 intake: <a href="https://go.gov.sg/l2intreg2025" rel="noopener noreferrer nofollow" target="_blank">Registration is OPEN</a>
-</p>
+<p>Sep/Oct 2025 intake: Registration is CLOSED</p>
 </li>
 </ul>
 <h5><strong>International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments</strong></h5>
@@ -55,12 +54,9 @@ will open six to eight weeks before the course commencement date.</p>
 <p>This course provides in-depth knowledge in international tax principles
 and concepts, with focus on specific issues on tax treaty and transfer
 pricing.</p>
-<p><a href="https://go.gov.sg/l2intreg2025" rel="noopener nofollow" target="_blank">Registration Link</a> -
-<a href="/files/International_Tax_L2_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
+<p><strong>Registration is CLOSED for Intake 1/2025</strong>
 </p>
-<p><strong>Registration is OPEN for Intake 1/2025</strong>
-</p>
-<p>The next intake for the course will be held in Sep/Oct 2026. Registration
+<p>The next intake for the course will be held in Sep/Oct 2027. Registration
 will open six to eight weeks before the course commencement date.</p>
 <h3><strong>International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investment</strong></h3>
 <p>As Singapore continues to establish itself as a premier global wealth
