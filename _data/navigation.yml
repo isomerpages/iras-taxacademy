@@ -1,7 +1,7 @@
 logo: /images/tax-academy-logo.png
 links:
   - title: About Us
-    collection: who-we-are
+    collection: about-us
   - title: Programmes
     collection: structured-tax-training
   - title: Events
