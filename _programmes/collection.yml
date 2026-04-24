@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Programmes.md
       - tax-training-roadmap.md
       - programme-calendar.md
       - income-tax.md
