@@ -27,6 +27,9 @@ sections:
         - title: INTERNATIONAL TAX PROGRAMME
           description: Levels 1 to 3
           url: /executive-tax-programmes/international-tax/
+        - title: Other Tax programmes
+          description: Property Tax, etc.
+          url: ""
       variant: center
   - infopic:
       title: "Reinventing the Tax Landscape: Get Future Ready!"
