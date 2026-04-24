@@ -1,5 +1,5 @@
 collections:
-  structured-tax-training:
+  programmes:
     output: true
     order:
       - tax-training-roadmap.md
