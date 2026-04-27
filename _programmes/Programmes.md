@@ -61,4 +61,19 @@ Programme</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/executive-tax-programmes/international-tax/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="International Tax Programme Level 3 : Advanced International Tax Planning Programme" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International Tax Programme Level 3 : Advanced International Tax Planning Programme</div><div class="isomer-card-link">View Details</div></div></a>
 </div>
+<h1>Other Tax Related Programmes</h1>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments</div><div class="isomer-card-link">View Details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Understanding BEPS Programme" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Understanding BEPS Programme</div>
+<div class="isomer-card-link">View Details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Accounting Standards and Tax Adjustments" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Accounting Standards and Tax Adjustments</div><div class="isomer-card-link">View Details</div></div></a>
+</div>
 <p></p>
