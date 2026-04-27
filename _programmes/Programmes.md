@@ -75,5 +75,16 @@ Programme</div>
 <div class="isomer-card-link">View Details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Accounting Standards and Tax Adjustments" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Accounting Standards and Tax Adjustments</div><div class="isomer-card-link">View Details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Programme on Property Tax Valuation" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Programme on Property Tax Valuation</div>
+<div class="isomer-card-link">View Details</div>
+</div>
+</a>
 </div>
 <p></p>
