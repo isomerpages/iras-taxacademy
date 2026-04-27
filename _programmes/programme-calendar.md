@@ -227,7 +227,6 @@ variant: tiptap
 <summary><strong>Advanced Tax Programmes</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
