@@ -1,125 +1,291 @@
 ---
 title: Programme Calendar
 permalink: /executive-tax-programmes/programme-calendar/
-variant: markdown
+variant: tiptap
 ---
-### **STRUCTURED TAX PROGRAMME CALENDAR**
-
-Please refer to the respective programme brochure for the programme dates.
-
-##### **Level 1**
-
-<table>
-  <tbody><tr>
-    <td>Income Tax Programme Level 1 (Intake 1/2025)</td>
-    <td>e-learning access commences: end-May 2025</td>
-  </tr> 
-  <tr>
-    <td>Income Tax Programme Level 1 (Intake 2/2025)</td>
-    <td>e-learning access commences: end-August 2025</td>
-  </tr> 
-  <tr>
-    <td>Income Tax Programme Level 1 (Intake 3/2025)</td>
-    <td>e-learning access commences: end-November 2025
-</td> 
-		  </tr><tr>
-    <td>Income Tax Programme Level 1 (Intake 4/2025)</td>
-    <td>e-learning access commences: February 2026</td>
-  </tr> 
-		
-  
-  <tr>
-    <td>GST Programme Level 1 (Intake 1/2025)</td>
-    <td>From 21 to 29 May 2025 (with e-learning)</td>
-  </tr>  
-  <tr>
-    <td>GST Programme Level 1 (Intake 2 &amp; 3/2025)</td>
-    <td>Sep 2025 (full e-learning)</td>
-  </tr>  
-	  <tr>
-    <td>GST Programme Level 1 (Intake 4/2025)</td>
-    <td>Feb 2026 (full e-learning)</td>
-  </tr>  
-  <tr>
-    <td>Property Tax Programme Level 1 (Intake 1/2025)</td>
-    <td>From 23 to 26 Sep 2025</td>
-  </tr> 
-	<tr>
-   <td>International Tax Programme Level 1 (Intake 1/2025)</td>
-    <td>May 2025</td>
-  </tr>  
-  <tr>
-    <td>International Tax Programme Level 1 (Intake 2/2025)</td>
-    <td>Oct 2025</td>
-  </tr>  
-</tbody></table>
-
- 
-##### **Level 2**
-
-<table>
-  <tbody><tr>
-      <td>Income Tax Programme Level 2 (Intake 1/2025)</td>
-      <td>Jul 2025</td> 
-  </tr>  
-  <tr>
-      <td>Income Tax Programme Level 2 (Intake 2/2025)</td>
-      <td>Jul 2025</td> 
-  </tr>  
-  <tr>
-     <td>Income Tax Programme Level 2 (Intake 3/2025)</td>
-      <td>Sep 2025</td> 
-  </tr>  
-	 <tr>
-     <td>Income Tax Programme Level 2 (Intake 4/2025)</td>
-      <td>Jan 2026</td> 
-  </tr>  
-		 <tr>
-     <td>Income Tax Programme Level 2 (Intake 5/2025)</td>
-      <td>Jan 2026</td> 
-  </tr>  
-  <tr>
-		 <td>GST Programme Level 2 (Intake 1/2025)
-		  </td>
-      <td>From 7 May to 3 Jun 2025</td>
-	</tr>  
-  <tr>
-		 <td>GST Programme Level 2 (Intake 2/2025)
-		  </td>
-      <td>Sep 2025</td>
-  </tr>  
-  <tr>
-      <td>GST Programme Level 2 (Intake 3/2025)</td>
-      <td>Feb 2026</td> 
-  </tr>  
-  <tr>
-     <td>International Tax Programme Level 2</td>
-      <td>Sep 2025</td>
-   </tr>  
-</tbody></table>
-
- 
-##### **Level 3**
-
-<table>
-  <tbody><tr>
-    <td>Advanced Tax Programme (1/2025)</td>
-    <td>From Apr 2025 to Apr 2026</td> 
-  </tr>  
-		<tr>
-    <td>Advanced Tax Programme (2/2025)</td>
-    <td>From Aug 2025 to Sep 2026</td> 
-  </tr>  
-  <tr>
-    <td>Leiden-TA Advanced Tax Treaties Programme </td>
-    <td>24 Feb to 1 Mar 2025</td>
- </tr>  
-  <tr>
-   <td>WU-TA Advanced Transfer Pricing Programme</td>
-    <td>29 Sep to 2 Oct 2025</td>
-  </tr>  
-  <tr>
-   <td>Advanced International Tax Planning Programme</td>
-    <td>Aug 2025</td>
-  </tr>  
-</tbody></table>
+<h3><strong>STRUCTURED TAX PROGRAMME CALENDAR</strong></h3>
+<p>Please refer to the respective programme brochure for the programme dates.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Income Tax</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Commencement Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Income Tax Programme Level 1 (Intake 1/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Income Tax Programme Level 1 (Intake 2/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Income Tax Programme Level 1 (Intake 3/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Income Tax Programme Level 1 (Intake 4/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Income Tax Programme Level 2 (Intake 1/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Income Tax Programme Level 2 (Intake 2/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Income Tax Programme Level 2 (Intake 3/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Income Tax Programme Level 2 (Intake 4/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Income Tax Programme Level 2 (Intake 5/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January 2026</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>GST</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Commencement Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GST Programme Level 1 (Intake 1/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GST Programme Level 1 (Intake 2 &amp; 3/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GST Programme Level 1 (Intake 4/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GST Programme Level 2 (Intake 1/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GST Programme Level 2 (Intake 2/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GST Programme Level 2 (Intake 3/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February 2026</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>International Tax</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Commencement Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Tax Programme Level 1 (Intake 1/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Tax Programme Level 1 (Intake 2/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Tax Programme Level 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Advanced Tax Programmes</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Commencement Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Advanced Tax Programme (Intake 1/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Advanced Tax Programme (2/2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leiden-TA Advanced Tax Treaties Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Febraury 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU-TA Advanced Transfer Pricing Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Advanced International Tax Planning Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<p></p>
