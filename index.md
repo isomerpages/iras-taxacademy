@@ -28,7 +28,7 @@ sections:
           description: Levels 1 to 3
           url: /executive-tax-programmes/international-tax/
         - title: Other Tax programmes
-          description: Property Tax, etc.
+          description: ""
           url: ""
       variant: center
   - infopic:
