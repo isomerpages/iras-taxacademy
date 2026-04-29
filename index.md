@@ -67,17 +67,6 @@ sections:
       url: https://www.taxacademy.sg/appreciation-event-2025/
       alt: Image alt text
       image: /images/0258.jpg
-  - announcements:
-      title: Post Conference Highlights
-      id: announcements
-      announcement_items:
-        - title: The International Tax Disputes Day
-          date: 22 May 2025
-          announcement: The conference jointly organised by The University of Lausanne and
-            Tax Academy of Singapore was a huge success! Purchase access to the
-            conference's keynote speeches now!
-          link_text: More details
-          link_url: https://www.taxacademy.sg/the-international-tax-dispute-day/
   - infopic:
       id: infopic
       description: Excerpt from President Tharman Shanmugaratnam's Opening Address
@@ -87,5 +76,24 @@ sections:
       url: https://www.mof.gov.sg/news-resources/newsroom/address-by-mr-tharman-shanmugaratnam-minister-for-education-and-second-minister-for-finance-at-the-launch-of-the-tax-academy-and-opening-of-the-transf/
       image: /images/Quote__3_.png
       alt: Image alt text
+  - announcements:
+      title: UPCOMING EVENTS
+      id: announcements
+      announcement_items:
+        - title: "Reinventing the Tax Landscape: Get Future Ready!"
+          date: 19 May 2026
+          announcement: International tax rules are undergoing their most dramatic
+            transformation in decades. The tax landscape isn't just
+            evolving—we're witnessing a complete redefinition of how global
+            taxation operates.
+          link_text: View Conference Details
+          link_url: https://www.taxacademy.sg/20th-anniversary-conference-2026/
+        - title: "GST ASK: A Self-help Tool for GST Compliance"
+          date: 11 June 2027
+          announcement: This webinar will feature practical examples illustrating the use
+            of ASK for good GST compliance. You will learn how ASK can be used
+            to safeguard your business from making costly GST mistakes.
+          link_text: View Webinar Details
+          link_url: https://www.eventbrite.sg/e/gst-ask-a-self-help-tool-for-gst-compliance-tickets-1984939376107?aff=oddtdtcreator
 image: /images/isomer-logo.svg
 ---
