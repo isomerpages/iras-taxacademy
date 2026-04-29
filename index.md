@@ -84,7 +84,7 @@ sections:
         (then Minister for Education and Second Minister for Finance), at the
         launch of TA on 28 Jul 06.
       button: Full Speech
-      url: https://www.mof.gov.sg/news-publications/speeches/Address-By-Mr-Tharman-Shanmugaratnam-Minister-For-Education-And-Second-Minister-For-Finance-At-The-Launch-Of-The-Tax-Academy-And-Opening-Of-The-Transf
+      url: https://www.mof.gov.sg/news-resources/newsroom/address-by-mr-tharman-shanmugaratnam-minister-for-education-and-second-minister-for-finance-at-the-launch-of-the-tax-academy-and-opening-of-the-transf/
       image: /images/Quote__3_.png
       alt: Image alt text
 image: /images/isomer-logo.svg
