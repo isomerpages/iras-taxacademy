@@ -63,22 +63,22 @@ Programme</div>
 </div>
 <h1>Other Tax Related Programmes</h1>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments</div><div class="isomer-card-link">View Details</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments" src="/images/Programmes Thumbnail/12__International_Taxation_of_Ultra_High_Net_Worth_Individual__Family_Offices_and_Trusts_with_Cross_Border_Investments.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments</div><div class="isomer-card-link">View Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Understanding BEPS Programme" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Understanding BEPS Programme" src="/images/Programmes Thumbnail/13__Understanding_BEPS_Programme.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Understanding BEPS Programme</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Accounting Standards and Tax Adjustments" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Accounting Standards and Tax Adjustments</div><div class="isomer-card-link">View Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Accounting Standards and Tax Adjustments" src="/images/Programmes Thumbnail/14__Accounting_Standards_and_Tax_Adjustments.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Accounting Standards and Tax Adjustments</div><div class="isomer-card-link">View Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Programme on Property Tax Valuation" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Programme on Property Tax Valuation" src="/images/Programmes Thumbnail/15__Programme_on_Property_Tax_Valuation.png">
 </div>
 </div>
 <div class="isomer-card-body">
