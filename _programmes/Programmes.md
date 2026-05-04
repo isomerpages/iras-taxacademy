@@ -5,18 +5,18 @@ variant: tiptap
 description: ""
 ---
 <h1>Income Tax</h1>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Income Tax Programme Level 1" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Income Tax Programme Level 1</div><div class="isomer-card-link">View Details</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Income Tax Programme Level 1" src="/images/Programmes Thumbnail/1__Income_Tax_Programme_Level_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Income Tax Programme Level 1</div><div class="isomer-card-link">View Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Income Tax Programme Level 2" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Income Tax Programme Level 2" src="/images/Programmes Thumbnail/2__Income_Tax_Programme_Level_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Income Tax Programme Level 2</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Income Tax Programme Level 3 (Advanced Tax Programme)" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Income Tax Programme Level 3 (Advanced Tax Programme)</div><div class="isomer-card-link">View Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Income Tax Programme Level 3 (Advanced Tax Programme)" src="/images/Programmes Thumbnail/3__Advanced_Tax_Programme.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Income Tax Programme Level 3 (Advanced Tax Programme)</div><div class="isomer-card-link">View Details</div></div></a>
 </div>
 <h1>Goods &amp; Services Tax</h1>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.taxacademy.sg/executive-tax-programmes/goods-and-services-tax/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GST Programme Level 1" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GST Programme Level 1</div><div class="isomer-card-link">View Details</div></div></a>
