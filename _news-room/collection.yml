@@ -1,5 +1,5 @@
 collections:
-  alumni-and-monthly-newsletter:
+  news-room:
     output: true
     order:
       - About the Network.md
