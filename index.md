@@ -29,7 +29,7 @@ sections:
           url: /executive-tax-programmes/international-tax/
         - title: Other Tax programmes
           description: ""
-          url: ""
+          url: https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/
       variant: center
   - announcements:
       title: UPCOMING EVENTS
