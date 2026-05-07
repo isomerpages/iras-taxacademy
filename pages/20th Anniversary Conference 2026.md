@@ -33,70 +33,10 @@ government officials across Asia and beyond.
 <br>
 <br><strong>PRICING (Inclusive GST):</strong>
 <br>📊 Standard Rate: SGD 1,308*
-<br>🔥 Early Bird Special: SGD 981* (Save 25%!)
+<br>🔥 Early Bird Special: SGD 981* (Save 25%!) <strong>[Ended on 15 April]</strong>
 <br>👥 Team Bundle: 5 participants for SGD 4,360* (Best value!)</p>
 <p><em>* </em>🌏<em>Overseas participants, who in their business capacity belong overseas and are sponsored by overseas employers, will pay SGD900 (excluding GST) for early bird special.</em>
 </p>
 <p><strong>Early Bird rates are limited and subject to availability. Secure your seat early to avoid disappointment.</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cover.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0002.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0003.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0004.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0005.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0006.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0007.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0008.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0009.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0010.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0011.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0012.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0013.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0014.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0015.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0016.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0017.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0018.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_TA_Conference_brochure__2_Apr_ver__page_0019.jpg">
-</div>
-<p>
 <br>
 </p>
