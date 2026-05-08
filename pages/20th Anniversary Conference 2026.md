@@ -38,5 +38,26 @@ government officials across Asia and beyond.
 <p><em>* </em>🌏<em>Overseas participants, who in their business capacity belong overseas and are sponsored by overseas employers, will pay SGD900 (excluding GST) for early bird special.</em>
 </p>
 <p><strong>Early Bird rates are limited and subject to availability. Secure your seat early to avoid disappointment.</strong>
+</p>
+<p></p>
+<p><strong>This event is an accredited CPD activity.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Accredited CPD Activity" src="/images/SILE_Accredited_CPD_Activity_B_W___HORIZONTAL_.png">
+</div>
+<p>
+<br>Public CPD Points: <strong>TBC</strong>
+<br>Practice Area: <strong>Tax</strong>
+<br>Training Level: <strong>Intermediate</strong>
+</p>
+<p><strong>Important notice for CPD:</strong>
+<br>Participants who wish to obtain CPD Points are reminded that they must
+comply strictly with the Attendance Policy set out in the CPD Guidelines.
+For this activity, this includes signing in on arrival and signing out
+at the conclusion of the activity in the manner required by the organiser,
+and not being absent from the entire activity for more than 15 minutes.
+Participants who do not comply with the Attendance Policy will not be able
+to obtain CPD Points for attending the activity. Please refer to <a href="http://www.sileCPDcentre.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.sileCPDcentre.sg</a> for
+more information.
 <br>
 </p>
