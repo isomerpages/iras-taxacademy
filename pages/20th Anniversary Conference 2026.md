@@ -46,7 +46,7 @@ government officials across Asia and beyond.
 <img style="width: 30%;" height="auto" width="100%" alt="Accredited CPD Activity" src="/images/SILE_Accredited_CPD_Activity_B_W___HORIZONTAL_.png">
 </div>
 <p>
-<br>Public CPD Points: <strong>TBC</strong>
+<br>Public CPD Points: <strong>5.5 Public CPD Points</strong>
 <br>Practice Area: <strong>Tax</strong>
 <br>Training Level: <strong>Intermediate</strong>
 </p>
