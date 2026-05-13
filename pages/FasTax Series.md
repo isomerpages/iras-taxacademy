@@ -4,9 +4,9 @@ permalink: /fastax-series-stamp-duty-101/
 variant: tiptap
 description: ""
 ---
-<h4><strong><sub>11 Jun 2026 | 2.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
+<h4><strong><sub>25 Jun 2026 | 2.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>GST ASK - A Self Help Tool for GST Compliance</strong></h4>
-<p><strong><a href="https://gstask-11jun26.eventbrite.sg" rel="noopener nofollow" target="_blank">Register Opening Soon</a></strong>
+<p><strong><a href="https://gstask-11jun26.eventbrite.sg" rel="noopener nofollow" target="_blank">Register Here</a></strong>
 </p>
 <p>This webinar will feature practical examples illustrating the use of ASK
 for good GST compliance. You will learn how ASK can be used to safeguard
@@ -28,6 +28,71 @@ your business from making costly GST mistakes.</p>
 </li>
 <li>
 <p>Fees: SGD 163.50 (incl. GST)</p>
+</li>
+<li>
+<p>Registration is on first-come-first served</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<h4><strong><sub>10 Jun 2026 | 3.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
+<h4><strong>Fundamentals of Withholding Tax</strong></h4>
+<p><strong><a href="https://fundamentals-withholding-tax.eventbrite.sg/" rel="noopener nofollow" target="_blank">Register Here</a></strong>
+</p>
+<p>Apart from the annual filing of tax returns by companies and businesses
+in Singapore, another important area of tax compliance for corporates is
+withholding tax compliance. To help you better understand and navigate
+the basics and fundamentals of the Singapore withholding tax regime, join
+us in our webinar on the Fundamentals of Withholding tax where we will
+cover the main concepts of Singapore withholding tax, types of common payments
+subject to withholding tax, the use of tax treaties to mitigate withholding
+tax exposure and also compliance requirements, administrative procedures
+and related matters.</p>
+<p><strong>In this webinar, participants will learn:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basics of Singapore withholding tax, including charging section, deemed
+source provisions and withholding tax rates</p>
+</li>
+<li>
+<p>Common payments subject to withholding tax</p>
+</li>
+<li>
+<p>Common exemptions from withholding tax under the Income Tax Act</p>
+</li>
+<li>
+<p>Tax treaty considerations where Singapore has a tax treaty with the country
+that the non-resident recipient resides in</p>
+</li>
+<li>
+<p>Date of payment for withholding tax purposes</p>
+</li>
+<li>
+<p>Filing and paying withholding tax</p>
+</li>
+<li>
+<p>Penalties for late payment/recovery actions</p>
+</li>
+</ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Admin Details</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 10 June 2026</p>
+</li>
+<li>
+<p>Time: 3pm to 5pm</p>
+</li>
+<li>
+<p>Venue: ZOOM</p>
+</li>
+<li>
+<p>Fee: $109 (incl. GST)</p>
 </li>
 <li>
 <p>Registration is on first-come-first served</p>
