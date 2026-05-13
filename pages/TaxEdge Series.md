@@ -62,7 +62,7 @@ of optimal documentation</p>
 <summary>Admin Details</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The webinar will be conducted via Zoom</p>
-<p>Date: 11 AMaypril 2026</p>
+<p>Date: 11 May 2026</p>
 <p>Time: 3.00pm to 5.00pm</p>
 <p>Fees: SGD 109 (incl. GST)</p>
 <p>Registration is on first-come-first servedHere</p>
