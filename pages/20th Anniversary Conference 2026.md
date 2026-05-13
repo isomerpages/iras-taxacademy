@@ -29,7 +29,8 @@ Director (Law), Centre for Business Taxation at Oxford University
 <br>• Global shifts and their ripple effects
 <br>
 <br>Essential for tax practitioners, C-suite executives, tax leaders, and
-government officials across Asia and beyond.
+government officials across Asia and beyond.</p>
+<p>Brochure here: <a href="https://go.gov.sg/eqecly" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eqecly</a>
 <br>
 <br><strong>PRICING (Inclusive GST):</strong>
 <br>📊 Standard Rate: SGD 1,308*
