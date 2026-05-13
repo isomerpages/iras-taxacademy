@@ -44,7 +44,7 @@ sections:
           link_text: View Conference Details
           link_url: https://www.taxacademy.sg/20th-anniversary-conference-2026/
         - title: "GST ASK: A Self-help Tool for GST Compliance"
-          date: 11 June 2027
+          date: 11 June 2026
           announcement: This webinar will feature practical examples illustrating the use
             of ASK for good GST compliance. You will learn how ASK can be used
             to safeguard your business from making costly GST mistakes.
@@ -54,12 +54,12 @@ sections:
       title: "Reinventing the Tax Landscape: Get Future Ready!"
       subtitle: 20th Anniversary Conference
       id: infopic
-      description: Join us on 19 May 2026. 🎟️ Early Bird tickets are available now —
-        grab yours while stocks last!
+      description: Join us on 19 May 2026. 🎟️ Grab your tickets now. Don't be the one
+        who missed out!
       button: Find out More
       url: https://www.taxacademy.sg/20th-anniversary-conference-2026/
       alt: Image alt text
-      image: /images/Cover.png
+      image: /images/2026_TA_Conference_brochure__12_May_ver__CPD_.png
   - infopic:
       subtitle: Highlights of 2025
       id: infopic
