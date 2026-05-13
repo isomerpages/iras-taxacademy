@@ -59,7 +59,7 @@ sections:
       button: Find out More
       url: https://www.taxacademy.sg/20th-anniversary-conference-2026/
       alt: Image alt text
-      image: /images/Cover.png
+      image: /images/2026_TA_Conference_brochure__12_May_ver__CPD_.png
   - infopic:
       subtitle: Highlights of 2025
       id: infopic
