@@ -65,7 +65,7 @@ of optimal documentation</p>
 <p>Date: 11 May 2026</p>
 <p>Time: 3.00pm to 5.00pm</p>
 <p>Fees: SGD 109 (incl. GST)</p>
-<p>Registration is on first-come-first servedHere</p>
+<p>Registration is on first-come-first served</p>
 </div>
 </details>
 <p>
@@ -73,7 +73,7 @@ of optimal documentation</p>
 </p>
 <h4><strong><sub>13 Apr 2026 | 3.00 p.m. to 5.00 p.m. | Zoom</sub></strong></h4>
 <h4><strong>Transfer Pricing and VAT/GST</strong></h4>
-<p><a href="https://taxedgetrfpricingvatgst13apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Register Now!</a>
+<p><a href="https://taxedgetrfpricingvatgst13apr.eventbrite.sg" rel="noopener nofollow" target="_blank">Register Here</a>
 </p>
 <p>Join the Tax Academy of Singapore for this webinar, led by Dr Stefanie
 Geringer (University of Vienna, Masaryk University, BDO Austria), in which
