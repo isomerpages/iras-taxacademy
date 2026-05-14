@@ -46,6 +46,8 @@ website prior to attending the workshop</p>
 </ul>
 <p><strong>Registration</strong>
 </p>
+<p><a href="/files/BEPS_Pillar_2_2026_revised.pdf" rel="noopener nofollow" target="_blank">Workshop brochure</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Format: Virtual via Zoom</p>
