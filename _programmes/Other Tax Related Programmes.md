@@ -5,6 +5,55 @@ description: ""
 variant: tiptap
 ---
 <h5><strong>UPCOMING PROGRAMMES</strong></h5>
+<p></p>
+<h4><strong>Getting Ready for Global Minimum Tax in Singapore: Compliance Essentials  </strong></h4>
+<p></p>
+<p><strong>Workshop Objectives</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand key features of Singapore’s Multinational Enterprise Top‑up
+Tax (MTT) and Domestic Top‑up Tax (DTT), with a focus on areas relevant
+to the initial years</p>
+</li>
+<li>
+<p>Explore practical application of the rules through examples and case studies</p>
+</li>
+<li>
+<p>Gain an overview of key compliance obligations, including registration
+and filing requirements</p>
+</li>
+</ul>
+<p><strong>Target Audience</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tax team members from multinational enterprise (MNE) groups that are in-scope
+of Pillar Two GloBE rules&nbsp;</p>
+</li>
+</ul>
+<p><strong>&nbsp;Prerequisites</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participants must belong to MNE groups that are in-scope of Pillar Two
+GloBE rules (Each company may send up to two participants)</p>
+</li>
+<li>
+<p>Completion of IRAS e-Learning modules on GloBE Rules &amp; DTT via IRAS
+website prior to attending the workshop</p>
+</li>
+</ul>
+<p><strong>Registration</strong>
+</p>
+<p>Please sign up for ONLY ONE workshop. &nbsp;</p>
+<p>Format: Virtual via Zoom</p>
+<p>3 June 2026, 9am to 12pm: Sign up <a href="https://go.gov.sg/beps3jun" rel="noopener noreferrer nofollow" target="_blank">online</a>
+</p>
+<p>17 July 2026: 9am to 12pm: Sign up <a href="https://go.gov.sg/bepsreg17jul2026" rel="noopener noreferrer nofollow" target="_blank">online</a>
+</p>
+<p>The next intake is held on 12 Aug 2026 and details will be announced in
+July 2026.</p>
 <h4><strong>International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments</strong></h4>
 <p>As Singapore continues to establish itself as a premier global wealth
 management hub, this 3-day programme will provide in-depth coverage of
