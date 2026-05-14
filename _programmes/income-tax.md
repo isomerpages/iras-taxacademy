@@ -16,7 +16,7 @@ variant: tiptap
 <h5><strong>Income Tax Programme Level 2</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Intake 1/2026 (May 2026 intake): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is OPEN</u></a>
+<p>Intake 1/2026 (May 2026 intake): <a href="https://www.taxacademy.sg/executive-tax-programmes/income-tax/#etp2sep-ta-id" rel="noopener noreferrer nofollow" target="_blank"><u>Registration is CLOSED</u></a>
 </p>
 <p></p>
 </li>
@@ -90,12 +90,12 @@ ACCA Advanced Singapore Taxation</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 In-house Singapore income tax training by Big 4</p>
 <p>Exemptions will be reviewed on a case-by-case basis.</p>
-<p></p>
+<p>Registration is closed.</p>
 <p>Intake 1/2026 (Course dates: 5 May to 29 May 2026)</p>
 <p><a href="https://go.gov.sg/l2it12026reg" rel="noopener noreferrer nofollow" target="_blank">Registration link</a> -
 <a href="/files/L2_IT_1_2026_course_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Brochure</a>
 </p>
-<p>Do join waiting list if the registration for Intake 1/2026 is full:</p>
+<p>Do join waiting list :</p>
 <p><a href="https://go.gov.sg/l2it12026wait" rel="noopener noreferrer nofollow" target="_blank">Join waiting list</a>
 </p>
 <p></p>
