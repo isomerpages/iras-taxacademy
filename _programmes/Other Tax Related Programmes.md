@@ -46,13 +46,25 @@ website prior to attending the workshop</p>
 </ul>
 <p><strong>Registration</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Format: Virtual via Zoom</p>
+</li>
+<li>
 <p>Fees: Complimentary</p>
+</li>
+</ul>
 <p>Please sign up for ONLY ONE workshop. &nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>3 June 2026, 9am to 12pm: Sign up <a href="https://go.gov.sg/beps3jun" rel="noopener noreferrer nofollow" target="_blank">online</a>
 </p>
+</li>
+<li>
 <p>17 July 2026, 9am to 12pm: Sign up <a href="https://go.gov.sg/bepsreg17jul2026" rel="noopener noreferrer nofollow" target="_blank">online</a>
 </p>
+</li>
+</ul>
 <p>The next intake is held on 12 Aug 2026 and details will be announced in
 July 2026.</p>
 <h4><strong>International Taxation of Ultra-High-Net-Worth Individual, Family Offices and Trusts with Cross-Border Investments</strong></h4>
