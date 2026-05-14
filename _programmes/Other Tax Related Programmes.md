@@ -6,8 +6,8 @@ variant: tiptap
 ---
 <h5><strong>UPCOMING PROGRAMMES</strong></h5>
 <p></p>
-<h4><strong>Getting Ready for Global Minimum Tax in Singapore: Compliance Essentials  </strong></h4>
-<p></p>
+<h4><strong>Getting Ready for Global Minimum Tax in Singapore: Compliance Essentials</strong></h4>
+<p>Organised by IRAS and Tax Academy of Singapore</p>
 <p><strong>Workshop Objectives</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -46,11 +46,12 @@ website prior to attending the workshop</p>
 </ul>
 <p><strong>Registration</strong>
 </p>
-<p>Please sign up for ONLY ONE workshop. &nbsp;</p>
 <p>Format: Virtual via Zoom</p>
+<p>Fees: Complimentary</p>
+<p>Please sign up for ONLY ONE workshop. &nbsp;</p>
 <p>3 June 2026, 9am to 12pm: Sign up <a href="https://go.gov.sg/beps3jun" rel="noopener noreferrer nofollow" target="_blank">online</a>
 </p>
-<p>17 July 2026: 9am to 12pm: Sign up <a href="https://go.gov.sg/bepsreg17jul2026" rel="noopener noreferrer nofollow" target="_blank">online</a>
+<p>17 July 2026, 9am to 12pm: Sign up <a href="https://go.gov.sg/bepsreg17jul2026" rel="noopener noreferrer nofollow" target="_blank">online</a>
 </p>
 <p>The next intake is held on 12 Aug 2026 and details will be announced in
 July 2026.</p>
@@ -156,3 +157,4 @@ Chief Valuer.</p>
 <p><a href="/files/executive-tax-programmes/property_tax_valuation_brochure_2024_updated9May.pdf" rel="noopener noreferrer nofollow" target="_blank">Details</a>
 </p>
 <p>Next Intake to be advised.</p>
+<p>Fees</p>
