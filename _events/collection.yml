@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 20th Anniversary Conference.md
       - Upcoming Seminars and Conferences.md
       - Case Commentaries.md
       - Graduation Event 2026.md
