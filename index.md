@@ -31,6 +31,11 @@ sections:
           description: ""
           url: https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/
       variant: center
+  - resources:
+      title: Upcoming Events
+      subtitle: Upcoming Events
+      id: resources
+      button: Find out more!
   - announcements:
       title: UPCOMING EVENTS
       id: announcements
@@ -50,16 +55,6 @@ sections:
             to safeguard your business from making costly GST mistakes.
           link_text: View Webinar Details
           link_url: https://www.eventbrite.sg/e/gst-ask-a-self-help-tool-for-gst-compliance-tickets-1984939376107?aff=oddtdtcreator
-  - infopic:
-      title: "Reinventing the Tax Landscape: Get Future Ready!"
-      subtitle: 20th Anniversary Conference
-      id: infopic
-      description: Join us on 19 May 2026. 🎟️ Grab your tickets now. Don't be the one
-        who missed out!
-      button: Find out More
-      url: https://www.taxacademy.sg/20th-anniversary-conference-2026/
-      alt: Image alt text
-      image: /images/2026_TA_Conference_brochure__12_May_ver__CPD_.png
   - infopic:
       subtitle: Highlights of 2025
       id: infopic
