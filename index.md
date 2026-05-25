@@ -31,11 +31,6 @@ sections:
           description: ""
           url: https://www.taxacademy.sg/structured-tax-training/other-tax-related-programmes/
       variant: center
-  - resources:
-      title: Upcoming Events
-      subtitle: Upcoming Events
-      id: resources
-      button: Find out more!
   - announcements:
       title: UPCOMING EVENTS
       id: announcements
