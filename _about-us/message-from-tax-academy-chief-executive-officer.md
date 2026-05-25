@@ -4,28 +4,61 @@ permalink: /who-we-are/message-from-tax-academy-ceo/
 breadcrumb: Message from Tax Academy Chief Executive Officer
 variant: tiptap
 ---
-<p>As we navigate through the evolving landscape of international tax developments,
-it is evident that continuous tax training is pivotal in equipping the
-tax professionals with the knowledge and skill sets to meet the challenges
-of an increasingly complex tax environment.</p>
-<p>Tax Academy has taken a leading role in facilitating the growth of tax
-expertise through its wide suite of quality <strong>structured tax training programmes, one that builds tax competency from foundational to the advanced level</strong>.&nbsp;The
-regular bite-sized seminars and conferences also provides an <strong>excellent platform to bring together top expertise among the public and private sectors, as well as academia for the exchange of knowledge and experience sharing</strong>.</p>
-<p>With technological innovation and rapid changes in the education landscape,
-Tax Academy recognises the shift to e-learning and online platforms presents
-opportunities to enhance the accessibility, effectiveness, and empowering
-professionals to engage in continuous learning and skill development beyond
-traditional classroom settings. The integration of AI in tax training and
-learning will also enhance the capabilities of tax professionals and maximize
-learning outcomes. In this regard, Tax Academy is committed to explore
-integrating AI technologies into our teaching and learning to empower our
-learners with the knowledge and skills required to excel in the ever-changing
-tax landscape.</p>
-<p>Being the&nbsp;<strong>premier centre for tax education in Singapore</strong>,
-Tax Academy will continue to create a national tax training infrastructure
-that grows the talent pool to service businesses in Singapore and beyond.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tax Academy CEO, Mr Dennis Lui, giving the welcome address at TA's 20th Anniversary Conference." src="/images/0148.jpg">
+</div>
 <p></p>
-<p><strong>Mr Dennis Lui</strong> 
+<p>Tax is changing rapidly. What was once seen mainly as a technical compliance
+function is now closely connected with business strategy, investment decisions,
+technology, trade, sustainability and geopolitics.</p>
+<p>For Singapore to remain a trusted, competitive and forward-looking business
+hub, we need a strong tax ecosystem. This means having professionals who
+are technically competent, commercially aware, internationally connected
+and ready to respond to new developments.</p>
+<p>Tax Academy of Singapore was established in 2006 with a clear purpose:
+to serve as a knowledge hub for tax education and capability building.
+Today, that mission remains highly relevant. The demands on tax professionals
+have only grown. Pillar Two, transfer pricing, tax certainty, GST, e-invoicing,
+digitalisation and artificial intelligence are reshaping the way tax is
+understood, administered and practised.</p>
+<p>Tax Academy’s role is to help the tax community stay credible, current
+and capable.</p>
+<p>We do this through a wide range of structured tax programmes, seminars,
+conferences, customised training and thought leadership platforms. Our
+programmes support learners at different stages of their professional journey
+— from foundational tax knowledge to advanced specialist capabilities.
+We also bring together expertise from the public sector, private sector,
+academia and international organisations, creating a community of practice
+that strengthens Singapore’s tax capabilities.</p>
+<p>In 2025, Tax Academy delivered more than 100 programmes to close to 10,000
+participants, supported by more than 100 trainers from IRAS, the Big 4
+international accounting firms, law firms, industry and academia. This
+reflects both the breadth of our work and the trust placed in Tax Academy
+by the tax community.</p>
+<p>We are also expanding our reach and relevance. Tax is no longer only for
+tax professionals. Business leaders, legal professionals, financial advisers,
+SME owners and public officers all need a stronger understanding of tax
+issues. Tax Academy will continue to develop practical and targeted programmes
+for these wider audiences.</p>
+<p>Partnerships are central to our next phase. We will continue to work closely
+with IRAS, professional bodies, universities, industry partners and international
+institutions to bring high-quality learning and global perspectives to
+Singapore. Through initiatives such as the Singapore Tax Academy Research
+Initiative with Singapore Management University Yong Pung How School of
+Law, we also aim to support research, thought leadership and informed policy
+conversations.</p>
+<p>Technology will be another key enabler. We will continue to strengthen
+digital learning, hybrid delivery and the thoughtful use of artificial
+intelligence in tax education. The TA-Xcellence Hub at Revenue House will
+provide flexible, modern spaces for training, events, examinations, hybrid
+learning and professional exchange.</p>
+<p>As Tax Academy enters its next chapter, our ambition is clear. We will
+build on our strong foundations to become an even more dynamic platform
+for tax education, capability development, collaboration and thought leadership.</p>
+<p>Tax Academy will continue to serve Singapore by growing a tax ecosystem
+that is technically strong, internationally connected and prepared for
+the future.</p>
+<p><strong>Mr Dennis Lui</strong>
 <br>Chief Executive Officer, Tax Academy of Singapore
 <br>Deputy Commissioner (Indirect Taxes, Law &amp; Investigation Group), Inland
 Revenue Authority of Singapore</p>
